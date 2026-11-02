@@ -196,6 +196,29 @@ def main():
               f"dlg={summary['n_dialogues']} rd={summary['n_readings']} audio {st['audio_hit']} mp3 / {st['audio_miss']} TTS")
     (DATA_OUT / "chapters.json").write_text(
         json.dumps({"chapters": chapters, "credits": credits}, ensure_ascii=False, indent=1), encoding="utf-8")
+    # keep only the media the app references: one image per word (the 2x file, shown scaled down,
+    # stays sharp on phones) and the mp3s that match a sentence
+    used = "".join(f.read_text(encoding="utf-8") for f in DATA_OUT.glob("ch*.json"))
+    used_img = set(re.findall(r'"img":"([^"]+)"', used))
+    used_audio = set(re.findall(r"es_[0-9a-f]{10}\.mp3", used))
+    for f in list(IMG_OUT.iterdir()):
+        stem = f.name.removesuffix("_2x.webp")
+        if f.name.endswith("_2x.webp") and stem in used_img:
+            f.rename(IMG_OUT / f"{stem}.webp")
+        else:
+            f.unlink()
+    for f in list(AUDIO_OUT.iterdir()):
+        if f.name not in used_audio:
+            f.unlink()
+    imgs = {f.name for f in IMG_OUT.iterdir()}
+    audios = {f.name for f in AUDIO_OUT.iterdir()}
+
+    # one script with every JSON + credits text, so index.html also works when opened as a file (file://),
+    # where browsers block fetch()
+    bundle = {f.name: json.loads(f.read_text(encoding="utf-8")) for f in sorted(DATA_OUT.glob("*.json"))}
+    bundle["credits"] = {c: (CREDITS_OUT / c).read_text(encoding="utf-8") for c in credits}
+    (DATA_OUT / "bundle.js").write_text(
+        "window.VV_DATA=" + json.dumps(bundle, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
     size = sum(f.stat().st_size for f in (APP / "media").rglob("*") if f.is_file())
     print(f"media: {len(imgs)} images, {len(audios)} audio, {size/1e6:.1f} MB")
 

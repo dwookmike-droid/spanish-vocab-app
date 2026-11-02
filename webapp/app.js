@@ -14,10 +14,12 @@ const pick = (a, n) => shuffle(a).slice(0, n);
 const norm = (s) => String(s).toLowerCase().normalize("NFC").replace(/[¿¡.,;:!?«»"“”()]/g, "").replace(/\s+/g, " ").trim();
 const GENDER = { m: "m", f: "f", mpl: "m pl", fpl: "f pl" };
 const img = (name, cls = "", alt = "") => name
-  ? `<img class="${cls}" src="media/img/${name}_1x.webp" srcset="media/img/${name}_1x.webp 1x, media/img/${name}_2x.webp 2x" alt="${esc(alt)}" loading="lazy" decoding="async">`
+  ? `<img class="${cls}" src="media/img/${name}.webp" alt="${esc(alt)}" loading="lazy" decoding="async">`
   : "";
 
 async function getJSON(url) {
+  const bundled = window.VV_DATA && window.VV_DATA[url.split("/").pop()];
+  if (bundled) return bundled;
   if (!cache[url]) cache[url] = fetch(url).then((r) => { if (!r.ok) throw new Error(url + " " + r.status); return r.json(); });
   return cache[url];
 }
@@ -601,7 +603,8 @@ function mdToHtml(md) {
   return out;
 }
 async function renderCredits() {
-  const docs = await Promise.all(index.credits.map((f) => fetch("media/credits/" + f).then((r) => r.text())));
+  const bundled = (window.VV_DATA && window.VV_DATA.credits) || {};
+  const docs = await Promise.all(index.credits.map((f) => bundled[f] ?? fetch("media/credits/" + f).then((r) => r.text())));
   $app.innerHTML = `<h1>사진 출처</h1>
     <p class="sub">사진은 모두 Wikimedia Commons의 실제 사진이고, 각 라이선스(CC0, CC BY, CC BY-SA 등)에 따라 표기했어요. 음성은 스페인 표준 발음 음성 합성이에요.</p>
     <div class="md">${docs.map((d) => `<div class="panel">${mdToHtml(d)}</div>`).join("")}</div>`;
