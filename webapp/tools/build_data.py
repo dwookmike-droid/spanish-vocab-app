@@ -275,7 +275,7 @@ def build_preview(out, bundle):
     shutil.copytree(APP / "icons", out / "icons")
     shutil.copytree(IMG_OUT, out / "media/img")
     index = {}
-    for f in sorted(DATA_OUT.glob("ch*.json")):
+    for f in sorted(DATA_OUT.glob("ch[0-9][0-9].json")):
         k = f.stem[2:]
         names = sorted(set(re.findall(r"(?:es|kk)_[0-9a-f]{10}\.mp3", f.read_text(encoding="utf-8"))))
         pack = {n: base64.b64encode((AUDIO_OUT / n).read_bytes()).decode() for n in names}
