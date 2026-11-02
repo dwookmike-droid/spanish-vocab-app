@@ -232,7 +232,7 @@ glossary:
   "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
   "enchufado": {lemma: "enchufar", ko: "플러그가 꽂힌", en: "plugged in", pron: "엔추**파**도"}
   "encuentro": {lemma: "encontrar", ko: "찾다(나는)", en: "I find", pron: "엔**꾸엔**뜨로"}
-  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에**스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
   "esto": {lemma: "esto", ko: "이것", en: "this", pron: "**에**스또"}
   "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
   "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}

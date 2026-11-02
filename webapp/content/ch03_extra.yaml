@@ -185,4 +185,168 @@ readings:
       - q_ko: 쉴 때 글쓴이는 무엇이 더 좋다고 했나요?
         choices_ko: [궁전 의자, 나무 천장, 자기 소파]
         answer: 2
-glossary: {}
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "abuela": {lemma: "abuela", ko: "할머니", en: "grandmother", pron: "아**부엘**라"}
+  "ah": {lemma: "ah", ko: "아(감탄)", en: "ah", pron: "**아**"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "al": {lemma: "a + el", ko: "~에(a+el)", en: "to the", pron: "알"}
+  "algún": {lemma: "alguno", ko: "어떤(남성 단수, 명사 앞)", en: "any", pron: "알**군**"}
+  "altas": {lemma: "alto", ko: "높은(여성 복수)", en: "tall, high", pron: "**알**따스"}
+  "anda": {lemma: "andar", ko: "자, 어서; 어머(감탄)", en: "come on; wow", pron: "**안**다"}
+  "andado": {lemma: "andar", ko: "걸은(완료형)", en: "walked", pron: "안**다**도"}
+  "antiguo": {lemma: "antiguo", ko: "오래된", en: "old", pron: "안**띠**구오"}
+  "antiguos": {lemma: "antiguo", ko: "오래된(남성 복수)", en: "old, ancient", pron: "안**띠**구오스"}
+  "apartamento": {lemma: "apartamento", ko: "아파트, 숙소", en: "flat, apartment", pron: "아빠르따**멘**또"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "azul": {lemma: "azul", ko: "파란", en: "blue", pron: "아**술**"}
+  "azulejos": {lemma: "azulejo", ko: "아술레호 타일(복수)", en: "glazed tiles", pron: "아술**레**호스"}
+  "baja": {lemma: "bajo", ko: "낮은(여성)", en: "low", pron: "**바**하"}
+  "bajo": {lemma: "bajar", ko: "내리다(나는)", en: "I lower", pron: "**바**호"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "blancas": {lemma: "blanco", ko: "하얀(여성 복수)", en: "white", pron: "**블랑**까스"}
+  "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
+  "buena": {lemma: "bueno", ko: "좋은(여성)", en: "good", pron: "**부에**나"}
+  "buenas": {lemma: "bueno", ko: "안녕하세요(buenas 인사)", en: "hi (short greeting)", pron: "**부에**나스"}
+  "cajón": {lemma: "cajón", ko: "서랍", en: "drawer", pron: "까**혼**"}
+  "calor": {lemma: "calor", ko: "더위", en: "heat", pron: "깔**로르**"}
+  "casa": {lemma: "casa", ko: "집", en: "home, house", pron: "**까**사"}
+  "centro": {lemma: "centro", ko: "시내, 중심", en: "town centre", pron: "**센**뜨로"}
+  "cerrar": {lemma: "cerrar", ko: "닫다, 치다", en: "to close", pron: "세**라르**"}
+  "ciudad": {lemma: "ciudad", ko: "도시", en: "city", pron: "시우**다드**"}
+  "claro": {lemma: "claro", ko: "물론", en: "of course", pron: "**끌라**로"}
+  "cojines": {lemma: "cojín", ko: "쿠션(복수)", en: "cushions", pron: "꼬**히**네스"}
+  "colores": {lemma: "color", ko: "색(복수)", en: "colours", pron: "꼴**로**레스"}
+  "como": {lemma: "como", ko: "~처럼", en: "like", pron: "꼬모"}
+  "comodísimo": {lemma: "cómodo", ko: "아주 편한", en: "very comfortable", pron: "꼬모**디**시모"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "cortinas": {lemma: "cortina", ko: "커튼(복수)", en: "curtains", pron: "꼬르**띠**나스"}
+  "cosa": {lemma: "cosa", ko: "것, 일", en: "thing", pron: "**꼬**사"}
+  "cuadros": {lemma: "cuadro", ko: "그림(복수)", en: "paintings", pron: "**꾸아**드로스"}
+  "cubiertas": {lemma: "cubrir", ko: "덮인(여성 복수)", en: "covered", pron: "꾸**비에르**따스"}
+  "de": {lemma: "de", ko: "~의, ~에서", en: "of, from", pron: "데"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "descansar": {lemma: "descansar", ko: "쉬다", en: "to rest", pron: "데스깐**사르**"}
+  "desde": {lemma: "desde", ko: "~에서(부터)", en: "from", pron: "**데**스데"}
+  "diferente": {lemma: "diferente", ko: "다른", en: "different", pron: "디페**렌**떼"}
+  "dime": {lemma: "decir", ko: "나에게 말해", en: "tell me", pron: "**디**메"}
+  "disfruta": {lemma: "disfrutar", ko: "즐겨요(tú 명령)", en: "enjoy", pron: "디스**프루**따"}
+  "disfrute": {lemma: "disfrutar", ko: "즐기세요(usted 명령)", en: "enjoy (formal)", pron: "디스**프루**떼"}
+  "donde": {lemma: "donde", ko: "~하는 곳", en: "where", pron: "돈데"}
+  "ella": {lemma: "ella", ko: "그녀", en: "she", pron: "**에**야"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "encanta": {lemma: "encantar", ko: "아주 좋아하게 하다(그것이)", en: "delights", pron: "엔**깐**따"}
+  "enciende": {lemma: "encenderse", ko: "켜지다(그것은)", en: "turns on", pron: "엔**시엔**데"}
+  "encuentro": {lemma: "encontrar", ko: "찾다(나는)", en: "I find", pron: "엔**꾸엔**뜨로"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "ese": {lemma: "ese", ko: "그, 저(남성)", en: "that", pron: "**에**세"}
+  "este": {lemma: "este", ko: "이(것)(남성)", en: "this", pron: "**에**스떼"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "estás": {lemma: "estar", ko: "있다(너는)", en: "you are", pron: "에스**따스**"}
+  "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
+  "flores": {lemma: "flor", ko: "꽃(복수)", en: "flowers", pron: "플**로**레스"}
+  "fresco": {lemma: "fresco", ko: "시원한", en: "cool", pron: "**프레**스꼬"}
+  "fuente": {lemma: "fuente", ko: "분수", en: "fountain", pron: "**푸엔**떼"}
+  "funciona": {lemma: "funcionar", ko: "작동하다(그것은)", en: "it works", pron: "푼**시오**나"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "gustan": {lemma: "gustar", ko: "마음에 들다(그것들이)", en: "(they) please", pron: "**구**스딴"}
+  "hace": {lemma: "hacer", ko: "(날씨가) ~하다", en: "it makes (weather)", pron: "**아**세"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "he": {lemma: "haber", ko: "(완료 조동사, 나는)", en: "I have", pron: "**에**"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "interruptor": {lemma: "interruptor", ko: "스위치", en: "light switch", pron: "인떼룹**또르**"}
+  "junto": {lemma: "junto", ko: "옆에(junto a)", en: "next to", pron: "**훈**또"}
+  "lado": {lemma: "lado", ko: "옆(al lado: 옆에)", en: "side", pron: "**라**도"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "le": {lemma: "le", ko: "당신에게", en: "you (formal), to you", pron: "레"}
+  "leo": {lemma: "leer", ko: "읽다(나는)", en: "I read", pron: "**레**오"}
+  "llamo": {lemma: "llamar", ko: "전화하다(나는)", en: "I call", pron: "**야**모"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "los": {lemma: "el", ko: "그(남성 복수 관사)", en: "the", pron: "로스"}
+  "luz": {lemma: "luz", ko: "빛", en: "light", pron: "**루스**"}
+  "madera": {lemma: "madera", ko: "나무(재료)", en: "wood", pron: "마**데**라"}
+  "mano": {lemma: "mano", ko: "손(buena mano: 손재주)", en: "hand", pron: "**마**노"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "menos": {lemma: "menos", ko: "덜(más o menos: 대충)", en: "less", pron: "**메**노스"}
+  "mesita": {lemma: "mesa", ko: "작은 탁자, 협탁", en: "side table", pron: "메**시**따"}
+  "mi": {lemma: "mi", ko: "나의", en: "my", pron: "미"}
+  "mil": {lemma: "mil", ko: "천(mil gracias: 정말 고마워요)", en: "thousand", pron: "**밀**"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "miro": {lemma: "mirar", ko: "보다(나는)", en: "I look at", pron: "**미**로"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mucho": {lemma: "mucho", ko: "많이", en: "a lot", pron: "**무**초"}
+  "muchos": {lemma: "mucho", ko: "많은(남성 복수)", en: "many", pron: "**무**초스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "노"}
+  "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "palacio": {lemma: "palacio", ko: "궁전", en: "palace", pron: "빨**라**시오"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "parece": {lemma: "parecer", ko: "~해 보이다(그것은)", en: "it seems", pron: "빠**레**세"}
+  "paredes": {lemma: "pared", ko: "벽(복수)", en: "walls", pron: "빠**레**데스"}
+  "pasa": {lemma: "pasar", ko: "일어나다(무슨 일이)", en: "happens", pron: "**빠**사"}
+  "pasada": {lemma: "pasada", ko: "끝내주는 것(구어)", en: "something amazing", pron: "빠**사**다"}
+  "patio": {lemma: "patio", ko: "안뜰", en: "courtyard", pron: "**빠**띠오"}
+  "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "persiana": {lemma: "persiana", ko: "덧창 블라인드", en: "roller blind", pron: "뻬르**시아**나"}
+  "pilatos": {lemma: "Pilatos", ko: "필라토스(Casa de Pilatos)", en: "Pilate", pron: "삘**라**또스"}
+  "pintaba": {lemma: "pintar", ko: "그리곤 했다(그녀는)", en: "she used to paint", pron: "삔**따**바"}
+  "pintó": {lemma: "pintar", ko: "그렸다(그 사람은)", en: "painted", pron: "삔**또**"}
+  "piso": {lemma: "piso", ko: "아파트, 집", en: "flat", pron: "**삐**소"}
+  "poco": {lemma: "poco", ko: "조금(un poco)", en: "a little", pron: "**뽀**꼬"}
+  "poquito": {lemma: "poco", ko: "아주 조금", en: "a little bit", pron: "뽀**끼**또"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "precioso": {lemma: "precioso", ko: "아주 아름다운", en: "beautiful", pron: "쁘레**시오**소"}
+  "prefiero": {lemma: "preferir", ko: "더 좋아하다(나는)", en: "I prefer", pron: "쁘레**피에**로"}
+  "problema": {lemma: "problema", ko: "문제", en: "problem", pron: "쁘로**블레**마"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "que": {lemma: "que", ko: "~라는 것(말머리)", en: "that", pron: "께"}
+  "quedo": {lemma: "quedarse", ko: "(me quedo con) ~로 하다(나는)", en: "I'll take", pron: "**께**도"}
+  "quieras": {lemma: "querer", ko: "원하다(너는, 접속법)", en: "you want", pron: "끼**에**라스"}
+  "quieres": {lemma: "querer", ko: "원하다(너는)", en: "you want", pron: "끼**에**레스"}
+  "quién": {lemma: "quién", ko: "누구", en: "who", pron: "**끼엔**"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "salones": {lemma: "salón", ko: "거실, 큰 방(복수)", en: "halls, rooms", pron: "살**로**네스"}
+  "salón": {lemma: "salón", ko: "거실", en: "living room", pron: "살**론**"}
+  "se": {lemma: "se", ko: "자기를(재귀 대명사)", en: "itself", pron: "세"}
+  "sentarme": {lemma: "sentarse", ko: "앉다(나는)", en: "to sit (myself) down", pron: "센**따르**메"}
+  "sevilla": {lemma: "Sevilla", ko: "세비야(도시)", en: "Seville", pron: "세**비**야"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "siéntate": {lemma: "sentarse", ko: "앉아(명령)", en: "sit down", pron: "**시엔**따떼"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "tal": {lemma: "tal", ko: "그런(¿qué tal?: 잘 지내요?)", en: "such (how are you)", pron: "**딸**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "tardes": {lemma: "tarde", ko: "오후(buenas tardes: 오후 인사)", en: "afternoons", pron: "**따르**데스"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "techos": {lemma: "techo", ko: "천장(복수)", en: "ceilings", pron: "**떼**초스"}
+  "tele": {lemma: "televisión", ko: "텔레비전(줄임말)", en: "TV", pron: "**뗄**레"}
+  "tenía": {lemma: "tener", ko: "가지고 있었다(그녀는)", en: "she had", pron: "떼**니**아"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienen": {lemma: "tener", ko: "가지고 있다(그것들은)", en: "they have", pron: "**띠에**넨"}
+  "tienes": {lemma: "tener", ko: "가지고 있다(너는)", en: "you have", pron: "**띠에**네스"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "tu": {lemma: "tu", ko: "너의", en: "your", pron: "뚜"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "va": {lemma: "ir", ko: "가다; 작동하다(그것은)", en: "it goes, it works", pron: "**바**"}
+  "ventanas": {lemma: "ventana", ko: "창문(복수)", en: "windows", pron: "벤**따**나스"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I watch", pron: "**베**오"}
+  "verdad": {lemma: "verdad", ko: "정말(de verdad)", en: "truth (really)", pron: "베르**다드**"}
+  "visito": {lemma: "visitar", ko: "방문하다(나는)", en: "I visit", pron: "비**시**또"}
+  "vuelvo": {lemma: "volver", ko: "돌아오다(나는)", en: "I come back", pron: "**부엘**보"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이제; 아, 그거", en: "now, already; yeah", pron: "**야**"}
