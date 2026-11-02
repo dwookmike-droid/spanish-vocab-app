@@ -24,7 +24,7 @@ dialogues:
         native:
           es: Sí, dime, ¿qué pasa?
           ko: 네, 말씀하세요. 무슨 일이에요?
-          note_ko: dime는 '말해 봐'지만 '네, 말씀하세요' 정도로 써요. 손님에게도 tú를 자주 써요.
+          note_ko: dime는 '말해 봐'지만 '네, 말씀하세요' 정도로 써요. 손님에게 tú를 쓰는 직원도 많아요.
       - who: B
         textbook:
           es: El secador de pelo no funciona.
@@ -55,7 +55,7 @@ dialogues:
           ko: 죄송합니다. 지금 다른 드라이어랑 화장지를 가지고 올라갈게요.
         native:
           es: Uy, perdona. Ahora mismo te subo otro secador y un par de rollos.
-          ko: 어머, 죄송해요. 지금 바로 다른 드라이어랑 휴지 두어 개 올려 드릴게요.
+          ko: 아이고, 죄송해요. 지금 바로 다른 드라이어랑 휴지 두어 개 갖다드릴게요.
           note_ko: ahora mismo는 '지금 당장', un par de는 '두어 개'예요. 화장지는 rollos(롤)로 세요.
       - who: B
         textbook:
@@ -72,7 +72,7 @@ dialogues:
         native:
           es: Nada, nada. En cinco minutos estoy ahí.
           ko: 별말씀을요. 5분 안에 갈게요.
-          note_ko: De nada를 줄여 Nada, nada라고 해요. estoy ahí는 '그리로 갈게요'예요.
+          note_ko: 고맙다는 말에 nada, nada(별거 아니에요)로 답하기도 해요. estoy ahí는 '그리로 갈게요'예요.
   - id: d2
     title_es: En la tienda, sin cepillo de dientes
     title_ko: 칫솔을 깜빡했을 때
@@ -174,7 +174,7 @@ readings:
     paragraphs:
       - es: Antes del viaje preparo mi neceser. Llevo un cepillo de dientes, pasta de dientes, un peine y una maquinilla de afeitar. También llevo unas chanclas para la ducha.
         ko: 여행 전에 세면도구 가방을 챙겨요. 칫솔, 치약, 빗, 면도기를 넣어요. 샤워할 때 신을 슬리퍼도 가져가요.
-      - es: No llevo champú ni secador de pelo, porque en el hotel de Granada hay. El secador está en un cajón, al lado del lavabo.
+      - es: No llevo champú ni secador de pelo, porque en el hotel de Granada ya hay. El secador está en un cajón, al lado del lavabo.
         ko: 샴푸랑 헤어드라이어는 안 가져가요. 그라나다 호텔에 있거든요. 드라이어는 세면대 옆 서랍에 있어요.
       - es: Pero hoy tengo un problema. ¡No encuentro mis tijeras pequeñas! Creo que están en casa, en Corea. Mañana voy a comprar unas en una tienda del centro.
         ko: 그런데 오늘 문제가 생겼어요. 작은 가위가 안 보여요! 아마 한국 집에 두고 온 것 같아요. 내일 시내 가게에서 하나 사려고요.
@@ -277,7 +277,7 @@ glossary:
   "neceser": {lemma: "neceser", ko: "세면도구 가방", en: "toiletry bag", pron: "네세**세르**"}
   "necesito": {lemma: "necesitar", ko: "필요하다(나는)", en: "I need", pron: "네세**시**또"}
   "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
-  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "노"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
   "ocho": {lemma: "ocho", ko: "여덟", en: "eight", pron: "**오**초"}
   "olvidado": {lemma: "olvidar", ko: "잊은(완료형)", en: "forgotten", pron: "올비**다**도"}
   "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
@@ -321,10 +321,11 @@ glossary:
   "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
   "unas": {lemma: "una", ko: "몇 개의(여성 복수)", en: "some", pron: "우나스"}
   "uso": {lemma: "usar", ko: "쓰다(나는)", en: "I use", pron: "**우**소"}
-  "uy": {lemma: "uy", ko: "어머, 아이고", en: "oops", pron: "**우이**"}
+  "uy": {lemma: "uy", ko: "아이고, 이런", en: "oops", pron: "**우이**"}
   "va": {lemma: "ir", ko: "가다; 작동하다(그것은)", en: "it goes, it works", pron: "**바**"}
   "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
   "veces": {lemma: "vez", ko: "번(a veces: 가끔)", en: "times", pron: "**베**세스"}
   "viaje": {lemma: "viaje", ko: "여행", en: "trip", pron: "비**아**헤"}
   "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
   "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이미, 벌써", en: "already", pron: "**야**"}

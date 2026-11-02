@@ -28,7 +28,7 @@ dialogues:
       - who: B
         textbook:
           es: El enchufe de la mesilla no funciona.
-          ko: 협탁 옆 콘센트가 안 돼요.
+          ko: 협탁 쪽 콘센트가 안 돼요.
         native:
           es: Es que el enchufe de la mesilla no va.
           ko: 그게요, 협탁 콘센트가 안 돼요.
@@ -39,16 +39,16 @@ dialogues:
           ko: 죄송해요. 옷장 옆 콘센트도 써 보셨어요?
         native:
           es: Vaya, perdona. ¿Y el de al lado del armario?
-          ko: 어머, 죄송해요. 옷장 옆에 있는 건요?
-          note_ko: vaya는 '어머, 저런'. el de ...로 enchufe를 다시 말하지 않아요.
+          ko: 아이고, 죄송해요. 옷장 옆에 있는 건요?
+          note_ko: vaya는 '아이고, 저런'. el de ...로 enchufe를 다시 말하지 않아요.
       - who: B
         textbook:
           es: Sí, pero tampoco funciona. Necesito cargar el móvil.
           ko: 네, 그런데 그것도 안 돼요. 휴대폰을 충전해야 해요.
         native:
-          es: Ya, y tampoco. Y me estoy quedando sin batería.
+          es: Ya, pero tampoco va. Y me estoy quedando sin batería.
           ko: 네, 그것도 안 돼요. 배터리가 다 떨어져 가요.
-          note_ko: ya는 '네, 해 봤어요'. 배터리가 떨어질 땐 quedarse sin batería라고 해요.
+          note_ko: ya는 '네, 해 봤어요'. 배터리가 떨어져 갈 땐 quedarse sin batería라고 해요.
       - who: A
         textbook:
           es: Entonces le cambio de habitación. Tome la llave de la dieciséis.
@@ -63,7 +63,7 @@ dialogues:
           ko: 고맙습니다. 옷장에 담요가 있나요?
         native:
           es: Genial, gracias. Oye, ¿y hay alguna manta en el armario?
-          ko: 잘됐다, 고마워요. 참, 옷장에 담요도 있어요?
+          ko: 잘됐네요, 고마워요. 참, 옷장에 담요도 있어요?
           note_ko: oye는 말을 이을 때 '참, 저기'. alguna는 '혹시 하나라도'라는 느낌이에요.
       - who: A
         textbook:
@@ -107,8 +107,8 @@ dialogues:
           note_ko: trae는 '이리 줘'. 물건을 찾을 땐 ¿dónde la he dejado?(어디 뒀지?)라고 해요.
       - who: A
         textbook:
-          es: Tu maleta está en el armario, al lado de las perchas.
-          ko: 네 여행 가방은 옷장 안에 있어, 옷걸이 옆에.
+          es: Tu maleta está en el armario, debajo de las perchas.
+          ko: 네 여행 가방은 옷장 안 옷걸이 밑에 있어.
         native:
           es: Ahí, en el armario, debajo de las perchas.
           ko: 저기 옷장 안에, 옷걸이 밑에.
@@ -127,8 +127,8 @@ dialogues:
           ko: 응. 충전기 어디 있어? 내 휴대폰 배터리가 없어.
         native:
           es: Hecho. ¿Y el cargador? Que no me queda batería.
-          ko: 됐어. 충전기는? 배터리가 하나도 없어서.
-          note_ko: hecho는 '됐어, 그럴게'. que로 시작해 이유를 덧붙여요.
+          ko: 알았어. 충전기는? 배터리가 하나도 없어서.
+          note_ko: hecho는 '알았어, 그럴게'. que로 시작해 이유를 덧붙여요.
       - who: B
         textbook:
           es: Está en el cajón de la mesilla. El enchufe está detrás de la cama.
@@ -218,10 +218,10 @@ glossary:
   "debajo": {lemma: "debajo", ko: "밑에", en: "underneath", pron: "데**바**호"}
   "dejado": {lemma: "dejar", ko: "둔 (과거분사)", en: "left", pron: "데**하**도"}
   "del": {lemma: "del (de + el)", ko: "~의, ~에서 (de + el)", en: "of the", pron: "델"}
-  "desde": {lemma: "desde", ko: "~에서, ~부터", en: "from", pron: "**데**스데"}
-  "después": {lemma: "después", ko: "그다음, 나중에", en: "afterwards", pron: "데스**뿌에**스"}
-  "detrás": {lemma: "detrás", ko: "뒤에", en: "behind", pron: "데**뜨라**스"}
-  "dieciséis": {lemma: "dieciséis", ko: "16, 열여섯", en: "sixteen", pron: "디에시**세이**스"}
+  "desde": {lemma: "desde", ko: "~에서, ~부터", en: "from", pron: "데스데"}
+  "después": {lemma: "después", ko: "그다음, 나중에", en: "afterwards", pron: "데스**뿌에스**"}
+  "detrás": {lemma: "detrás", ko: "뒤에", en: "behind", pron: "데**뜨라스**"}
+  "dieciséis": {lemma: "dieciséis", ko: "16, 열여섯", en: "sixteen", pron: "디에시**세이스**"}
   "dime": {lemma: "decir", ko: "말해 봐 (나에게)", en: "tell me", pron: "**디**메"}
   "dos": {lemma: "dos", ko: "둘, 2", en: "two", pron: "**도스**"}
   "ducho": {lemma: "ducharse", ko: "샤워하다 (나는)", en: "I shower", pron: "**두**초"}
@@ -240,12 +240,12 @@ glossary:
   "genial": {lemma: "genial", ko: "아주 좋아, 잘됐다", en: "great", pron: "헤**니알**"}
   "gracias": {lemma: "gracias", ko: "고마워요", en: "thanks", pron: "**그라**시아스"}
   "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
-  "ha": {lemma: "haber", ko: "~했다 (현재완료, 당신은)", en: "has", pron: "아"}
+  "ha": {lemma: "haber", ko: "~했다 (현재완료, 당신은)", en: "has", pron: "**아**"}
   "habitación": {lemma: "habitación", ko: "방, 객실", en: "room", pron: "아비따**시온**"}
   "hasta": {lemma: "hasta", ko: "~까지", en: "until", pron: "**아**스따"}
   "hay": {lemma: "haber", ko: "있다", en: "there is, there are", pron: "**아이**"}
-  "he": {lemma: "haber", ko: "~했다 (현재완료, 나는)", en: "I have", pron: "에"}
-  "hecho": {lemma: "hacer", ko: "됐어, 그럴게", en: "done", pron: "**에**초"}
+  "he": {lemma: "haber", ko: "~했다 (현재완료, 나는)", en: "I have", pron: "**에**"}
+  "hecho": {lemma: "hacer", ko: "알았어, 그럴게", en: "done", pron: "**에**초"}
   "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
   "hotel": {lemma: "hotel", ko: "호텔", en: "hotel", pron: "오**뗄**"}
   "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
@@ -262,25 +262,25 @@ glossary:
   "mío": {lemma: "mío", ko: "내 것", en: "mine", pron: "**미**오"}
   "móvil": {lemma: "móvil", ko: "휴대폰", en: "mobile phone", pron: "**모**빌"}
   "necesito": {lemma: "necesitar", ko: "필요하다 (나는)", en: "I need", pron: "네세**시**또"}
-  "no": {lemma: "no", ko: "아니, ~않다", en: "no, not", pron: "노"}
+  "no": {lemma: "no", ko: "아니, ~않다", en: "no, not", pron: "**노**"}
   "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
   "noches": {lemma: "noche", ko: "밤 (buenas noches: 밤 인사)", en: "nights", pron: "**노**체스"}
   "otra": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨라"}
   "oye": {lemma: "oír", ko: "저기, 있잖아", en: "hey", pron: "**오**예"}
   "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
-  "perchas": {lemma: "percha", ko: "옷걸이들", en: "hangers", pron: "**뻬**르차스"}
+  "perchas": {lemma: "percha", ko: "옷걸이들", en: "hangers", pron: "**뻬르**차스"}
   "perdona": {lemma: "perdonar", ko: "미안해요 (tú)", en: "sorry", pron: "뻬르**도**나"}
   "perfecto": {lemma: "perfecto", ko: "좋아요, 완벽한", en: "perfect", pron: "뻬르**펙**또"}
-  "pero": {lemma: "pero", ko: "그런데, 하지만", en: "but", pron: "**뻬**로"}
+  "pero": {lemma: "pero", ko: "그런데, 하지만", en: "but", pron: "뻬로"}
   "poner": {lemma: "poner", ko: "놓다, 맞추다", en: "to put, to set", pron: "뽀**네르**"}
   "pones": {lemma: "poner", ko: "놓다, 맞추다 (너는)", en: "you put, you set", pron: "**뽀**네스"}
   "pongo": {lemma: "poner", ko: "놓다, 입다 (나는)", en: "I put", pron: "**뽕**고"}
   "por": {lemma: "por", ko: "~로, ~을 따라", en: "by, through", pron: "뽀르"}
-  "porque": {lemma: "porque", ko: "왜냐하면, ~거든요", en: "because", pron: "**뽀르**께"}
+  "porque": {lemma: "porque", ko: "왜냐하면, ~거든요", en: "because", pron: "뽀르께"}
   "probado": {lemma: "probar", ko: "해 본 (과거분사)", en: "tried", pron: "쁘로**바**도"}
   "puedes": {lemma: "poder", ko: "~할 수 있다 (너는)", en: "you can", pron: "**뿌에**데스"}
   "puedo": {lemma: "poder", ko: "~할 수 있다 (나는)", en: "I can", pron: "**뿌에**도"}
-  "pues": {lemma: "pues", ko: "그럼, 음", en: "well, then", pron: "**뿌에스**"}
+  "pues": {lemma: "pues", ko: "그럼, 음", en: "well, then", pron: "뿌에스"}
   "que": {lemma: "que", ko: "~하는 (관계사), ~거든", en: "that", pron: "께"}
   "queda": {lemma: "quedar", ko: "남다 (그것이)", en: "is left", pron: "**께**다"}
   "quedando": {lemma: "quedarse", ko: "떨어져 가는 (진행형)", en: "running out", pron: "께**단**도"}
@@ -310,7 +310,7 @@ glossary:
   "uso": {lemma: "usar", ko: "쓰다 (나는)", en: "I use", pron: "**우**소"}
   "va": {lemma: "ir", ko: "가다, 작동하다 (구어)", en: "goes, works", pron: "**바**"}
   "vale": {lemma: "valer", ko: "좋아, 알았어", en: "OK", pron: "**발**레"}
-  "vaya": {lemma: "vaya", ko: "어머, 저런", en: "oh dear", pron: "**바**야"}
+  "vaya": {lemma: "vaya", ko: "아이고, 저런", en: "oh dear", pron: "**바**야"}
   "venga": {lemma: "venir", ko: "자, 그럼", en: "come on", pron: "**벵**가"}
   "ventanas": {lemma: "ventana", ko: "창문들", en: "windows", pron: "벤**따**나스"}
   "veo": {lemma: "ver", ko: "보다 (나는)", en: "I see", pron: "**베**오"}

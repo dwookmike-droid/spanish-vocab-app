@@ -182,7 +182,7 @@ readings:
       - es: Vamos a hacer gazpacho, una sopa fría de Andalucía. Ponemos las verduras en la batidora con pan, aceite de oliva, vinagre y sal.
         ko: 안달루시아의 차가운 수프, 가스파초를 만들 거예요. 채소를 빵, 올리브유, 식초, 소금과 함께 믹서에 넣어요.
       - es: Mientras el gazpacho está en la nevera, mi amiga corta media sandía. A las nueve cenamos en el balcón. ¡Qué rico!
-        ko: 가스파초를 냉장고에 넣어 둔 동안 친구가 수박 반 통을 잘라요. 아홉 시에 발코니에서 저녁을 먹어요. 정말 맛있어요!
+        ko: 가스파초가 냉장고에서 차가워지는 동안 친구가 수박 반 통을 잘라요. 아홉 시에 발코니에서 저녁을 먹어요. 정말 맛있어요!
     questions:
       - q_ko: 가스파초는 어떤 음식인가요?
         choices_ko: [뜨거운 국, 차가운 수프, 과일 샐러드]
@@ -217,11 +217,11 @@ glossary:
   "claro": {lemma: "claro", ko: "그럼요, 물론", en: "of course", pron: "**끌라**로"}
   "cogemos": {lemma: "coger", ko: "집다, 사다 (우리는)", en: "we take", pron: "꼬**헤**모스"}
   "colores": {lemma: "color", ko: "색깔들", en: "colours", pron: "꼴**로**레스"}
-  "como": {lemma: "como", ko: "~ 같은", en: "like, such as", pron: "**꼬**모"}
+  "como": {lemma: "como", ko: "~ 같은", en: "like, such as", pron: "꼬모"}
   "compramos": {lemma: "comprar", ko: "사다 (우리는)", en: "we buy", pron: "꼼**쁘라**모스"}
   "compro": {lemma: "comprar", ko: "사다 (나는)", en: "I buy", pron: "**꼼**쁘로"}
   "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
-  "corta": {lemma: "cortar", ko: "자르다 (그녀는)", en: "she cuts", pron: "**꼬**르따"}
+  "corta": {lemma: "cortar", ko: "자르다 (그녀는)", en: "she cuts", pron: "**꼬르**따"}
   "cuatro": {lemma: "cuatro", ko: "4, 넷", en: "four", pron: "**꾸아**뜨로"}
   "cuánto": {lemma: "cuánto", ko: "얼마나, 얼마", en: "how much", pron: "**꾸안**또"}
   "cuántos": {lemma: "cuánto", ko: "몇 개 (남성 복수)", en: "how many", pron: "**꾸안**또스"}
@@ -283,7 +283,7 @@ glossary:
   "naranjas": {lemma: "naranja", ko: "오렌지들", en: "oranges", pron: "나**랑**하스"}
   "necesitamos": {lemma: "necesitar", ko: "필요하다 (우리는)", en: "we need", pron: "네세시**따**모스"}
   "nevera": {lemma: "nevera", ko: "냉장고", en: "fridge", pron: "네**베**라"}
-  "no": {lemma: "no", ko: "아니, ~않다", en: "no, not", pron: "노"}
+  "no": {lemma: "no", ko: "아니, ~않다", en: "no, not", pron: "**노**"}
   "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
   "nueve": {lemma: "nueve", ko: "9, 아홉", en: "nine", pron: "**누에**베"}
   "oliva": {lemma: "oliva", ko: "올리브", en: "olive", pron: "올**리**바"}
@@ -304,7 +304,7 @@ glossary:
   "problema": {lemma: "problema", ko: "문제", en: "problem", pron: "쁘로**블레**마"}
   "puede": {lemma: "poder", ko: "~할 수 있다 (그것은)", en: "can", pron: "**뿌에**데"}
   "puedo": {lemma: "poder", ko: "~할 수 있다 (나는)", en: "I can", pron: "**뿌에**도"}
-  "pues": {lemma: "pues", ko: "그럼, 음", en: "well, then", pron: "**뿌에스**"}
+  "pues": {lemma: "pues", ko: "그럼, 음", en: "well, then", pron: "뿌에스"}
   "puestos": {lemma: "puesto", ko: "가게, 노점들", en: "stalls", pron: "**뿌에**스또스"}
   "que": {lemma: "que", ko: "~거든", en: "because", pron: "께"}
   "quiero": {lemma: "querer", ko: "원하다 (나는)", en: "I want", pron: "**끼에**로"}
@@ -321,7 +321,7 @@ glossary:
   "sopa": {lemma: "sopa", ko: "수프", en: "soup", pron: "**소**빠"}
   "sí": {lemma: "sí", ko: "네, 응", en: "yes", pron: "**시**"}
   "también": {lemma: "también", ko: "~도, 또한", en: "also", pron: "땀**비엔**"}
-  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따**르데"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
   "tarjeta": {lemma: "tarjeta", ko: "카드", en: "card", pron: "따르**헤**따"}
   "te": {lemma: "te", ko: "너에게", en: "you", pron: "떼"}
   "tenemos": {lemma: "tener", ko: "가지다 (우리는)", en: "we have", pron: "떼**네**모스"}

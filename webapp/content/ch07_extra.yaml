@@ -23,7 +23,7 @@ dialogues:
           ko: 작은 생맥주 한 잔이랑 화이트 와인 한 잔 주세요.
         native:
           es: Ponme una caña y un blanco, porfa.
-          ko: 생맥주 한 잔이랑 화이트 한 잔요.
+          ko: 생맥주 한 잔이랑 화이트 와인 한 잔이요.
           note_ko: ponme(나한테 줘)는 바에서 흔한 주문이에요. 와인은 un blanco, un tinto로 줄여요.
       - who: A
         textbook:
@@ -31,7 +31,7 @@ dialogues:
           ko: 알겠습니다. 핀초는 카운터에 있어요.
         native:
           es: Vale. Los pinchos, ahí en la barra. Coge lo que quieras.
-          ko: 네. 핀초는 저기 카운터에 있어요. 마음대로 집어요.
+          ko: 네. 핀초는 저기 카운터에 있어요. 드시고 싶은 거 집으세요.
           note_ko: vale는 ‘알겠어요’예요. coger는 스페인에서 ‘집다’라는 뜻으로 아주 흔해요.
       - who: B
         textbook:
@@ -64,7 +64,7 @@ dialogues:
         native:
           es: ¡Marchando! ¿Algo más?
           ko: 바로 나가요! 또 필요한 거 있어요?
-          note_ko: marchando은 ‘주문 들어갑니다, 바로 나가요’라는 바·식당 말이에요.
+          note_ko: marchando는 ‘주문 들어갑니다, 바로 나가요’라는 바·식당 말이에요.
       - who: B
         textbook:
           es: No, gracias. Después le pido la cuenta.
@@ -87,7 +87,7 @@ dialogues:
           ko: 저기요, 계산해 주시겠어요?
         native:
           es: Oye, ¿me cobras cuando puedas?
-          ko: 저기요, 시간 될 때 계산 좀 해 줘요.
+          ko: 저기요, 괜찮을 때 계산 좀 해 주세요.
           note_ko: oye는 직원을 부를 때 흔히 써요. cuando puedas는 ‘편할 때’라는 부드러운 말이에요.
       - who: A
         textbook:
@@ -100,10 +100,10 @@ dialogues:
       - who: B
         textbook:
           es: Dos pinchos de tortilla, unas gambas y dos cañas.
-          ko: 토르티야 핀초 두 개, 새우 하나, 생맥주 두 잔이요.
+          ko: 토르티야 핀초 두 개, 새우 한 접시, 생맥주 두 잔이요.
         native:
           es: A ver… dos de tortilla, unas gambas y dos cañas.
-          ko: 어디 보자… 토르티야 두 개, 새우 하나, 생맥주 두 잔.
+          ko: 어디 보자… 토르티야 두 개, 새우 한 접시, 생맥주 두 잔.
           note_ko: a ver는 ‘어디 보자’예요. pincho를 빼고 dos de tortilla처럼 줄여 말해요.
       - who: A
         textbook:
@@ -136,7 +136,7 @@ dialogues:
         native:
           es: Toma. ¡Qué buenos los pinchos, eh!
           ko: 여기요. 핀초 진짜 맛있어요!
-          note_ko: toma는 tú에게 뭔가 건넬 때 ‘여기요’예요. ¡Qué buenos…!는 감탄하는 말이에요.
+          note_ko: toma는 tú로 말하는 사이에서 물건을 건넬 때 하는 ‘여기요’예요. ¡Qué buenos…!는 감탄하는 말이에요.
       - who: A
         textbook:
           es: Muchas gracias. ¡Adiós!
@@ -173,8 +173,8 @@ readings:
     level: A2
     paragraphs:
       - es: En España, una tapa es una porción pequeña de comida para tomar con una bebida. En el País Vasco la gente dice «pintxo», y en castellano se escribe «pincho».
-        ko: 스페인에서 타파는 음료와 함께 먹는 작은 음식이에요. 바스크 지방에서는 «pintxo»라고 하고, 스페인어로는 «pincho»라고 써요.
-      - es: Muchos pinchos llevan un palillo. El nombre viene del verbo «pinchar». Una ración es más grande, es un plato para compartir entre varias personas.
+        ko: 스페인에서 타파는 음료와 함께 먹는 작은 음식이에요. 바스크 지방에서는 이걸 «pintxo»라고 하는데, 카스티야어(스페인어) 철자로는 «pincho»예요.
+      - es: Muchos pinchos llevan un palillo. El nombre viene del verbo «pinchar». Una ración es más grande. Es un plato para compartir entre varias personas.
         ko: 핀초에는 이쑤시개가 꽂힌 것이 많아요. 이름도 ‘찌르다’라는 뜻의 동사 «pinchar»에서 왔어요. 라시온은 더 커요. 여럿이 나눠 먹는 한 접시예요.
       - es: Para beber, mucha gente pide una caña, un vino o un vermut. Al final, pides la cuenta al camarero y pagas todo junto.
         ko: 마실 것으로는 생맥주, 와인, 베르무트를 많이 시켜요. 다 먹으면 종업원에게 계산서를 달라고 하고 한꺼번에 내요.
@@ -198,7 +198,7 @@ glossary:
   "beber": {lemma: "beber", ko: "마시다", en: "to drink", pron: "베**베르**"}
   "bebida": {lemma: "bebida", ko: "음료", en: "drink", pron: "베**비**다"}
   "bien": {lemma: "bien", ko: "잘, 좋게", en: "well", pron: "**비엔**"}
-  "blanco": {lemma: "blanco", ko: "흰, 화이트 와인", en: "white (wine)", pron: "**블란**꼬"}
+  "blanco": {lemma: "blanco", ko: "흰, 화이트 와인", en: "white (wine)", pron: "**블랑**꼬"}
   "buenas": {lemma: "bueno", ko: "좋은(여성 복수)", en: "good", pron: "**부에**나스"}
   "buenos": {lemma: "bueno", ko: "좋은, 맛있는(남성 복수)", en: "good, tasty", pron: "**부에**노스"}
   "castellano": {lemma: "castellano", ko: "스페인어(카스티야어)", en: "Spanish (Castilian)", pron: "까스떼**야**노"}
@@ -323,7 +323,7 @@ glossary:
   "venga": {lemma: "venir", ko: "좋아요, 자(결정할 때)", en: "come on, OK then", pron: "**벵**가"}
   "ver": {lemma: "ver", ko: "보다(a ver 어디 보자)", en: "to see", pron: "**베르**"}
   "verbo": {lemma: "verbo", ko: "동사", en: "verb", pron: "**베르**보"}
-  "verdad": {lemma: "verdad", ko: "사실, 정말", en: "truth, true", pron: "베르**다**드"}
+  "verdad": {lemma: "verdad", ko: "사실, 정말", en: "truth, true", pron: "베르**다드**"}
   "vieja": {lemma: "viejo", ko: "오래된(여성)", en: "old", pron: "**비에**하"}
   "viene": {lemma: "venir", ko: "오다(그것은)", en: "comes", pron: "**비에**네"}
   "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}

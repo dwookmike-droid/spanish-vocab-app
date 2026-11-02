@@ -39,7 +39,7 @@ dialogues:
           ko: 안락의자에 앉아도 돼? 쿠션이 마음에 들어.
         native:
           es: Pues me quedo con el sillón, que parece comodísimo.
-          ko: 그럼 난 안락의자. 엄청 편해 보여.
+          ko: 그럼 난 안락의자에 앉을래. 엄청 편해 보여.
           note_ko: me quedo con은 '…로 할게'예요. -ísimo는 '아주'의 뜻을 더한 강조형이에요.
       - who: A
         textbook:
@@ -48,7 +48,7 @@ dialogues:
         native:
           es: Claro. ¿Tienes calor? Si quieres, bajo la persiana.
           ko: 그럼. 더워? 원하면 블라인드 내릴게.
-          note_ko: 스페인 집 창에는 persiana(덧창 블라인드)가 흔해서, 더우면 그걸 내려요.
+          note_ko: 스페인 집 창에는 바깥에 persiana(말아 내리는 덧문)가 흔해요. 더우면 그걸 내려요.
       - who: B
         textbook:
           es: Sí, un poco. ¿De quién es ese cuadro?
@@ -87,7 +87,7 @@ dialogues:
           ko: 안녕하세요. 숙소에서 전화드려요.
         native:
           es: Hola, ¿qué tal? Te llamo desde el piso.
-          ko: 안녕하세요, 잘 지내세요? 숙소에서 전화했어요.
+          ko: 안녕하세요, 잘 지내세요? 숙소에서 전화드려요.
           note_ko: 스페인에서는 집주인에게도 tú로 말하는 일이 많아요. piso는 아파트예요.
       - who: A
         textbook:
@@ -111,7 +111,7 @@ dialogues:
           ko: 리모컨은 탁자 서랍에 있어요.
         native:
           es: Ah, mira en el cajón de la mesita, al lado del sofá.
-          ko: 아, 소파 옆 작은 탁자 서랍을 봐 보세요.
+          ko: 아, 소파 옆 작은 탁자 서랍을 한번 보세요.
           note_ko: mesita는 mesa에 '작은'의 뜻을 붙인 말이에요. 소파 옆 협탁을 흔히 이렇게 불러요.
       - who: B
         textbook:
@@ -174,7 +174,7 @@ readings:
       - es: Los salones del palacio no son como un salón de hoy. No hay sofá ni televisión. Hay cuadros antiguos y techos de madera.
         ko: 궁전의 방들은 요즘 거실과 달라요. 소파도 텔레비전도 없어요. 오래된 그림과 나무 천장이 있어요.
       - es: Por la tarde vuelvo al piso y miro mi salón. Un sofá, una televisión, un mando… ¡Qué diferente! El palacio es precioso, pero para descansar prefiero mi sofá.
-        ko: 오후에 숙소로 돌아와 거실을 둘러봐요. 소파, 텔레비전, 리모컨… 정말 다르죠! 궁전은 아름답지만, 쉴 때는 제 소파가 더 좋아요.
+        ko: 오후에 숙소로 돌아와 거실을 둘러봐요. 소파, 텔레비전, 리모컨… 완전히 달라요! 궁전은 아름답지만, 쉴 때는 제 소파가 더 좋아요.
     questions:
       - q_ko: 필라토스의 집 안뜰 한가운데에는 무엇이 있나요?
         choices_ko: [분수, 소파, 텔레비전]
@@ -227,7 +227,7 @@ glossary:
   "de": {lemma: "de", ko: "~의, ~에서", en: "of, from", pron: "데"}
   "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
   "descansar": {lemma: "descansar", ko: "쉬다", en: "to rest", pron: "데스깐**사르**"}
-  "desde": {lemma: "desde", ko: "~에서(부터)", en: "from", pron: "**데**스데"}
+  "desde": {lemma: "desde", ko: "~에서(부터)", en: "from", pron: "데스데"}
   "diferente": {lemma: "diferente", ko: "다른", en: "different", pron: "디페**렌**떼"}
   "dime": {lemma: "decir", ko: "나에게 말해", en: "tell me", pron: "**디**메"}
   "disfruta": {lemma: "disfrutar", ko: "즐겨요(tú 명령)", en: "enjoy", pron: "디스**프루**따"}
@@ -246,7 +246,7 @@ glossary:
   "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
   "estás": {lemma: "estar", ko: "있다(너는)", en: "you are", pron: "에스**따스**"}
   "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
-  "flores": {lemma: "flor", ko: "꽃(복수)", en: "flowers", pron: "플**로**레스"}
+  "flores": {lemma: "flor", ko: "꽃(복수)", en: "flowers", pron: "**플로**레스"}
   "fresco": {lemma: "fresco", ko: "시원한", en: "cool", pron: "**프레**스꼬"}
   "fuente": {lemma: "fuente", ko: "분수", en: "fountain", pron: "**푸엔**떼"}
   "funciona": {lemma: "funcionar", ko: "작동하다(그것은)", en: "it works", pron: "푼**시오**나"}
@@ -286,7 +286,7 @@ glossary:
   "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
   "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
   "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
-  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "노"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
   "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
   "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
   "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
@@ -295,12 +295,12 @@ glossary:
   "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
   "parece": {lemma: "parecer", ko: "~해 보이다(그것은)", en: "it seems", pron: "빠**레**세"}
   "paredes": {lemma: "pared", ko: "벽(복수)", en: "walls", pron: "빠**레**데스"}
-  "pasa": {lemma: "pasar", ko: "일어나다(무슨 일이)", en: "happens", pron: "**빠**사"}
+  "pasa": {lemma: "pasar", ko: "들어와(tú 명령)", en: "come in", pron: "**빠**사"}
   "pasada": {lemma: "pasada", ko: "끝내주는 것(구어)", en: "something amazing", pron: "빠**사**다"}
   "patio": {lemma: "patio", ko: "안뜰", en: "courtyard", pron: "**빠**띠오"}
   "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
   "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
-  "persiana": {lemma: "persiana", ko: "덧창 블라인드", en: "roller blind", pron: "뻬르**시아**나"}
+  "persiana": {lemma: "persiana", ko: "롤 덧문, 블라인드", en: "roller shutter", pron: "뻬르**시아**나"}
   "pilatos": {lemma: "Pilatos", ko: "필라토스(Casa de Pilatos)", en: "Pilate", pron: "삘**라**또스"}
   "pintaba": {lemma: "pintar", ko: "그리곤 했다(그녀는)", en: "she used to paint", pron: "삔**따**바"}
   "pintó": {lemma: "pintar", ko: "그렸다(그 사람은)", en: "painted", pron: "삔**또**"}
@@ -315,8 +315,8 @@ glossary:
   "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
   "que": {lemma: "que", ko: "~라는 것(말머리)", en: "that", pron: "께"}
   "quedo": {lemma: "quedarse", ko: "(me quedo con) ~로 하다(나는)", en: "I'll take", pron: "**께**도"}
-  "quieras": {lemma: "querer", ko: "원하다(너는, 접속법)", en: "you want", pron: "끼**에**라스"}
-  "quieres": {lemma: "querer", ko: "원하다(너는)", en: "you want", pron: "끼**에**레스"}
+  "quieras": {lemma: "querer", ko: "원하다(너는, 접속법)", en: "you want", pron: "**끼에**라스"}
+  "quieres": {lemma: "querer", ko: "원하다(너는)", en: "you want", pron: "**끼에**레스"}
   "quién": {lemma: "quién", ko: "누구", en: "who", pron: "**끼엔**"}
   "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
   "salones": {lemma: "salón", ko: "거실, 큰 방(복수)", en: "halls, rooms", pron: "살**로**네스"}
@@ -349,4 +349,4 @@ glossary:
   "visito": {lemma: "visitar", ko: "방문하다(나는)", en: "I visit", pron: "비**시**또"}
   "vuelvo": {lemma: "volver", ko: "돌아오다(나는)", en: "I come back", pron: "**부엘**보"}
   "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
-  "ya": {lemma: "ya", ko: "이제; 아, 그거", en: "now, already; yeah", pron: "**야**"}
+  "ya": {lemma: "ya", ko: "아, 그거(맞장구)", en: "yeah, right", pron: "**야**"}

@@ -40,13 +40,13 @@ dialogues:
         native:
           es: Sí, sí, haz las que quieras. Esos rojos son geranios.
           ko: 그럼요, 마음껏 찍어요. 저 빨간 건 제라늄이에요.
-          note_ko: haz las que quieras는 '원하는 만큼 찍어요'. 꽃 이름 대신 rojos만 말해요.
+          note_ko: haz las que quieras는 '원하는 만큼 찍어요'. esos rojos는 '저 빨간 것들'이에요.
       - who: B
         textbook:
           es: ¿Y cómo se llama la flor morada de la pared?
           ko: 그럼 벽에 있는 보라색 꽃은 이름이 뭐예요?
         native:
-          es: ¿Y esa morada de la pared? ¿Cuál es?
+          es: ¿Y esa morada de la pared? ¿Qué es?
           ko: 그럼 벽에 있는 저 보라색 꽃은요? 뭐예요?
           note_ko: 앞에서 나온 flor를 빼고 esa morada로 줄여 물어요.
       - who: A
@@ -55,7 +55,7 @@ dialogues:
           ko: 부겐빌레아예요. 화분에는 매일 물을 줘요.
         native:
           es: Una buganvilla. Y las macetas, las riego todos los días, ¿eh?
-          ko: 부겐빌레아요. 그리고 화분은 날마다 내가 물을 줘요.
+          ko: 부겐빌레아요. 화분은 제가 날마다 물을 줘요.
           note_ko: 목적어(las macetas)를 앞에 꺼내면 las로 한 번 더 받아요.
       - who: B
         textbook:
@@ -67,8 +67,8 @@ dialogues:
           note_ko: 짧게 물을 땐 관사(la)를 빼기도 해요.
       - who: A
         textbook:
-          es: Con la regadera. Las macetas de arriba son difíciles.
-          ko: 물뿌리개로요. 위쪽 화분은 어려워요.
+          es: Con la regadera. Las macetas de arriba son difíciles de regar.
+          ko: 물뿌리개로요. 위쪽 화분은 물 주기가 어려워요.
         native:
           es: Con la regadera. Las de arriba... ¡eso sí que cuesta!
           ko: 물뿌리개로요. 위쪽 거는… 그게 진짜 힘들어요!
@@ -120,7 +120,7 @@ dialogues:
         native:
           es: Vale, pues yo me quedo junto a la fuente, que se está fresquito.
           ko: 그래, 그럼 난 분수 옆에 있을게. 거기 시원하거든.
-          note_ko: se está fresquito는 '있기 시원하다'. -ito를 붙이면 기분 좋은 느낌이 나요.
+          note_ko: se está fresquito는 '거기 있으면 시원하다'예요. -ito를 붙이면 기분 좋은 느낌이 나요.
       - who: A
         textbook:
           es: ¿Puedes bajar el toldo? Hace mucho sol.
@@ -179,8 +179,8 @@ readings:
     paragraphs:
       - es: En Córdoba, muchas casas tienen un patio en el centro. En verano hace mucho calor, y el patio es un lugar fresco, con sombra, agua y plantas.
         ko: 코르도바에는 가운데에 안뜰이 있는 집이 많아요. 여름엔 아주 더워서, 그늘과 물과 식물이 있는 안뜰이 시원한 쉼터가 돼요.
-      - es: Cada año, en mayo, la ciudad celebra la Fiesta de los Patios. Los vecinos abren sus patios y los visitantes pueden entrar a verlos. Hay macetas en las paredes, flores de muchos colores y, a veces, un pozo viejo.
-        ko: 해마다 5월이면 코르도바에서 파티오 축제가 열려요. 주민들이 안뜰을 열어 두면 방문객이 들어가서 구경할 수 있어요. 벽에 걸린 화분, 알록달록한 꽃, 가끔은 오래된 우물도 볼 수 있어요.
+      - es: Cada año, en mayo, la ciudad celebra la Fiesta de los Patios. Muchos vecinos abren sus patios y los visitantes pueden entrar a verlos. Hay macetas en las paredes, flores de muchos colores y, a veces, un pozo viejo.
+        ko: 해마다 5월이면 코르도바에서 파티오 축제가 열려요. 많은 주민이 안뜰을 열어 두고, 방문객은 들어가서 구경할 수 있어요. 벽에 걸린 화분, 알록달록한 꽃, 가끔은 오래된 우물도 볼 수 있어요.
       - es: Para los vecinos, es mucho trabajo, porque tienen que regar las plantas todos los días. Pero los patios están preciosos.
         ko: 주민들에게는 일이 많아요. 날마다 식물에 물을 줘야 하거든요. 그래도 안뜰은 정말 아름다워요.
     questions:
@@ -211,7 +211,7 @@ glossary:
   "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
   "buenos": {lemma: "bueno", ko: "좋은 (buenos días: 아침 인사)", en: "good", pron: "**부에**노스"}
   "cada": {lemma: "cada", ko: "~마다", en: "every, each", pron: "**까**다"}
-  "calor": {lemma: "calor", ko: "더위", en: "heat", pron: "까**로르**"}
+  "calor": {lemma: "calor", ko: "더위", en: "heat", pron: "깔**로르**"}
   "casa": {lemma: "casa", ko: "집", en: "house", pron: "**까**사"}
   "casas": {lemma: "casa", ko: "집들", en: "houses", pron: "**까**사스"}
   "celebra": {lemma: "celebrar", ko: "열다, 기념하다 (그것은)", en: "celebrates", pron: "셀**레**브라"}
@@ -221,9 +221,8 @@ glossary:
   "colores": {lemma: "color", ko: "색깔들", en: "colours", pron: "꼴**로**레스"}
   "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
   "cuesta": {lemma: "costar", ko: "힘이 들다 (그것은)", en: "it's hard", pron: "**꾸에**스따"}
-  "cuál": {lemma: "cuál", ko: "어느 것", en: "which", pron: "**꾸알**"}
   "cómo": {lemma: "cómo", ko: "어떻게", en: "how", pron: "**꼬**모"}
-  "córdoba": {lemma: "Córdoba", ko: "코르도바 (도시)", en: "Córdoba", pron: "**꼬**르도바"}
+  "córdoba": {lemma: "Córdoba", ko: "코르도바 (도시)", en: "Córdoba", pron: "**꼬르**도바"}
   "da": {lemma: "dar", ko: "주다, (해가) 들다 (그것은)", en: "gives, shines", pron: "**다**"}
   "de": {lemma: "de", ko: "~의, ~에서", en: "of, from", pron: "데"}
   "debajo": {lemma: "debajo", ko: "밑에", en: "underneath", pron: "데**바**호"}
@@ -232,7 +231,7 @@ glossary:
   "días": {lemma: "día", ko: "날들 (buenos días: 아침 인사)", en: "days", pron: "**디**아스"}
   "eh": {lemma: "eh", ko: "응?, 그렇지?", en: "eh?", pron: "**에**"}
   "en": {lemma: "en", ko: "~에, ~에서", en: "in, on", pron: "엔"}
-  "encanta": {lemma: "encantar", ko: "아주 좋아하다 (나에게 ~이)", en: "I love it", pron: "엥**깐**따"}
+  "encanta": {lemma: "encantar", ko: "아주 좋아하다 (나에게 ~이)", en: "I love it", pron: "엔**깐**따"}
   "entrar": {lemma: "entrar", ko: "들어가다", en: "to go in", pron: "엔**뜨라르**"}
   "es": {lemma: "ser", ko: "~이다 (그것은)", en: "is", pron: "**에스**"}
   "esa": {lemma: "ese", ko: "그, 저 (여성)", en: "that", pron: "**에**사"}
@@ -256,7 +255,7 @@ glossary:
   "gusto": {lemma: "gusto", ko: "기쁨, 좋은 기분", en: "pleasure", pron: "**구**스또"}
   "hace": {lemma: "hacer", ko: "(날씨가) ~하다", en: "it is (weather)", pron: "**아**세"}
   "hacer": {lemma: "hacer", ko: "하다, 찍다", en: "to do, to take", pron: "아**세르**"}
-  "has": {lemma: "haber", ko: "~했다 (현재완료, 너는)", en: "you have", pron: "아스"}
+  "has": {lemma: "haber", ko: "~했다 (현재완료, 너는)", en: "you have", pron: "**아스**"}
   "hasta": {lemma: "hasta", ko: "~까지", en: "until", pron: "**아**스따"}
   "hay": {lemma: "haber", ko: "있다", en: "there is, there are", pron: "**아이**"}
   "haz": {lemma: "hacer", ko: "해, 찍어 (명령, tú)", en: "do, take", pron: "**아스**"}
@@ -299,23 +298,23 @@ glossary:
   "pequeña": {lemma: "pequeño", ko: "작은 (여성)", en: "small", pron: "뻬**께**냐"}
   "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
   "perdone": {lemma: "perdonar", ko: "실례합니다 (usted)", en: "excuse me", pron: "뻬르**도**네"}
-  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "**뻬**로"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
   "pido": {lemma: "pedir", ko: "청하다 (me pido: 내가 찜할게)", en: "I ask for", pron: "**삐**도"}
   "pinta": {lemma: "pinta", ko: "겉모습, 때깔", en: "look, appearance", pron: "**삔**따"}
   "plantas": {lemma: "planta", ko: "식물들", en: "plants", pron: "**쁠란**따스"}
   "por": {lemma: "por", ko: "~을 따라, ~에", en: "along, through", pron: "뽀르"}
-  "porque": {lemma: "porque", ko: "왜냐하면, ~거든요", en: "because", pron: "**뽀르**께"}
+  "porque": {lemma: "porque", ko: "왜냐하면, ~거든요", en: "because", pron: "뽀르께"}
   "preciosos": {lemma: "precioso", ko: "아주 아름다운 (남성 복수)", en: "beautiful", pron: "쁘레**시오**소스"}
   "prefiero": {lemma: "preferir", ko: "더 좋아하다 (나는)", en: "I prefer", pron: "쁘레**피에**로"}
   "puede": {lemma: "poder", ko: "~할 수 있다 (당신은)", en: "you can", pron: "**뿌에**데"}
   "pueden": {lemma: "poder", ko: "~할 수 있다 (그들은)", en: "they can", pron: "**뿌에**덴"}
   "puedes": {lemma: "poder", ko: "~할 수 있다 (너는)", en: "you can", pron: "**뿌에**데스"}
   "puedo": {lemma: "poder", ko: "~할 수 있다 (나는)", en: "I can", pron: "**뿌에**도"}
-  "pues": {lemma: "pues", ko: "그럼", en: "well, then", pron: "**뿌에스**"}
+  "pues": {lemma: "pues", ko: "그럼", en: "well, then", pron: "뿌에스"}
   "que": {lemma: "que", ko: "~하는 (관계사), ~거든", en: "that", pron: "께"}
   "quedo": {lemma: "quedarse", ko: "머물다, 있다 (나는)", en: "I stay", pron: "**께**도"}
   "quieras": {lemma: "querer", ko: "원하다 (네가, 접속법)", en: "you want", pron: "**끼에**라스"}
-  "qué": {lemma: "qué", ko: "정말, 얼마나 (감탄)", en: "what, how", pron: "**께**"}
+  "qué": {lemma: "qué", ko: "무엇; 정말, 얼마나 (감탄)", en: "what, how", pron: "**께**"}
   "regar": {lemma: "regar", ko: "물을 주다", en: "to water", pron: "레**가르**"}
   "riega": {lemma: "regar", ko: "물을 주다 (그녀는)", en: "she waters", pron: "**리에**가"}
   "riego": {lemma: "regar", ko: "물을 주다 (나는)", en: "I water", pron: "**리에**고"}

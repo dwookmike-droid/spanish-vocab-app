@@ -38,9 +38,9 @@ dialogues:
           es: Esta paellera es para cuatro personas. Cuesta veinte euros.
           ko: 이 팬이 4인용이에요. 20유로예요.
         native:
-          es: Pues esta te va perfecta. Son veinte euros.
+          es: Pues esta te viene perfecta. Son veinte euros.
           ko: 그럼 이게 딱이에요. 20유로예요.
-          note_ko: te va perfecta는 '너한테 딱 맞다'예요. 값은 Son … euros로 많이 말해요.
+          note_ko: te viene perfecta는 '딱 맞다'예요. 값은 Son … euros로 많이 말해요.
       - who: B
         textbook:
           es: ¿Es grande? Mi maleta es pequeña.
@@ -143,7 +143,7 @@ dialogues:
           ko: 좋아. 나도 배고파!
         native:
           es: Hecho. ¡Y yo, que no he comido nada!
-          ko: 알았어. 나도 그래. 아무것도 안 먹었거든!
+          ko: 알았어. 나도! 아무것도 안 먹었거든.
           note_ko: Hecho는 '알았어, 그렇게 할게'라는 뜻이에요.
 readings:
   - id: r1
@@ -173,7 +173,7 @@ readings:
     level: A2
     paragraphs:
       - es: La paella es un plato de arroz de València. Se cocina en una sartén grande y plana, la paellera. En valenciano, la palabra «paella» significa «sartén».
-        ko: 파에야는 발렌시아의 쌀 요리예요. 넓고 납작한 프라이팬, 곧 파에야 팬에 만들어요. 발렌시아어로 'paella'는 '프라이팬'이라는 뜻이에요.
+        ko: 파에야는 발렌시아의 쌀 요리예요. 파에야 팬이라는 넓고 납작한 프라이팬에 만들어요. 발렌시아어로 'paella'는 '프라이팬'이라는 뜻이에요.
       - es: La paella valenciana tradicional lleva arroz, pollo, conejo, judías verdes y garrofó, una judía grande y blanca. También lleva tomate, aceite de oliva y azafrán. No lleva marisco.
         ko: 전통 발렌시아식 파에야에는 쌀, 닭고기, 토끼고기, 껍질콩, 그리고 크고 하얀 콩인 가로포가 들어가요. 토마토, 올리브유, 사프란도 넣어요. 해산물은 넣지 않아요.
       - es: Normalmente la paella se come a mediodía, no por la noche. A veces la gente come directamente de la paellera, cada uno con su cuchara.
@@ -249,7 +249,7 @@ glossary:
   "hambre": {lemma: "hambre", ko: "배고픔", en: "hunger", pron: "**암**브레"}
   "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
   "he": {lemma: "haber", ko: "(완료 조동사, 나는)", en: "I have", pron: "**에**"}
-  "hecho": {lemma: "hacer", ko: "알았어(된 걸로)", en: "done, deal", pron: "**에**초"}
+  "hecho": {lemma: "hacer", ko: "알았어, 그렇게 할게", en: "done, deal", pron: "**에**초"}
   "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
   "hombre": {lemma: "hombre", ko: "그럼요(감탄); 남자", en: "man (interjection)", pron: "**옴**브레"}
   "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
@@ -276,7 +276,7 @@ glossary:
   "mía": {lemma: "mío", ko: "내 것(여성)", en: "mine", pron: "**미**아"}
   "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
   "naranjas": {lemma: "naranja", ko: "오렌지(복수)", en: "oranges", pron: "나**랑**하스"}
-  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "노"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
   "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
   "normalmente": {lemma: "normalmente", ko: "보통", en: "usually", pron: "노르말**멘**떼"}
   "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
@@ -304,8 +304,8 @@ glossary:
   "puedes": {lemma: "poder", ko: "할 수 있다(너는)", en: "you can", pron: "**뿌에**데스"}
   "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
   "que": {lemma: "que", ko: "~라는 것(말머리)", en: "that", pron: "께"}
-  "quiere": {lemma: "querer", ko: "원하다(당신은)", en: "you (formal) want", pron: "끼**에**레"}
-  "quiero": {lemma: "querer", ko: "원하다(나는)", en: "I want", pron: "끼**에**로"}
+  "quiere": {lemma: "querer", ko: "원하다(당신은)", en: "you (formal) want", pron: "**끼에**레"}
+  "quiero": {lemma: "querer", ko: "원하다(나는)", en: "I want", pron: "**끼에**로"}
   "regalar": {lemma: "regalar", ko: "선물하다", en: "to give (as a gift)", pron: "레갈**라르**"}
   "regalo": {lemma: "regalo", ko: "선물", en: "present", pron: "레**갈**로"}
   "se": {lemma: "se", ko: "자기를(재귀 대명사)", en: "itself", pron: "세"}
@@ -329,7 +329,6 @@ glossary:
   "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
   "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
   "uno": {lemma: "uno", ko: "하나, 사람(cada uno: 각자)", en: "one", pron: "**우**노"}
-  "va": {lemma: "ir", ko: "가다; 작동하다(그것은)", en: "it goes, it works", pron: "**바**"}
   "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
   "valenciana": {lemma: "valenciano", ko: "발렌시아식(여성)", en: "Valencian", pron: "발렌**시아**나"}
   "valenciano": {lemma: "valenciano", ko: "발렌시아어", en: "Valencian (language)", pron: "발렌**시아**노"}
@@ -341,9 +340,10 @@ glossary:
   "venga": {lemma: "venga", ko: "그래, 자(재촉)", en: "come on, OK", pron: "**벵**가"}
   "verdes": {lemma: "verde", ko: "초록색의(복수)", en: "green", pron: "**베르**데스"}
   "verdura": {lemma: "verdura", ko: "채소", en: "vegetables", pron: "베르**두**라"}
+  "viene": {lemma: "venir", ko: "오다(venir perfecto: 딱 맞다)", en: "comes, suits", pron: "**비에**네"}
   "viaje": {lemma: "viaje", ko: "여행", en: "trip", pron: "비**아**헤"}
   "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
   "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
-  "ya": {lemma: "ya", ko: "이제; 아, 그거", en: "now, already; yeah", pron: "**야**"}
+  "ya": {lemma: "ya", ko: "이제, 벌써", en: "now, already", pron: "**야**"}
   "yo": {lemma: "yo", ko: "나", en: "I", pron: "**요**"}
   "échale": {lemma: "echar", ko: "넣어 줘(명령+그것에)", en: "add (to it)", pron: "**에**찰레"}

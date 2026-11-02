@@ -95,10 +95,6 @@
 "text": "Perdone, ¿me cobra, por favor?",
 "voice": "Kore"
 },
-"gm_0a7bd3359f.mp3": {
-"text": "Tu maleta está en el armario, al lado de las perchas.",
-"voice": "Charon"
-},
 "gm_0b6422da16.mp3": {
 "text": "el palillo",
 "voice": "Kore"
@@ -331,10 +327,6 @@
 "text": "Sí, por favor. Después pon los platos y los vasos en la mesa.",
 "voice": "Charon"
 },
-"gm_21623bae68.mp3": {
-"text": "Sí, pero eso, como veas.",
-"voice": "Charon"
-},
 "gm_21c082f9cf.mp3": {
 "text": "¡Uy, es verdad! Uno de jamón, también.",
 "voice": "Kore"
@@ -381,6 +373,10 @@
 },
 "gm_23f9ba5574.mp3": {
 "text": "Sí. Hay un banco debajo del limonero.",
+"voice": "Kore"
+},
+"gm_241d4fe99b.mp3": {
+"text": "Muchos pinchos llevan un palillo. El nombre viene del verbo «pinchar». Una ración es más grande. Es un plato para compartir entre varias personas.",
 "voice": "Kore"
 },
 "gm_246ef85d01.mp3": {
@@ -667,6 +663,10 @@
 "text": "Póngame medio kilo de fresas.",
 "voice": "Kore"
 },
+"gm_3bf3f2fc8e.mp3": {
+"text": "Perdone, ¿me echa una mano? No sé cómo va esto del billete.",
+"voice": "Kore"
+},
 "gm_3c09bcdb25.mp3": {
 "text": "Vale, pues yo me quedo junto a la fuente, que se está fresquito.",
 "voice": "Kore"
@@ -733,6 +733,10 @@
 },
 "gm_42d466c1d9.mp3": {
 "text": "Me levanto a las ocho. Me ducho con agua caliente y uso el champú del hotel. Después me lavo los dientes y me peino delante del espejo.",
+"voice": "Kore"
+},
+"gm_42e014e83d.mp3": {
+"text": "¿Y esa morada de la pared? ¿Qué es?",
 "voice": "Kore"
 },
 "gm_42f1a0e514.mp3": {
@@ -927,10 +931,6 @@
 "text": "la fresa",
 "voice": "Kore"
 },
-"gm_53496d838b.mp3": {
-"text": "Con la regadera. Las macetas de arriba son difíciles.",
-"voice": "Charon"
-},
 "gm_5398562e4a.mp3": {
 "text": "La comida está en el horno.",
 "voice": "Kore"
@@ -1003,6 +1003,10 @@
 "text": "Apaga la luz, por favor.",
 "voice": "Kore"
 },
+"gm_5a3045e5bf.mp3": {
+"text": "Con la regadera. Las macetas de arriba son difíciles de regar.",
+"voice": "Charon"
+},
 "gm_5b5fa8a2a6.mp3": {
 "text": "Necesitamos tomates, un pepino y un pimiento verde.",
 "voice": "Kore"
@@ -1033,10 +1037,6 @@
 },
 "gm_5cddc508a9.mp3": {
 "text": "En la barra hay pinchos de muchos tipos, con tortilla, jamón, queso, gambas o croquetas. Cojo un plato pequeño y una servilleta. Luego pido una caña al camarero.",
-"voice": "Kore"
-},
-"gm_5d7501c0b3.mp3": {
-"text": "Genial. ¿Y qué metro cojo para ir a Sol?",
 "voice": "Kore"
 },
 "gm_5df2c1ba10.mp3": {
@@ -1117,10 +1117,6 @@
 },
 "gm_630fcc302b.mp3": {
 "text": "Para el catorce de mayo, por la mañana.",
-"voice": "Kore"
-},
-"gm_631f5464dd.mp3": {
-"text": "No llevo champú ni secador de pelo, porque en el hotel de Granada hay. El secador está en un cajón, al lado del lavabo.",
 "voice": "Kore"
 },
 "gm_63a96cc17c.mp3": {
@@ -1279,10 +1275,6 @@
 "text": "Entonces, una croqueta y una ración de pulpo, por favor.",
 "voice": "Kore"
 },
-"gm_6fb01e81fd.mp3": {
-"text": "Pues esta te va perfecta. Son veinte euros.",
-"voice": "Charon"
-},
 "gm_70278e2d0e.mp3": {
 "text": "Sí, está enchufado. Y no hay papel higiénico.",
 "voice": "Kore"
@@ -1379,6 +1371,10 @@
 "text": "la pared",
 "voice": "Kore"
 },
+"gm_7918d43982.mp3": {
+"text": "Desde este andén. El próximo metro llega en dos minutos.",
+"voice": "Charon"
+},
 "gm_791a196760.mp3": {
 "text": "la tortilla",
 "voice": "Kore"
@@ -1389,10 +1385,6 @@
 },
 "gm_794a67c34a.mp3": {
 "text": "el cuadro",
-"voice": "Kore"
-},
-"gm_79759ece80.mp3": {
-"text": "¿Y esa morada de la pared? ¿Cuál es?",
 "voice": "Kore"
 },
 "gm_7a2f9c872d.mp3": {
@@ -1418,10 +1410,6 @@
 "gm_7c8a329c25.mp3": {
 "text": "un patio grande",
 "voice": "Kore"
-},
-"gm_7ce42d9343.mp3": {
-"text": "Es en este andén. El próximo metro llega en dos minutos.",
-"voice": "Charon"
 },
 "gm_7dc6277773.mp3": {
 "text": "Sí, pero tampoco funciona. Necesito cargar el móvil.",
@@ -1605,10 +1593,6 @@
 },
 "gm_93f5f75759.mp3": {
 "text": "Hoy es 3 de mayo y estoy en Granada. Mi hotel es pequeño, pero el baño es bonito. Tiene una ducha grande, un lavabo blanco y un espejo redondo.",
-"voice": "Kore"
-},
-"gm_9431bfa190.mp3": {
-"text": "Ya, y tampoco. Y me estoy quedando sin batería.",
 "voice": "Kore"
 },
 "gm_9470eba126.mp3": {
@@ -1895,6 +1879,10 @@
 "text": "la bañera",
 "voice": "Kore"
 },
+"gm_acb9398ea1.mp3": {
+"text": "Pues esta te viene perfecta. Son veinte euros.",
+"voice": "Charon"
+},
 "gm_acc009a9a4.mp3": {
 "text": "Es que el enchufe de la mesilla no va.",
 "voice": "Kore"
@@ -2019,10 +2007,6 @@
 "text": "¿Me trae la cuenta, por favor?",
 "voice": "Kore"
 },
-"gm_b9824d4619.mp3": {
-"text": "Muchos pinchos llevan un palillo. El nombre viene del verbo «pinchar». Una ración es más grande, es un plato para compartir entre varias personas.",
-"voice": "Kore"
-},
 "gm_b987288aed.mp3": {
 "text": "el jardín",
 "voice": "Kore"
@@ -2103,6 +2087,10 @@
 "text": "Perdone, ¿nos trae la cuenta, por favor?",
 "voice": "Kore"
 },
+"gm_bf2cf4fb5b.mp3": {
+"text": "Gracias. ¿Y qué línea tomo para ir a Sol?",
+"voice": "Kore"
+},
 "gm_c0054df7cc.mp3": {
 "text": "Hecho. ¿Y de postre? ¿Pillamos una sandía?",
 "voice": "Charon"
@@ -2163,10 +2151,6 @@
 "text": "Hay un árbol grande en el patio.",
 "voice": "Kore"
 },
-"gm_c3b57878a0.mp3": {
-"text": "Cada año, en mayo, la ciudad celebra la Fiesta de los Patios. Los vecinos abren sus patios y los visitantes pueden entrar a verlos. Hay macetas en las paredes, flores de muchos colores y, a veces, un pozo viejo.",
-"voice": "Kore"
-},
 "gm_c3d2cd3d02.mp3": {
 "text": "la lechuga",
 "voice": "Kore"
@@ -2191,6 +2175,14 @@
 "text": "Hola, buenas. ¿Tenéis reserva?",
 "voice": "Charon"
 },
+"gm_c7beb5480b.mp3": {
+"text": "No llevo champú ni secador de pelo, porque en el hotel de Granada ya hay. El secador está en un cajón, al lado del lavabo.",
+"voice": "Kore"
+},
+"gm_c81162cd6c.mp3": {
+"text": "Genial. ¿Y qué línea cojo para ir a Sol?",
+"voice": "Kore"
+},
 "gm_c83e93c906.mp3": {
 "text": "el césped",
 "voice": "Kore"
@@ -2209,6 +2201,10 @@
 },
 "gm_c918d687a1.mp3": {
 "text": "el plato pequeño",
+"voice": "Kore"
+},
+"gm_c94ad4341a.mp3": {
+"text": "Cada año, en mayo, la ciudad celebra la Fiesta de los Patios. Muchos vecinos abren sus patios y los visitantes pueden entrar a verlos. Hay macetas en las paredes, flores de muchos colores y, a veces, un pozo viejo.",
 "voice": "Kore"
 },
 "gm_c9dde1355b.mp3": {
@@ -2311,6 +2307,10 @@
 "text": "la bicicleta",
 "voice": "Kore"
 },
+"gm_d09fee39c2.mp3": {
+"text": "Tu maleta está en el armario, debajo de las perchas.",
+"voice": "Charon"
+},
 "gm_d0ac7c3752.mp3": {
 "text": "Nada más, gracias.",
 "voice": "Kore"
@@ -2335,13 +2335,13 @@
 "text": "No, gracias. ¿Puedo pagar con tarjeta?",
 "voice": "Kore"
 },
+"gm_d3b1dd0c19.mp3": {
+"text": "Ya, pero tampoco va. Y me estoy quedando sin batería.",
+"voice": "Kore"
+},
 "gm_d478ede013.mp3": {
 "text": "Muy bien. ¿Para cuántas personas?",
 "voice": "Charon"
-},
-"gm_d49b7d417c.mp3": {
-"text": "Gracias. ¿Y qué metro tomo para ir a Sol?",
-"voice": "Kore"
 },
 "gm_d51bee3b13.mp3": {
 "text": "¿Para qué día?",
@@ -2483,10 +2483,6 @@
 "text": "¿Puedo ir con la maleta?",
 "voice": "Kore"
 },
-"gm_e359926a3c.mp3": {
-"text": "En esta máquina. Después carga los viajes en la tarjeta.",
-"voice": "Charon"
-},
 "gm_e3637703cc.mp3": {
 "text": "¿Es grande? Mi maleta es pequeña.",
 "voice": "Kore"
@@ -2497,6 +2493,10 @@
 },
 "gm_e428b070a9.mp3": {
 "text": "Hecho. ¿Y el cargador? Que no me queda batería.",
+"voice": "Charon"
+},
+"gm_e4649e1516.mp3": {
+"text": "Sí, eso ya como veas.",
 "voice": "Charon"
 },
 "gm_e4fdbee5e3.mp3": {
@@ -2517,10 +2517,6 @@
 },
 "gm_e5ddc26b8b.mp3": {
 "text": "la pasta de dientes",
-"voice": "Kore"
-},
-"gm_e5ec697823.mp3": {
-"text": "Perdona, ¿me echas una mano? No sé cómo va esto del billete.",
 "voice": "Kore"
 },
 "gm_e6d4c621d2.mp3": {
@@ -2633,6 +2629,10 @@
 },
 "gm_efff1c3590.mp3": {
 "text": "Claro. Mira, primero necesitas la tarjeta.",
+"voice": "Charon"
+},
+"gm_f00bd8f33d.mp3": {
+"text": "En esta máquina. Después cargue los viajes en la tarjeta.",
 "voice": "Charon"
 },
 "gm_f042a25331.mp3": {
