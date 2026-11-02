@@ -1,0 +1,457 @@
+# ch05 · El patio y el jardín
+schema_version: 1
+chapter:
+  num: 5
+  es: El patio y el jardín
+  en: The patio and the garden
+  ko: 안뜰과 정원
+  city: Córdoba
+  skin: Azulejo · patio
+  date: 4 MAY
+  word_changes: []
+opener:
+  parada: Parada 05 · Córdoba
+  place: Un patio de Córdoba, la pared de macetas
+  hand: macetas azules, flores y un poco de sombra
+  photo_note_ko: 코르도바 파티오의 화분 벽
+words:
+- key: patio
+  es: el patio
+  base: patio
+  gender: m
+  pron: 엘 **빠**띠오
+  en: patio
+  ko: 안뜰
+  core: true
+  note: ''
+  example:
+    es: Este patio es muy bonito.
+    en: This patio is very pretty.
+    ko: 이 안뜰은 아주 예뻐요.
+- key: garden
+  es: el jardín
+  base: jardín
+  gender: m
+  pron: 엘 하르**딘**
+  en: garden
+  ko: 정원
+  core: true
+  note: ''
+  example:
+    es: Hay un banco en el jardín.
+    en: There's a bench in the garden.
+    ko: 정원에 벤치가 하나 있어요.
+- key: flowerpot
+  es: la maceta
+  base: maceta
+  gender: f
+  pron: 라 마**세**따
+  en: flowerpot
+  ko: 화분
+  core: true
+  note: ''
+  example:
+    es: Las macetas azules están en la pared.
+    en: The blue pots are on the wall.
+    ko: 파란 화분은 벽에 있어요.
+- key: flower
+  es: la flor
+  base: flor
+  gender: f
+  pron: 라 **플로르**
+  en: flower
+  ko: 꽃
+  core: true
+  note: ''
+  example:
+    es: ¿Cómo se llama esta flor?
+    en: What's this flower called?
+    ko: 이 꽃 이름이 뭐예요?
+- key: geranium
+  es: el geranio
+  base: geranio
+  gender: m
+  pron: 엘 헤**라**니오
+  en: geranium
+  ko: 제라늄
+  core: true
+  note: ''
+  example:
+    es: Los geranios necesitan mucho sol.
+    en: Geraniums need lots of sun.
+    ko: 제라늄은 햇빛을 많이 받아야 해요.
+- key: tree
+  es: el árbol
+  base: árbol
+  gender: m
+  pron: 엘 **아**르볼
+  en: tree
+  ko: 나무
+  core: true
+  note: ''
+  example:
+    es: Hay un árbol grande en el patio.
+    en: There's a big tree in the patio.
+    ko: 안뜰에 큰 나무가 있어요.
+- key: leaf
+  es: la hoja
+  base: hoja
+  gender: f
+  pron: 라 **오**하
+  en: leaf
+  ko: 잎
+  core: true
+  note: ''
+  example:
+    es: Las hojas del limonero son verdes.
+    en: The lemon tree's leaves are green.
+    ko: 레몬나무 잎은 초록색이에요.
+- key: fountain
+  es: la fuente
+  base: fuente
+  gender: f
+  pron: 라 **푸엔**떼
+  en: fountain
+  ko: 분수
+  core: true
+  note: ''
+  example:
+    es: La fuente está en medio del patio.
+    en: The fountain is in the patio's center.
+    ko: 분수는 안뜰 한가운데 있어요.
+- key: bench
+  es: el banco
+  base: banco
+  gender: m
+  pron: 엘 **반**꼬
+  en: bench
+  ko: 벤치
+  core: false
+  note: ''
+- key: fence
+  es: la valla
+  base: valla
+  gender: f
+  pron: 라 **바**야
+  en: fence
+  ko: 울타리
+  core: false
+  note: ''
+- key: wateringcan
+  es: la regadera
+  base: regadera
+  gender: f
+  pron: 라 레가**데**라
+  en: watering can
+  ko: 물뿌리개
+  core: false
+  note: ''
+- key: hose
+  es: la manguera
+  base: manguera
+  gender: f
+  pron: 라 망**게**라
+  en: hose
+  ko: 호스
+  core: false
+  note: ''
+- key: lawn
+  es: el césped
+  base: césped
+  gender: m
+  pron: 엘 **세**스뻬드
+  en: lawn
+  ko: 잔디
+  core: false
+  note: ''
+- key: lemontree
+  es: el limonero
+  base: limonero
+  gender: m
+  pron: 엘 리모**네**로
+  en: lemon tree
+  ko: 레몬나무
+  core: false
+  note: ''
+- key: bougainvillea
+  es: la buganvilla
+  base: buganvilla
+  gender: f
+  pron: 라 부간**비**야
+  en: bougainvillea
+  ko: 부겐빌레아
+  core: false
+  note: ''
+- key: well
+  es: el pozo
+  base: pozo
+  gender: m
+  pron: 엘 **뽀**소
+  en: well
+  ko: 우물
+  core: false
+  note: ''
+- key: grille
+  es: la reja
+  base: reja
+  gender: f
+  pron: 라 **레**하
+  en: window grille
+  ko: 창살
+  core: false
+  note: ''
+- key: awning
+  es: el toldo
+  base: toldo
+  gender: m
+  pron: 엘 **똘**도
+  en: awning
+  ko: 차양
+  core: false
+  note: ''
+- key: hammock
+  es: la hamaca
+  base: hamaca
+  gender: f
+  pron: 라 아**마**까
+  en: hammock
+  ko: 해먹
+  core: false
+  note: ''
+- key: shade
+  es: la sombra
+  base: sombra
+  gender: f
+  pron: 라 **솜**브라
+  en: shade
+  ko: 그늘
+  core: false
+  note: ''
+word_order:
+  tema: Gran y grande
+  tema_sub_ko: 형용사 — 자리가 바뀌면 뜻도 바뀌어요
+  point_ko: 형용사 자리가 바뀌면 뜻도 바뀜 (gran / grande)
+  lead_ko: 형용사는 보통 명사 뒤에 와요. 그런데 grande는 앞으로 나오면 gran이 되고 뜻도 달라져요.
+  sentences:
+  - es: Un gran patio. Un patio grande.
+    en: A great patio. A big patio.
+    ko: 멋진 안뜰. 넓은 안뜰.
+    note_ko: 앞의 gran은 ‘멋진’ · 뒤의 grande는 ‘넓은’
+    tokens:
+    - es: Un
+      gloss_ko: 하나의
+    - es: gran
+      gloss_ko: 멋진
+    - es: patio.
+      gloss_ko: 안뜰
+    - es: Un
+      gloss_ko: 하나의
+    - es: patio
+      gloss_ko: 안뜰
+    - es: grande
+      gloss_ko: 넓은
+    highlight: [1, 5]
+  - es: Es una gran fuente.
+    en: It's a great fountain.
+    ko: 멋진 분수예요.
+    note_ko: 여성 명사 앞에서도 똑같이 gran
+    tokens:
+    - es: Es
+      gloss_ko: ~이다
+    - es: una
+      gloss_ko: 하나의
+    - es: gran
+      gloss_ko: 멋진
+    - es: fuente
+      gloss_ko: 분수
+    highlight: [2]
+  - es: Es una fuente grande.
+    en: It's a big fountain.
+    ko: 큰 분수예요.
+    note_ko: 명사 뒤 grande는 크기를 말해요
+    tokens:
+    - es: Es
+      gloss_ko: ~이다
+    - es: una
+      gloss_ko: 하나의
+    - es: fuente
+      gloss_ko: 분수
+    - es: grande
+      gloss_ko: 큰
+    highlight: [3]
+  - es: Hay un árbol viejo en el patio.
+    en: There's an old tree in the patio.
+    ko: 안뜰에 오래된 나무가 있어요.
+    note_ko: 다른 형용사는 대부분 명사 뒤 · viejo는 ‘오래된’
+    tokens:
+    - es: Hay
+      gloss_ko: 있다
+    - es: un
+      gloss_ko: 하나의
+    - es: árbol
+      gloss_ko: 나무
+    - es: viejo
+      gloss_ko: 오래된
+    - es: en
+      gloss_ko: ~에
+    - es: el patio
+      gloss_ko: 그 안뜰
+    highlight: [3]
+  - es: Hay grandes árboles en el jardín.
+    en: There are great trees in the garden.
+    ko: 정원에 멋진 나무들이 있어요.
+    note_ko: 복수는 앞에 와도 grandes로 그대로
+    tokens:
+    - es: Hay
+      gloss_ko: 있다
+    - es: grandes
+      gloss_ko: 멋진
+    - es: árboles
+      gloss_ko: 나무들
+    - es: en
+      gloss_ko: ~에
+    - es: el jardín
+      gloss_ko: 그 정원
+    highlight: [1]
+  patterns:
+  - title_ko: 자리에 따라 달라지는 뜻
+    items:
+    - es: un gran patio
+      en: a great patio
+      ko: 멋진 안뜰
+    - es: un patio grande
+      en: a big patio
+      ko: 넓은 안뜰
+    - es: una gran fuente
+      en: a great fountain
+      ko: 멋진 분수
+    - es: una fuente grande
+      en: a big fountain
+      ko: 큰 분수
+  - title_ko: viejo, pobre도 그래요
+    items:
+    - es: un viejo amigo
+      en: an old friend
+      ko: 오랜 친구
+    - es: un amigo viejo
+      en: an elderly friend
+      ko: 나이 든 친구
+    - es: un pobre hombre
+      en: a poor (pitiable) man
+      ko: 불쌍한 남자
+    - es: un hombre pobre
+      en: a poor (penniless) man
+      ko: 가난한 남자
+  - title_ko: 보통 형용사는 명사 뒤
+    items:
+    - es: la maceta azul
+      en: the blue pot
+      ko: 파란 화분
+    - es: la flor roja
+      en: the red flower
+      ko: 빨간 꽃
+    - es: el árbol alto
+      en: the tall tree
+      ko: 키 큰 나무
+  contrast:
+    title_ko: gran과 grande
+    items:
+    - es: Es un gran jardín.
+      label_ko: 명사 앞 · 평가
+      ko: 멋진 정원이에요.
+    - es: Es un jardín grande.
+      label_ko: 명사 뒤 · 크기
+      ko: 넓은 정원이에요.
+    - es: El jardín es grande.
+      label_ko: es 뒤 · 크기
+      ko: 정원이 넓어요.
+  extra_notes_ko:
+  - grande는 단수 명사 앞에서 gran으로 짧아져요. 남성이든 여성이든 같아서 un gran patio, una gran fuente라고 해요. 복수 명사 앞에서는 grandes를 그대로 써요.
+  - 명사 앞의 gran에는 ‘훌륭하다’는 평가가 담기고, 명사 뒤의 grande는 크기만 말해요. 다른 형용사는 대부분 ch01에서 본 대로 명사 뒤에 둬요.
+practice:
+- tiles: [gran, patio, un]
+  answer: un gran patio
+  ko: 멋진 안뜰
+- tiles: [grande, un, patio]
+  answer: un patio grande
+  ko: 넓은 안뜰
+- tiles: [fuente, gran, Es, una]
+  answer: Es una gran fuente.
+  ko: 멋진 분수예요.
+- tiles: [jardín, un, grande, Es]
+  answer: Es un jardín grande.
+  ko: 넓은 정원이에요.
+- tiles: [azul, maceta, La, está, patio, en, el]
+  answer: La maceta azul está en el patio.
+  ko: 파란 화분은 안뜰에 있어요.
+variants:
+- es: el césped
+  alt: el pasto (중남미)
+- es: la maceta
+  alt: el tiesto (스페인에서도 써요)
+- es: la valla
+  alt: la cerca (같은 뜻)
+- es: la buganvilla
+  alt: la bugambilia (멕시코)
+- es: la regadera
+  alt: 멕시코에서는 ‘샤워기’ 뜻으로도 써요
+scenes:
+- es: ¡Qué patio tan bonito!
+  en: What a lovely patio!
+  ko: 안뜰이 정말 예뻐요!
+- es: ¿Se puede entrar?
+  en: Can we go in?
+  ko: 들어가도 돼요?
+- es: ¿Puedo hacer una foto?
+  en: Can I take a photo?
+  ko: 사진 찍어도 돼요?
+- es: ¿Cómo se llaman estas flores?
+  en: What are these flowers called?
+  ko: 이 꽃들 이름이 뭐예요?
+- es: Vamos a la sombra.
+  en: Let's go into the shade.
+  ko: 그늘로 가요.
+- es: Hay que regar las macetas.
+  en: The pots need watering.
+  ko: 화분에 물을 줘야 해요.
+extras:
+  grammar_ko:
+  - la flor는 -r로 끝나지만 여성이에요. 복수는 las flores처럼 -es를 붙여요.
+  - el árbol과 el césped은 -l, -d로 끝나는데 강세가 끝에서 두 번째 음절에 있어서 악센트 부호를 써요.
+  - el jardín의 복수는 los jardines예요. -es가 붙으면 강세 자리는 그대로인데 부호는 빠져요.
+  - a la sombra(그늘에서), al sol(햇볕에서)처럼 짝으로 외우면 쉬워요.
+  cognates:
+  - es: el patio
+    en: patio
+    note_ko: 영어가 스페인어에서 그대로 빌려 간 말이에요.
+  - es: el geranio
+    en: geranium
+    note_ko: 둘 다 ‘두루미’를 뜻하는 그리스어에서 왔어요.
+  - es: la hamaca
+    en: hammock
+    note_ko: 카리브해 타이노어에서 스페인어를 거쳐 영어로 갔어요.
+  - es: la buganvilla
+    en: bougainvillea
+    note_ko: 프랑스 탐험가 부갱빌의 이름에서 왔어요.
+  false_friend:
+    es: el banco
+    en: bank
+    note_ko: 은행도 el banco지만 정원의 el banco는 벤치예요. 앉는 자리인지 보고 구별해요.
+  fun_fact_ko: 코르도바에서는 해마다 5월에 파티오 축제(Fiesta de los Patios)가 열려요.
+props:
+- kind: postmark
+  lines:
+  - Nº 05 · EL PATIO · 4 MAY
+- kind: postmark
+  lines:
+  - CORREO · CÓRDOBA · 4 MAY
+- kind: label
+  lines:
+  - GERANIO · BUGANVILLA
+  - Nº 05 — Córdoba
+- kind: polaroid
+  lines:
+  - macetas azules
+- kind: hand
+  lines:
+  - un gran patio, muchas flores

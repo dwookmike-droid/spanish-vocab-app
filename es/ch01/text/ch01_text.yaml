@@ -1,0 +1,462 @@
+# ch01 · El baño — 골드 샘플 (v6 인쇄본에 실린 문구를 그대로 옮김)
+# 새 장은 이 파일과 같은 구조로 써요. 키 이름·순서·형식을 바꾸지 않아요.
+schema_version: 1
+chapter:
+  num: 1
+  es: El baño
+  en: The bathroom
+  ko: 욕실
+  city: Granada
+  skin: Museo
+  date: 3 MAY
+  word_changes: []
+opener:
+  parada: Parada 01 · Granada
+  place: La Alhambra, baños del Palacio de Comares
+  hand: primero, el baño — 20 palabras para el viaje
+  photo_note_ko: 알람브라 코마레스 궁 목욕탕의 별빛 천창
+words:
+- key: towel
+  es: la toalla
+  base: toalla
+  gender: f
+  pron: 라 또**아**야
+  en: towel
+  ko: 수건
+  core: true
+  note: ''
+  example:
+    es: ¿Me pasas la toalla?
+    en: Can you pass me the towel?
+    ko: 수건 좀 건네줄래요?
+- key: soap
+  es: el jabón
+  base: jabón
+  gender: m
+  pron: 엘 하**본**
+  en: soap
+  ko: 비누
+  core: true
+  note: ''
+  example:
+    es: Lávate las manos con jabón.
+    en: Wash your hands with soap.
+    ko: 비누로 손을 씻어요.
+- key: toothbrush
+  es: el cepillo de dientes
+  base: cepillo de dientes
+  gender: m
+  pron: 엘 세**삐**요 데 **디엔**떼스
+  en: toothbrush
+  ko: 칫솔
+  core: true
+  note: ''
+  example:
+    es: Mi cepillo de dientes es el azul.
+    en: My toothbrush is the blue one.
+    ko: 제 칫솔은 파란 거예요.
+- key: toothpaste
+  es: la pasta de dientes
+  base: pasta de dientes
+  gender: f
+  pron: 라 **빠**스따 데 **디엔**떼스
+  en: toothpaste
+  ko: 치약
+  core: true
+  note: = el dentífrico
+  example:
+    es: Esta pasta de dientes sabe a menta.
+    en: This toothpaste tastes like mint.
+    ko: 이 치약은 민트 맛이 나요.
+- key: sink
+  es: el lavabo
+  base: lavabo
+  gender: m
+  pron: 엘 라**바**보
+  en: sink
+  ko: 세면대
+  core: true
+  note: ''
+  example:
+    es: El lavabo está atascado.
+    en: The sink is clogged.
+    ko: 세면대가 막혔어요.
+- key: mirror
+  es: el espejo
+  base: espejo
+  gender: m
+  pron: 엘 에스**뻬**호
+  en: mirror
+  ko: 거울
+  core: true
+  note: ''
+  example:
+    es: Me miro en el espejo.
+    en: I look at myself in the mirror.
+    ko: 거울로 제 모습을 봐요.
+- key: shower
+  es: la ducha
+  base: ducha
+  gender: f
+  pron: 라 **두**차
+  en: shower
+  ko: 샤워기
+  core: true
+  note: 'Latam: la regadera'
+  example:
+    es: No sale agua caliente de la ducha.
+    en: There's no hot water in the shower.
+    ko: 샤워기에서 뜨거운 물이 안 나와요.
+- key: toilet
+  es: el inodoro
+  base: inodoro
+  gender: m
+  pron: 엘 이노**도**로
+  en: toilet
+  ko: 변기
+  core: true
+  note: 'también: el váter'
+  example:
+    es: Baja la tapa del inodoro, por favor.
+    en: Please put the toilet lid down.
+    ko: 변기 뚜껑 좀 내려 주세요.
+- key: tap
+  es: el grifo
+  base: grifo
+  gender: m
+  pron: 엘 **그리**포
+  en: tap, faucet
+  ko: 수도꼭지
+  core: false
+  note: ''
+- key: bathtub
+  es: la bañera
+  base: bañera
+  gender: f
+  pron: 라 바**녜**라
+  en: bathtub
+  ko: 욕조
+  core: false
+  note: ''
+- key: toiletpaper
+  es: el papel higiénico
+  base: papel higiénico
+  gender: m
+  pron: 엘 빠**뻴** 이**히에**니꼬
+  en: toilet paper
+  ko: 화장지
+  core: false
+  note: ''
+- key: shampoo
+  es: el champú
+  base: champú
+  gender: m
+  pron: 엘 참**뿌**
+  en: shampoo
+  ko: 샴푸
+  core: false
+  note: ''
+- key: sponge
+  es: la esponja
+  base: esponja
+  gender: f
+  pron: 라 에스**뽕**하
+  en: sponge
+  ko: 스펀지
+  core: false
+  note: ''
+- key: comb
+  es: el peine
+  base: peine
+  gender: m
+  pron: 엘 **뻬이**네
+  en: comb
+  ko: 빗
+  core: false
+  note: ''
+- key: hairdryer
+  es: el secador de pelo
+  base: secador de pelo
+  gender: m
+  pron: 엘 세까**도르** 데 **뻴**로
+  en: hair dryer
+  ko: 헤어드라이어
+  core: false
+  note: 'o: el secador'
+- key: razor
+  es: la maquinilla de afeitar
+  base: maquinilla de afeitar
+  gender: f
+  pron: 라 마끼**니**야 데 아페이**따르**
+  en: razor
+  ko: 면도기
+  core: false
+  note: ''
+- key: scale
+  es: la báscula
+  base: báscula
+  gender: f
+  pron: 라 **바**스꿀라
+  en: bathroom scale
+  ko: 체중계
+  core: false
+  note: ''
+- key: bin
+  es: la papelera
+  base: papelera
+  gender: f
+  pron: 라 빠뻴**레**라
+  en: wastebasket
+  ko: 휴지통
+  core: false
+  note: ''
+- key: flipflops
+  es: las chanclas
+  base: chanclas
+  gender: fpl
+  pron: 라스 **찬**끌라스
+  en: flip-flops
+  ko: 슬리퍼
+  core: false
+  note: ''
+- key: scissors
+  es: las tijeras
+  base: tijeras
+  gender: fpl
+  pron: 라스 띠**헤**라스
+  en: scissors
+  ko: 가위
+  core: false
+  note: ¡siempre plural!
+word_order:
+  tema: El orden de las palabras
+  tema_sub_ko: 어순 — 명사가 먼저, 꾸밈은 뒤에
+  point_ko: 명사 + 형용사 · 성·수 일치 · de 합성어 · 주어 생략
+  lead_ko: 스페인어는 대부분 중심 명사가 먼저 오고 꾸미는 말이 뒤따라요. 영어와 순서가 다른 자리에 적갈색 밑줄을 그었어요.
+  sentences:
+  - es: Me lavo los dientes.
+    en: I brush my teeth.
+    ko: 이를 닦아요.
+    note_ko: me(나 자신)는 동사 앞 · 영어 my 대신 정관사 los
+    tokens:
+    - es: Me
+      gloss_ko: 나 자신(의)
+    - es: lavo
+      gloss_ko: 씻는다
+    - es: los
+      gloss_ko: 그
+    - es: dientes
+      gloss_ko: 이들
+    highlight: [0, 2]
+  - es: Me cepillo el pelo.
+    en: I brush my hair.
+    ko: 머리를 빗어요.
+    note_ko: '같은 틀: me + 동사 + 정관사 + 신체 부위'
+    tokens:
+    - es: Me
+      gloss_ko: 나 자신(의)
+    - es: cepillo
+      gloss_ko: 빗는다
+    - es: el
+      gloss_ko: 그
+    - es: pelo
+      gloss_ko: 머리카락
+    highlight: [0, 2]
+  - es: Necesito una toalla limpia.
+    en: I need a clean towel.
+    ko: 깨끗한 수건이 하나 필요해요.
+    note_ko: 주어 yo 없이 동사로 시작 · 형용사는 명사 뒤
+    tokens:
+    - es: Necesito
+      gloss_ko: 필요하다(나는)
+    - es: una
+      gloss_ko: 하나의
+    - es: toalla
+      gloss_ko: 수건
+    - es: limpia
+      gloss_ko: 깨끗한
+    highlight: [0, 3]
+  - es: No hay papel higiénico.
+    en: There's no toilet paper.
+    ko: 화장지가 없어요.
+    note_ko: no는 동사 바로 앞 · 종이 + 위생의 순서
+    tokens:
+    - es: 'No'
+      gloss_ko: 안
+    - es: hay
+      gloss_ko: 있다
+    - es: papel
+      gloss_ko: 종이
+    - es: higiénico
+      gloss_ko: 위생의
+    highlight: [0, 3]
+  - es: ¿El jabón? Lo dejo en el lavabo.
+    en: The soap? I leave it on the sink.
+    ko: 비누요? 세면대에 둬요.
+    note_ko: 목적어 lo(그것을)는 동사 앞 · 영어 it은 동사 뒤
+    tokens:
+    - es: ¿El jabón?
+      gloss_ko: 그 비누?
+    - es: Lo
+      gloss_ko: 그것을
+    - es: dejo
+      gloss_ko: 둔다
+    - es: en
+      gloss_ko: ~에
+    - es: el lavabo
+      gloss_ko: 그 세면대
+    highlight: [1]
+  patterns:
+  - title_ko: 명사 + 형용사
+    items:
+    - es: la toalla blanca
+      en: the white towel
+      ko: 하얀 수건
+    - es: el jabón nuevo
+      en: the new soap
+      ko: 새 비누
+    - es: las toallas limpias
+      en: the clean towels
+      ko: 깨끗한 수건들
+  - title_ko: 성·수 일치
+    items:
+    - es: el espejo limpio
+      tag: m
+      ko: 깨끗한 거울
+    - es: la toalla limpia
+      tag: f
+      ko: 깨끗한 수건
+    - es: los peines limpios
+      tag: m pl
+      ko: 깨끗한 빗들
+    - es: las tijeras limpias
+      tag: f pl
+      ko: 깨끗한 가위
+  - title_ko: de로 잇는 말 · 뒤에서 꾸미기
+    items:
+    - es: el cepillo de dientes
+      lit: brush · of · teeth
+      en: toothbrush
+      ko: 칫솔
+    - es: la pasta de dientes
+      lit: paste · of · teeth
+      en: toothpaste
+      ko: 치약
+    - es: el secador de pelo
+      lit: dryer · of · hair
+      en: hair dryer
+      ko: 헤어드라이어
+    - es: el papel higiénico
+      lit: paper · hygienic
+      en: toilet paper
+      ko: 화장지
+  contrast:
+    title_ko: me의 자리
+    items:
+    - es: Me lavo los dientes.
+      label_ko: 활용된 동사 앞에
+      ko: 이를 닦아요.
+    - es: Voy a lavarme los dientes.
+      label_ko: 동사원형 끝에 붙여서
+      ko: 이를 닦을 거예요.
+    - es: Me voy a lavar los dientes.
+      label_ko: 앞에 둬도 같은 뜻
+      ko: 이를 닦을 거예요.
+  subject:
+    title_ko: 주어 생략
+    items:
+    - es: (Yo) me ducho.
+      ko: 나는 샤워해요.
+    - es: (Tú) te duchas.
+      ko: 너는 샤워해.
+    - es: (Ella) se ducha.
+      ko: 그녀는 샤워해요.
+  extra_notes_ko:
+  - 'lavarse los dientes는 ‘(자기) 이를 닦다’예요. me가 ‘내 몸의’를 맡으니 영어 my 대신 정관사 los를 써요. me는 활용된 동사 바로 앞에 오고, 동사원형·긍정 명령에서는 끝에 붙어요: ¡Lávate los dientes! (이 닦아!)'
+  - ducho(나) · duchas(너) · ducha(그·그녀·당신) — 끝만 봐도 누가 하는지 알 수 있어서 yo · tú · ella는 강조하거나 대비할 때 주로 말해요.
+practice:
+- tiles: [blanca, la, toalla]
+  answer: la toalla blanca
+  ko: 하얀 수건
+- tiles: [dientes, lavo, los, Me]
+  answer: Me lavo los dientes.
+  ko: 이를 닦아요.
+- tiles: [higiénico, hay, 'No', papel]
+  answer: No hay papel higiénico.
+  ko: 화장지가 없어요.
+- tiles: [de, dientes, el, cepillo]
+  answer: el cepillo de dientes
+  ko: 칫솔
+- tiles: [toalla, una, Necesito, limpia]
+  answer: Necesito una toalla limpia.
+  ko: 깨끗한 수건이 하나 필요해요.
+variants:
+- es: el grifo
+  alt: la llave (멕시코 등) · la canilla (아르헨티나)
+- es: la ducha
+  alt: la regadera (중남미)
+- es: la bañera
+  alt: la tina (멕시코)
+- es: el inodoro
+  alt: el váter (스페인 구어) · el excusado (멕시코)
+- es: el lavabo
+  alt: el lavamanos (같은 뜻)
+- es: la pasta de dientes
+  alt: el dentífrico (같은 뜻)
+scenes:
+- es: ¿Dónde está el baño?
+  en: Where's the bathroom?
+  ko: 화장실이 어디예요?
+- es: ¿Está ocupado?
+  en: Is anyone in there?
+  ko: 안에 사람 있어요?
+- es: Me estoy duchando.
+  en: I'm in the shower.
+  ko: 지금 샤워 중이에요.
+- es: Ya no queda papel higiénico.
+  en: We're out of toilet paper.
+  ko: 화장지가 다 떨어졌어요.
+- es: Me lavo los dientes después de comer.
+  en: I brush my teeth after eating.
+  ko: 밥 먹고 나서 이를 닦아요.
+extras:
+  grammar_ko:
+  - 스페인어 명사는 모두 남성(m) 아니면 여성(f)이에요. '그'에 해당하는 정관사는 남성 el, 여성 la, 복수는 los / las예요.
+  - -o로 끝나면 대개 남성(el espejo, el inodoro), -a로 끝나면 대개 여성(la toalla, la ducha)이에요.
+  - 끝 글자로 알 수 없는 단어도 많아요. el jabón, el peine, el champú, el secador처럼요. 관사까지 한 덩어리로 외우는 게 가장 확실해요.
+  - 가위(las tijeras)나 슬리퍼(las chanclas)처럼 짝을 이루는 물건은 복수로 자주 써요.
+  cognates:
+  - es: el champú
+    en: shampoo
+    note_ko: 영어 shampoo를 그대로 빌려 온 말이에요.
+  - es: la esponja
+    en: sponge
+    note_ko: 둘 다 라틴어 spongia에서 왔어요.
+  - es: la toalla
+    en: towel
+    note_ko: 둘 다 프랑크어 *þwahilu(천)에서 왔어요.
+  - es: el papel higiénico
+    en: toilet paper
+    note_ko: papel ≈ paper, higiénico ≈ hygienic. 철자를 보면 뜻이 짐작돼요.
+  false_friend:
+    es: constipado
+    en: constipated
+    note_ko: Estoy constipado는 '감기에 걸렸어요, 코가 막혔어요'라는 뜻이에요. 변비는 estreñido라고 해요.
+  fun_fact_ko: el inodoro는 원래 '냄새가 없는'이라는 뜻의 형용사이기도 해요. (라틴어 in- + odor)
+props:
+- kind: postmark
+  lines:
+  - Nº 01 · EL BAÑO · 3 MAY
+- kind: postmark
+  lines:
+  - CORREO · GRANADA · 3 MAY
+- kind: wall
+  lines:
+  - CAT. 01–02 · AZULEJOS Y ESTRELLAS
+  - Baño de Comares, la Alhambra
+- kind: polaroid
+  lines:
+  - estrellas de luz
+- kind: label
+  lines:
+  - Nº 01 — Granada

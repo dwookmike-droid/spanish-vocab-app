@@ -1,0 +1,435 @@
+# ch16 · El tiempo
+schema_version: 1
+chapter:
+  num: 16
+  es: El tiempo
+  en: The weather
+  ko: 날씨
+  city: Donostia
+  skin: Postal
+  date: 11 MAY
+  word_changes: []
+opener:
+  parada: Parada 16 · Donostia
+  place: La Concha, Donostia-San Sebastián
+  hand: hoy llueve en Donostia — ¿y el paraguas?
+  photo_note_ko: 흐린 하늘 아래 라 콘차 해변
+words:
+- key: weather
+  es: el tiempo
+  base: tiempo
+  gender: m
+  pron: 엘 **띠엠**뽀
+  en: weather
+  ko: 날씨
+  core: true
+  note: ''
+  example:
+    es: ¿Qué tiempo hace hoy?
+    en: What's the weather like today?
+    ko: 오늘 날씨 어때요?
+- key: sun
+  es: el sol
+  base: sol
+  gender: m
+  pron: 엘 **솔**
+  en: sun
+  ko: 해
+  core: true
+  note: ''
+  example:
+    es: Hoy no sale el sol.
+    en: The sun isn't coming out today.
+    ko: 오늘은 해가 안 나요.
+- key: rain
+  es: la lluvia
+  base: lluvia
+  gender: f
+  pron: 라 **유**비아
+  en: rain
+  ko: 비
+  core: true
+  note: ''
+  example:
+    es: Con esta lluvia no salgo.
+    en: I'm not going out in this rain.
+    ko: 이렇게 비가 오면 안 나가요.
+- key: cloud
+  es: la nube
+  base: nube
+  gender: f
+  pron: 라 **누**베
+  en: cloud
+  ko: 구름
+  core: true
+  note: ''
+  example:
+    es: Hay muchas nubes.
+    en: There are a lot of clouds.
+    ko: 구름이 많아요.
+- key: wind
+  es: el viento
+  base: viento
+  gender: m
+  pron: 엘 **비엔**또
+  en: wind
+  ko: 바람
+  core: true
+  note: ''
+  example:
+    es: Hace mucho viento.
+    en: It's very windy.
+    ko: 바람이 많이 불어요.
+- key: fog
+  es: la niebla
+  base: niebla
+  gender: f
+  pron: 라 **니에**블라
+  en: fog
+  ko: 안개
+  core: true
+  note: ''
+  example:
+    es: Hay niebla en la playa.
+    en: There's fog on the beach.
+    ko: 해변에 안개가 꼈어요.
+- key: snow
+  es: la nieve
+  base: nieve
+  gender: f
+  pron: 라 **니에**베
+  en: snow
+  ko: 눈
+  core: true
+  note: ''
+  example:
+    es: Hay nieve en la montaña.
+    en: There's snow on the mountain.
+    ko: 산에 눈이 쌓여 있어요.
+- key: storm
+  es: la tormenta
+  base: tormenta
+  gender: f
+  pron: 라 또르**멘**따
+  en: storm
+  ko: 폭풍우
+  core: true
+  note: ''
+  example:
+    es: Viene una tormenta.
+    en: A storm is coming.
+    ko: 폭풍우가 오고 있어요.
+- key: thunder
+  es: el trueno
+  base: trueno
+  gender: m
+  pron: 엘 **뜨루에**노
+  en: thunder
+  ko: 천둥
+  core: false
+  note: ''
+- key: lightning
+  es: el rayo
+  base: rayo
+  gender: m
+  pron: 엘 **라**요
+  en: lightning
+  ko: 번개
+  core: false
+  note: ''
+- key: umbrella
+  es: el paraguas
+  base: paraguas
+  gender: m
+  pron: 엘 빠**라**구아스
+  en: umbrella
+  ko: 우산
+  core: false
+  note: 'pl.: los paraguas'
+- key: heat
+  es: el calor
+  base: calor
+  gender: m
+  pron: 엘 깔**로르**
+  en: heat
+  ko: 더위
+  core: false
+  note: ''
+- key: cold
+  es: el frío
+  base: frío
+  gender: m
+  pron: 엘 **프리**오
+  en: cold
+  ko: 추위
+  core: false
+  note: ''
+- key: temperature
+  es: la temperatura
+  base: temperatura
+  gender: f
+  pron: 라 뗌뻬라**뚜**라
+  en: temperature
+  ko: 기온
+  core: false
+  note: ''
+- key: degree
+  es: el grado
+  base: grado
+  gender: m
+  pron: 엘 **그라**도
+  en: degree
+  ko: 도
+  core: false
+  note: ''
+- key: sky
+  es: el cielo
+  base: cielo
+  gender: m
+  pron: 엘 **시엘**로
+  en: sky
+  ko: 하늘
+  core: false
+  note: ''
+- key: rainbow
+  es: el arcoíris
+  base: arcoíris
+  gender: m
+  pron: 엘 아르꼬**이**리스
+  en: rainbow
+  ko: 무지개
+  core: false
+  note: ''
+- key: raincoat
+  es: el chubasquero
+  base: chubasquero
+  gender: m
+  pron: 엘 추바스**께**로
+  en: raincoat
+  ko: 비옷
+  core: false
+  note: = el impermeable
+- key: forecast
+  es: la previsión
+  base: previsión
+  gender: f
+  pron: 라 쁘레비**시온**
+  en: forecast
+  ko: 일기 예보
+  core: false
+  note: ''
+- key: season
+  es: la estación
+  base: estación
+  gender: f
+  pron: 라 에스따**시온**
+  en: season
+  ko: 계절
+  core: false
+  note: ''
+word_order:
+  tema: Frases sin sujeto
+  tema_sub_ko: 주어 없는 날씨 표현
+  point_ko: 주어 없는 날씨 표현
+  lead_ko: 날씨를 말할 때는 주어를 쓰지 않아요. 동사가 문장을 바로 열고, 영어의 it에 해당하는 말은 없어요.
+  sentences:
+  - es: Llueve. · Hace calor. · Hay niebla.
+    en: It's raining. · It's hot. · It's foggy.
+    ko: 비 와요. 더워요. 안개 껴요.
+    note_ko: 동사 하나로, hace + 명사로, hay + 명사로
+    tokens:
+    - es: Llueve. ·
+      gloss_ko: 비가 온다
+    - es: Hace
+      gloss_ko: 만든다
+    - es: calor. ·
+      gloss_ko: 더위
+    - es: Hay
+      gloss_ko: 있다
+    - es: niebla
+      gloss_ko: 안개
+    highlight: [0, 1, 3]
+  - es: Hace mucho viento.
+    en: It's very windy.
+    ko: 바람이 많이 불어요.
+    note_ko: hace + 명사 · 명사 앞이라 muy 대신 mucho
+    tokens:
+    - es: Hace
+      gloss_ko: 만든다
+    - es: mucho
+      gloss_ko: 많은
+    - es: viento
+      gloss_ko: 바람
+    highlight: [0]
+  - es: Hay niebla en la playa.
+    en: There's fog on the beach.
+    ko: 해변에 안개가 꼈어요.
+    note_ko: hay + 명사 · 장소는 뒤에
+    tokens:
+    - es: Hay
+      gloss_ko: 있다
+    - es: niebla
+      gloss_ko: 안개
+    - es: en
+      gloss_ko: ~에
+    - es: la playa
+      gloss_ko: 그 해변
+    highlight: [0]
+  - es: Está lloviendo ahora.
+    en: It's raining now.
+    ko: 지금 비가 와요.
+    note_ko: estar + -ndo를 날씨에도 그대로 써요
+    tokens:
+    - es: Está
+      gloss_ko: 있다
+    - es: lloviendo
+      gloss_ko: 비 오는 중
+    - es: ahora
+      gloss_ko: 지금
+    highlight: [0]
+  - es: En mayo nunca nieva aquí.
+    en: It never snows here in May.
+    ko: 여기는 5월에 절대 눈 안 와요.
+    note_ko: nunca가 동사 앞이니 no 없이 · 주어도 없어요
+    tokens:
+    - es: En mayo
+      gloss_ko: 5월에
+    - es: nunca
+      gloss_ko: 결코
+    - es: nieva
+      gloss_ko: 눈이 온다
+    - es: aquí
+      gloss_ko: 여기
+    highlight: [1, 2]
+  patterns:
+  - title_ko: hace + 명사
+    items:
+    - es: Hace calor.
+      en: It's hot.
+      ko: 더워요.
+    - es: Hace frío.
+      en: It's cold.
+      ko: 추워요.
+    - es: Hace sol.
+      en: It's sunny.
+      ko: 해가 나요.
+    - es: Hace buen tiempo.
+      en: The weather's nice.
+      ko: 날씨가 좋아요.
+  - title_ko: hay + 명사
+    items:
+    - es: Hay niebla.
+      en: It's foggy.
+      ko: 안개가 껴요.
+    - es: Hay nubes.
+      en: There are clouds.
+      ko: 구름이 있어요.
+    - es: Hay tormenta.
+      en: There's a storm.
+      ko: 폭풍우가 쳐요.
+  - title_ko: 동사 하나로
+    items:
+    - es: Llueve.
+      lit: llover
+      en: It's raining.
+      ko: 비가 와요.
+    - es: Nieva.
+      lit: nevar
+      en: It's snowing.
+      ko: 눈이 와요.
+    - es: Truena.
+      lit: tronar
+      en: It's thundering.
+      ko: 천둥이 쳐요.
+  contrast:
+    title_ko: 덥다 · 뜨겁다를 말하는 세 가지
+    items:
+    - es: Hace calor.
+      label_ko: 날씨가 더울 때
+      ko: 더워요.
+    - es: Tengo calor.
+      label_ko: 내 몸이 더울 때
+      ko: 저는 더워요.
+    - es: El café está caliente.
+      label_ko: 물건이 뜨거울 때
+      ko: 커피가 뜨거워요.
+  extra_notes_ko:
+  - 'calor와 frío는 명사라서 ‘많이’는 mucho로 꾸며요: Hace mucho calor. muy는 형용사 앞에 오는 말이어서 Hace muy calor라고 하지 않아요.'
+  - '기온은 estar로 말해요: Estamos a veinte grados. ‘우리가 20도에 있다’는 틀로 ‘지금 20도예요’를 뜻해요.'
+practice:
+- tiles: [calor, Hace, mucho]
+  answer: Hace mucho calor.
+  ko: 아주 더워요.
+- tiles: [la, Hay, playa, en, niebla]
+  answer: Hay niebla en la playa.
+  ko: 해변에 안개가 꼈어요.
+- tiles: [ahora, lloviendo, Está]
+  answer: Está lloviendo ahora.
+  ko: 지금 비가 와요.
+- tiles: [hace, Qué, hoy, tiempo]
+  answer: ¿Qué tiempo hace hoy?
+  ko: 오늘 날씨 어때요?
+- tiles: [frío, 'no', Hoy, hace]
+  answer: Hoy no hace frío.
+  ko: 오늘은 안 추워요.
+variants:
+- es: el tiempo
+  alt: el clima (‘날씨’ 뜻으로도 써요)
+- es: el chubasquero
+  alt: el impermeable · el piloto (아르헨티나)
+- es: la previsión
+  alt: el pronóstico (같은 뜻)
+- es: el arcoíris
+  alt: el arco iris (띄어 쓴 형태도 맞아요)
+scenes:
+- es: ¿Qué tiempo va a hacer mañana?
+  en: What will the weather be tomorrow?
+  ko: 내일 날씨 어떨까요?
+- es: ¿Va a llover esta tarde?
+  en: Is it going to rain this afternoon?
+  ko: 오늘 오후에 비가 올까요?
+- es: Llévate el paraguas, por si acaso.
+  en: Take the umbrella, just in case.
+  ko: 혹시 모르니 우산 챙겨요.
+- es: Estamos a veinte grados.
+  en: It's twenty degrees.
+  ko: 지금 20도예요.
+- es: ¡Qué frío hace hoy!
+  en: It's so cold today!
+  ko: 오늘 정말 춥네요!
+extras:
+  grammar_ko:
+  - el paraguas는 parar(막다)와 aguas(물)를 합친 말이에요. 그래서 단수도 -s로 끝나고, 복수는 관사만 바꿔 los paraguas라고 해요.
+  - el tiempo는 ‘날씨’와 ‘시간’을 다 뜻해요. ¿Qué tiempo hace?는 날씨를, ¿Tienes tiempo?는 시간을 묻는 말이에요.
+  - la estación은 ‘역’과 ‘계절’을 다 뜻해요. 네 계절은 la primavera, el verano, el otoño, el invierno예요.
+  - llover와 nevar는 3인칭 단수로만 써요. llueve, nieva, está lloviendo처럼요.
+  cognates:
+  - es: la temperatura
+    en: temperature
+    note_ko: 철자가 거의 같아서 뜻이 바로 보여요.
+  - es: el frío
+    en: frigid
+    note_ko: 둘 다 라틴어 frigidus에서 왔어요.
+  false_friend:
+    es: el rayo
+    en: ray
+    note_ko: el rayo는 주로 ‘번개’예요. ‘햇살’은 un rayo de sol처럼 de sol을 붙여 말해요.
+  fun_fact_ko: Donostia는 바스크어 이름이에요. 스페인어로는 San Sebastián이라고 해요.
+props:
+- kind: postmark
+  lines:
+  - Nº 16 · EL TIEMPO · 11 MAY
+- kind: postmark
+  lines:
+  - CORREO · DONOSTIA · 11 MAY
+- kind: stamp
+  lines:
+  - 'HOY: NUBES'
+  - 11 MAY
+- kind: hand
+  lines:
+  - Hoy llueve y hace viento.
+  - Mañana, ¡a Madrid!
+- kind: polaroid
+  lines:
+  - cielo gris, La Concha

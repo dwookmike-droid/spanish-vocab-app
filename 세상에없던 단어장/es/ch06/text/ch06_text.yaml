@@ -1,0 +1,458 @@
+# ch06 · Frutas y verduras
+schema_version: 1
+chapter:
+  num: 6
+  es: Frutas y verduras
+  en: Fruit and vegetables
+  ko: 과일과 채소
+  city: Barcelona
+  skin: Mercado
+  date: 7 MAY
+  word_changes: []
+opener:
+  parada: Parada 06 · Barcelona
+  place: Mercat de la Boqueria, puestos de fruta
+  hand: un kilo de esto, medio kilo de aquello
+  photo_note_ko: 라 보케리아 시장의 과일 진열대
+words:
+- key: apple
+  es: la manzana
+  base: manzana
+  gender: f
+  pron: 라 만**사**나
+  en: apple
+  ko: 사과
+  core: true
+  note: ''
+  example:
+    es: Un kilo de manzanas, por favor.
+    en: A kilo of apples, please.
+    ko: 사과 1킬로 주세요.
+- key: orange
+  es: la naranja
+  base: naranja
+  gender: f
+  pron: 라 나**랑**하
+  en: orange
+  ko: 오렌지
+  core: true
+  note: ''
+  example:
+    es: ¿A cuánto está el kilo de naranjas?
+    en: How much is a kilo of oranges?
+    ko: 오렌지 1킬로에 얼마예요?
+- key: banana
+  es: el plátano
+  base: plátano
+  gender: m
+  pron: 엘 **쁠라**따노
+  en: banana
+  ko: 바나나
+  core: true
+  note: 'Latam: la banana'
+  example:
+    es: Medio kilo de plátanos, por favor.
+    en: Half a kilo of bananas, please.
+    ko: 바나나 반 킬로 주세요.
+- key: grape
+  es: la uva
+  base: uva
+  gender: f
+  pron: 라 **우**바
+  en: grape
+  ko: 포도
+  core: true
+  note: ''
+  example:
+    es: ¿Me pone un racimo de uvas?
+    en: Can I have a bunch of grapes?
+    ko: 포도 한 송이 주시겠어요?
+- key: strawberry
+  es: la fresa
+  base: fresa
+  gender: f
+  pron: 라 **프레**사
+  en: strawberry
+  ko: 딸기
+  core: true
+  note: 'Arg., Chile: la frutilla'
+  example:
+    es: Estas fresas son muy dulces.
+    en: These strawberries are very sweet.
+    ko: 이 딸기는 아주 달아요.
+- key: melon
+  es: el melón
+  base: melón
+  gender: m
+  pron: 엘 멜**론**
+  en: melon
+  ko: 멜론
+  core: true
+  note: ''
+  example:
+    es: Este melón está en su punto.
+    en: This melon is perfectly ripe.
+    ko: 이 멜론은 딱 맛있게 익었어요.
+- key: watermelon
+  es: la sandía
+  base: sandía
+  gender: f
+  pron: 라 산**디**아
+  en: watermelon
+  ko: 수박
+  core: true
+  note: ''
+  example:
+    es: Media sandía, por favor.
+    en: Half a watermelon, please.
+    ko: 수박 반 통 주세요.
+- key: lemon
+  es: el limón
+  base: limón
+  gender: m
+  pron: 엘 리**몬**
+  en: lemon
+  ko: 레몬
+  core: true
+  note: ''
+  example:
+    es: Un limón, nada más.
+    en: One lemon, nothing else.
+    ko: 레몬 하나만 주세요.
+- key: tomato
+  es: el tomate
+  base: tomate
+  gender: m
+  pron: 엘 또**마**떼
+  en: tomato
+  ko: 토마토
+  core: false
+  note: 'México: el jitomate'
+- key: lettuce
+  es: la lechuga
+  base: lechuga
+  gender: f
+  pron: 라 레**추**가
+  en: lettuce
+  ko: 상추
+  core: false
+  note: ''
+- key: onion
+  es: la cebolla
+  base: cebolla
+  gender: f
+  pron: 라 세**보**야
+  en: onion
+  ko: 양파
+  core: false
+  note: ''
+- key: garlic
+  es: el ajo
+  base: ajo
+  gender: m
+  pron: 엘 **아**호
+  en: garlic
+  ko: 마늘
+  core: false
+  note: ''
+- key: potato
+  es: la patata
+  base: patata
+  gender: f
+  pron: 라 빠**따**따
+  en: potato
+  ko: 감자
+  core: false
+  note: 'Latam: la papa'
+- key: carrot
+  es: la zanahoria
+  base: zanahoria
+  gender: f
+  pron: 라 사나**오**리아
+  en: carrot
+  ko: 당근
+  core: false
+  note: ''
+- key: pepper
+  es: el pimiento
+  base: pimiento
+  gender: m
+  pron: 엘 삐**미엔**또
+  en: bell pepper
+  ko: 피망
+  core: false
+  note: ''
+- key: cucumber
+  es: el pepino
+  base: pepino
+  gender: m
+  pron: 엘 뻬**삐**노
+  en: cucumber
+  ko: 오이
+  core: false
+  note: ''
+- key: aubergine
+  es: la berenjena
+  base: berenjena
+  gender: f
+  pron: 라 베렝**헤**나
+  en: aubergine
+  ko: 가지
+  core: false
+  note: ''
+- key: mushroom
+  es: la seta
+  base: seta
+  gender: f
+  pron: 라 **세**따
+  en: mushroom
+  ko: 버섯
+  core: false
+  note: 'Latam: el hongo'
+- key: kilo
+  es: el kilo
+  base: kilo
+  gender: m
+  pron: 엘 **낄**로
+  en: kilo
+  ko: 킬로
+  core: false
+  note: = el kilogramo
+- key: bag
+  es: la bolsa
+  base: bolsa
+  gender: f
+  pron: 라 **볼**사
+  en: bag
+  ko: 봉지
+  core: false
+  note: ''
+word_order:
+  tema: Un kilo de tomates
+  tema_sub_ko: 수량 — 얼마만큼 + de + 무엇
+  point_ko: 수량 + de + 명사
+  lead_ko: 양을 말할 때는 수량이 먼저 오고 de를 거쳐 물건 이름이 와요. 한국어와 순서가 반대예요.
+  sentences:
+  - es: Un kilo de tomates, por favor.
+    en: A kilo of tomatoes, please.
+    ko: 토마토 1킬로 주세요.
+    note_ko: 수량(un kilo) + de + 물건(tomates)
+    tokens:
+    - es: Un kilo
+      gloss_ko: 1킬로
+    - es: de
+      gloss_ko: ~의
+    - es: tomates,
+      gloss_ko: 토마토들
+    - es: por favor
+      gloss_ko: 부탁합니다
+    highlight: [0, 1]
+  - es: Media docena de huevos, por favor.
+    en: Half a dozen eggs, please.
+    ko: 달걀 반 다스 주세요.
+    note_ko: docena가 여성이라 media · 앞에 una는 안 붙여요
+    tokens:
+    - es: Media docena
+      gloss_ko: 반 다스
+    - es: de
+      gloss_ko: ~의
+    - es: huevos,
+      gloss_ko: 달걀들
+    - es: por favor
+      gloss_ko: 부탁합니다
+    highlight: [0, 1]
+  - es: Quiero dos kilos de patatas.
+    en: I'd like two kilos of potatoes.
+    ko: 감자 2킬로 주세요.
+    note_ko: 2킬로부터는 kilos · 물건도 복수로
+    tokens:
+    - es: Quiero
+      gloss_ko: 원한다(나는)
+    - es: dos kilos
+      gloss_ko: 2킬로
+    - es: de
+      gloss_ko: ~의
+    - es: patatas
+      gloss_ko: 감자들
+    highlight: [1, 2]
+  - es: Hay una bolsa de cebollas.
+    en: There's a bag of onions.
+    ko: 양파 한 봉지가 있어요.
+    note_ko: hay 뒤에도 같은 틀 · 봉지, 상자도 수량이에요
+    tokens:
+    - es: Hay
+      gloss_ko: 있다
+    - es: una bolsa
+      gloss_ko: 한 봉지
+    - es: de
+      gloss_ko: ~의
+    - es: cebollas
+      gloss_ko: 양파들
+    highlight: [1, 2]
+  - es: Cien gramos de setas, por favor.
+    en: A hundred grams of mushrooms, please.
+    ko: 버섯 100그램 주세요.
+    note_ko: 숫자 + 단위 + de + 물건
+    tokens:
+    - es: Cien gramos
+      gloss_ko: 100그램
+    - es: de
+      gloss_ko: ~의
+    - es: setas,
+      gloss_ko: 버섯들
+    - es: por favor
+      gloss_ko: 부탁합니다
+    highlight: [0, 1]
+  patterns:
+  - title_ko: 수량 + de + 명사
+    items:
+    - es: un kilo de tomates
+      lit: kilo · of · tomatoes
+      en: a kilo of tomatoes
+      ko: 토마토 1킬로
+    - es: media docena de huevos
+      lit: half · dozen · of · eggs
+      en: half a dozen eggs
+      ko: 달걀 반 다스
+    - es: medio kilo de uvas
+      lit: half · kilo · of · grapes
+      en: half a kilo of grapes
+      ko: 포도 반 킬로
+    - es: una bolsa de naranjas
+      lit: bag · of · oranges
+      en: a bag of oranges
+      ko: 오렌지 한 봉지
+  - title_ko: 물건마다 세는 말
+    items:
+    - es: una caja de fresas
+      en: a box of strawberries
+      ko: 딸기 한 상자
+    - es: un racimo de uvas
+      en: a bunch of grapes
+      ko: 포도 한 송이
+    - es: una cabeza de ajo
+      en: a head of garlic
+      ko: 마늘 한 통
+  contrast:
+    title_ko: de가 필요할 때와 아닐 때
+    items:
+    - es: Un kilo de tomates.
+      label_ko: 수량 + de
+      ko: 토마토 1킬로.
+    - es: Dos tomates.
+      label_ko: 숫자만이면 de 없이
+      ko: 토마토 두 개.
+    - es: Un tomate grande.
+      label_ko: 형용사는 뒤에
+      ko: 큰 토마토 하나.
+  subject:
+    title_ko: medio와 media
+    items:
+    - es: Medio kilo, por favor.
+      ko: 반 킬로 주세요.
+    - es: Media docena, por favor.
+      ko: 반 다스 주세요.
+    - es: Media sandía, por favor.
+      ko: 수박 반 통 주세요.
+  extra_notes_ko:
+  - 셀 수 있는 물건은 de 뒤에 복수로 써요. un kilo de tomates, media docena de huevos처럼요. 마늘이나 우유처럼 낱개로 세지 않는 말은 un poco de ajo처럼 단수 그대로 둬요.
+  - 숫자만 말할 때는 de가 필요 없어요(dos tomates). medio는 ‘반’인데 앞에 un을 붙이지 않고, 뒤에 오는 명사에 맞춰 medio kilo, media docena라고 해요.
+practice:
+- tiles: [tomates, kilo, de, Un]
+  answer: Un kilo de tomates.
+  ko: 토마토 1킬로.
+- tiles: [de, docena, huevos, Media]
+  answer: Media docena de huevos.
+  ko: 달걀 반 다스.
+- tiles: [patatas, dos, Quiero, de, kilos]
+  answer: Quiero dos kilos de patatas.
+  ko: 감자 2킬로 주세요.
+- tiles: [bolsa, cebollas, Hay, de, una]
+  answer: Hay una bolsa de cebollas.
+  ko: 양파 한 봉지가 있어요.
+- tiles: [grande, sandía, una, Quiero]
+  answer: Quiero una sandía grande.
+  ko: 큰 수박 하나 주세요.
+variants:
+- es: la patata
+  alt: la papa (중남미)
+- es: el plátano
+  alt: la banana · el banano (중남미 일부)
+- es: la fresa
+  alt: la frutilla (아르헨티나·칠레 등)
+- es: la sandía
+  alt: la patilla (콜롬비아·베네수엘라)
+- es: el pimiento
+  alt: el morrón (아르헨티나) · el pimentón (콜롬비아)
+- es: la seta
+  alt: el hongo (중남미)
+- es: el tomate
+  alt: el jitomate (멕시코)
+scenes:
+- es: ¿A cuánto está el kilo?
+  en: How much is a kilo?
+  ko: 1킬로에 얼마예요?
+- es: Póngame medio kilo de fresas.
+  en: Half a kilo of strawberries, please.
+  ko: 딸기 반 킬로 주세요.
+- es: ¿Algo más?
+  en: Anything else?
+  ko: 더 필요한 거 있어요?
+- es: Nada más, gracias.
+  en: Nothing else, thanks.
+  ko: 이제 됐어요, 고마워요.
+- es: ¿Me da una bolsa, por favor?
+  en: Can I have a bag, please?
+  ko: 봉지 하나 주시겠어요?
+- es: ¿Puedo pagar con tarjeta?
+  en: Can I pay by card?
+  ko: 카드로 계산해도 돼요?
+extras:
+  grammar_ko:
+  - 스페인에서 el plátano는 바나나예요. 과일 이름도 관사와 함께 외워요. el limón, la naranja처럼요.
+  - el limón의 복수는 los limones, el melón은 los melones예요. -ón 단어는 -es가 붙으면 악센트 부호가 빠져요.
+  - 복수는 모음 뒤에 -s(tomates), 자음 뒤에 -es(limones)를 붙여요.
+  - 시장에서는 Me pone…, Póngame…(주세요)를 자주 들어요. 값을 물을 때는 ¿A cuánto está?라고 해요.
+  cognates:
+  - es: el tomate
+    en: tomato
+    note_ko: 둘 다 나우아틀어 tomatl에서 왔어요.
+  - es: la patata
+    en: potato
+    note_ko: 영어 potato가 스페인어 patata에서 왔어요.
+  - es: el limón
+    en: lemon
+    note_ko: 둘 다 아랍어 laymūn에서 왔어요.
+  - es: la naranja
+    en: orange
+    note_ko: 둘 다 아랍어 nāranj에서 왔어요.
+  false_friend:
+    es: la fresa
+    en: fresh
+    note_ko: la fresa는 딸기예요. ‘신선한’은 fresco라고 해요.
+  fun_fact_ko: 스페인에서는 새해 자정 종소리에 맞춰 포도 12알을 먹어요.
+props:
+- kind: stamp
+  lines:
+  - MERCADO · 7 MAY
+  - frutas y verduras
+- kind: chalk
+  lines:
+  - Hoy en el puesto
+  - tomates · fresas · uvas
+  - 토마토, 딸기, 포도
+  - 7 de mayo
+- kind: price
+  lines:
+  - manzanas
+  - 2,20 €/kg
+- kind: price
+  lines:
+  - media docena
+  - 1,90 €
+- kind: polaroid
+  lines:
+  - la Boqueria
+- kind: hand
+  lines:
+  - una bolsa de naranjas

@@ -1,0 +1,435 @@
+# ch11 · El transporte — ch11_seed_v6.yaml에서 시작 (단어 카드·오프너·소품 유지)
+schema_version: 1
+chapter:
+  num: 11
+  es: El transporte
+  en: Getting around
+  ko: 교통
+  city: Madrid
+  skin: Pasaporte · Cartel retro
+  date: 12 MAY
+  word_changes: []
+opener:
+  parada: Parada 11 · Madrid
+  place: Estación de Atocha, el jardín tropical
+  hand: ¿a dónde vamos hoy? — en tren, en metro, a pie
+  photo_note_ko: 마드리드 아토차역 안의 열대 정원
+words:
+- key: train
+  es: el tren
+  base: tren
+  gender: m
+  pron: 엘 **뜨렌**
+  en: train
+  ko: 기차
+  core: true
+  note: ''
+  example:
+    es: El tren sale a las nueve.
+    en: The train leaves at nine.
+    ko: 기차는 아홉 시에 출발해요.
+- key: bus
+  es: el autobús
+  base: autobús
+  gender: m
+  pron: 엘 아우또**부**스
+  en: bus
+  ko: 버스
+  core: true
+  note: 'Canarias: la guagua'
+  example:
+    es: ¿Este autobús va al centro?
+    en: Does this bus go to the center?
+    ko: 이 버스 시내로 가요?
+- key: metro
+  es: el metro
+  base: metro
+  gender: m
+  pron: 엘 **메**뜨로
+  en: metro, subway
+  ko: 지하철
+  core: true
+  note: = el metropolitano
+  example:
+    es: Voy al museo en metro.
+    en: I'm going to the museum by metro.
+    ko: 지하철로 박물관에 가요.
+- key: taxi
+  es: el taxi
+  base: taxi
+  gender: m
+  pron: 엘 **딱**시
+  en: taxi
+  ko: 택시
+  core: true
+  note: ''
+  example:
+    es: ¿Cogemos un taxi?
+    en: Shall we take a taxi?
+    ko: 택시 탈까요?
+- key: ticket
+  es: el billete
+  base: billete
+  gender: m
+  pron: 엘 비**예**떼
+  en: ticket
+  ko: 표, 승차권
+  core: true
+  note: 'Latam: el boleto'
+  example:
+    es: Un billete a Toledo, por favor.
+    en: A ticket to Toledo, please.
+    ko: 톨레도행 표 한 장 주세요.
+- key: station
+  es: la estación
+  base: estación
+  gender: f
+  pron: 라 에스따**시온**
+  en: station
+  ko: 역
+  core: true
+  note: ''
+  example:
+    es: ¿Dónde está la estación de Atocha?
+    en: Where's Atocha station?
+    ko: 아토차역이 어디예요?
+- key: platform
+  es: el andén
+  base: andén
+  gender: m
+  pron: 엘 안**덴**
+  en: platform
+  ko: 승강장
+  core: true
+  note: ''
+  example:
+    es: El tren sale del andén cinco.
+    en: The train leaves from platform five.
+    ko: 기차는 5번 승강장에서 출발해요.
+- key: suitcase
+  es: la maleta
+  base: maleta
+  gender: f
+  pron: 라 말**레**따
+  en: suitcase
+  ko: 여행 가방
+  core: true
+  note: ''
+  example:
+    es: Mi maleta pesa mucho.
+    en: My suitcase is very heavy.
+    ko: 제 여행 가방이 아주 무거워요.
+- key: plane
+  es: el avión
+  base: avión
+  gender: m
+  pron: 엘 아**비온**
+  en: plane
+  ko: 비행기
+  core: false
+  note: ''
+- key: boat
+  es: el barco
+  base: barco
+  gender: m
+  pron: 엘 **바**르꼬
+  en: boat
+  ko: 배
+  core: false
+  note: ''
+- key: bike
+  es: la bicicleta
+  base: bicicleta
+  gender: f
+  pron: 라 비시**끌레**따
+  en: bicycle
+  ko: 자전거
+  core: false
+  note: ''
+- key: car
+  es: el coche
+  base: coche
+  gender: m
+  pron: 엘 **꼬**체
+  en: car
+  ko: 자동차
+  core: false
+  note: 'Latam: el carro'
+- key: moto
+  es: la moto
+  base: moto
+  gender: f
+  pron: 라 **모**또
+  en: motorbike
+  ko: 오토바이
+  core: false
+  note: = la motocicleta
+- key: stop
+  es: la parada
+  base: parada
+  gender: f
+  pron: 라 빠**라**다
+  en: (bus) stop
+  ko: 정류장
+  core: false
+  note: ''
+- key: lights
+  es: el semáforo
+  base: semáforo
+  gender: m
+  pron: 엘 세**마**포로
+  en: traffic light
+  ko: 신호등
+  core: false
+  note: ''
+- key: road
+  es: la carretera
+  base: carretera
+  gender: f
+  pron: 라 까레**떼**라
+  en: road
+  ko: 도로
+  core: false
+  note: ''
+- key: backpack
+  es: la mochila
+  base: mochila
+  gender: f
+  pron: 라 모**칠**라
+  en: backpack
+  ko: 배낭
+  core: false
+  note: ''
+- key: helmet
+  es: el casco
+  base: casco
+  gender: m
+  pron: 엘 **까**스꼬
+  en: helmet
+  ko: 헬멧
+  core: false
+  note: ''
+- key: airport
+  es: el aeropuerto
+  base: aeropuerto
+  gender: m
+  pron: 엘 아에로**뿌에**르또
+  en: airport
+  ko: 공항
+  core: false
+  note: ''
+- key: seat
+  es: el asiento
+  base: asiento
+  gender: m
+  pron: 엘 아**시엔**또
+  en: seat
+  ko: 좌석
+  core: false
+  note: ''
+word_order:
+  tema: Voy a Toledo en tren
+  tema_sub_ko: 어순 — ir a + 장소, en + 교통수단
+  point_ko: '이동: ir a + 장소 · en + 교통수단 · a pie'
+  lead_ko: 어디로 가는지는 a로, 무엇을 타고 가는지는 en으로 말해요. 걸어갈 때만 a pie라고 해요.
+  sentences:
+  - es: Voy a Toledo en tren.
+    en: I'm going to Toledo by train.
+    ko: 기차로 톨레도에 가요.
+    note_ko: 동사 + a 장소 + en 교통수단 · 한국어와 순서가 달라요
+    tokens:
+    - es: Voy
+      gloss_ko: 가다(나)
+    - es: a Toledo
+      gloss_ko: 톨레도로
+    - es: en tren
+      gloss_ko: 기차로
+    highlight: [1, 2]
+  - es: Vamos al aeropuerto en taxi.
+    en: We're going to the airport by taxi.
+    ko: 택시로 공항에 가요.
+    note_ko: a + el은 al로 줄여요 · vamos는 ‘우리가 가다’
+    tokens:
+    - es: Vamos
+      gloss_ko: 가다(우리)
+    - es: al
+      gloss_ko: 그 ~로
+    - es: aeropuerto
+      gloss_ko: 공항
+    - es: en taxi
+      gloss_ko: 택시로
+    highlight: [1, 3]
+  - es: Voy al centro a pie.
+    en: I'm walking to the center.
+    ko: 걸어서 시내에 가요.
+    note_ko: 걸어서는 en이 아니라 a pie
+    tokens:
+    - es: Voy
+      gloss_ko: 가다(나)
+    - es: al centro
+      gloss_ko: 그 시내로
+    - es: a pie
+      gloss_ko: 걸어서
+    highlight: [1, 2]
+  - es: ¿Vas a la estación en metro?
+    en: Are you going to the station by metro?
+    ko: 지하철로 역에 가요?
+    note_ko: tú가 주어면 vas · 뒤의 순서는 그대로예요
+    tokens:
+    - es: ¿Vas
+      gloss_ko: 가다(너)
+    - es: a la
+      gloss_ko: 그 ~로
+    - es: estación
+      gloss_ko: 역
+    - es: en metro?
+      gloss_ko: 지하철로
+    highlight: [1, 3]
+  - es: Voy en autobús a la estación.
+    en: I'm going to the station by bus.
+    ko: 버스로 역에 가요.
+    note_ko: 교통수단을 먼저 말해도 뜻은 같아요
+    tokens:
+    - es: Voy
+      gloss_ko: 가다(나)
+    - es: en autobús
+      gloss_ko: 버스로
+    - es: a la
+      gloss_ko: 그 ~로
+    - es: estación
+      gloss_ko: 역
+    highlight: [1, 2]
+  patterns:
+  - title_ko: a + 장소
+    items:
+    - es: a Toledo
+      lit: to · Toledo
+      ko: 톨레도로
+    - es: a la estación
+      lit: to · the · station
+      ko: 역으로
+    - es: al aeropuerto
+      lit: to + the · airport
+      ko: 공항으로
+  - title_ko: en + 교통수단 · 관사 없이
+    items:
+    - es: en tren
+      lit: in · train
+      en: by train
+      ko: 기차로
+    - es: en autobús
+      lit: in · bus
+      en: by bus
+      ko: 버스로
+    - es: en coche
+      lit: in · car
+      en: by car
+      ko: 차로
+    - es: en avión
+      lit: in · plane
+      en: by plane
+      ko: 비행기로
+  contrast:
+    title_ko: a와 en의 쓰임
+    items:
+    - es: Voy a Madrid.
+      label_ko: 장소는 a
+      ko: 마드리드에 가요.
+    - es: Voy en metro.
+      label_ko: 탈것은 en
+      ko: 지하철로 가요.
+    - es: Voy a pie.
+      label_ko: 걷기는 a pie
+      ko: 걸어서 가요.
+  subject:
+    title_ko: 주어 생략
+    items:
+    - es: (Yo) voy a pie.
+      ko: 나는 걸어가요.
+    - es: (Tú) vas en metro.
+      ko: 너는 지하철로 가.
+    - es: (Nosotros) vamos en coche.
+      ko: 우리는 차로 가요.
+  extra_notes_ko:
+  - 교통수단 앞에는 관사를 쓰지 않아요. en tren, en coche처럼 en 뒤에 바로 이어요. 어떤 기차인지 짚어 말할 때만 en el tren de las nueve처럼 관사를 넣어요.
+  - ir의 모양은 voy, vas, va, vamos, vais, van이에요. 끝만 봐도 누가 가는지 알 수 있어서 yo, tú는 보통 말하지 않아요.
+practice:
+- tiles: [tren, a, Voy, en, Toledo]
+  answer: Voy a Toledo en tren.
+  ko: 기차로 톨레도에 가요.
+- tiles: [taxi, al, Vamos, en, aeropuerto]
+  answer: Vamos al aeropuerto en taxi.
+  ko: 택시로 공항에 가요.
+- tiles: [pie, centro, Voy, a, al]
+  answer: Voy al centro a pie.
+  ko: 걸어서 시내에 가요.
+- tiles: ['metro?', a, estación, ¿Vas, en, la]
+  answer: ¿Vas a la estación en metro?
+  ko: 지하철로 역에 가요?
+- tiles: [favor, 'Toledo,', Un, por, a, billete]
+  answer: Un billete a Toledo, por favor.
+  ko: 톨레도행 표 한 장 주세요.
+variants:
+- es: el autobús
+  alt: la guagua (카나리아·카리브) · el camión (멕시코)
+- es: el billete
+  alt: el boleto (중남미)
+- es: el coche
+  alt: el carro (중남미) · el auto (칠레·아르헨티나)
+- es: el metro
+  alt: el subte (아르헨티나)
+- es: la maleta
+  alt: la valija (아르헨티나 등)
+- es: la parada
+  alt: el paradero (칠레·페루)
+scenes:
+- es: ¿Cuánto cuesta el billete a Toledo?
+  en: How much is the ticket to Toledo?
+  ko: 톨레도행 표는 얼마예요?
+- es: Un billete de ida y vuelta, por favor.
+  en: A return ticket, please.
+  ko: 왕복표 한 장 주세요.
+- es: ¿De qué andén sale el tren?
+  en: What platform does the train leave from?
+  ko: 기차는 몇 번 승강장에서 떠나요?
+- es: ¿Dónde está la parada de taxis?
+  en: Where's the taxi rank?
+  ko: 택시 승강장이 어디예요?
+- es: Perdón, este asiento es mío.
+  en: Excuse me, this seat is mine.
+  ko: 죄송한데 이 자리는 제 자리예요.
+extras:
+  grammar_ko:
+  - a + el은 al, de + el은 del로 줄여 써요. al aeropuerto, del andén처럼요. a la, de la는 줄지 않아요.
+  - la moto는 -o로 끝나도 여성이에요. la motocicleta를 줄인 말이라서 그래요.
+  - 스페인에서는 ‘타다’를 coger로 자주 말해요. 중남미 일부에서는 이 말이 비속어로 들려서 tomar를 써요.
+  - 지폐도 el billete라고 해요. 앞뒤 말을 보고 표인지 지폐인지 구별해요.
+  cognates:
+  - es: el autobús
+    en: bus
+    note_ko: 영어 bus는 omnibus를 줄인 말이고, autobús도 이 말과 이어져요.
+  - es: el aeropuerto
+    en: airport
+    note_ko: aero ≈ air, puerto ≈ port. 조각을 나눠 보면 뜻이 보여요.
+  - es: la bicicleta
+    en: bicycle
+    note_ko: 철자가 닮아서 뜻이 금방 짐작돼요.
+  false_friend:
+    es: el coche
+    en: coach
+    note_ko: el coche는 자동차예요. 장거리 버스는 el autobús나 el autocar라고 해요.
+  fun_fact_ko: 마드리드 Puerta del Sol에는 스페인 도로의 기점을 뜻하는 km 0 표지가 있어요.
+props:
+- kind: stamp
+  lines:
+  - ENTRADA · ENTRY
+  - MADRID
+  - 12 MAY · Nº 11
+- kind: polaroid
+  lines:
+  - km 0, Puerta del Sol
+- kind: ticket
+  lines:
+  - BILLETE · TICKET · 승차권
+  - MADRID-ATOCHA → TOLEDO
+  - 14 MAY · 09:20 · COCHE 4 · PLAZA 07A

@@ -1,0 +1,459 @@
+# ch13 · El hotel
+schema_version: 1
+chapter:
+  num: 13
+  es: El hotel
+  en: The hotel
+  ko: 호텔
+  city: Salamanca
+  skin: Pasaporte · Cartel retro
+  date: 17 MAY
+  word_changes: []
+opener:
+  parada: Parada 13 · Salamanca
+  place: Salamanca, pasillo de un hotel antiguo
+  hand: habitación 13 — ¿me suben la maleta?
+  photo_note_ko: 살라망카 옛 호텔의 긴 복도
+words:
+- key: hotel
+  es: el hotel
+  base: hotel
+  gender: m
+  pron: 엘 오**뗄**
+  en: hotel
+  ko: 호텔
+  core: true
+  note: ''
+  example:
+    es: El hotel está cerca de la plaza.
+    en: The hotel is near the square.
+    ko: 호텔은 광장 가까이에 있어요.
+- key: reception
+  es: la recepción
+  base: recepción
+  gender: f
+  pron: 라 레세쁘**시온**
+  en: reception
+  ko: 프런트
+  core: true
+  note: ''
+  example:
+    es: ¿Dónde está la recepción?
+    en: Where's reception?
+    ko: 프런트가 어디예요?
+- key: room
+  es: la habitación
+  base: habitación
+  gender: f
+  pron: 라 아비따**시온**
+  en: room
+  ko: 방
+  core: true
+  note: ''
+  example:
+    es: Tengo una habitación reservada.
+    en: I have a room booked.
+    ko: 방을 예약했어요.
+- key: key
+  es: la llave
+  base: llave
+  gender: f
+  pron: 라 **야**베
+  en: key
+  ko: 열쇠
+  core: true
+  note: ''
+  example:
+    es: ¿Me da la llave de la habitación?
+    en: Can you give me the room key?
+    ko: 방 열쇠 좀 주시겠어요?
+- key: card
+  es: la tarjeta
+  base: tarjeta
+  gender: f
+  pron: 라 따르**헤**따
+  en: card
+  ko: 카드
+  core: true
+  note: ''
+  example:
+    es: ¿Puedo pagar con tarjeta?
+    en: Can I pay by card?
+    ko: 카드로 결제해도 돼요?
+- key: lift
+  es: el ascensor
+  base: ascensor
+  gender: m
+  pron: 엘 아스센**소르**
+  en: lift, elevator
+  ko: 엘리베이터
+  core: true
+  note: 'Latam: el elevador'
+  example:
+    es: El ascensor no funciona.
+    en: The lift isn't working.
+    ko: 엘리베이터가 고장 났어요.
+- key: stairs
+  es: la escalera
+  base: escalera
+  gender: f
+  pron: 라 에스깔**레**라
+  en: stairs
+  ko: 계단
+  core: true
+  note: 'también: las escaleras'
+  example:
+    es: La escalera está a la derecha.
+    en: The stairs are on the right.
+    ko: 계단은 오른쪽에 있어요.
+- key: floor
+  es: la planta
+  base: planta
+  gender: f
+  pron: 라 **쁠란**따
+  en: floor (storey)
+  ko: 층
+  core: true
+  note: = el piso
+  example:
+    es: Mi habitación está en la tercera planta.
+    en: My room is on the third floor.
+    ko: 제 방은 3층(한국식 4층)이에요.
+- key: breakfast
+  es: el desayuno
+  base: desayuno
+  gender: m
+  pron: 엘 데사**유**노
+  en: breakfast
+  ko: 아침 식사
+  core: false
+  note: ''
+- key: towel
+  es: la toalla
+  base: toalla
+  gender: f
+  pron: 라 또**아**야
+  en: towel
+  ko: 수건
+  core: false
+  note: ''
+- key: reservation
+  es: la reserva
+  base: reserva
+  gender: f
+  pron: 라 레**세르**바
+  en: reservation
+  ko: 예약
+  core: false
+  note: ''
+- key: passport
+  es: el pasaporte
+  base: pasaporte
+  gender: m
+  pron: 엘 빠사**뽀**르떼
+  en: passport
+  ko: 여권
+  core: false
+  note: ''
+- key: suitcase
+  es: la maleta
+  base: maleta
+  gender: f
+  pron: 라 말**레**따
+  en: suitcase
+  ko: 여행 가방
+  core: false
+  note: ''
+- key: receptionist
+  es: el recepcionista
+  base: recepcionista
+  gender: m
+  pron: 엘 레세쁘시오**니**스따
+  en: receptionist
+  ko: 프런트 직원
+  core: false
+  note: 'f: la recepcionista'
+- key: doublebed
+  es: la cama doble
+  base: cama doble
+  gender: f
+  pron: 라 **까**마 **도**블레
+  en: double bed
+  ko: 더블 침대
+  core: false
+  note: ''
+- key: shower
+  es: la ducha
+  base: ducha
+  gender: f
+  pron: 라 **두**차
+  en: shower
+  ko: 샤워기
+  core: false
+  note: 'Latam: la regadera'
+- key: wifi
+  es: el wifi
+  base: wifi
+  gender: m
+  pron: 엘 **위**피
+  en: Wi-Fi
+  ko: 와이파이
+  core: false
+  note: ''
+- key: exit
+  es: la salida
+  base: salida
+  gender: f
+  pron: 라 살**리**다
+  en: exit
+  ko: 출구
+  core: false
+  note: ''
+- key: invoice
+  es: la factura
+  base: factura
+  gender: f
+  pron: 라 팍**뚜**라
+  en: invoice
+  ko: 청구서
+  core: false
+  note: ''
+- key: pillow
+  es: la almohada
+  base: almohada
+  gender: f
+  pron: 라 알모**아**다
+  en: pillow
+  ko: 베개
+  core: false
+  note: ''
+word_order:
+  tema: Dos pronombres juntos
+  tema_sub_ko: 대명사 두 개 — 사람이 먼저, 물건이 뒤에
+  point_ko: '대명사 두 개: me lo · se lo (사람 먼저)'
+  lead_ko: 대명사가 둘이면 사람이 먼저, 물건이 다음이에요. 둘 다 활용된 동사 바로 앞에 놓이고, le는 lo·la 앞에서 se가 돼요.
+  sentences:
+  - es: ¿Me lo sube a la habitación?
+    en: Can you bring it up to my room?
+    ko: 그거 방으로 올려 주시겠어요?
+    note_ko: 사람 me가 먼저, 물건 lo가 다음 · 둘 다 동사 앞
+    tokens:
+    - es: ¿Me
+      gloss_ko: 나에게
+    - es: lo
+      gloss_ko: 그것을
+    - es: sube
+      gloss_ko: 올린다
+    - es: a
+      gloss_ko: ~로
+    - es: la
+      gloss_ko: 그
+    - es: habitación?
+      gloss_ko: 방
+    highlight: [0, 1]
+  - es: ¿La maleta? ¿Me la guarda aquí?
+    en: The suitcase? Can you keep it here?
+    ko: 가방이요? 여기 맡아 주실래요?
+    note_ko: la가 la maleta를 받아요 · 순서는 me + la
+    tokens:
+    - es: ¿La maleta?
+      gloss_ko: 그 가방?
+    - es: ¿Me
+      gloss_ko: 나에게
+    - es: la
+      gloss_ko: 그것을
+    - es: guarda
+      gloss_ko: 보관한다
+    - es: aquí?
+      gloss_ko: 여기
+    highlight: [1, 2]
+  - es: ¿La llave? Se la doy a usted.
+    en: The key? I'll give it to you.
+    ko: 열쇠요? 손님께 드릴게요.
+    note_ko: le + la는 쓰지 않아요 · se la로 바꿔요
+    tokens:
+    - es: ¿La llave?
+      gloss_ko: 그 열쇠?
+    - es: Se
+      gloss_ko: 당신에게
+    - es: la
+      gloss_ko: 그것을
+    - es: doy
+      gloss_ko: 준다
+    - es: a usted
+      gloss_ko: 당신에게
+    highlight: [1, 2]
+  - es: Se lo subo ahora mismo.
+    en: I'll bring it up right away.
+    ko: 바로 올려 드릴게요.
+    note_ko: 직원의 말 · se(손님께) + lo(그것을) + 동사
+    tokens:
+    - es: Se
+      gloss_ko: 당신에게
+    - es: lo
+      gloss_ko: 그것을
+    - es: subo
+      gloss_ko: 올린다
+    - es: ahora mismo
+      gloss_ko: 바로 지금
+    highlight: [0, 1]
+  - es: ¿Las toallas? ¿Me las trae?
+    en: The towels? Can you bring them to me?
+    ko: 수건이요? 갖다주실래요?
+    note_ko: 복수면 물건 자리가 las · 사람은 그대로 앞에
+    tokens:
+    - es: ¿Las
+      gloss_ko: 그
+    - es: toallas?
+      gloss_ko: 수건들?
+    - es: ¿Me
+      gloss_ko: 나에게
+    - es: las
+      gloss_ko: 그것들을
+    - es: trae?
+      gloss_ko: 가져온다
+    highlight: [2, 3]
+  patterns:
+  - title_ko: 사람 + 물건
+    items:
+    - es: me lo
+      tag: m
+      ko: 나에게 그것을
+    - es: me la
+      tag: f
+      ko: 나에게 그것을
+    - es: me los
+      tag: m pl
+      ko: 나에게 그것들을
+    - es: me las
+      tag: f pl
+      ko: 나에게 그것들을
+  - title_ko: le·les는 se로
+    items:
+    - es: le + lo → se lo
+      ko: 그에게 그것을
+    - es: le + la → se la
+      ko: 그에게 그것을
+    - es: les + los → se los
+      ko: 그들에게 그것들을
+  - title_ko: 명사를 대명사로
+    items:
+    - es: Me da la llave → Me la da
+      ko: 열쇠 줘요 → 그걸 줘요
+    - es: Me trae la toalla → Me la trae
+      ko: 수건 줘요 → 그걸 줘요
+    - es: Le doy la llave → Se la doy
+      ko: 열쇠 줘요 → 그걸 줘요
+  contrast:
+    title_ko: 대명사 두 개의 자리
+    items:
+    - es: Me lo sube.
+      label_ko: 활용된 동사 앞에
+      ko: 그걸 올려 주세요.
+    - es: ¿Puede subírmelo?
+      label_ko: 동사원형 끝에 붙여서
+      ko: 그걸 올려 주실 수 있어요?
+    - es: ¡Súbamelo!
+      label_ko: 긍정 명령도 끝에
+      ko: 그거 올려 주세요!
+  subject:
+    title_ko: se가 누구인지 밝히기
+    items:
+    - es: Se lo doy a usted.
+      ko: 손님께 그걸 드려요.
+    - es: Se lo doy a él.
+      ko: 그 사람에게 그걸 줘요.
+    - es: Se lo doy a ella.
+      ko: 그녀에게 그걸 줘요.
+  extra_notes_ko:
+  - '대명사가 둘이면 ‘누구에게’가 먼저, ‘무엇을’이 뒤에 와요. 둘은 떨어지지 않고 동사 앞에 나란히 서요: Me lo sube. 동사원형과 긍정 명령에서는 둘 다 동사 끝에 붙어요: ¡Súbamelo!'
+  - le나 les 바로 뒤에 lo·la·los·las가 오면 le·les는 se가 돼요. Le la doy라고 하지 않고 Se la doy라고 해요. se만으로 누구인지 알기 어려우면 뒤에 a usted, a él, a ella를 덧붙여요.
+practice:
+- tiles: [lo, habitación, Me, a, sube, la]
+  answer: ¿Me lo sube a la habitación?
+  ko: 그거 방으로 올려 주시겠어요?
+- tiles: [doy, la, Se]
+  answer: Se la doy.
+  ko: 그걸 드릴게요.
+- tiles: [guarda, aquí, la, Me]
+  answer: ¿Me la guarda aquí?
+  ko: 그거 여기 맡아 주실래요?
+- tiles: [ahora, lo, Se, subo, mismo]
+  answer: Se lo subo ahora mismo.
+  ko: 바로 올려 드릴게요.
+- tiles: [cama, una, Quiero, doble]
+  answer: Quiero una cama doble.
+  ko: 더블 침대로 주세요.
+variants:
+- es: el ascensor
+  alt: el elevador (중남미)
+- es: la habitación
+  alt: el cuarto (같은 뜻)
+- es: la planta
+  alt: el piso (같은 뜻)
+- es: la maleta
+  alt: la valija (아르헨티나)
+- es: la reserva
+  alt: la reservación (중남미)
+- es: la ducha
+  alt: la regadera (중남미)
+scenes:
+- es: Tengo una reserva a nombre de Kim.
+  en: I have a reservation under Kim.
+  ko: 김이라는 이름으로 예약했어요.
+- es: ¿A qué hora es el desayuno?
+  en: What time is breakfast?
+  ko: 아침 식사는 몇 시예요?
+- es: ¿Cuál es la contraseña del wifi?
+  en: What's the Wi-Fi password?
+  ko: 와이파이 비밀번호가 뭐예요?
+- es: ¿Me guarda la maleta hasta las doce?
+  en: Can you keep my case until twelve?
+  ko: 12시까지 가방 맡아 주실래요?
+- es: Me falta una toalla.
+  en: I'm missing a towel.
+  ko: 수건이 하나 모자라요.
+- es: ¿Me da la factura, por favor?
+  en: Can I have the invoice, please?
+  ko: 청구서 좀 주시겠어요?
+extras:
+  grammar_ko:
+  - el recepcionista는 남자, la recepcionista는 여자 직원이에요. -ista로 끝나는 직업 명사는 형태가 같고 관사로 구분해요.
+  - -ción으로 끝나는 명사는 여성이에요. la habitación, la recepción 모두 la를 붙여요.
+  - la planta는 ‘식물’과 ‘층’을 다 가리켜요. 호텔에서 듣는 la planta는 대개 층이에요.
+  cognates:
+  - es: el hotel
+    en: hotel
+    note_ko: 철자가 같아요. 스페인어는 h를 읽지 않아서 ‘오뗄’이 돼요.
+  - es: la recepción
+    en: reception
+    note_ko: 스페인어 -ción과 영어 -tion이 짝을 이루는 경우가 많아요.
+  - es: el pasaporte
+    en: passport
+    note_ko: 철자가 비슷해서 뜻이 바로 보여요.
+  false_friend:
+    es: la carpeta
+    en: carpet
+    note_ko: la carpeta는 서류철이에요. 카펫은 la alfombra라고 해요.
+  fun_fact_ko: 스페인은 planta baja(지상층) 위부터 세요. la primera planta는 한국식으로 2층이에요.
+props:
+- kind: stamp
+  lines:
+  - CHECK-IN
+  - SALAMANCA
+  - 17 MAY
+- kind: label
+  lines:
+  - HABITACIÓN 13 · 3.ª PLANTA
+  - Salamanca
+- kind: poster
+  lines:
+  - NO MOLESTAR
+  - Por favor
+- kind: ticket
+  lines:
+  - SALAMANCA → BILBAO
+  - 18 MAY · 09:40
+- kind: polaroid
+  lines:
+  - la llave de la 13

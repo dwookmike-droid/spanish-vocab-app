@@ -1,0 +1,209 @@
+# ch11 — v6 인쇄본에 이미 들어간 문구(단어 카드·오프너·소품). 출발점으로 써요.
+# 이 내용을 ch11_text.yaml로 옮긴 뒤 빠진 섹션(예문, 어순, 연습, 장면 등)을 채워요. 이 seed 파일은 고치지 않아요.
+chapter:
+  num: 11
+  es: El transporte
+  en: Getting around
+  ko: 교통
+  city: Madrid
+  skin: Pasaporte · Cartel retro
+  date: 12 MAY
+opener:
+  parada: Parada 11 · Madrid
+  place: Estación de Atocha, el jardín tropical
+  hand: ¿a dónde vamos hoy? — en tren, en metro, a pie
+words:
+- key: train
+  es: el tren
+  base: tren
+  gender: m
+  pron: 엘 **뜨렌**
+  en: train
+  ko: 기차
+  core: true
+  note: ''
+- key: bus
+  es: el autobús
+  base: autobús
+  gender: m
+  pron: 엘 아우또**부**스
+  en: bus
+  ko: 버스
+  core: true
+  note: 'Canarias: la guagua'
+- key: metro
+  es: el metro
+  base: metro
+  gender: m
+  pron: 엘 **메**뜨로
+  en: metro, subway
+  ko: 지하철
+  core: true
+  note: = el metropolitano
+- key: taxi
+  es: el taxi
+  base: taxi
+  gender: m
+  pron: 엘 **딱**시
+  en: taxi
+  ko: 택시
+  core: true
+  note: ''
+- key: ticket
+  es: el billete
+  base: billete
+  gender: m
+  pron: 엘 비**예**떼
+  en: ticket
+  ko: 표, 승차권
+  core: true
+  note: 'Latam: el boleto'
+- key: station
+  es: la estación
+  base: estación
+  gender: f
+  pron: 라 에스따**시온**
+  en: station
+  ko: 역
+  core: true
+  note: ''
+- key: platform
+  es: el andén
+  base: andén
+  gender: m
+  pron: 엘 안**덴**
+  en: platform
+  ko: 승강장
+  core: true
+  note: ''
+- key: suitcase
+  es: la maleta
+  base: maleta
+  gender: f
+  pron: 라 말**레**따
+  en: suitcase
+  ko: 여행 가방
+  core: true
+  note: ''
+- key: plane
+  es: el avión
+  base: avión
+  gender: m
+  pron: 엘 아**비온**
+  en: plane
+  ko: 비행기
+  core: false
+  note: ''
+- key: boat
+  es: el barco
+  base: barco
+  gender: m
+  pron: 엘 **바**르꼬
+  en: boat
+  ko: 배
+  core: false
+  note: ''
+- key: bike
+  es: la bicicleta
+  base: bicicleta
+  gender: f
+  pron: 라 비시**끌레**따
+  en: bicycle
+  ko: 자전거
+  core: false
+  note: ''
+- key: car
+  es: el coche
+  base: coche
+  gender: m
+  pron: 엘 **꼬**체
+  en: car
+  ko: 자동차
+  core: false
+  note: 'Latam: el carro'
+- key: moto
+  es: la moto
+  base: moto
+  gender: f
+  pron: 라 **모**또
+  en: motorbike
+  ko: 오토바이
+  core: false
+  note: = la motocicleta
+- key: stop
+  es: la parada
+  base: parada
+  gender: f
+  pron: 라 빠**라**다
+  en: (bus) stop
+  ko: 정류장
+  core: false
+  note: ''
+- key: lights
+  es: el semáforo
+  base: semáforo
+  gender: m
+  pron: 엘 세**마**포로
+  en: traffic light
+  ko: 신호등
+  core: false
+  note: ''
+- key: road
+  es: la carretera
+  base: carretera
+  gender: f
+  pron: 라 까레**떼**라
+  en: road
+  ko: 도로
+  core: false
+  note: ''
+- key: backpack
+  es: la mochila
+  base: mochila
+  gender: f
+  pron: 라 모**칠**라
+  en: backpack
+  ko: 배낭
+  core: false
+  note: ''
+- key: helmet
+  es: el casco
+  base: casco
+  gender: m
+  pron: 엘 **까**스꼬
+  en: helmet
+  ko: 헬멧
+  core: false
+  note: ''
+- key: airport
+  es: el aeropuerto
+  base: aeropuerto
+  gender: m
+  pron: 엘 아에로**뿌에**르또
+  en: airport
+  ko: 공항
+  core: false
+  note: ''
+- key: seat
+  es: el asiento
+  base: asiento
+  gender: m
+  pron: 엘 아**시엔**또
+  en: seat
+  ko: 좌석
+  core: false
+  note: ''
+props:
+- kind: stamp
+  lines:
+  - ENTRADA · ENTRY
+  - MADRID
+  - 12 MAY · Nº 11
+- kind: polaroid
+  lines:
+  - km 0, Puerta del Sol
+- kind: ticket
+  lines:
+  - BILLETE · TICKET · 승차권
+  - MADRID-ATOCHA → TOLEDO
+  - 14 MAY · 09:20 · COCHE 4 · PLAZA 07A

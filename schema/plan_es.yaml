@@ -1,0 +1,916 @@
+book: Vocabulario visual · Español
+trip_note: '여행 순서는 장 번호가 아니라 날짜 순이에요. 날짜에는 연도·요일을 쓰지 않아요(소품 표기: "3 MAY", 본문: "5월 3일", 스페인어: "3 de mayo").'
+itinerary:
+- 3 MAY · Granada · ch01 El baño
+- 4 MAY · Córdoba · ch05 El patio y el jardín
+- 5 MAY · València · ch02 La cocina
+- 7 MAY · Barcelona · ch06 Frutas y verduras
+- 8 MAY · Barcelona · ch10 La ciudad
+- 9 MAY · Barcelona · ch23 La ropa
+- 10 MAY · Donostia · ch07 Tapas y pintxos
+- 11 MAY · Donostia · ch16 El tiempo
+- 12 MAY · Madrid · ch08 El restaurante
+- 12 MAY · Madrid · ch11 El transporte
+- 13 MAY · Madrid · ch20 El museo
+- 13 MAY · Madrid · ch21 Las compras
+- 14 MAY · Toledo · ch12 Direcciones
+- 15 MAY · Toledo · ch04 El dormitorio
+- 16 MAY · Salamanca · ch09 Café y panadería
+- 17 MAY · Salamanca · ch13 El hotel
+- 18 MAY · Bilbao · ch22 El cuerpo y la farmacia
+- 19 MAY · Pamplona · ch17 Deporte y fiesta
+- 21 MAY · Palma · ch14 El aeropuerto
+- 23 MAY · Sevilla · ch03 El salón
+- 24 MAY · Sevilla · ch19 La música y el baile
+- 25 MAY · Ronda · ch18 La naturaleza
+- 26 MAY · Cádiz · ch15 La playa
+- 28 MAY · València · ch24 Las fiestas
+chapters:
+- num: 1
+  es: El baño
+  en: The bathroom
+  ko: 욕실
+  part: P1 En casa · 집
+  city: Granada
+  skin: Museo
+  accent: '#a4533a'
+  date: 3 MAY
+  opener_plan: Alhambra, Baño de Comares (아치·별빛 천창)
+  props_plan: Museo 번호 캡션 + 우편 소인
+  word_order:
+    point: 명사 + 형용사 · 성·수 일치 · de 합성어 · 주어 생략
+    example_es: la toalla blanca · el cepillo de dientes
+    example_ko: 하얀 수건 · 칫솔
+  words:
+  - la toalla
+  - el jabón
+  - el cepillo de dientes
+  - la pasta de dientes
+  - el lavabo
+  - el espejo
+  - la ducha
+  - el inodoro
+  - el grifo
+  - la bañera
+  - el papel higiénico
+  - el champú
+  - la esponja
+  - el peine
+  - el secador de pelo
+  - la maquinilla de afeitar
+  - la báscula
+  - la papelera
+  - las chanclas
+  - las tijeras
+  season_note: ''
+- num: 2
+  es: La cocina
+  en: The kitchen
+  ko: 부엌
+  part: P1 En casa · 집
+  city: València
+  skin: Mercado
+  accent: '#b8402e'
+  date: 5 MAY
+  opener_plan: Mercado Central 과일·달걀 가판대
+  props_plan: 칠판 메뉴 + 크라프트 가격표
+  word_order:
+    point: hay(있다) vs está(…에 있다) · 장소는 뒤에
+    example_es: Hay dos platos en la mesa.
+    example_ko: 식탁에 접시가 두 개 있어요.
+  words:
+  - la nevera
+  - el horno
+  - el fregadero
+  - la sartén
+  - la olla
+  - la cuchara
+  - el tenedor
+  - el cuchillo
+  - el microondas
+  - el plato
+  - el vaso
+  - la taza
+  - la cafetera
+  - la tostadora
+  - la tabla de cortar
+  - el delantal
+  - la jarra
+  - el rallador
+  - el mortero
+  - la paellera
+  season_note: ''
+- num: 3
+  es: El salón
+  en: The living room
+  ko: 거실
+  part: P1 En casa · 집
+  city: Sevilla
+  skin: Azulejo · patio
+  accent: '#2c6e6a'
+  date: 23 MAY
+  opener_plan: Casa de Pilatos 안뜰 아줄레주
+  props_plan: 타일 보더 프레임 + 화분
+  word_order:
+    point: '위치 전치사구: 명사 + está + al lado de …'
+    example_es: El sofá está al lado de la ventana.
+    example_ko: 소파는 창문 옆에 있어요.
+  words:
+  - el sofá
+  - el sillón
+  - la mesa
+  - la silla
+  - la lámpara
+  - la alfombra
+  - la estantería
+  - el libro
+  - la televisión
+  - el mando
+  - el cojín
+  - la cortina
+  - la ventana
+  - la puerta
+  - el cuadro
+  - la planta
+  - el reloj
+  - la chimenea
+  - el suelo
+  - la pared
+  season_note: ''
+- num: 4
+  es: El dormitorio
+  en: The bedroom
+  ko: 침실
+  part: P1 En casa · 집
+  city: Toledo
+  skin: Azulejo · patio
+  accent: '#7a4e8c'
+  date: 15 MAY
+  opener_plan: 톨레도 골목 창문·발코니
+  props_plan: 레이스 커튼 테이프 + 열쇠 꼬리표
+  word_order:
+    point: '소유사: mi는 명사 앞, mío는 명사 뒤'
+    example_es: mi cama · la cama mía
+    example_ko: 내 침대 · 내 것인 침대
+  words:
+  - la cama
+  - la almohada
+  - la sábana
+  - la manta
+  - el armario
+  - la percha
+  - la mesilla
+  - el despertador
+  - el espejo de pie
+  - la cómoda
+  - el cajón
+  - la persiana
+  - el balcón
+  - la llave
+  - la maleta
+  - el pijama
+  - las zapatillas
+  - el enchufe
+  - el cargador
+  - la luz
+  season_note: ''
+- num: 5
+  es: El patio y el jardín
+  en: The patio and the garden
+  ko: 안뜰과 정원
+  part: P1 En casa · 집
+  city: Córdoba
+  skin: Azulejo · patio
+  accent: '#2f6b45'
+  date: 4 MAY
+  opener_plan: 코르도바 파티오 화분 벽
+  props_plan: 파란 화분 스티커 + 꽃 이름 핀
+  word_order:
+    point: 형용사 자리가 바뀌면 뜻도 바뀜 (gran / grande)
+    example_es: un gran patio · un patio grande
+    example_ko: 멋진 안뜰 · 넓은 안뜰
+  words:
+  - el patio
+  - el jardín
+  - la maceta
+  - la flor
+  - el geranio
+  - el árbol
+  - la hoja
+  - la fuente
+  - el banco
+  - la valla
+  - la regadera
+  - la manguera
+  - el césped
+  - el limonero
+  - la buganvilla
+  - el pozo
+  - la reja
+  - el toldo
+  - la hamaca
+  - la sombra
+  season_note: ''
+- num: 6
+  es: Frutas y verduras
+  en: Fruit and vegetables
+  ko: 과일과 채소
+  part: P2 Comer y beber · 먹고 마시기
+  city: Barcelona
+  skin: Mercado
+  accent: '#c0392b'
+  date: 7 MAY
+  opener_plan: La Boqueria 과일 진열
+  props_plan: 가격표 + 종이봉투
+  word_order:
+    point: 수량 + de + 명사
+    example_es: un kilo de tomates · media docena de huevos
+    example_ko: 토마토 1킬로 · 달걀 반 다스
+  words:
+  - la manzana
+  - la naranja
+  - el plátano
+  - la uva
+  - la fresa
+  - el melón
+  - la sandía
+  - el limón
+  - el tomate
+  - la lechuga
+  - la cebolla
+  - el ajo
+  - la patata
+  - la zanahoria
+  - el pimiento
+  - el pepino
+  - la berenjena
+  - la seta
+  - el kilo
+  - la bolsa
+  season_note: ''
+- num: 7
+  es: Tapas y pintxos
+  en: Tapas and pintxos
+  ko: 타파스
+  part: P2 Comer y beber · 먹고 마시기
+  city: Donostia
+  skin: Mercado
+  accent: '#8a5a33'
+  date: 10 MAY
+  opener_plan: 구시가 핀초 바 카운터
+  props_plan: 칠판 메뉴 + 이쑤시개 깃발
+  word_order:
+    point: 'gustar: 좋아하는 것이 주어, 뒤에 옴'
+    example_es: Me gustan las croquetas.
+    example_ko: 나는 크로케타를 좋아해요.
+  words:
+  - la tapa
+  - el pintxo
+  - la croqueta
+  - la tortilla
+  - las aceitunas
+  - el jamón
+  - el queso
+  - las gambas
+  - el pulpo
+  - los calamares
+  - el pan
+  - el palillo
+  - la barra
+  - el camarero
+  - la caña
+  - el vino
+  - el vermut
+  - la ración
+  - la servilleta
+  - el plato pequeño
+  season_note: ''
+- num: 8
+  es: El restaurante
+  en: The restaurant
+  ko: 식당
+  part: P2 Comer y beber · 먹고 마시기
+  city: Madrid
+  skin: Cartel retro
+  accent: '#6b2e2a'
+  date: 12 MAY
+  opener_plan: Botín 같은 노포 외관(로고 없는 컷)
+  props_plan: 메뉴판 카드 + 계산서
+  word_order:
+    point: 간접목적 me / le는 동사 앞 (주문하기)
+    example_es: ¿Me trae la cuenta, por favor?
+    example_ko: 계산서 좀 갖다주시겠어요?
+  words:
+  - la mesa
+  - la carta
+  - el menú del día
+  - el primer plato
+  - el segundo plato
+  - el postre
+  - el agua
+  - la botella
+  - la copa
+  - el vaso
+  - la cuenta
+  - la propina
+  - la reserva
+  - el cocinero
+  - la sopa
+  - la carne
+  - el pescado
+  - el arroz
+  - la ensalada
+  - el aceite
+  season_note: ''
+- num: 9
+  es: Café y panadería
+  en: Café and bakery
+  ko: 카페와 빵집
+  part: P2 Comer y beber · 먹고 마시기
+  city: Salamanca
+  skin: Mercado
+  accent: '#7b5a3c'
+  date: 16 MAY
+  opener_plan: 마요르 광장 카페 테라스
+  props_plan: 영수증 + 커피 얼룩 원
+  word_order:
+    point: 직접목적 lo / la는 동사 앞
+    example_es: ¿El café? Lo quiero con leche.
+    example_ko: 커피요? 우유 넣어서 주세요.
+  words:
+  - el café
+  - el café con leche
+  - el cortado
+  - el té
+  - el zumo
+  - el cruasán
+  - la magdalena
+  - los churros
+  - el chocolate
+  - la tostada
+  - la barra de pan
+  - la panadería
+  - la taza
+  - el azúcar
+  - la cucharilla
+  - la terraza
+  - la mesa
+  - la cuenta
+  - el bocadillo
+  - la tarta
+  season_note: ''
+- num: 10
+  es: La ciudad
+  en: The city
+  ko: 도시
+  part: P3 La ciudad y el viaje · 도시와 여행
+  city: Barcelona
+  skin: Pasaporte · Cartel retro
+  accent: '#1f3a5f'
+  date: 8 MAY
+  opener_plan: 에이샴플레 거리·발코니
+  props_plan: 도시 스탬프 + 지하철 노선 띠
+  word_order:
+    point: '의문문: 의문사 + 동사 + 주어'
+    example_es: ¿Dónde está la plaza?
+    example_ko: 광장이 어디예요?
+  words:
+  - la calle
+  - la plaza
+  - la avenida
+  - el edificio
+  - la iglesia
+  - el ayuntamiento
+  - el mercado
+  - el parque
+  - el puente
+  - la esquina
+  - el semáforo
+  - el paso de cebra
+  - la acera
+  - el balcón
+  - el portal
+  - el barrio
+  - la tienda
+  - el banco
+  - la farmacia
+  - el cajero
+  season_note: ''
+- num: 11
+  es: El transporte
+  en: Getting around
+  ko: 교통
+  part: P3 La ciudad y el viaje · 도시와 여행
+  city: Madrid
+  skin: Pasaporte · Cartel retro
+  accent: '#1f3a5f'
+  date: 12 MAY
+  opener_plan: Atocha 역 열대 정원
+  props_plan: Cartel 포스터 + 입국/출발 스탬프 + 수하물 태그
+  word_order:
+    point: '이동: ir a + 장소 · en + 교통수단 · a pie'
+    example_es: Voy a Toledo en tren.
+    example_ko: 기차로 톨레도에 가요.
+  words:
+  - el tren
+  - el autobús
+  - el metro
+  - el taxi
+  - el billete
+  - la estación
+  - el andén
+  - la maleta
+  - el avión
+  - el barco
+  - la bicicleta
+  - el coche
+  - la moto
+  - la parada
+  - el semáforo
+  - la carretera
+  - la mochila
+  - el casco
+  - el aeropuerto
+  - el asiento
+  season_note: ''
+- num: 12
+  es: Direcciones
+  en: Directions
+  ko: 길 찾기
+  part: P3 La ciudad y el viaje · 도시와 여행
+  city: Toledo
+  skin: Pasaporte · Cartel retro
+  accent: '#b8332b'
+  date: 14 MAY
+  opener_plan: 소코도베르 골목 표지판
+  props_plan: 나침반 + 손그림 지도 선
+  word_order:
+    point: '긍정 명령: 대명사는 동사 끝에 붙임'
+    example_es: Siga recto y gire a la derecha. · Sígame.
+    example_ko: 직진하다가 오른쪽으로 도세요. · 따라오세요.
+  words:
+  - la derecha
+  - la izquierda
+  - todo recto
+  - la esquina
+  - la calle
+  - el cruce
+  - la cuesta
+  - el mapa
+  - el norte
+  - el sur
+  - el este
+  - el oeste
+  - cerca
+  - lejos
+  - al lado de
+  - enfrente de
+  - detrás de
+  - delante de
+  - la señal
+  - el callejón
+  season_note: ''
+- num: 13
+  es: El hotel
+  en: The hotel
+  ko: 호텔
+  part: P3 La ciudad y el viaje · 도시와 여행
+  city: Salamanca
+  skin: Pasaporte · Cartel retro
+  accent: '#5b4a2e'
+  date: 17 MAY
+  opener_plan: 파라도르/옛 호텔 복도
+  props_plan: 룸키 꼬리표 + 체크인 스탬프
+  word_order:
+    point: '대명사 두 개: me lo · se lo (사람 먼저)'
+    example_es: ¿Me lo sube a la habitación?
+    example_ko: 그거 방으로 올려 주시겠어요?
+  words:
+  - el hotel
+  - la recepción
+  - la habitación
+  - la llave
+  - la tarjeta
+  - el ascensor
+  - la escalera
+  - la planta
+  - el desayuno
+  - la toalla
+  - la reserva
+  - el pasaporte
+  - la maleta
+  - el recepcionista
+  - la cama doble
+  - la ducha
+  - el wifi
+  - la salida
+  - la factura
+  - la almohada
+  season_note: ''
+- num: 14
+  es: El aeropuerto
+  en: The airport
+  ko: 공항
+  part: P3 La ciudad y el viaje · 도시와 여행
+  city: Palma
+  skin: Pasaporte · Cartel retro
+  accent: '#d9a21b'
+  date: 21 MAY
+  opener_plan: 공항 출발 안내판(무로고)
+  props_plan: 보딩패스(장식용 가짜 좌석) + 수하물 태그
+  word_order:
+    point: '부정: no + 동사 · 이중 부정 nada / nunca'
+    example_es: No tengo nada que declarar.
+    example_ko: 신고할 것이 없어요.
+  words:
+  - el aeropuerto
+  - el avión
+  - el vuelo
+  - la puerta de embarque
+  - la tarjeta de embarque
+  - el pasaporte
+  - el equipaje
+  - la maleta
+  - el control de seguridad
+  - la terminal
+  - la llegada
+  - la salida
+  - el retraso
+  - el asiento
+  - la ventanilla
+  - el pasillo
+  - el billete
+  - la aduana
+  - el carrito
+  - la pantalla
+  season_note: ''
+- num: 15
+  es: La playa
+  en: The beach
+  ko: 해변
+  part: P4 Ocio y naturaleza · 여가와 자연
+  city: Cádiz
+  skin: Postal
+  accent: '#2f7fa8'
+  date: 26 MAY
+  opener_plan: La Caleta 해변 고깃배·파라솔
+  props_plan: 엽서 뒷면 + 우표
+  word_order:
+    point: '진행형: 대명사 자리 두 가지'
+    example_es: Me estoy bañando. = Estoy bañándome.
+    example_ko: 지금 수영하고 있어요.
+  words:
+  - la playa
+  - el mar
+  - la arena
+  - la ola
+  - el sol
+  - la sombrilla
+  - la toalla
+  - el bañador
+  - la crema solar
+  - las gafas de sol
+  - el chiringuito
+  - el barco
+  - la roca
+  - la concha
+  - el socorrista
+  - la hamaca
+  - el helado
+  - el cubo
+  - la pala
+  - el puerto
+  season_note: ''
+- num: 16
+  es: El tiempo
+  en: The weather
+  ko: 날씨
+  part: P4 Ocio y naturaleza · 여가와 자연
+  city: Donostia
+  skin: Postal
+  accent: '#5d7f95'
+  date: 11 MAY
+  opener_plan: 라 콘차 해변 흐린 하늘
+  props_plan: 엽서 + 날씨 스탬프
+  word_order:
+    point: 주어 없는 날씨 표현
+    example_es: Llueve. · Hace calor. · Hay niebla.
+    example_ko: 비가 와요. · 더워요. · 안개가 껴요.
+  words:
+  - el tiempo
+  - el sol
+  - la lluvia
+  - la nube
+  - el viento
+  - la niebla
+  - la nieve
+  - la tormenta
+  - el trueno
+  - el rayo
+  - el paraguas
+  - el calor
+  - el frío
+  - la temperatura
+  - el grado
+  - el cielo
+  - el arcoíris
+  - el chubasquero
+  - la previsión
+  - la estación
+  season_note: ''
+- num: 17
+  es: Deporte y fiesta
+  en: Sport and festivals
+  ko: 스포츠
+  part: P4 Ocio y naturaleza · 여가와 자연
+  city: Pamplona
+  skin: Postal
+  accent: '#c8432f'
+  date: 19 MAY
+  opener_plan: 구시가 거리 축제 인파
+  props_plan: 티켓 스텁 + 손글씨
+  word_order:
+    point: '빈도부사 자리: Nunca juego = No juego nunca'
+    example_es: Siempre corro por la mañana.
+    example_ko: 나는 늘 아침에 달려요.
+  words:
+  - el fútbol
+  - el balón
+  - el estadio
+  - el equipo
+  - el partido
+  - el gol
+  - la pelota
+  - la bicicleta
+  - la carrera
+  - el corredor
+  - la fiesta
+  - el pañuelo
+  - la banda
+  - los fuegos artificiales
+  - el desfile
+  - la entrada
+  - el campeón
+  - el árbitro
+  - la piscina
+  - el gimnasio
+  season_note: 산 페르민(San Fermín)은 7월 축제예요. 5월 19일 방문이므로 "지금 축제 중"이라고 쓰지 말고, 7월에 열리는 축제를 소개하는 말투로 써요.
+- num: 18
+  es: La naturaleza
+  en: Nature
+  ko: 자연
+  part: P4 Ocio y naturaleza · 여가와 자연
+  city: Ronda
+  skin: Postal
+  accent: '#4f7a3a'
+  date: 25 MAY
+  opener_plan: 푸엔테 누에보 협곡
+  props_plan: 식물 표본 라벨 + 엽서
+  word_order:
+    point: '비교: más + 형용사 + que'
+    example_es: Esta montaña es más alta que aquella.
+    example_ko: 이 산이 저 산보다 높아요.
+  words:
+  - la montaña
+  - el río
+  - el puente
+  - el valle
+  - el bosque
+  - el árbol
+  - la roca
+  - el camino
+  - el lago
+  - la cascada
+  - el cielo
+  - la piedra
+  - la cueva
+  - el pájaro
+  - el águila
+  - la flor
+  - el sendero
+  - el mirador
+  - la colina
+  - el olivo
+  season_note: ''
+- num: 19
+  es: La música y el baile
+  en: Music and dance
+  ko: 음악과 춤
+  part: P4 Ocio y naturaleza · 여가와 자연
+  city: Sevilla
+  skin: Cartel retro
+  accent: '#a3243b'
+  date: 24 MAY
+  opener_plan: 트리아나 플라멩코 타블라오
+  props_plan: 공연 포스터 + 부채
+  word_order:
+    point: '관계절 que: 꾸미는 말은 명사 뒤'
+    example_es: la guitarra que toca mi padre
+    example_ko: 아버지가 치는 기타
+  words:
+  - la guitarra
+  - el cante
+  - el baile
+  - el bailaor
+  - la bailaora
+  - el tablao
+  - las palmas
+  - el abanico
+  - las castañuelas
+  - el vestido de flamenca
+  - el escenario
+  - la canción
+  - el ritmo
+  - el concierto
+  - el músico
+  - el tambor
+  - el piano
+  - el violín
+  - la entrada
+  - el público
+  season_note: ''
+- num: 20
+  es: El museo
+  en: The museum
+  ko: 박물관
+  part: P5 Cultura y compras · 문화와 쇼핑
+  city: Madrid
+  skin: Museo
+  accent: '#7a5c2e'
+  date: 13 MAY
+  opener_plan: Prado 외관·회랑
+  props_plan: 작품 벽 라벨 + 입장권
+  word_order:
+    point: 무인칭·수동의 se
+    example_es: Se prohíbe tocar los cuadros.
+    example_ko: 그림을 만지면 안 돼요.
+  words:
+  - el museo
+  - el cuadro
+  - la pintura
+  - el pintor
+  - la escultura
+  - la sala
+  - la entrada
+  - la taquilla
+  - la exposición
+  - el marco
+  - el retrato
+  - el paisaje
+  - la guía
+  - la audioguía
+  - el guarda
+  - la tienda
+  - el plano
+  - el cartel
+  - el horario
+  - el banco
+  season_note: ''
+- num: 21
+  es: Las compras
+  en: Shopping
+  ko: 쇼핑
+  part: P5 Cultura y compras · 문화와 쇼핑
+  city: Madrid
+  skin: Museo
+  accent: '#2c6e6a'
+  date: 13 MAY
+  opener_plan: El Rastro 벼룩시장
+  props_plan: 가격표 + 영수증
+  word_order:
+    point: '지시사: este / ese + 대명사로 쓰기'
+    example_es: ¿Este o ese? Me llevo este.
+    example_ko: 이거요, 그거요? 이걸로 살게요.
+  words:
+  - la tienda
+  - el mercadillo
+  - el puesto
+  - el precio
+  - la oferta
+  - las rebajas
+  - el euro
+  - la moneda
+  - el billete
+  - la tarjeta
+  - el recibo
+  - la bolsa
+  - la caja
+  - el probador
+  - la talla
+  - el descuento
+  - el regalo
+  - la antigüedad
+  - el vendedor
+  - el cambio
+  season_note: El Rastro는 일요일·공휴일 오전에 서는 벼룩시장이에요. 소품에 요일을 쓰지 않아요.
+- num: 22
+  es: El cuerpo y la farmacia
+  en: The body and the pharmacy
+  ko: 몸과 약국
+  part: P5 Cultura y compras · 문화와 쇼핑
+  city: Bilbao
+  skin: Museo
+  accent: '#2f6b45'
+  date: 18 MAY
+  opener_plan: 녹색 십자 약국 간판(무로고)
+  props_plan: 처방 메모 + 번호 캡션
+  word_order:
+    point: 'doler: 아픈 곳이 주어 · 신체엔 정관사'
+    example_es: Me duele la cabeza.
+    example_ko: 머리가 아파요.
+  words:
+  - la cabeza
+  - el ojo
+  - la oreja
+  - la nariz
+  - la boca
+  - el diente
+  - el cuello
+  - el brazo
+  - la mano
+  - el dedo
+  - la pierna
+  - el pie
+  - la espalda
+  - el estómago
+  - la farmacia
+  - la pastilla
+  - la receta
+  - la tirita
+  - el jarabe
+  - el termómetro
+  season_note: ''
+- num: 23
+  es: La ropa
+  en: Clothes
+  ko: 옷
+  part: P5 Cultura y compras · 문화와 쇼핑
+  city: Barcelona
+  skin: Museo
+  accent: '#3e5a86'
+  date: 9 MAY
+  opener_plan: 그라시아 거리 쇼윈도
+  props_plan: 옷 꼬리표 + 단추
+  word_order:
+    point: 재귀 ponerse + 대명사 두 개 붙이기
+    example_es: Me pongo el abrigo. · ¡Póntelo!
+    example_ko: 외투를 입어요. · 그거 입어!
+  words:
+  - la camisa
+  - la camiseta
+  - el pantalón
+  - la falda
+  - el vestido
+  - la chaqueta
+  - el abrigo
+  - el jersey
+  - los zapatos
+  - las botas
+  - los calcetines
+  - el sombrero
+  - la bufanda
+  - los guantes
+  - el cinturón
+  - la corbata
+  - el botón
+  - la cremallera
+  - el bolso
+  - la gorra
+  season_note: ''
+- num: 24
+  es: Las fiestas
+  en: Festivals
+  ko: 축제
+  part: P5 Cultura y compras · 문화와 쇼핑
+  city: València
+  skin: Cartel retro
+  accent: '#d9a21b'
+  date: 28 MAY
+  opener_plan: Fallas 니놋 인형
+  props_plan: Cartel 축제 포스터 + 폭죽 스탬프
+  word_order:
+    point: '종합: 시간 · 장소 · 방식의 순서와 강조'
+    example_es: Mañana vamos a la plaza en metro.
+    example_ko: 내일 지하철로 광장에 가요.
+  words:
+  - la fiesta
+  - la falla
+  - el ninot
+  - el petardo
+  - la traca
+  - la mascletà
+  - la hoguera
+  - el fuego
+  - la música
+  - la banda
+  - el traje
+  - la flor
+  - la ofrenda
+  - la procesión
+  - la feria
+  - el farolillo
+  - el confeti
+  - la verbena
+  - la cena
+  - el desfile
+  season_note: 파야스(Fallas)는 3월(15~19일) 축제예요. 5월 28일 방문은 니놋을 모아 둔 Museu Faller(파야스 박물관) 견학으로 잡아요. 축제는 "3월에 열린다"고 설명하고, 5월에 불꽃놀이를 봤다고 쓰지 않아요.

@@ -1,0 +1,457 @@
+# ch04 · El dormitorio
+schema_version: 1
+chapter:
+  num: 4
+  es: El dormitorio
+  en: The bedroom
+  ko: 침실
+  city: Toledo
+  skin: Azulejo · patio
+  date: 15 MAY
+  word_changes: []
+opener:
+  parada: Parada 04 · Toledo
+  place: Una calle de Toledo, ventanas y balcones
+  hand: una ventana, un balcón, y a dormir
+  photo_note_ko: 톨레도 골목의 창문과 발코니
+words:
+- key: bed
+  es: la cama
+  base: cama
+  gender: f
+  pron: 라 **까**마
+  en: bed
+  ko: 침대
+  core: true
+  note: ''
+  example:
+    es: Mi cama está al lado de la ventana.
+    en: My bed is next to the window.
+    ko: 제 침대는 창문 옆에 있어요.
+- key: pillow
+  es: la almohada
+  base: almohada
+  gender: f
+  pron: 라 알모**아**다
+  en: pillow
+  ko: 베개
+  core: true
+  note: ''
+  example:
+    es: ¿Me das otra almohada?
+    en: Can you give me another pillow?
+    ko: 베개 하나 더 줄래요?
+- key: sheet
+  es: la sábana
+  base: sábana
+  gender: f
+  pron: 라 **사**바나
+  en: sheet
+  ko: 침대 시트
+  core: true
+  note: ''
+  example:
+    es: Esta sábana está limpia.
+    en: This sheet is clean.
+    ko: 이 시트는 깨끗해요.
+- key: blanket
+  es: la manta
+  base: manta
+  gender: f
+  pron: 라 **만**따
+  en: blanket
+  ko: 담요
+  core: true
+  note: ''
+  example:
+    es: Tengo frío. ¿Hay otra manta?
+    en: I'm cold. Is there another blanket?
+    ko: 추워요. 담요 더 있어요?
+- key: wardrobe
+  es: el armario
+  base: armario
+  gender: m
+  pron: 엘 아르**마**리오
+  en: wardrobe
+  ko: 옷장
+  core: true
+  note: ''
+  example:
+    es: Mi ropa está en el armario.
+    en: My clothes are in the wardrobe.
+    ko: 제 옷은 옷장에 있어요.
+- key: hanger
+  es: la percha
+  base: percha
+  gender: f
+  pron: 라 **뻬**르차
+  en: hanger
+  ko: 옷걸이
+  core: true
+  note: ''
+  example:
+    es: No hay perchas en el armario.
+    en: There are no hangers in the wardrobe.
+    ko: 옷장에 옷걸이가 없어요.
+- key: nightstand
+  es: la mesilla
+  base: mesilla
+  gender: f
+  pron: 라 메**시**야
+  en: nightstand
+  ko: 협탁
+  core: true
+  note: = la mesita de noche
+  example:
+    es: Mis gafas están en la mesilla.
+    en: My glasses are on the nightstand.
+    ko: 제 안경은 협탁에 있어요.
+- key: alarmclock
+  es: el despertador
+  base: despertador
+  gender: m
+  pron: 엘 데스뻬르따**도르**
+  en: alarm clock
+  ko: 자명종
+  core: true
+  note: ''
+  example:
+    es: Mi despertador suena a las siete.
+    en: My alarm clock rings at seven.
+    ko: 제 자명종은 7시에 울려요.
+- key: standingmirror
+  es: el espejo de pie
+  base: espejo de pie
+  gender: m
+  pron: 엘 에스**뻬**호 데 **삐에**
+  en: standing mirror
+  ko: 전신 거울
+  core: false
+  note: ''
+- key: dresser
+  es: la cómoda
+  base: cómoda
+  gender: f
+  pron: 라 **꼬**모다
+  en: chest of drawers
+  ko: 서랍장
+  core: false
+  note: ''
+- key: drawer
+  es: el cajón
+  base: cajón
+  gender: m
+  pron: 엘 까**혼**
+  en: drawer
+  ko: 서랍
+  core: false
+  note: ''
+- key: blind
+  es: la persiana
+  base: persiana
+  gender: f
+  pron: 라 뻬르**시아**나
+  en: roller blind
+  ko: 블라인드
+  core: false
+  note: ''
+- key: balcony
+  es: el balcón
+  base: balcón
+  gender: m
+  pron: 엘 발**꼰**
+  en: balcony
+  ko: 발코니
+  core: false
+  note: ''
+- key: key
+  es: la llave
+  base: llave
+  gender: f
+  pron: 라 **야**베
+  en: key
+  ko: 열쇠
+  core: false
+  note: ''
+- key: suitcase
+  es: la maleta
+  base: maleta
+  gender: f
+  pron: 라 말**레**따
+  en: suitcase
+  ko: 여행 가방
+  core: false
+  note: ''
+- key: pyjamas
+  es: el pijama
+  base: pijama
+  gender: m
+  pron: 엘 삐**하**마
+  en: pyjamas
+  ko: 잠옷
+  core: false
+  note: masculino en España
+- key: slippers
+  es: las zapatillas
+  base: zapatillas
+  gender: fpl
+  pron: 라스 사빠**띠**야스
+  en: slippers
+  ko: 실내화
+  core: false
+  note: ¡casi siempre plural!
+- key: socket
+  es: el enchufe
+  base: enchufe
+  gender: m
+  pron: 엘 엔**추**페
+  en: socket
+  ko: 콘센트
+  core: false
+  note: ''
+- key: charger
+  es: el cargador
+  base: cargador
+  gender: m
+  pron: 엘 까르가**도르**
+  en: charger
+  ko: 충전기
+  core: false
+  note: ''
+- key: light
+  es: la luz
+  base: luz
+  gender: f
+  pron: 라 **루스**
+  en: light
+  ko: 불, 빛
+  core: false
+  note: ''
+word_order:
+  tema: Mi y mío
+  tema_sub_ko: 소유 — mi는 앞에, mío는 뒤에
+  point_ko: 소유사 · mi는 명사 앞, mío는 명사 뒤
+  lead_ko: ‘내’를 말하는 자리는 두 곳이에요. 명사 앞에는 mi를 쓰고, 명사 뒤나 es 뒤에는 mío를 써요.
+  sentences:
+  - es: Mi cama. La cama mía.
+    en: My bed. The bed of mine.
+    ko: 내 침대. 내 것인 침대.
+    note_ko: mi는 명사 앞 · mía는 명사 뒤
+    tokens:
+    - es: Mi
+      gloss_ko: 나의
+    - es: cama.
+      gloss_ko: 침대
+    - es: La
+      gloss_ko: 그
+    - es: cama
+      gloss_ko: 침대
+    - es: mía
+      gloss_ko: 내 것인
+    highlight: [0, 4]
+  - es: Mi maleta está en el armario.
+    en: My suitcase is in the wardrobe.
+    ko: 제 여행 가방은 옷장에 있어요.
+    note_ko: mi를 쓰면 관사(la)는 빼요
+    tokens:
+    - es: Mi
+      gloss_ko: 나의
+    - es: maleta
+      gloss_ko: 여행 가방
+    - es: está
+      gloss_ko: 있다
+    - es: en
+      gloss_ko: ~에
+    - es: el armario
+      gloss_ko: 그 옷장
+    highlight: [0]
+  - es: Esta llave es mía.
+    en: This key is mine.
+    ko: 이 열쇠는 제 거예요.
+    note_ko: es 뒤에서는 mío · mía를 써요
+    tokens:
+    - es: Esta
+      gloss_ko: 이
+    - es: llave
+      gloss_ko: 열쇠
+    - es: es
+      gloss_ko: ~이다
+    - es: mía
+      gloss_ko: 내 것
+    highlight: [3]
+  - es: Mis sábanas están en la cómoda.
+    en: My sheets are in the chest of drawers.
+    ko: 제 시트는 서랍장에 있어요.
+    note_ko: 명사가 복수면 mi도 mis가 돼요
+    tokens:
+    - es: Mis
+      gloss_ko: 나의
+    - es: sábanas
+      gloss_ko: 시트들
+    - es: están
+      gloss_ko: 있다
+    - es: en
+      gloss_ko: ~에
+    - es: la cómoda
+      gloss_ko: 그 서랍장
+    highlight: [0]
+  - es: El pijama azul es mío.
+    en: The blue pyjamas are mine.
+    ko: 파란 잠옷은 제 거예요.
+    note_ko: pijama가 남성이라 mío · 말하는 사람과는 상관없어요
+    tokens:
+    - es: El pijama
+      gloss_ko: 그 잠옷
+    - es: azul
+      gloss_ko: 파란
+    - es: es
+      gloss_ko: ~이다
+    - es: mío
+      gloss_ko: 내 것
+    highlight: [3]
+  patterns:
+  - title_ko: 명사 앞 · mi, tu, su
+    items:
+    - es: mi cama
+      en: my bed
+      ko: 내 침대
+    - es: tu almohada
+      en: your pillow
+      ko: 네 베개
+    - es: su maleta
+      en: his, her suitcase
+      ko: 그·그녀의 여행 가방
+    - es: mis llaves
+      en: my keys
+      ko: 내 열쇠들
+  - title_ko: 명사 뒤 · 성·수에 맞춘 mío
+    items:
+    - es: el armario mío
+      tag: m
+      ko: 내 옷장
+    - es: la cama mía
+      tag: f
+      ko: 내 침대
+    - es: los cajones míos
+      tag: m pl
+      ko: 내 서랍들
+    - es: las llaves mías
+      tag: f pl
+      ko: 내 열쇠들
+  contrast:
+    title_ko: 같은 maleta, 다른 자리
+    items:
+    - es: Es mi maleta.
+      label_ko: 명사 앞에 mi
+      ko: 제 여행 가방이에요.
+    - es: La maleta es mía.
+      label_ko: es 뒤에 mía
+      ko: 그 여행 가방은 제 거예요.
+    - es: Es una maleta mía.
+      label_ko: 명사 뒤에 mía
+      ko: 제 여행 가방 중 하나예요.
+  subject:
+    title_ko: 누구 거예요?
+    items:
+    - es: ¿De quién es esta llave?
+      ko: 이 열쇠 누구 거예요?
+    - es: Es mía.
+      ko: 제 거예요.
+    - es: ¿Es tuya?
+      ko: 네 거야?
+  extra_notes_ko:
+  - mi는 관사와 함께 쓰지 않아요. la mi cama는 틀린 말이에요. 일상에서 mío는 Esta cama es mía처럼 es 뒤에 가장 자주 나오고, 명사 뒤에 놓으면 ‘내 것’이라는 느낌이 더 또렷해져요.
+  - 소유사는 가진 사람의 성별이 아니라 물건의 성·수에 맞춰요. 남자가 말해도 la cama mía, 여자가 말해도 el armario mío예요.
+practice:
+- tiles: [mía, cama, la]
+  answer: la cama mía
+  ko: 내 것인 침대
+- tiles: [armario, Mi, en, está, maleta, el]
+  answer: Mi maleta está en el armario.
+  ko: 제 여행 가방은 옷장에 있어요.
+- tiles: [es, llave, mía, Esta]
+  answer: Esta llave es mía.
+  ko: 이 열쇠는 제 거예요.
+- tiles: [sábanas, están, Mis, cómoda, en, la]
+  answer: Mis sábanas están en la cómoda.
+  ko: 제 시트는 서랍장에 있어요.
+- tiles: [míos, los, cajones]
+  answer: los cajones míos
+  ko: 내 서랍들
+variants:
+- es: la manta
+  alt: la cobija (멕시코 등) · la frazada (아르헨티나)
+- es: el armario
+  alt: el clóset (중남미)
+- es: la percha
+  alt: el gancho (멕시코 등)
+- es: la mesilla
+  alt: el buró (멕시코)
+- es: el pijama
+  alt: la pijama (멕시코 등)
+- es: el enchufe
+  alt: el tomacorriente (중남미)
+- es: las zapatillas
+  alt: las pantuflas (같은 뜻)
+- es: la maleta
+  alt: la valija (아르헨티나)
+scenes:
+- es: ¿Dónde está mi pijama?
+  en: Where are my pyjamas?
+  ko: 제 잠옷 어디 있어요?
+- es: ¿Me despiertas a las ocho?
+  en: Can you wake me at eight?
+  ko: 8시에 깨워 줄래요?
+- es: Apaga la luz, por favor.
+  en: Turn off the light, please.
+  ko: 불 좀 꺼 주세요.
+- es: El enchufe no funciona.
+  en: The socket doesn't work.
+  ko: 콘센트가 안 돼요.
+- es: ¿Tienes un cargador?
+  en: Do you have a charger?
+  ko: 충전기 있어요?
+- es: Buenas noches, hasta mañana.
+  en: Good night, see you tomorrow.
+  ko: 잘 자요, 내일 봐요.
+extras:
+  grammar_ko:
+  - el pijama는 -a로 끝나지만 스페인에서는 남성이에요. 중남미 일부에서는 la pijama라고 해요.
+  - la llave, la luz는 끝 글자만 봐서는 성을 알 수 없어요. 관사와 함께 외워요.
+  - la luz의 복수는 las luces예요. 끝의 -z는 복수가 되면 -ces로 바뀌어요.
+  - las zapatillas는 한 켤레를 뜻해서 보통 복수로 말해요. 스페인에서는 운동화도 zapatillas라고 해요.
+  cognates:
+  - es: el armario
+    en: armoire
+    note_ko: 둘 다 라틴어 armarium에서 왔어요.
+  - es: el balcón
+    en: balcony
+    note_ko: 둘 다 이탈리아어 balcone에서 왔어요.
+  - es: la cómoda
+    en: commode
+    note_ko: 둘 다 프랑스어 commode에서 왔어요.
+  - es: el pijama
+    en: pyjamas
+    note_ko: 힌디어에서 영어를 거쳐 스페인어로 들어온 말이에요.
+  false_friend:
+    es: la sábana
+    en: savanna
+    note_ko: la sábana는 침대 시트예요. 초원 savanna는 악센트 없이 la sabana라고 써요.
+  fun_fact_ko: 톨레도는 옛 시가지 전체가 유네스코 세계유산이에요.
+props:
+- kind: postmark
+  lines:
+  - Nº 04 · EL DORMITORIO · 15 MAY
+- kind: postmark
+  lines:
+  - CORREO · TOLEDO · 15 MAY
+- kind: label
+  lines:
+  - LLAVE Nº 15
+  - la llave mía
+- kind: polaroid
+  lines:
+  - ventanas de Toledo
+- kind: hand
+  lines:
+  - mi cama, mi maleta, mis llaves

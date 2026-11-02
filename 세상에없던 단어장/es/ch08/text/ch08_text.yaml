@@ -1,0 +1,450 @@
+# ch08 · El restaurante
+schema_version: 1
+chapter:
+  num: 8
+  es: El restaurante
+  en: The restaurant
+  ko: 식당
+  city: Madrid
+  skin: Cartel retro
+  date: 12 MAY
+  word_changes: []
+opener:
+  parada: Parada 08 · Madrid
+  place: Madrid de los Austrias, un mesón antiguo
+  hand: primero la carta, luego la cuenta
+  photo_note_ko: 마드리드 옛 거리에 있는 오래된 식당
+words:
+- key: table
+  es: la mesa
+  base: mesa
+  gender: f
+  pron: 라 **메**사
+  en: table
+  ko: 탁자
+  core: true
+  note: ''
+  example:
+    es: ¿Tienen una mesa para dos?
+    en: Do you have a table for two?
+    ko: 두 명 앉을 자리 있어요?
+- key: menu
+  es: la carta
+  base: carta
+  gender: f
+  pron: 라 **까**르따
+  en: menu
+  ko: 메뉴판
+  core: true
+  note: ''
+  example:
+    es: ¿Me trae la carta, por favor?
+    en: Could I have the menu, please?
+    ko: 메뉴판 좀 갖다주시겠어요?
+- key: setmenu
+  es: el menú del día
+  base: menú del día
+  gender: m
+  pron: 엘 메**누** 델 **디**아
+  en: set menu
+  ko: 오늘의 메뉴
+  core: true
+  note: ''
+  example:
+    es: ¿Qué lleva el menú del día?
+    en: What comes with the set menu?
+    ko: 오늘의 메뉴에는 뭐가 나와요?
+- key: firstcourse
+  es: el primer plato
+  base: primer plato
+  gender: m
+  pron: 엘 쁘리**메르** **쁠라**또
+  en: first course
+  ko: 첫 번째 요리
+  core: true
+  note: 'o: de primero'
+  example:
+    es: De primer plato, quiero la sopa.
+    en: For the first course, I'd like soup.
+    ko: 첫 번째 요리는 수프로 할게요.
+- key: maincourse
+  es: el segundo plato
+  base: segundo plato
+  gender: m
+  pron: 엘 세**군**도 **쁠라**또
+  en: main course
+  ko: 두 번째 요리
+  core: true
+  note: 'o: de segundo'
+  example:
+    es: De segundo plato, tomo el pescado.
+    en: For the main course, I'll have fish.
+    ko: 두 번째 요리는 생선으로 할게요.
+- key: dessert
+  es: el postre
+  base: postre
+  gender: m
+  pron: 엘 **뽀**스뜨레
+  en: dessert
+  ko: 디저트
+  core: true
+  note: ''
+  example:
+    es: ¿Qué hay de postre?
+    en: What's for dessert?
+    ko: 디저트는 뭐가 있어요?
+- key: water
+  es: el agua
+  base: agua
+  gender: f
+  pron: 엘 **아**구아
+  en: water
+  ko: 물
+  core: true
+  note: 'plural: las aguas'
+  example:
+    es: ¿Me trae un poco de agua?
+    en: Could you bring me some water?
+    ko: 물 좀 갖다주시겠어요?
+- key: bottle
+  es: la botella
+  base: botella
+  gender: f
+  pron: 라 보**떼**야
+  en: bottle
+  ko: 병
+  core: true
+  note: ''
+  example:
+    es: Una botella de vino tinto, por favor.
+    en: A bottle of red wine, please.
+    ko: 레드와인 한 병 주세요.
+- key: wineglass
+  es: la copa
+  base: copa
+  gender: f
+  pron: 라 **꼬**빠
+  en: wine glass
+  ko: 와인 잔
+  core: false
+  note: ''
+- key: glass
+  es: el vaso
+  base: vaso
+  gender: m
+  pron: 엘 **바**소
+  en: glass
+  ko: 유리컵
+  core: false
+  note: ''
+- key: bill
+  es: la cuenta
+  base: cuenta
+  gender: f
+  pron: 라 **꾸엔**따
+  en: bill
+  ko: 계산서
+  core: false
+  note: ''
+- key: tip
+  es: la propina
+  base: propina
+  gender: f
+  pron: 라 쁘로**삐**나
+  en: tip
+  ko: 팁
+  core: false
+  note: ''
+- key: reservation
+  es: la reserva
+  base: reserva
+  gender: f
+  pron: 라 레**세르**바
+  en: reservation
+  ko: 예약
+  core: false
+  note: ''
+- key: cook
+  es: el cocinero
+  base: cocinero
+  gender: m
+  pron: 엘 꼬시**네**로
+  en: cook
+  ko: 요리사
+  core: false
+  note: 'f: la cocinera'
+- key: soup
+  es: la sopa
+  base: sopa
+  gender: f
+  pron: 라 **소**빠
+  en: soup
+  ko: 수프
+  core: false
+  note: ''
+- key: meat
+  es: la carne
+  base: carne
+  gender: f
+  pron: 라 **까**르네
+  en: meat
+  ko: 고기
+  core: false
+  note: ''
+- key: fish
+  es: el pescado
+  base: pescado
+  gender: m
+  pron: 엘 뻬스**까**도
+  en: fish (food)
+  ko: 생선
+  core: false
+  note: 'vivo: el pez'
+- key: rice
+  es: el arroz
+  base: arroz
+  gender: m
+  pron: 엘 아**로**스
+  en: rice
+  ko: 쌀, 밥
+  core: false
+  note: ''
+- key: salad
+  es: la ensalada
+  base: ensalada
+  gender: f
+  pron: 라 엔살**라**다
+  en: salad
+  ko: 샐러드
+  core: false
+  note: ''
+- key: oil
+  es: el aceite
+  base: aceite
+  gender: m
+  pron: 엘 아**세이**떼
+  en: oil
+  ko: 기름
+  core: false
+  note: 'el aceite de oliva'
+word_order:
+  tema: Me trae, le traigo
+  tema_sub_ko: 어순 — me · le는 동사 바로 앞에
+  point_ko: 간접목적 me / le는 동사 앞 (주문하기)
+  lead_ko: 주문할 때 ‘나에게’를 뜻하는 me는 동사 바로 앞에 와요. ‘당신에게’를 뜻하는 le도 자리가 같아요.
+  sentences:
+  - es: ¿Me trae la cuenta, por favor?
+    en: Could you bring me the bill, please?
+    ko: 계산서 좀 갖다주시겠어요?
+    note_ko: me(나에게)는 동사 바로 앞 · 영어 me는 동사 뒤
+    tokens:
+    - es: ¿Me
+      gloss_ko: 나에게
+    - es: trae
+      gloss_ko: 가져오다(당신)
+    - es: la cuenta,
+      gloss_ko: 그 계산서
+    - es: por favor?
+      gloss_ko: 부탁해요
+    highlight: [0]
+  - es: ¿Me pone un vaso de agua?
+    en: Can I have a glass of water?
+    ko: 물 한 잔 주시겠어요?
+    note_ko: ¿Me pone…?는 바나 식당에서 주문할 때 흔히 써요
+    tokens:
+    - es: ¿Me
+      gloss_ko: 나에게
+    - es: pone
+      gloss_ko: 놓다(당신)
+    - es: un vaso
+      gloss_ko: 한 잔
+    - es: de
+      gloss_ko: ~의
+    - es: agua?
+      gloss_ko: 물
+    highlight: [0]
+  - es: Le traigo la carta ahora.
+    en: I'll bring you the menu now.
+    ko: 메뉴판 지금 갖다드릴게요.
+    note_ko: le(당신에게)도 동사 앞 · 직원이 손님에게 하는 말
+    tokens:
+    - es: Le
+      gloss_ko: 당신에게
+    - es: traigo
+      gloss_ko: 가져오다(나)
+    - es: la carta
+      gloss_ko: 그 메뉴판
+    - es: ahora
+      gloss_ko: 지금
+    highlight: [0]
+  - es: Le recomiendo el pescado.
+    en: I recommend the fish.
+    ko: 생선 요리를 추천해 드려요.
+    note_ko: 추천할 때도 le + 동사 + 목적어 순서예요
+    tokens:
+    - es: Le
+      gloss_ko: 당신에게
+    - es: recomiendo
+      gloss_ko: 추천하다(나)
+    - es: el pescado
+      gloss_ko: 그 생선
+    highlight: [0]
+  - es: ¿Nos trae otra botella?
+    en: Could you bring us another bottle?
+    ko: 한 병 더 갖다주시겠어요?
+    note_ko: 여럿이면 nos(우리에게) · 자리는 me와 같아요
+    tokens:
+    - es: ¿Nos
+      gloss_ko: 우리에게
+    - es: trae
+      gloss_ko: 가져오다(당신)
+    - es: otra
+      gloss_ko: 또 하나의
+    - es: botella?
+      gloss_ko: 병
+    highlight: [0]
+  patterns:
+  - title_ko: 주문할 때 쓰는 틀
+    items:
+    - es: ¿Me trae la carta?
+      en: Could I have the menu?
+      ko: 메뉴판 주시겠어요?
+    - es: ¿Me pone una copa de vino?
+      en: A glass of wine, please?
+      ko: 와인 한 잔 주시겠어요?
+    - es: ¿Me trae la cuenta?
+      en: Could I have the bill?
+      ko: 계산서 주시겠어요?
+  - title_ko: 누구에게? me · le · nos
+    items:
+    - es: me trae
+      lit: to me · brings
+      ko: 나에게 갖다줘요
+    - es: le trae
+      lit: to you, him, her · brings
+      ko: 그 사람에게 갖다줘요
+    - es: nos trae
+      lit: to us · brings
+      ko: 우리에게 갖다줘요
+  - title_ko: 코스 고르기
+    items:
+    - es: De primero, la sopa.
+      en: First, the soup.
+      ko: 첫 요리는 수프로요.
+    - es: De segundo, el pescado.
+      en: Then the fish.
+      ko: 다음은 생선으로요.
+    - es: De postre, fruta.
+      en: Fruit for dessert.
+      ko: 디저트는 과일로요.
+  contrast:
+    title_ko: me의 자리
+    items:
+    - es: ¿Me trae la cuenta?
+      label_ko: 활용된 동사 앞에
+      ko: 계산서 갖다주시겠어요?
+    - es: ¿Me puede traer la cuenta?
+      label_ko: 앞에 둬도 같은 뜻
+      ko: 계산서 갖다주실 수 있어요?
+    - es: ¿Puede traerme la cuenta?
+      label_ko: 동사원형 끝에 붙여서
+      ko: 계산서 갖다주실 수 있어요?
+  subject:
+    title_ko: le가 누구인지 밝히기
+    items:
+    - es: Le traigo la carta a usted.
+      ko: 손님께 메뉴판을 갖다드려요.
+    - es: Le traigo la sopa a ella.
+      ko: 저 여자분께 수프를 갖다드려요.
+    - es: Le traigo el agua a él.
+      ko: 저 남자분께 물을 갖다드려요.
+  extra_notes_ko:
+  - 'le 하나로 ‘당신에게’, ‘그에게’, ‘그녀에게’를 다 말해요. 누구인지 헷갈리면 a usted, a ella를 뒤에 덧붙여요. 이때도 le는 빼지 않아요: Le traigo la carta a usted.'
+  - trae, pone는 usted(당신)에게 쓰는 동사 모양이에요. 처음 보는 식당 직원에게는 이렇게 말하면 무난해요. 끝에 por favor를 붙이면 말투가 더 부드러워져요.
+practice:
+- tiles: ['favor?', 'cuenta,', ¿Me, por, trae, la]
+  answer: ¿Me trae la cuenta, por favor?
+  ko: 계산서 좀 갖다주시겠어요?
+- tiles: ['agua?', un, pone, de, ¿Me, vaso]
+  answer: ¿Me pone un vaso de agua?
+  ko: 물 한 잔 주시겠어요?
+- tiles: [carta, traigo, ahora, Le, la]
+  answer: Le traigo la carta ahora.
+  ko: 메뉴판 지금 갖다드릴게요.
+- tiles: [pescado, Le, el, recomiendo]
+  answer: Le recomiendo el pescado.
+  ko: 생선 요리를 추천해 드려요.
+- tiles: [de, 'agua,', favor, Una, por, botella]
+  answer: Una botella de agua, por favor.
+  ko: 물 한 병 주세요.
+variants:
+- es: la carta
+  alt: el menú (메뉴판 뜻으로도 써요)
+- es: la reserva
+  alt: la reservación (중남미)
+- es: el primer plato
+  alt: la entrada (처음에 먹는 요리)
+- es: el segundo plato
+  alt: el plato fuerte (주요리)
+- es: el menú del día
+  alt: la comida corrida (멕시코)
+scenes:
+- es: Una mesa para dos, por favor.
+  en: A table for two, please.
+  ko: 두 명 자리 부탁해요.
+- es: Tengo una reserva a las nueve.
+  en: I have a reservation at nine.
+  ko: 아홉 시에 예약했어요.
+- es: ¿Qué me recomienda?
+  en: What do you recommend?
+  ko: 뭘 추천하세요?
+- es: De primero, sopa, y de segundo, carne.
+  en: Soup first, then meat.
+  ko: 먼저 수프, 그다음 고기로요.
+- es: Está todo muy rico.
+  en: Everything is delicious.
+  ko: 다 정말 맛있어요.
+- es: ¿Puedo pagar con tarjeta?
+  en: Can I pay by card?
+  ko: 카드로 내도 돼요?
+extras:
+  grammar_ko:
+  - el agua는 여성 명사예요. 강세 있는 a로 시작해서 단수 관사만 el을 써요. 복수는 las aguas이고, 형용사도 el agua fría처럼 여성형이에요.
+  - primero는 남성 단수 명사 앞에서 -o가 빠져요. 그래서 el primer plato예요. segundo는 그대로 el segundo plato라고 해요.
+  - el vaso는 다리가 없는 컵이고, 다리 달린 잔은 la copa예요. 그래서 물은 un vaso de agua, 와인은 una copa de vino라고 해요.
+  - el menú del día의 del은 de + el이 줄어든 말이에요. 여성 명사 앞의 de la는 줄지 않아요.
+  cognates:
+  - es: la ensalada
+    en: salad
+    note_ko: 둘 다 소금을 뜻하는 라틴어 sal과 이어져요.
+  - es: la botella
+    en: bottle
+    note_ko: 철자가 닮아서 뜻이 금방 짐작돼요.
+  - es: la sopa
+    en: soup
+    note_ko: 소리가 비슷해서 외우기 쉬워요.
+  false_friend:
+    es: el menú
+    en: menu
+    note_ko: 스페인 식당에서 el menú는 코스를 묶은 세트 메뉴를 말해요. 음식 목록이 적힌 메뉴판은 la carta예요.
+  fun_fact_ko: el aceite는 아랍어 az-zayt에서 왔어요. el arroz도 아랍어 ar-ruzz에서 온 말이에요.
+props:
+- kind: poster
+  lines:
+  - MENÚ DEL DÍA
+  - primero · segundo
+  - postre · pan · bebida
+  - 15 €
+- kind: ticket
+  lines:
+  - LA CUENTA · MESA 07 · 12 MAY
+  - 2 menús del día · 30,00 €
+  - gracias por su visita
+- kind: stamp
+  lines:
+  - ¡BUEN PROVECHO!
+  - MADRID
+  - 12 MAY · Nº 08
+- kind: polaroid
+  lines:
+  - mesa para dos

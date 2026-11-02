@@ -1,0 +1,438 @@
+# ch17 · Deporte y fiesta
+schema_version: 1
+chapter:
+  num: 17
+  es: Deporte y fiesta
+  en: Sport and festivals
+  ko: 스포츠
+  city: Pamplona
+  skin: Postal
+  date: 19 MAY
+  word_changes: []
+opener:
+  parada: Parada 17 · Pamplona
+  place: Casco antiguo de Pamplona
+  hand: siempre corro por la mañana — hoy, por aquí
+  photo_note_ko: 팜플로나 구시가 거리, 7월이면 축제 인파로 가득해요
+words:
+- key: football
+  es: el fútbol
+  base: fútbol
+  gender: m
+  pron: 엘 **푸뜨**볼
+  en: football
+  ko: 축구
+  core: true
+  note: ''
+  example:
+    es: Me gusta el fútbol.
+    en: I like football.
+    ko: 축구를 좋아해요.
+- key: football_ball
+  es: el balón
+  base: balón
+  gender: m
+  pron: 엘 발**론**
+  en: ball (football)
+  ko: 축구공
+  core: true
+  note: ''
+  example:
+    es: Pásame el balón.
+    en: Pass me the ball.
+    ko: 공 패스해 줘요.
+- key: stadium
+  es: el estadio
+  base: estadio
+  gender: m
+  pron: 엘 에스**따**디오
+  en: stadium
+  ko: 경기장
+  core: true
+  note: ''
+  example:
+    es: El estadio está lleno.
+    en: The stadium is full.
+    ko: 경기장이 꽉 찼어요.
+- key: team
+  es: el equipo
+  base: equipo
+  gender: m
+  pron: 엘 에**끼**뽀
+  en: team
+  ko: 팀
+  core: true
+  note: ''
+  example:
+    es: ¿Cuál es tu equipo?
+    en: Which team do you support?
+    ko: 어느 팀 좋아해요?
+- key: match
+  es: el partido
+  base: partido
+  gender: m
+  pron: 엘 빠르**띠**도
+  en: match
+  ko: 경기
+  core: true
+  note: ''
+  example:
+    es: El partido empieza a las ocho.
+    en: The match starts at eight.
+    ko: 경기는 8시에 시작해요.
+- key: goal
+  es: el gol
+  base: gol
+  gender: m
+  pron: 엘 **골**
+  en: goal
+  ko: 골
+  core: true
+  note: ''
+  example:
+    es: ¡Qué gol tan bonito!
+    en: What a beautiful goal!
+    ko: 정말 멋진 골이에요!
+- key: ball
+  es: la pelota
+  base: pelota
+  gender: f
+  pron: 라 뻴**로**따
+  en: ball
+  ko: 공
+  core: true
+  note: ''
+  example:
+    es: Los niños juegan con la pelota.
+    en: The children play with the ball.
+    ko: 아이들이 공을 가지고 놀아요.
+- key: bike
+  es: la bicicleta
+  base: bicicleta
+  gender: f
+  pron: 라 비시**끌레**따
+  en: bicycle
+  ko: 자전거
+  core: true
+  note: ''
+  example:
+    es: Siempre voy en bicicleta.
+    en: I always go by bike.
+    ko: 저는 늘 자전거로 다녀요.
+- key: race
+  es: la carrera
+  base: carrera
+  gender: f
+  pron: 라 까**레**라
+  en: race
+  ko: 경주
+  core: false
+  note: ''
+- key: runner
+  es: el corredor
+  base: corredor
+  gender: m
+  pron: 엘 꼬레**도르**
+  en: runner
+  ko: 달리기 선수
+  core: false
+  note: ''
+- key: party
+  es: la fiesta
+  base: fiesta
+  gender: f
+  pron: 라 **피에스**따
+  en: festival
+  ko: 축제
+  core: false
+  note: ''
+- key: neckerchief
+  es: el pañuelo
+  base: pañuelo
+  gender: m
+  pron: 엘 빠**뉴엘**로
+  en: neckerchief
+  ko: 스카프
+  core: false
+  note: ''
+- key: band
+  es: la banda
+  base: banda
+  gender: f
+  pron: 라 **반**다
+  en: band
+  ko: 악단
+  core: false
+  note: ''
+- key: fireworks
+  es: los fuegos artificiales
+  base: fuegos artificiales
+  gender: mpl
+  pron: 로스 **푸에**고스 아르띠피**시알**레스
+  en: fireworks
+  ko: 불꽃놀이
+  core: false
+  note: ''
+- key: parade
+  es: el desfile
+  base: desfile
+  gender: m
+  pron: 엘 데스**필**레
+  en: parade
+  ko: 행진
+  core: false
+  note: ''
+- key: entryticket
+  es: la entrada
+  base: entrada
+  gender: f
+  pron: 라 엔**뜨라**다
+  en: entry ticket
+  ko: 입장권
+  core: false
+  note: ''
+- key: champion
+  es: el campeón
+  base: campeón
+  gender: m
+  pron: 엘 깜뻬**온**
+  en: champion
+  ko: 챔피언
+  core: false
+  note: 'f: la campeona'
+- key: referee
+  es: el árbitro
+  base: árbitro
+  gender: m
+  pron: 엘 **아**르비뜨로
+  en: referee
+  ko: 심판
+  core: false
+  note: ''
+- key: pool
+  es: la piscina
+  base: piscina
+  gender: f
+  pron: 라 삐스**시**나
+  en: swimming pool
+  ko: 수영장
+  core: false
+  note: 'Latam: la alberca'
+- key: gym
+  es: el gimnasio
+  base: gimnasio
+  gender: m
+  pron: 엘 힘**나**시오
+  en: gym
+  ko: 체육관
+  core: false
+  note: ''
+word_order:
+  tema: Siempre, nunca, a veces
+  tema_sub_ko: 빈도부사 — 동사 앞이 기본
+  point_ko: '빈도부사 자리: Nunca juego = No juego nunca'
+  lead_ko: siempre나 nunca 같은 빈도부사는 보통 동사 앞에 와요. nunca를 동사 뒤로 보내면 동사 앞에 no를 붙여요.
+  sentences:
+  - es: Siempre corro por la mañana.
+    en: I always run in the morning.
+    ko: 나는 늘 아침에 달려요.
+    note_ko: 빈도부사 + 동사 · 때를 나타내는 말은 뒤에
+    tokens:
+    - es: Siempre
+      gloss_ko: 늘
+    - es: corro
+      gloss_ko: 달린다
+    - es: por
+      gloss_ko: ~에
+    - es: la mañana
+      gloss_ko: 그 아침
+    highlight: [0]
+  - es: Nunca juego al fútbol.
+    en: I never play football.
+    ko: 저는 축구를 절대 안 해요.
+    note_ko: nunca가 동사 앞이면 no 없이
+    tokens:
+    - es: Nunca
+      gloss_ko: 결코
+    - es: juego
+      gloss_ko: 경기한다
+    - es: al
+      gloss_ko: ~를
+    - es: fútbol
+      gloss_ko: 축구
+    highlight: [0]
+  - es: No juego nunca al fútbol.
+    en: I never play football.
+    ko: 저는 축구를 절대 안 해요.
+    note_ko: nunca가 동사 뒤면 no가 동사 앞에 · 뜻은 같아요
+    tokens:
+    - es: 'No'
+      gloss_ko: 안
+    - es: juego
+      gloss_ko: 경기한다
+    - es: nunca
+      gloss_ko: 결코
+    - es: al
+      gloss_ko: ~를
+    - es: fútbol
+      gloss_ko: 축구
+    highlight: [0, 2]
+  - es: A veces voy a la piscina.
+    en: Sometimes I go to the pool.
+    ko: 가끔 수영장에 가요.
+    note_ko: a veces도 동사 앞 · ir a + 장소는 그대로
+    tokens:
+    - es: A veces
+      gloss_ko: 가끔
+    - es: voy
+      gloss_ko: 간다
+    - es: a
+      gloss_ko: ~에
+    - es: la piscina
+      gloss_ko: 그 수영장
+    highlight: [0]
+  - es: Voy al gimnasio todos los días.
+    en: I go to the gym every day.
+    ko: 매일 체육관에 가요.
+    note_ko: todos los días는 문장 끝에 자주 와요
+    tokens:
+    - es: Voy
+      gloss_ko: 간다
+    - es: al
+      gloss_ko: ~에
+    - es: gimnasio
+      gloss_ko: 체육관
+    - es: todos
+      gloss_ko: 모든
+    - es: los días
+      gloss_ko: 그 날들
+    highlight: [3, 4]
+  patterns:
+  - title_ko: 얼마나 자주
+    items:
+    - es: siempre
+      en: always
+      ko: 늘
+    - es: normalmente
+      en: usually
+      ko: 보통
+    - es: a menudo
+      en: often
+      ko: 자주
+    - es: a veces
+      en: sometimes
+      ko: 가끔
+    - es: nunca
+      en: never
+      ko: 절대 안
+  - title_ko: 빈도부사 + 동사
+    items:
+    - es: Siempre gana mi equipo.
+      en: My team always wins.
+      ko: 우리 팀이 늘 이겨요.
+    - es: A veces voy al estadio.
+      en: Sometimes I go to games.
+      ko: 가끔 경기장에 가요.
+    - es: Nunca veo el partido.
+      en: I never watch the match.
+      ko: 경기를 절대 안 봐요.
+  contrast:
+    title_ko: nunca의 자리
+    items:
+    - es: Nunca juego.
+      label_ko: 동사 앞에는 no 없이
+      ko: 절대 경기 안 해요.
+    - es: No juego nunca.
+      label_ko: 동사 뒤에는 no와 함께
+      ko: 절대 경기 안 해요.
+  extra_notes_ko:
+  - 'siempre와 a veces는 동사 뒤나 문장 끝으로 가도 no가 따라붙지 않아요: Corro siempre por la mañana. no가 필요한 건 nunca 같은 부정어가 동사 뒤에 올 때뿐이에요.'
+  - '축구처럼 공으로 하는 경기는 jugar a로 말해요: juego al fútbol. a와 el이 만나면 al이 돼요.'
+practice:
+- tiles: [la, corro, mañana, por, Siempre]
+  answer: Siempre corro por la mañana.
+  ko: 나는 늘 아침에 달려요.
+- tiles: [fútbol, juego, Nunca, al]
+  answer: Nunca juego al fútbol.
+  ko: 축구를 절대 안 해요.
+- tiles: [nunca, al, 'No', fútbol, juego]
+  answer: No juego nunca al fútbol.
+  ko: 축구를 절대 안 해요.
+- tiles: [la, A, piscina, voy, a, veces]
+  answer: A veces voy a la piscina.
+  ko: 가끔 수영장에 가요.
+- tiles: [mi, gana, equipo, Siempre]
+  answer: Siempre gana mi equipo.
+  ko: 우리 팀이 늘 이겨요.
+variants:
+- es: el fútbol
+  alt: el futbol (멕시코 등, 끝 음절 강세)
+- es: la piscina
+  alt: la alberca (멕시코) · la pileta (아르헨티나)
+- es: la entrada
+  alt: el boleto (중남미)
+- es: el balón
+  alt: la pelota (공을 두루 가리켜요)
+- es: el árbitro
+  alt: el referí (중남미 일부)
+scenes:
+- es: ¿Cómo va el partido?
+  en: How's the match going?
+  ko: 경기 어떻게 돼 가요?
+- es: ¿Quién gana?
+  en: Who's winning?
+  ko: 누가 이기고 있어요?
+- es: Dos entradas para el partido, por favor.
+  en: Two tickets for the match, please.
+  ko: 경기 입장권 두 장 주세요.
+- es: ¿Dónde puedo alquilar una bicicleta?
+  en: Where can I rent a bike?
+  ko: 자전거 어디서 빌릴 수 있어요?
+- es: Nunca me pierdo un partido.
+  en: I never miss a match.
+  ko: 저는 경기를 절대 안 놓쳐요.
+- es: ¿Ya ha empezado el desfile?
+  en: Has the parade started yet?
+  ko: 행진이 벌써 시작했어요?
+extras:
+  grammar_ko:
+  - el balón은 축구공처럼 큰 공이고, la pelota는 공을 두루 가리켜요. 테니스공처럼 작은 공은 la pelota라고 해요.
+  - el campeón의 복수는 los campeones예요. 음절이 늘면서 강세 부호가 빠져요. 여성은 la campeona예요.
+  - los fuegos artificiales는 ‘불들 + 인공의’ 순서예요. 명사가 앞, 형용사가 뒤이고 형용사도 복수가 돼요.
+  cognates:
+  - es: el fútbol
+    en: football
+    note_ko: 영어 football을 스페인어 소리로 옮긴 말이에요.
+  - es: el estadio
+    en: stadium
+    note_ko: 철자가 비슷해서 뜻이 바로 보여요.
+  - es: el campeón
+    en: champion
+    note_ko: 철자와 뜻이 비슷해요.
+  false_friend:
+    es: el partido
+    en: party
+    note_ko: el partido는 ‘경기’, 정치에서는 ‘정당’이에요. 파티는 la fiesta라고 해요.
+  fun_fact_ko: 산 페르민은 7월에 열려요. 흰 옷에 빨간 pañuelo를 두른 사람들로 거리가 가득 차요.
+props:
+- kind: postmark
+  lines:
+  - Nº 17 · DEPORTE · 19 MAY
+- kind: postmark
+  lines:
+  - CORREO · PAMPLONA · 19 MAY
+- kind: ticket
+  lines:
+  - ENTRADA · TRIBUNA B
+  - FILA 7 · ASIENTO 12
+- kind: hand
+  lines:
+  - Siempre corro por la mañana.
+  - Hoy, por el casco antiguo.
+- kind: poster
+  lines:
+  - SAN FERMÍN
+  - del 6 al 14 de julio
+- kind: polaroid
+  lines:
+  - calles de Pamplona

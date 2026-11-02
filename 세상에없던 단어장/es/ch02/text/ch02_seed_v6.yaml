@@ -1,0 +1,213 @@
+# ch02 — v6 인쇄본에 이미 들어간 문구(단어 카드·오프너·소품). 출발점으로 써요.
+# 이 내용을 ch02_text.yaml로 옮긴 뒤 빠진 섹션(예문, 어순, 연습, 장면 등)을 채워요. 이 seed 파일은 고치지 않아요.
+chapter:
+  num: 2
+  es: La cocina
+  en: The kitchen
+  ko: 부엌
+  city: València
+  skin: Mercado
+  date: 5 MAY
+opener:
+  parada: Parada 02 · València
+  place: Mercado Central de València, la fachada
+  hand: al mercado, y luego a la cocina
+words:
+- key: fridge
+  es: la nevera
+  base: nevera
+  gender: f
+  pron: 라 네**베**라
+  en: fridge
+  ko: 냉장고
+  core: true
+  note: 'también: el frigorífico'
+- key: oven
+  es: el horno
+  base: horno
+  gender: m
+  pron: 엘 **오**르노
+  en: oven
+  ko: 오븐
+  core: true
+  note: ''
+- key: sink
+  es: el fregadero
+  base: fregadero
+  gender: m
+  pron: 엘 프레가**데**로
+  en: kitchen sink
+  ko: 개수대
+  core: true
+  note: ''
+- key: pan
+  es: la sartén
+  base: sartén
+  gender: f
+  pron: 라 사르**뗀**
+  en: frying pan
+  ko: 프라이팬
+  core: true
+  note: 'México: el sartén'
+- key: pot
+  es: la olla
+  base: olla
+  gender: f
+  pron: 라 **오**야
+  en: pot
+  ko: 냄비
+  core: true
+  note: ''
+- key: spoon
+  es: la cuchara
+  base: cuchara
+  gender: f
+  pron: 라 꾸**차**라
+  en: spoon
+  ko: 숟가락
+  core: true
+  note: ''
+- key: fork
+  es: el tenedor
+  base: tenedor
+  gender: m
+  pron: 엘 떼네**도**르
+  en: fork
+  ko: 포크
+  core: true
+  note: ''
+- key: knife
+  es: el cuchillo
+  base: cuchillo
+  gender: m
+  pron: 엘 꾸**치**요
+  en: knife
+  ko: 칼
+  core: true
+  note: ''
+- key: microwave
+  es: el microondas
+  base: microondas
+  gender: m
+  pron: 엘 미끄로**온**다스
+  en: microwave
+  ko: 전자레인지
+  core: false
+  note: ''
+- key: plate
+  es: el plato
+  base: plato
+  gender: m
+  pron: 엘 **쁠라**또
+  en: plate
+  ko: 접시
+  core: false
+  note: ''
+- key: glass
+  es: el vaso
+  base: vaso
+  gender: m
+  pron: 엘 **바**소
+  en: glass
+  ko: 유리컵
+  core: false
+  note: ''
+- key: cup
+  es: la taza
+  base: taza
+  gender: f
+  pron: 라 **따**사
+  en: cup
+  ko: 찻잔
+  core: false
+  note: ''
+- key: moka
+  es: la cafetera
+  base: cafetera
+  gender: f
+  pron: 라 까페**떼**라
+  en: coffee maker
+  ko: 커피 메이커
+  core: false
+  note: cafetera italiana
+- key: toaster
+  es: la tostadora
+  base: tostadora
+  gender: f
+  pron: 라 또스따**도**라
+  en: toaster
+  ko: 토스터
+  core: false
+  note: ''
+- key: board
+  es: la tabla de cortar
+  base: tabla de cortar
+  gender: f
+  pron: 라 **따**블라 데 꼬르**따**르
+  en: cutting board
+  ko: 도마
+  core: false
+  note: ''
+- key: apron
+  es: el delantal
+  base: delantal
+  gender: m
+  pron: 엘 델란**딸**
+  en: apron
+  ko: 앞치마
+  core: false
+  note: ''
+- key: jug
+  es: la jarra
+  base: jarra
+  gender: f
+  pron: 라 **하**라
+  en: jug
+  ko: 물병
+  core: false
+  note: ''
+- key: grater
+  es: el rallador
+  base: rallador
+  gender: m
+  pron: 엘 라야**도**르
+  en: grater
+  ko: 강판
+  core: false
+  note: ''
+- key: mortar
+  es: el mortero
+  base: mortero
+  gender: m
+  pron: 엘 모르**떼**로
+  en: mortar
+  ko: 절구
+  core: false
+  note: ''
+- key: paellera
+  es: la paellera
+  base: paellera
+  gender: f
+  pron: 라 빠에**예**라
+  en: paella pan
+  ko: 파에야 팬
+  core: false
+  note: 'en Valencia: la paella'
+props:
+- kind: stamp
+  lines:
+  - MERCADO · 5 MAY
+  - la cocina
+- kind: chalk
+  lines:
+  - Hoy en la cocina
+  - la olla · la sartén
+  - la paellera · el mortero
+  - 냄비, 프라이팬, 파에야 팬
+  - 5 de mayo
+- kind: polaroid
+  lines:
+  - Mercat Central
+- kind: hand
+  lines:
+  - fruta, pescado y más

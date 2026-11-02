@@ -1,0 +1,449 @@
+# ch09 · Café y panadería
+schema_version: 1
+chapter:
+  num: 9
+  es: Café y panadería
+  en: Café and bakery
+  ko: 카페와 빵집
+  city: Salamanca
+  skin: Mercado
+  date: 16 MAY
+  word_changes: []
+opener:
+  parada: Parada 09 · Salamanca
+  place: Salamanca, una terraza en la Plaza Mayor
+  hand: ¿el café? lo quiero con leche — y un cruasán
+  photo_note_ko: 살라망카 마요르 광장의 카페 테라스
+words:
+- key: coffee
+  es: el café
+  base: café
+  gender: m
+  pron: 엘 까**페**
+  en: coffee
+  ko: 커피
+  core: true
+  note: ''
+  example:
+    es: Un café, por favor.
+    en: A coffee, please.
+    ko: 커피 한 잔 주세요.
+- key: whitecoffee
+  es: el café con leche
+  base: café con leche
+  gender: m
+  pron: 엘 까**페** 꼰 **레**체
+  en: coffee with milk
+  ko: 밀크커피
+  core: true
+  note: ''
+  example:
+    es: Un café con leche y una tostada.
+    en: A coffee with milk and some toast.
+    ko: 밀크커피랑 토스트 하나 주세요.
+- key: cortado
+  es: el cortado
+  base: cortado
+  gender: m
+  pron: 엘 꼬르**따**도
+  en: espresso & milk
+  ko: 코르타도
+  core: true
+  note: con poca leche
+  example:
+    es: ¿Me pone un cortado?
+    en: Can I have a cortado?
+    ko: 코르타도 한 잔 주시겠어요?
+- key: tea
+  es: el té
+  base: té
+  gender: m
+  pron: 엘 **떼**
+  en: tea
+  ko: 차
+  core: true
+  note: ''
+  example:
+    es: ¿Tienen té con limón?
+    en: Do you have tea with lemon?
+    ko: 레몬 넣은 차 있어요?
+- key: juice
+  es: el zumo
+  base: zumo
+  gender: m
+  pron: 엘 **수**모
+  en: juice
+  ko: 주스
+  core: true
+  note: 'Latam: el jugo'
+  example:
+    es: El zumo de naranja es natural.
+    en: The orange juice is freshly squeezed.
+    ko: 오렌지 주스는 직접 짠 거예요.
+- key: croissant
+  es: el cruasán
+  base: cruasán
+  gender: m
+  pron: 엘 끄루아**산**
+  en: croissant
+  ko: 크루아상
+  core: true
+  note: ''
+  example:
+    es: Este cruasán está muy rico.
+    en: This croissant is delicious.
+    ko: 이 크루아상 정말 맛있어요.
+- key: madeleine
+  es: la magdalena
+  base: magdalena
+  gender: f
+  pron: 라 막달**레**나
+  en: madeleine
+  ko: 마들렌
+  core: true
+  note: ''
+  example:
+    es: Me llevo media docena de magdalenas.
+    en: I'll take half a dozen madeleines.
+    ko: 마들렌 반 다스 살게요.
+- key: churros
+  es: los churros
+  base: churros
+  gender: mpl
+  pron: 로스 **추**로스
+  en: churros
+  ko: 추로스
+  core: true
+  note: 'uno: un churro'
+  example:
+    es: Hoy desayuno churros con chocolate.
+    en: 'Breakfast today: churros and chocolate.'
+    ko: 오늘 아침은 추로스와 초콜릿이에요.
+- key: chocolate
+  es: el chocolate
+  base: chocolate
+  gender: m
+  pron: 엘 초꼴**라**떼
+  en: chocolate
+  ko: 초콜릿
+  core: false
+  note: ''
+- key: toast
+  es: la tostada
+  base: tostada
+  gender: f
+  pron: 라 또스**따**다
+  en: toast
+  ko: 토스트
+  core: false
+  note: ''
+- key: baguette
+  es: la barra de pan
+  base: barra de pan
+  gender: f
+  pron: 라 **바**라 데 **빤**
+  en: baguette
+  ko: 바게트
+  core: false
+  note: 'o: una barra'
+- key: bakery
+  es: la panadería
+  base: panadería
+  gender: f
+  pron: 라 빠나데**리**아
+  en: bakery
+  ko: 빵집
+  core: false
+  note: ''
+- key: cup
+  es: la taza
+  base: taza
+  gender: f
+  pron: 라 **따**사
+  en: cup
+  ko: 찻잔
+  core: false
+  note: ''
+- key: sugar
+  es: el azúcar
+  base: azúcar
+  gender: m
+  pron: 엘 아**수**까르
+  en: sugar
+  ko: 설탕
+  core: false
+  note: ''
+- key: teaspoon
+  es: la cucharilla
+  base: cucharilla
+  gender: f
+  pron: 라 꾸차**리**야
+  en: teaspoon
+  ko: 찻숟가락
+  core: false
+  note: ''
+- key: terrace
+  es: la terraza
+  base: terraza
+  gender: f
+  pron: 라 떼**라**사
+  en: terrace
+  ko: 테라스
+  core: false
+  note: ''
+- key: table
+  es: la mesa
+  base: mesa
+  gender: f
+  pron: 라 **메**사
+  en: table
+  ko: 탁자
+  core: false
+  note: ''
+- key: bill
+  es: la cuenta
+  base: cuenta
+  gender: f
+  pron: 라 **꾸엔**따
+  en: bill
+  ko: 계산서
+  core: false
+  note: ''
+- key: sandwich
+  es: el bocadillo
+  base: bocadillo
+  gender: m
+  pron: 엘 보까**디**요
+  en: sandwich
+  ko: 샌드위치
+  core: false
+  note: con pan de barra
+- key: cake
+  es: la tarta
+  base: tarta
+  gender: f
+  pron: 라 **따**르따
+  en: cake
+  ko: 케이크
+  core: false
+  note: ''
+word_order:
+  tema: Lo quiero, la quiero
+  tema_sub_ko: 어순 — lo · la는 동사 바로 앞에
+  point_ko: 직접목적 lo / la는 동사 앞
+  lead_ko: 앞에서 말한 물건을 ‘그것을’로 받을 때 lo나 la를 동사 바로 앞에 놓아요. 남성 명사는 lo, 여성 명사는 la예요.
+  sentences:
+  - es: ¿El café? Lo quiero con leche.
+    en: The coffee? I'd like it with milk.
+    ko: 커피요? 우유 넣어서 주세요.
+    note_ko: lo(그것을)는 동사 앞 · 영어 it은 동사 뒤
+    tokens:
+    - es: ¿El café?
+      gloss_ko: 그 커피?
+    - es: Lo
+      gloss_ko: 그것을
+    - es: quiero
+      gloss_ko: 원하다(나)
+    - es: con
+      gloss_ko: ~와 함께
+    - es: leche
+      gloss_ko: 우유
+    highlight: [1]
+  - es: ¿La tostada? La quiero con tomate.
+    en: The toast? I'd like it with tomato.
+    ko: 토스트요? 토마토 올려서 주세요.
+    note_ko: la tostada가 여성 명사라서 la로 받아요
+    tokens:
+    - es: ¿La tostada?
+      gloss_ko: 그 토스트?
+    - es: La
+      gloss_ko: 그것을
+    - es: quiero
+      gloss_ko: 원하다(나)
+    - es: con
+      gloss_ko: ~와 함께
+    - es: tomate
+      gloss_ko: 토마토
+    highlight: [1]
+  - es: ¿Los churros? Los quiero calientes.
+    en: The churros? I'd like them hot.
+    ko: 추로스요? 따뜻한 걸로 주세요.
+    note_ko: 복수는 los · 형용사도 복수 calientes
+    tokens:
+    - es: ¿Los
+      gloss_ko: 그
+    - es: churros?
+      gloss_ko: 추로스?
+    - es: Los
+      gloss_ko: 그것들을
+    - es: quiero
+      gloss_ko: 원하다(나)
+    - es: calientes
+      gloss_ko: 따뜻한
+    highlight: [2]
+  - es: ¿El zumo? Lo tomo sin azúcar.
+    en: The juice? I have it without sugar.
+    ko: 주스요? 설탕 없이 마셔요.
+    note_ko: 동사가 바뀌어도 lo는 그대로 동사 앞이에요
+    tokens:
+    - es: ¿El zumo?
+      gloss_ko: 그 주스?
+    - es: Lo
+      gloss_ko: 그것을
+    - es: tomo
+      gloss_ko: 마시다(나)
+    - es: sin
+      gloss_ko: ~없이
+    - es: azúcar
+      gloss_ko: 설탕
+    highlight: [1]
+  - es: ¿La cuenta? La pago yo.
+    en: The bill? I'll pay it.
+    ko: 계산서요? 제가 낼게요.
+    note_ko: la는 동사 앞 · yo를 끝에 두면 ‘제가’에 힘이 실려요
+    tokens:
+    - es: ¿La cuenta?
+      gloss_ko: 그 계산서?
+    - es: La
+      gloss_ko: 그것을
+    - es: pago
+      gloss_ko: 내다(나)
+    - es: yo
+      gloss_ko: 나
+    highlight: [1]
+  patterns:
+  - title_ko: 명사에 맞춰 고르는 말
+    items:
+    - es: el café → lo quiero
+      tag: m
+      ko: 커피 → 그걸 원해요
+    - es: la tostada → la quiero
+      tag: f
+      ko: 토스트 → 그걸 원해요
+    - es: los churros → los quiero
+      tag: m pl
+      ko: 추로스 → 그걸 원해요
+    - es: las magdalenas → las quiero
+      tag: f pl
+      ko: 마들렌 → 그걸 원해요
+  - title_ko: con과 de로 잇는 말
+    items:
+    - es: el café con leche
+      lit: coffee · with · milk
+      en: coffee with milk
+      ko: 밀크커피
+    - es: el té con limón
+      lit: tea · with · lemon
+      en: tea with lemon
+      ko: 레몬차
+    - es: el zumo de naranja
+      lit: juice · of · orange
+      en: orange juice
+      ko: 오렌지 주스
+    - es: la barra de pan
+      lit: bar · of · bread
+      en: baguette
+      ko: 바게트
+  contrast:
+    title_ko: 명사와 lo의 자리
+    items:
+    - es: Quiero el café con leche.
+      label_ko: 명사는 동사 뒤에
+      ko: 커피는 우유 넣어서 주세요.
+    - es: Lo quiero con leche.
+      label_ko: lo는 동사 앞에
+      ko: 우유 넣어서 주세요.
+    - es: Voy a tomarlo con leche.
+      label_ko: 동사원형 끝에 붙여서
+      ko: 우유 넣어서 마실 거예요.
+  extra_notes_ko:
+  - 이미 나온 물건은 이름을 다시 말하지 않고 lo · la · los · las로 받아요. 이 말은 활용된 동사 바로 앞에 와요. 동사원형이 있으면 Voy a tomarlo처럼 끝에 붙일 수도 있어요.
+  - 앞 장의 me(나에게)는 받는 사람을, 이 장의 lo · la(그것을)는 물건을 가리켜요. ¿Me trae un café?와 Lo quiero con leche를 나란히 읽어 보면 자리가 같다는 걸 알 수 있어요.
+practice:
+- tiles: [leche, Lo, con, quiero]
+  answer: Lo quiero con leche.
+  ko: 우유 넣어서 주세요.
+- tiles: [con, quiero, tomate, La]
+  answer: La quiero con tomate.
+  ko: 토마토 올려서 주세요.
+- tiles: [yo, pago, La]
+  answer: La pago yo.
+  ko: 제가 낼게요.
+- tiles: [calientes, Los, quiero]
+  answer: Los quiero calientes.
+  ko: 따뜻한 걸로 주세요.
+- tiles: [favor, con, Un, 'leche,', por, café]
+  answer: Un café con leche, por favor.
+  ko: 밀크커피 한 잔 주세요.
+variants:
+- es: el zumo
+  alt: el jugo (중남미)
+- es: el cruasán
+  alt: la medialuna (아르헨티나)
+- es: el bocadillo
+  alt: la torta (멕시코)
+- es: la tarta
+  alt: el pastel (같은 뜻) · la torta (아르헨티나)
+scenes:
+- es: ¿Para tomar aquí o para llevar?
+  en: For here or to take away?
+  ko: 여기서 드세요, 가져가세요?
+- es: Una barra de pan, por favor.
+  en: A baguette, please.
+  ko: 바게트 하나 주세요.
+- es: ¿Nos sentamos en la terraza?
+  en: Shall we sit on the terrace?
+  ko: 테라스에 앉을까요?
+- es: ¿A qué hora abre la panadería?
+  en: What time does the bakery open?
+  ko: 빵집은 몇 시에 열어요?
+- es: ¿Me cobra, por favor?
+  en: Can I pay, please?
+  ko: 계산해 주시겠어요?
+extras:
+  grammar_ko:
+  - Lo quiero를 그대로 옮기면 ‘그걸 원해요’예요. 카페에서는 ‘그걸로 주세요’에 가까운 말이에요.
+  - el azúcar는 남성으로도 여성으로도 쓰는 단어예요. 처음에는 el azúcar로 외우면 충분해요.
+  - -ería로 끝나는 말은 가게 이름인 경우가 많아요. panadería(빵집), cafetería(카페), frutería(과일 가게)처럼요.
+  - la cucharilla는 la cuchara(숟가락)에 ‘작은’을 뜻하는 -illa가 붙은 말이에요.
+  cognates:
+  - es: el café
+    en: coffee
+    note_ko: 둘 다 아랍어 qahwa에서 왔어요.
+  - es: el té
+    en: tea
+    note_ko: 둘 다 중국 남부 말 te에서 왔어요.
+  - es: el azúcar
+    en: sugar
+    note_ko: 둘 다 아랍어 sukkar에서 왔어요.
+  - es: el chocolate
+    en: chocolate
+    note_ko: 영어 chocolate는 스페인어에서 건너간 말이에요.
+  false_friend:
+    es: la tarta
+    en: tart
+    note_ko: la tarta는 케이크를 두루 가리켜요. tarta de queso는 치즈케이크예요.
+  fun_fact_ko: cortado는 동사 cortar(자르다)에서 온 말로, 직역하면 ‘잘린’ 커피예요.
+props:
+- kind: chalk
+  lines:
+  - HOY EN LA BARRA
+  - café con leche · 1,80 €
+  - churros · 2,50 €
+  - tostada · 2,00 €
+- kind: price
+  lines:
+  - cruasán
+  - 1,50 €
+- kind: ticket
+  lines:
+  - TICKET · MESA 03 · 16 MAY
+  - 1 café con leche · 1 tostada
+  - TOTAL 3,80 € · gracias
+- kind: stamp
+  lines:
+  - SALAMANCA
+  - 16 MAY · Nº 09
+- kind: polaroid
+  lines:
+  - la Plaza Mayor al sol
