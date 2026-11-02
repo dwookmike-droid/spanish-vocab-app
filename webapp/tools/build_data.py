@@ -37,6 +37,18 @@ CREDITS_OUT = APP / "media/credits"
 DATA_OUT = APP / "data"
 
 
+ARTICLES = {
+    "el": {"lemma": "el", "ko": "그 (남성 단수 정관사)", "en": "the", "pron": "엘"},
+    "la": {"lemma": "el", "ko": "그 (여성 단수 정관사)", "en": "the", "pron": "라"},
+    "los": {"lemma": "el", "ko": "그 (남성 복수 정관사)", "en": "the", "pron": "로스"},
+    "las": {"lemma": "el", "ko": "그 (여성 복수 정관사)", "en": "the", "pron": "라스"},
+    "un": {"lemma": "uno", "ko": "하나의 (남성 부정관사)", "en": "a, an", "pron": "**운**"},
+    "una": {"lemma": "uno", "ko": "하나의 (여성 부정관사)", "en": "a, an", "pron": "**우**나"},
+    "unos": {"lemma": "uno", "ko": "몇몇의 (남성 복수)", "en": "some", "pron": "**우**노스"},
+    "unas": {"lemma": "uno", "ko": "몇몇의 (여성 복수)", "en": "some", "pron": "**우**나스"},
+}
+
+
 def audio_name(text):
     return "es_" + hashlib.md5(("es" + text).encode()).hexdigest()[:10] + ".mp3"
 
@@ -148,6 +160,9 @@ def build_chapter(num, imgs, audios):
         glossary.setdefault((w.get("base") or "").lower(), entry)
     for k, v in (extra.get("glossary") or {}).items():
         glossary[str(k).lower()] = v
+    # articles are part of the chapter words ("la toalla"), so the content checker never asks for them
+    for k, v in ARTICLES.items():
+        glossary.setdefault(k, v)
 
     ch = text["chapter"]
     data = {

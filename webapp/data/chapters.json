@@ -69,8 +69,8 @@
    "date": "7 MAY",
    "cover": "ch06_apple",
    "has_media": true,
-   "n_dialogues": 0,
-   "n_readings": 0
+   "n_dialogues": 2,
+   "n_readings": 2
   },
   {
    "num": 7,
@@ -105,8 +105,8 @@
    "date": "12 MAY",
    "cover": "ch11_train",
    "has_media": true,
-   "n_dialogues": 0,
-   "n_readings": 0
+   "n_dialogues": 2,
+   "n_readings": 2
   }
  ],
  "credits": [
