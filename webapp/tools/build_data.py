@@ -30,6 +30,10 @@ ROOT = Path(__file__).resolve().parents[2]
 APP = ROOT / "webapp"
 CHAPTERS = [1, 2, 3, 4, 5, 6, 7, 8, 11]
 V6_WEB = ROOT / "design/deliverables/v6/web"
+GEMINI_DIR = APP / "content/audio"        # mp3s made by gen_audio_gemini.py (source, kept in git)
+MANIFEST = APP / "content/audio_manifest.json"   # every (text, voice) the app wants voiced
+NARRATOR = "Kore"
+DIALOGUE_VOICES = {"A": "Charon", "B": "Kore"}
 
 IMG_OUT = APP / "media/img"
 AUDIO_OUT = APP / "media/audio"
@@ -47,6 +51,10 @@ ARTICLES = {
     "unos": {"lemma": "uno", "ko": "몇몇의 (남성 복수)", "en": "some", "pron": "**우**노스"},
     "unas": {"lemma": "uno", "ko": "몇몇의 (여성 복수)", "en": "some", "pron": "**우**나스"},
 }
+
+
+def gemini_name(text, voice):
+    return "gm_" + hashlib.md5(f"{voice}|{text}".encode()).hexdigest()[:10] + ".mp3"
 
 
 def audio_name(text):
@@ -86,6 +94,9 @@ def collect_media():
     return imgs, audios, [c.name for c in credits]
 
 
+WANTED = {}
+
+
 def build_chapter(num, imgs, audios):
     nn = f"{num:02d}"
     text = yaml.safe_load((ROOT / f"es/ch{nn}/text/ch{nn}_text.yaml").read_text(encoding="utf-8"))
@@ -94,10 +105,17 @@ def build_chapter(num, imgs, audios):
 
     stats = {"audio_hit": 0, "audio_miss": 0}
 
-    def au(s):
-        """Attach an mp3 name when one exists for this Spanish text."""
+    def au(s, voice=NARRATOR):
+        """Attach an mp3 for this Spanish text: Gemini voice first, then the v6 mp3, else browser TTS."""
         if not s:
             return None
+        g = gemini_name(s, voice)
+        WANTED[g] = {"text": s, "voice": voice}
+        if (GEMINI_DIR / g).exists():
+            shutil.copy(GEMINI_DIR / g, AUDIO_OUT / g)
+            audios.add(g)
+            stats["audio_hit"] += 1
+            return g
         n = audio_name(s)
         if n in audios:
             stats["audio_hit"] += 1
@@ -105,9 +123,9 @@ def build_chapter(num, imgs, audios):
         stats["audio_miss"] += 1
         return None
 
-    def sent(d, *keep):
+    def sent(d, *keep, voice=NARRATOR):
         out = {k: d.get(k) for k in keep if d.get(k) not in (None, "", [])}
-        out["audio"] = au(d.get("es"))
+        out["audio"] = au(d.get("es"), voice)
         return out
 
     words = []
@@ -141,9 +159,10 @@ def build_chapter(num, imgs, audios):
     for d in extra.get("dialogues", []):
         lines = []
         for ln in d.get("lines", []):
+            v = DIALOGUE_VOICES.get(ln["who"], NARRATOR)
             lines.append({"who": ln["who"],
-                          "textbook": sent(ln["textbook"], "es", "ko"),
-                          "native": sent(ln["native"], "es", "ko", "note_ko")})
+                          "textbook": sent(ln["textbook"], "es", "ko", voice=v),
+                          "native": sent(ln["native"], "es", "ko", "note_ko", voice=v)})
         dialogues.append({k: d.get(k) for k in ("id", "title_es", "title_ko", "setting_ko", "roles")} | {"lines": lines})
 
     readings = []
@@ -196,11 +215,15 @@ def main():
               f"dlg={summary['n_dialogues']} rd={summary['n_readings']} audio {st['audio_hit']} mp3 / {st['audio_miss']} TTS")
     (DATA_OUT / "chapters.json").write_text(
         json.dumps({"chapters": chapters, "credits": credits}, ensure_ascii=False, indent=1), encoding="utf-8")
+    MANIFEST.write_text(json.dumps(WANTED, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
+    have = sum(1 for g in WANTED if (GEMINI_DIR / g).exists())
+    print(f"gemini voice: {have}/{len(WANTED)} lines (run gen_audio_gemini.py for the rest)")
+
     # keep only the media the app references: one image per word (the 2x file, shown scaled down,
     # stays sharp on phones) and the mp3s that match a sentence
     used = "".join(f.read_text(encoding="utf-8") for f in DATA_OUT.glob("ch*.json"))
     used_img = set(re.findall(r'"img":"([^"]+)"', used))
-    used_audio = set(re.findall(r"es_[0-9a-f]{10}\.mp3", used))
+    used_audio = set(re.findall(r"(?:es|gm)_[0-9a-f]{10}\.mp3", used))
     for f in list(IMG_OUT.iterdir()):
         stem = f.name.removesuffix("_2x.webp")
         if f.name.endswith("_2x.webp") and stem in used_img:
