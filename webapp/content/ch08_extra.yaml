@@ -1,0 +1,204 @@
+schema_version: 1
+chapter: 8
+dialogues:
+  - id: d1
+    title_es: Una mesa con reserva
+    title_ko: 예약한 자리에 앉아 주문하기
+    setting_ko: 마드리드 옛 거리의 식당. 점심 두 시에 두 명으로 예약했어요.
+    roles:
+      A: {es: Camarero, ko: 종업원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: A
+        textbook:
+          es: Buenas tardes. ¿Tienen reserva?
+          ko: 안녕하세요. 예약하셨어요?
+        native:
+          es: Hola, buenas. ¿Tenéis reserva?
+          ko: 안녕하세요. 예약하셨어요?
+          note_ko: 여러 손님에게 vosotros(tenéis)로 물어요. 스페인 식당에서는 흔한 말투예요.
+      - who: B
+        textbook:
+          es: Sí, tenemos una reserva para dos personas a las dos.
+          ko: 네, 두 시에 두 명으로 예약했어요.
+        native:
+          es: Sí, una para dos, a las dos.
+          ko: 네, 두 명이요. 두 시로요.
+          note_ko: una는 una reserva예요. 인원과 시간만 짧게 말해도 다 통해요.
+      - who: A
+        textbook:
+          es: Muy bien. Esta es su mesa. Aquí tienen la carta.
+          ko: 알겠습니다. 이 자리예요. 메뉴판 여기 있습니다.
+        native:
+          es: Perfecto, pasad por aquí. Os dejo la carta.
+          ko: 좋아요, 이쪽으로 오세요. 메뉴판 두고 갈게요.
+          note_ko: pasad는 vosotros에게 하는 명령형이에요. os dejo는 ‘두고 갈게요’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: Gracias. ¿Hay menú del día?
+          ko: 고마워요. 오늘의 메뉴가 있나요?
+        native:
+          es: Gracias. ¿Tenéis menú del día?
+          ko: 고마워요. 오늘의 메뉴 있어요?
+          note_ko: 손님도 가게 사람들을 vosotros(tenéis)로 불러요.
+      - who: A
+        textbook:
+          es: Sí. De primero hay sopa o ensalada, y de segundo, carne o pescado.
+          ko: 네. 첫 번째 요리는 수프나 샐러드, 두 번째 요리는 고기나 생선이 있어요.
+        native:
+          es: Sí, mirad, de primero tenéis sopa o ensalada, y de segundo, carne o pescado.
+          ko: 네, 보세요. 첫 번째는 수프나 샐러드, 두 번째는 고기나 생선이에요.
+          note_ko: mirad는 ‘보세요’예요. 설명을 시작할 때 이렇게 말을 꺼내요.
+      - who: B
+        textbook:
+          es: Para mí, de primero la sopa y de segundo el pescado.
+          ko: 저는 첫 번째로 수프, 두 번째로 생선 할게요.
+        native:
+          es: Pues yo, la sopa y luego el pescado.
+          ko: 그럼 저는 수프, 그다음에 생선요.
+          note_ko: pues yo로 ‘저는요’ 하고 바로 골라요. de primero, de segundo는 빼도 돼요.
+      - who: A
+        textbook:
+          es: ¿Y para beber?
+          ko: 마실 건요?
+        native:
+          es: ¿Y de beber?
+          ko: 마실 건요?
+          note_ko: de beber도 ‘마실 것으로’라는 뜻으로 많이 써요.
+      - who: B
+        textbook:
+          es: Una botella de agua y una copa de vino tinto, por favor.
+          ko: 물 한 병이랑 레드 와인 한 잔 주세요.
+        native:
+          es: Agua, y una copa de tinto.
+          ko: 물이랑 레드 와인 한 잔요.
+          note_ko: tinto만 말해도 vino tinto(레드 와인)예요.
+      - who: A
+        textbook:
+          es: Muy bien. El pan y el postre están incluidos en el menú.
+          ko: 알겠습니다. 빵과 디저트는 메뉴에 포함돼 있어요.
+        native:
+          es: Genial. El pan y el postre van con el menú, ¿vale?
+          ko: 좋아요. 빵이랑 디저트는 메뉴에 들어 있어요, 아셨죠?
+          note_ko: van con el menú는 ‘메뉴에 딸려 나와요’라는 쉬운 말이에요. ¿vale?는 ‘괜찮죠?’예요.
+  - id: d2
+    title_es: La cuenta, por favor
+    title_ko: 계산서 부탁해요
+    setting_ko: 저녁을 다 먹었어요. 종업원을 불러 계산하려고 해요.
+    roles:
+      A: {es: Camarera, ko: 종업원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, ¿nos trae la cuenta, por favor?
+          ko: 실례합니다, 계산서 갖다주시겠어요?
+        native:
+          es: ¡Perdona! La cuenta, cuando puedas.
+          ko: 저기요! 시간 될 때 계산서 좀 줘요.
+          note_ko: 직원에게도 perdona(tú)를 흔히 써요. cuando puedas는 ‘편할 때’라는 말이에요.
+      - who: A
+        textbook:
+          es: Sí, ahora mismo. ¿Les ha gustado la comida?
+          ko: 네, 바로 갖다드릴게요. 음식은 입에 맞으셨어요?
+        native:
+          es: Sí, ahora os la traigo. ¿Qué tal todo?
+          ko: 네, 지금 갖다줄게요. 다 괜찮았어요?
+          note_ko: ¿qué tal todo?는 식당에서 ‘음식 어땠어요?’라고 묻는 흔한 말이에요.
+      - who: B
+        textbook:
+          es: Sí, todo estaba muy rico. La carne estaba muy buena.
+          ko: 네, 다 정말 맛있었어요. 고기가 특히 좋았어요.
+        native:
+          es: ¡Buenísimo todo! La carne, de diez.
+          ko: 다 최고였어요! 고기는 진짜 만점이에요.
+          note_ko: de diez는 ‘10점 만점’, 곧 최고라는 구어예요.
+      - who: A
+        textbook:
+          es: Me alegro. ¿Quieren un café?
+          ko: 다행이네요. 커피 드실래요?
+        native:
+          es: ¡Qué bien! ¿Os pongo un cafelito?
+          ko: 잘됐네요! 커피 한 잔 드릴까요?
+          note_ko: -ito를 붙이면 말이 부드러워져요. 식당에서 cafelito를 자주 들어요.
+      - who: B
+        textbook:
+          es: No, gracias. ¿Puedo pagar con tarjeta?
+          ko: 아니요, 괜찮아요. 카드로 내도 돼요?
+        native:
+          es: No, gracias. ¿Se puede pagar con tarjeta?
+          ko: 괜찮아요. 카드 돼요?
+          note_ko: se puede는 ‘~해도 되나요?’를 두루 묻는 말이에요.
+      - who: A
+        textbook:
+          es: Sí, claro. Son cuarenta y dos euros.
+          ko: 네, 그럼요. 42유로예요.
+        native:
+          es: Sí, claro. Son cuarenta y dos.
+          ko: 네, 그럼요. 42유로요.
+          note_ko: 값을 말할 때 euros는 자주 빼요.
+      - who: B
+        textbook:
+          es: ¿La propina está incluida?
+          ko: 팁이 포함돼 있나요?
+        native:
+          es: Oye, ¿la propina va aparte?
+          ko: 저기, 팁은 따로예요?
+          note_ko: va aparte는 ‘따로 내요’라는 뜻이에요.
+      - who: A
+        textbook:
+          es: No, no está incluida. Es voluntaria.
+          ko: 아니요, 포함돼 있지 않아요. 원하시면 주시면 돼요.
+        native:
+          es: Sí, pero eso, como veas.
+          ko: 네, 근데 그건 알아서 하세요.
+          note_ko: como veas는 ‘알아서 해요’예요. 스페인에서 팁은 의무가 아니에요.
+      - who: B
+        textbook:
+          es: Muy bien. Aquí tiene. Muchas gracias por todo.
+          ko: 알겠어요. 여기 있어요. 여러모로 고마웠어요.
+        native:
+          es: Vale, pues toma. ¡Muchas gracias, todo genial!
+          ko: 네, 그럼 여기요. 고마워요, 다 최고였어요!
+          note_ko: genial은 ‘최고, 아주 좋아’라는 뜻으로 스페인에서 아주 자주 써요.
+readings:
+  - id: r1
+    title_es: El menú del día
+    title_ko: 오늘의 메뉴
+    level: A1
+    paragraphs:
+      - es: Hoy es 12 de mayo. Como en un restaurante antiguo de Madrid. Son las dos y hay mucha gente. El camarero me da una mesa al lado de la ventana.
+        ko: 오늘은 5월 12일이에요. 마드리드의 오래된 식당에서 점심을 먹어요. 두 시라서 사람이 많아요. 종업원이 창가 자리를 줘요.
+      - es: Pido el menú del día. El primer plato es una ensalada con aceite de oliva. El segundo plato es pescado con arroz. Para beber, pido agua.
+        ko: 오늘의 메뉴를 시켜요. 첫 번째 요리는 올리브유를 뿌린 샐러드예요. 두 번째 요리는 생선과 밥이에요. 마실 것은 물을 시켜요.
+      - es: De postre hay flan. Todo está muy rico. Al final, pago la cuenta y dejo una pequeña propina en la mesa.
+        ko: 디저트로는 플란이 나와요. 다 정말 맛있어요. 마지막에 계산하고 탁자에 팁을 조금 두고 나와요.
+    questions:
+      - q_ko: 글쓴이가 먹은 두 번째 요리는 무엇인가요?
+        choices_ko: [고기와 감자, 생선과 밥, 수프]
+        answer: 1
+      - q_ko: 글쓴이는 무엇을 마셨나요?
+        choices_ko: [레드 와인, 생맥주, 물]
+        answer: 2
+  - id: r2
+    title_es: Comer en un restaurante en España
+    title_ko: 스페인 식당에서 밥 먹기
+    level: A2
+    paragraphs:
+      - es: En España la comida principal es al mediodía, y mucha gente come tarde, sobre las dos o las tres. Muchos restaurantes tienen un menú del día a buen precio.
+        ko: 스페인에서는 점심이 하루 중 가장 든든한 끼니예요. 많은 사람이 두세 시쯤 늦게 먹어요. 오늘의 메뉴를 싼 값에 내는 식당이 많아요.
+      - es: El menú normalmente tiene un primer plato, un segundo plato y postre o café. Muchas veces el pan y la bebida también están incluidos.
+        ko: 메뉴에는 보통 첫 번째 요리, 두 번째 요리, 그리고 디저트나 커피가 나와요. 빵과 음료가 포함될 때도 많아요.
+      - es: Por la noche, normalmente no hay menú del día y la gente pide de la carta. Al final, pides la cuenta al camarero. La propina no es obligatoria.
+        ko: 저녁에는 보통 오늘의 메뉴가 없어서 메뉴판에서 골라 시켜요. 다 먹으면 종업원에게 계산서를 달라고 해요. 팁은 꼭 내지 않아도 돼요.
+    questions:
+      - q_ko: 스페인 사람들은 점심을 보통 몇 시쯤 먹나요?
+        choices_ko: [열두 시쯤, 두세 시쯤, 다섯 시쯤]
+        answer: 1
+      - q_ko: 저녁에는 어떻게 주문하나요?
+        choices_ko: [오늘의 메뉴로 시킨다, 메뉴판에서 골라 시킨다, 종업원이 정해 준다]
+        answer: 1
+      - q_ko: 이 글에서 팁에 대해 뭐라고 했나요?
+        choices_ko: [꼭 내야 한다, 계산서에 들어 있다, 의무가 아니다]
+        answer: 2
+glossary: {}

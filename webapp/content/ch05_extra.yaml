@@ -1,0 +1,196 @@
+schema_version: 1
+chapter: 5
+dialogues:
+  - id: d1
+    title_es: ¿Se puede entrar en el patio?
+    title_ko: 안뜰에 들어가도 돼요?
+    setting_ko: 코르도바 골목. 열린 문 안으로 화분이 가득한 안뜰이 보여요.
+    roles:
+      A: {es: Señora de la casa, ko: 집주인 아주머니}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Buenos días. ¿Se puede entrar?
+          ko: 안녕하세요. 들어가도 돼요?
+        native:
+          es: Hola, buenos días. Perdone, ¿se puede pasar?
+          ko: 안녕하세요. 실례지만 들어가도 될까요?
+          note_ko: 들어갈 땐 entrar보다 pasar를 많이 써요. 어른에겐 perdone(usted)로 말해요.
+      - who: A
+        textbook:
+          es: Sí, claro. Puede entrar.
+          ko: 네, 그럼요. 들어오세요.
+        native:
+          es: ¡Claro! Pasa, pasa.
+          ko: 그럼요! 들어와요, 어서.
+          note_ko: pasa, pasa처럼 두 번 말하면 반갑게 맞아 주는 느낌이에요.
+      - who: B
+        textbook:
+          es: ¡Qué patio tan bonito! ¿Puedo hacer una foto?
+          ko: 안뜰이 정말 예뻐요! 사진 찍어도 돼요?
+        native:
+          es: ¡Madre mía, qué bonito! ¿Puedo hacer una foto?
+          ko: 세상에, 너무 예뻐요! 사진 찍어도 돼요?
+          note_ko: madre mía는 놀랐을 때 하는 '세상에!'예요.
+      - who: A
+        textbook:
+          es: Sí, puede hacer fotos. Las flores rojas son geranios.
+          ko: 네, 찍으셔도 돼요. 빨간 꽃은 제라늄이에요.
+        native:
+          es: Sí, sí, haz las que quieras. Esos rojos son geranios.
+          ko: 그럼요, 마음껏 찍어요. 저 빨간 건 제라늄이에요.
+          note_ko: haz las que quieras는 '원하는 만큼 찍어요'. 꽃 이름 대신 rojos만 말해요.
+      - who: B
+        textbook:
+          es: ¿Y cómo se llama la flor morada de la pared?
+          ko: 그럼 벽에 있는 보라색 꽃은 이름이 뭐예요?
+        native:
+          es: ¿Y esa morada de la pared? ¿Cuál es?
+          ko: 그럼 벽에 있는 저 보라색 꽃은요? 뭐예요?
+          note_ko: 앞에서 나온 flor를 빼고 esa morada로 줄여 물어요.
+      - who: A
+        textbook:
+          es: Es una buganvilla. Riego las macetas todos los días.
+          ko: 부겐빌레아예요. 화분에는 매일 물을 줘요.
+        native:
+          es: Una buganvilla. Y las macetas, las riego todos los días, ¿eh?
+          ko: 부겐빌레아요. 그리고 화분은 날마다 내가 물을 줘요.
+          note_ko: 목적어(las macetas)를 앞에 꺼내면 las로 한 번 더 받아요.
+      - who: B
+        textbook:
+          es: ¿Con la manguera o con la regadera?
+          ko: 호스로요, 아니면 물뿌리개로요?
+        native:
+          es: ¿Con manguera o con regadera?
+          ko: 호스로요, 물뿌리개로요?
+          note_ko: 짧게 물을 땐 관사(la)를 빼기도 해요.
+      - who: A
+        textbook:
+          es: Con la regadera. Las macetas de arriba son difíciles.
+          ko: 물뿌리개로요. 위쪽 화분은 어려워요.
+        native:
+          es: Con la regadera. Las de arriba... ¡eso sí que cuesta!
+          ko: 물뿌리개로요. 위쪽 거는… 그게 진짜 힘들어요!
+          note_ko: eso sí que는 '그건 정말' 하고 힘줘 말해요. cuesta는 '힘이 들다'.
+      - who: B
+        textbook:
+          es: Muchas gracias, señora. Adiós.
+          ko: 정말 고맙습니다. 안녕히 계세요.
+        native:
+          es: Muchísimas gracias, ¡qué maravilla! Hasta luego.
+          ko: 정말 고맙습니다, 너무 멋져요! 안녕히 계세요.
+          note_ko: 헤어질 땐 adiós보다 hasta luego를 훨씬 많이 써요.
+  - id: d2
+    title_es: Buscando la sombra
+    title_ko: 그늘 찾기
+    setting_ko: 코르도바에서 묵는 집의 안뜰. 오후 햇볕이 아주 뜨거워요.
+    roles:
+      A: {es: Amigo, ko: 친구}
+      B: {es: Yo, ko: 나}
+    lines:
+      - who: A
+        textbook:
+          es: Hace mucho calor. Vamos a la sombra.
+          ko: 너무 더워. 그늘로 가자.
+        native:
+          es: Uf, qué calor. Venga, vámonos a la sombra.
+          ko: 아, 진짜 덥다. 자, 그늘로 가자.
+          note_ko: qué calor로 짧게 감탄해요. venga는 '자, 얼른'.
+      - who: B
+        textbook:
+          es: Sí. Hay un banco debajo del limonero.
+          ko: 응. 레몬나무 밑에 벤치가 있어.
+        native:
+          es: Sí, mira, ahí debajo del limonero hay un banco.
+          ko: 응, 봐, 저기 레몬나무 밑에 벤치 있다.
+          note_ko: mira(봐)로 눈길을 끌고 ahí(저기)로 가리켜요.
+      - who: A
+        textbook:
+          es: El banco está al sol. Prefiero la hamaca.
+          ko: 벤치는 햇볕 아래 있어. 나는 해먹이 더 좋아.
+        native:
+          es: Ahí da el sol de lleno. Yo me pido la hamaca.
+          ko: 거긴 해가 바로 들어. 나는 해먹 찜!
+          note_ko: me pido는 '내가 찜할게'라는 아주 구어적인 말이에요.
+      - who: B
+        textbook:
+          es: Vale. Yo me siento al lado de la fuente.
+          ko: 알았어. 나는 분수 옆에 앉을게.
+        native:
+          es: Vale, pues yo me quedo junto a la fuente, que se está fresquito.
+          ko: 그래, 그럼 난 분수 옆에 있을게. 거기 시원하거든.
+          note_ko: se está fresquito는 '있기 시원하다'. -ito를 붙이면 기분 좋은 느낌이 나요.
+      - who: A
+        textbook:
+          es: ¿Puedes bajar el toldo? Hace mucho sol.
+          ko: 차양 좀 내려 줄래? 해가 너무 강해.
+        native:
+          es: Oye, ¿bajas el toldo? Que pega fuerte.
+          ko: 야, 차양 좀 내려 줄래? 햇볕이 따가워.
+          note_ko: 햇볕이 따가울 때 el sol pega fuerte라고 해요. 질문만으로 부탁이 돼요.
+      - who: B
+        textbook:
+          es: Ya está. Ahora hay mucha sombra.
+          ko: 됐다. 이제 그늘이 많아.
+        native:
+          es: Hecho. ¡Ahora sí, qué gusto!
+          ko: 됐어. 이제야 살겠다!
+          note_ko: qué gusto는 '아, 좋다' 하고 기분이 좋을 때 써요.
+      - who: A
+        textbook:
+          es: ¿Ves el pozo y la reja verde? Parecen muy antiguos.
+          ko: 우물이랑 초록 창살 보여? 아주 오래돼 보여.
+        native:
+          es: ¿Has visto el pozo y la reja? Tienen pinta de ser antiquísimos.
+          ko: 우물이랑 창살 봤어? 완전 오래돼 보여.
+          note_ko: tener pinta de는 '~처럼 보이다'. -ísimo를 붙이면 '아주'가 돼요.
+      - who: B
+        textbook:
+          es: Sí. Es un gran patio. Me gusta mucho Córdoba.
+          ko: 응. 멋진 안뜰이야. 코르도바 정말 좋다.
+        native:
+          es: Sí. Vaya patio, ¿eh? Me encanta Córdoba.
+          ko: 응. 안뜰 끝내주지? 코르도바 너무 좋아.
+          note_ko: vaya + 명사는 '대단한 ~'. un gran patio를 말로 할 때 이렇게도 해요.
+readings:
+  - id: r1
+    title_es: Un patio de Córdoba
+    title_ko: 코르도바의 안뜰
+    level: A1
+    paragraphs:
+      - es: Hoy es 4 de mayo y estoy en Córdoba. Por la mañana visito un patio. Es pequeño, pero es un gran patio.
+        ko: 오늘은 5월 4일, 저는 코르도바에 있어요. 아침에 안뜰 한 곳을 구경해요. 작지만 멋진 안뜰이에요.
+      - es: En las paredes hay muchas macetas azules con geranios rojos. En el centro hay una fuente pequeña y al lado hay un limonero. Una buganvilla morada sube por la pared.
+        ko: 벽에는 빨간 제라늄을 심은 파란 화분이 가득해요. 가운데에는 작은 분수가 있고, 그 옆에 레몬나무가 있어요. 보라색 부겐빌레아가 벽을 타고 올라가요.
+      - es: La señora de la casa riega las flores con una regadera. Yo me siento en un banco, a la sombra, y escucho el agua de la fuente.
+        ko: 집주인 아주머니가 물뿌리개로 꽃에 물을 줘요. 저는 그늘진 벤치에 앉아 분숫물 소리를 들어요.
+    questions:
+      - q_ko: 화분은 무슨 색인가요?
+        choices_ko: [파란색, 빨간색, 하얀색]
+        answer: 0
+      - q_ko: 분수 옆에는 무엇이 있나요?
+        choices_ko: [우물, 레몬나무, 해먹]
+        answer: 1
+  - id: r2
+    title_es: La Fiesta de los Patios
+    title_ko: 코르도바 파티오 축제
+    level: A2
+    paragraphs:
+      - es: En Córdoba, muchas casas tienen un patio en el centro. En verano hace mucho calor, y el patio es un lugar fresco, con sombra, agua y plantas.
+        ko: 코르도바에는 가운데에 안뜰이 있는 집이 많아요. 여름엔 아주 더워서, 그늘과 물과 식물이 있는 안뜰이 시원한 쉼터가 돼요.
+      - es: Cada año, en mayo, la ciudad celebra la Fiesta de los Patios. Los vecinos abren sus patios y los visitantes pueden entrar a verlos. Hay macetas en las paredes, flores de muchos colores y, a veces, un pozo viejo.
+        ko: 해마다 5월이면 코르도바에서 파티오 축제가 열려요. 주민들이 안뜰을 열어 두면 방문객이 들어가서 구경할 수 있어요. 벽에 걸린 화분, 알록달록한 꽃, 가끔은 오래된 우물도 볼 수 있어요.
+      - es: Para los vecinos, es mucho trabajo, porque tienen que regar las plantas todos los días. Pero los patios están preciosos.
+        ko: 주민들에게는 일이 많아요. 날마다 식물에 물을 줘야 하거든요. 그래도 안뜰은 정말 아름다워요.
+    questions:
+      - q_ko: 파티오 축제는 언제 열리나요?
+        choices_ko: [3월, 5월, 7월]
+        answer: 1
+      - q_ko: 주민들은 날마다 무엇을 해야 하나요?
+        choices_ko: [식물에 물 주기, 우물 청소, 꽃 팔기]
+        answer: 0
+      - q_ko: 글에 따르면 코르도바의 여름은 어떤가요?
+        choices_ko: [비가 많이 와요, 아주 더워요, 서늘해요]
+        answer: 1
+glossary: {}

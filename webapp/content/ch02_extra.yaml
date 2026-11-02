@@ -1,0 +1,191 @@
+schema_version: 1
+chapter: 2
+dialogues:
+  - id: d1
+    title_es: Una paellera para mi madre
+    title_ko: 어머니 선물로 파에야 팬 사기
+    setting_ko: 발렌시아의 주방용품 가게. 선물할 파에야 팬을 골라요.
+    roles:
+      A: {es: Vendedor, ko: 점원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: B
+        textbook:
+          es: Buenos días. Quiero comprar una paellera.
+          ko: 안녕하세요. 파에야 팬을 사고 싶어요.
+        native:
+          es: Hola, buenas. Estoy buscando una paellera.
+          ko: 안녕하세요. 파에야 팬을 찾고 있어요.
+          note_ko: Quiero도 틀리진 않지만, 가게에서는 Estoy buscando가 더 부드럽게 들려요.
+      - who: A
+        textbook:
+          es: Muy bien. ¿Para cuántas personas?
+          ko: 네. 몇 인분짜리요?
+        native:
+          es: Vale. ¿Para cuántos?
+          ko: 네. 몇 명이 먹을 거예요?
+          note_ko: personas를 빼고 ¿Para cuántos?만으로 물어요.
+      - who: B
+        textbook:
+          es: Para cuatro personas. Es un regalo para mi madre.
+          ko: 4인분이요. 어머니께 드릴 선물이에요.
+        native:
+          es: Para cuatro, más o menos. Es para regalar a mi madre.
+          ko: 한 네 명쯤이요. 엄마 선물이에요.
+          note_ko: más o menos(대충)를 붙이면 말이 덜 딱딱해요.
+      - who: A
+        textbook:
+          es: Esta paellera es para cuatro personas. Cuesta veinte euros.
+          ko: 이 팬이 4인용이에요. 20유로예요.
+        native:
+          es: Pues esta te va perfecta. Son veinte euros.
+          ko: 그럼 이게 딱이에요. 20유로예요.
+          note_ko: te va perfecta는 '너한테 딱 맞다'예요. 값은 Son … euros로 많이 말해요.
+      - who: B
+        textbook:
+          es: ¿Es grande? Mi maleta es pequeña.
+          ko: 큰가요? 제 여행 가방이 작아요.
+        native:
+          es: ¿Y cabe en una maleta? Que la mía es pequeñita.
+          ko: 가방에 들어갈까요? 제 게 좀 작거든요.
+          note_ko: 문장 앞 que는 이유를 덧붙여요. -ita는 '작은'을 귀엽게 강조해요.
+      - who: A
+        textbook:
+          es: Sí, cabe. ¿Quiere algo más?
+          ko: 네, 들어가요. 더 필요한 거 있으세요?
+        native:
+          es: Sí, hombre, sin problema. ¿Algo más? ¿Un mortero, un rallador…?
+          ko: 그럼요, 문제없어요. 더 필요한 거 있어요? 절구나 강판은요?
+          note_ko: hombre는 '그럼요'처럼 말에 힘을 주는 말버릇이에요. 여자에게도 써요.
+      - who: B
+        textbook:
+          es: No, gracias. Solo la paellera.
+          ko: 아니요, 괜찮아요. 파에야 팬만 살게요.
+        native:
+          es: No, nada más, gracias. Solo la paellera.
+          ko: 아뇨, 그거면 돼요. 파에야 팬만요.
+          note_ko: nada más는 '그거면 됐어요'를 짧게 말하는 표현이에요.
+      - who: A
+        textbook:
+          es: Aquí tiene. ¡Buen viaje!
+          ko: 여기 있습니다. 좋은 여행 되세요!
+        native:
+          es: Toma. ¡Que te vaya bien!
+          ko: 여기요. 잘 가요!
+          note_ko: ¡Que te vaya bien!은 '잘 지내요, 잘 가요'라는 작별 인사예요.
+  - id: d2
+    title_es: Cocinamos juntos en el piso
+    title_ko: 친구 집 부엌에서 같이 요리하기
+    setting_ko: 발렌시아 친구 루시아의 집. 저녁을 같이 만들어요.
+    roles:
+      A: {es: Lucía, ko: 루시아(친구)}
+      B: {es: Viajero, ko: 여행자}
+    lines:
+      - who: A
+        textbook:
+          es: ¿Puedes cortar la cebolla, por favor?
+          ko: 양파 좀 썰어 줄 수 있어?
+        native:
+          es: Oye, ¿me cortas la cebolla?
+          ko: 저기, 양파 좀 썰어 줄래?
+          note_ko: 부탁할 때는 현재형으로 ¿me cortas…?처럼 짧게 묻는 게 자연스러워요.
+      - who: B
+        textbook:
+          es: Sí, claro. ¿Dónde está el cuchillo?
+          ko: 응, 물론이지. 칼은 어디 있어?
+        native:
+          es: Claro. ¿Y el cuchillo?
+          ko: 그럼. 근데 칼은?
+          note_ko: ¿Y el…?만으로 '…는 어디 있어?'를 물을 수 있어요.
+      - who: A
+        textbook:
+          es: Está en el cajón, al lado del fregadero. La tabla de cortar está encima de la nevera.
+          ko: 개수대 옆 서랍에 있어. 도마는 냉장고 위에 있어.
+        native:
+          es: En el cajón de al lado del fregadero. Y la tabla, encima de la nevera.
+          ko: 개수대 옆 서랍에. 도마는 냉장고 위에 있고.
+          note_ko: 말할 때는 está를 빼고 장소만 대기도 해요. tabla de cortar도 tabla로 줄여요.
+      - who: B
+        textbook:
+          es: Gracias. ¿Pongo la sartén en el fuego?
+          ko: 고마워. 프라이팬을 불에 올릴까?
+        native:
+          es: Vale. ¿Pongo ya la sartén?
+          ko: 알았어. 이제 프라이팬 올릴까?
+          note_ko: ya는 '이제'예요. 요리 순서를 물을 때 자주 붙여요.
+      - who: A
+        textbook:
+          es: Sí. Pon un poco de aceite en la sartén.
+          ko: 응. 프라이팬에 기름을 조금 넣어.
+        native:
+          es: Sí, venga. Échale un chorrito de aceite.
+          ko: 응, 그래. 기름 살짝 둘러.
+          note_ko: 요리할 때는 poner보다 echar(넣다)를 자주 써요. chorrito는 '살짝 붓는 양'이에요.
+      - who: B
+        textbook:
+          es: ¿Pongo el pan en la tostadora?
+          ko: 빵은 토스터에 넣을까?
+        native:
+          es: ¿Y el pan? ¿Lo tuesto?
+          ko: 빵은? 구울까?
+          note_ko: tostar(굽다)의 '나는' 형태가 tuesto예요.
+      - who: A
+        textbook:
+          es: Sí, por favor. Después pon los platos y los vasos en la mesa.
+          ko: 응, 부탁해. 그다음에 접시랑 컵을 식탁에 놔 줘.
+        native:
+          es: Sí, porfa. Y luego pon la mesa, que tengo un hambre…
+          ko: 응, 부탁해. 그다음에 상 좀 차려 줘. 나 배고파 죽겠어.
+          note_ko: porfa는 por favor를 줄인 말이에요. poner la mesa는 '상을 차리다'예요.
+      - who: B
+        textbook:
+          es: Muy bien. ¡Yo también tengo hambre!
+          ko: 좋아. 나도 배고파!
+        native:
+          es: Hecho. ¡Y yo, que no he comido nada!
+          ko: 알았어. 나도 그래. 아무것도 안 먹었거든!
+          note_ko: Hecho는 '알았어, 그렇게 할게'라는 뜻이에요.
+readings:
+  - id: r1
+    title_es: Un día en el Mercado Central
+    title_ko: 중앙시장에서 보낸 하루
+    level: A1
+    paragraphs:
+      - es: Hoy es 5 de mayo y estoy en València. Por la mañana voy al Mercado Central. Es muy grande y muy bonito. Hay fruta, verdura, pescado y arroz. Compro naranjas y tomates.
+        ko: 오늘은 5월 5일이고, 저는 발렌시아에 있어요. 오전에 중앙시장에 가요. 아주 크고 아름다워요. 과일, 채소, 생선, 쌀이 있어요. 저는 오렌지와 토마토를 사요.
+      - es: Por la tarde cocino en el apartamento. La cocina es pequeña, pero tiene nevera, horno, microondas y cafetera. No hay tostadora.
+        ko: 오후에는 숙소에서 요리해요. 부엌은 작지만 냉장고, 오븐, 전자레인지, 커피 메이커가 있어요. 토스터는 없어요.
+      - es: Corto los tomates con un cuchillo en la tabla de cortar. Después pongo la sartén en el fuego. Ceno en la terraza con un vaso de agua.
+        ko: 도마 위에서 칼로 토마토를 썰어요. 그다음 프라이팬을 불에 올려요. 저녁은 테라스에서 물 한 잔과 함께 먹어요.
+    questions:
+      - q_ko: 글쓴이는 오전에 어디에 갔나요?
+        choices_ko: [중앙시장, 바닷가, 미술관]
+        answer: 0
+      - q_ko: 숙소 부엌에 없는 것은 무엇인가요?
+        choices_ko: [토스터, 오븐, 커피 메이커]
+        answer: 0
+      - q_ko: 글쓴이는 시장에서 무엇을 샀나요?
+        choices_ko: [오렌지와 토마토, 생선과 쌀, 빵과 우유]
+        answer: 0
+  - id: r2
+    title_es: La paella valenciana
+    title_ko: 발렌시아식 파에야
+    level: A2
+    paragraphs:
+      - es: La paella es un plato de arroz de València. Se cocina en una sartén grande y plana, la paellera. En valenciano, la palabra «paella» significa «sartén».
+        ko: 파에야는 발렌시아의 쌀 요리예요. 넓고 납작한 프라이팬, 곧 파에야 팬에 만들어요. 발렌시아어로 'paella'는 '프라이팬'이라는 뜻이에요.
+      - es: La paella valenciana tradicional lleva arroz, pollo, conejo, judías verdes y garrofó, una judía grande y blanca. También lleva tomate, aceite de oliva y azafrán. No lleva marisco.
+        ko: 전통 발렌시아식 파에야에는 쌀, 닭고기, 토끼고기, 껍질콩, 그리고 크고 하얀 콩인 가로포가 들어가요. 토마토, 올리브유, 사프란도 넣어요. 해산물은 넣지 않아요.
+      - es: Normalmente la paella se come a mediodía, no por la noche. A veces la gente come directamente de la paellera, cada uno con su cuchara.
+        ko: 파에야는 보통 저녁이 아니라 점심에 먹어요. 가끔은 각자 숟가락을 들고 파에야 팬에서 바로 떠먹기도 해요.
+    questions:
+      - q_ko: 발렌시아어로 'paella'는 원래 무슨 뜻인가요?
+        choices_ko: [프라이팬, 쌀, 잔치]
+        answer: 0
+      - q_ko: 전통 발렌시아식 파에야에 들어가지 않는 것은 무엇인가요?
+        choices_ko: [해산물, 닭고기, 토끼고기]
+        answer: 0
+      - q_ko: 파에야는 보통 언제 먹어요?
+        choices_ko: [점심, 아침, 늦은 밤]
+        answer: 0
+glossary: {}

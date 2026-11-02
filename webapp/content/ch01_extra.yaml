@@ -1,0 +1,330 @@
+schema_version: 1
+chapter: 1
+dialogues:
+  - id: d1
+    title_es: En el hotel, el secador no funciona
+    title_ko: 호텔 헤어드라이어가 안 될 때
+    setting_ko: 그라나다의 작은 호텔. 머리를 말리려는데 드라이어가 안 돼요.
+    roles:
+      A: {es: Recepcionista, ko: 프런트 직원}
+      B: {es: Huésped, ko: 손님}
+    lines:
+      - who: B
+        textbook:
+          es: Buenos días. Tengo un problema en el baño.
+          ko: 안녕하세요. 욕실에 문제가 있어요.
+        native:
+          es: Hola, buenas. Oye, tengo un problemilla en el baño.
+          ko: 안녕하세요. 저기, 욕실에 작은 문제가 하나 있어서요.
+          note_ko: buenas는 인사를 줄인 말이에요. -illa를 붙이면 '별일 아닌 문제'처럼 부드러워져요.
+      - who: A
+        textbook:
+          es: ¿Qué problema tiene?
+          ko: 무슨 문제가 있으세요?
+        native:
+          es: Sí, dime, ¿qué pasa?
+          ko: 네, 말씀하세요. 무슨 일이에요?
+          note_ko: dime는 '말해 봐'지만 '네, 말씀하세요' 정도로 써요. 손님에게도 tú를 자주 써요.
+      - who: B
+        textbook:
+          es: El secador de pelo no funciona.
+          ko: 헤어드라이어가 작동하지 않아요.
+        native:
+          es: Pues que el secador no va.
+          ko: 그게, 드라이어가 안 돼요.
+          note_ko: 말할 때는 funcionar 대신 ir(va)를 많이 써요. de pelo도 흔히 빼요.
+      - who: A
+        textbook:
+          es: ¿Está enchufado?
+          ko: 플러그는 꽂혀 있나요?
+        native:
+          es: ¿Lo has enchufado bien? A veces se suelta.
+          ko: 플러그 제대로 꽂으셨어요? 가끔 빠지거든요.
+          note_ko: 스페인에서는 방금 한 일을 현재완료(has enchufado)로 자주 말해요.
+      - who: B
+        textbook:
+          es: Sí, está enchufado. Y no hay papel higiénico.
+          ko: 네, 꽂혀 있어요. 그리고 화장지가 없어요.
+        native:
+          es: Sí, sí, está enchufado. Ah, y se ha acabado el papel higiénico.
+          ko: 네, 꽂혀 있어요. 아, 그리고 화장지도 다 떨어졌어요.
+          note_ko: se ha acabado는 '다 떨어졌다'예요. 물건이 바닥났을 때 아주 자주 써요.
+      - who: A
+        textbook:
+          es: Lo siento. Ahora subo otro secador y papel higiénico.
+          ko: 죄송합니다. 지금 다른 드라이어랑 화장지를 가지고 올라갈게요.
+        native:
+          es: Uy, perdona. Ahora mismo te subo otro secador y un par de rollos.
+          ko: 어머, 죄송해요. 지금 바로 다른 드라이어랑 휴지 두어 개 올려 드릴게요.
+          note_ko: ahora mismo는 '지금 당장', un par de는 '두어 개'예요. 화장지는 rollos(롤)로 세요.
+      - who: B
+        textbook:
+          es: Muchas gracias. Es la habitación 212.
+          ko: 정말 고마워요. 212호예요.
+        native:
+          es: Genial, gracias. Es la 212.
+          ko: 좋아요, 고마워요. 212호예요.
+          note_ko: 방 번호는 habitación을 빼고 la 212라고만 말해도 돼요.
+      - who: A
+        textbook:
+          es: De nada. Llego en cinco minutos.
+          ko: 천만에요. 5분 뒤에 갈게요.
+        native:
+          es: Nada, nada. En cinco minutos estoy ahí.
+          ko: 별말씀을요. 5분 안에 갈게요.
+          note_ko: De nada를 줄여 Nada, nada라고 해요. estoy ahí는 '그리로 갈게요'예요.
+  - id: d2
+    title_es: En la tienda, sin cepillo de dientes
+    title_ko: 칫솔을 깜빡했을 때
+    setting_ko: 그라나다 시내의 작은 생활용품 가게. 칫솔을 사러 왔어요.
+    roles:
+      A: {es: Dependienta, ko: 점원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: A
+        textbook:
+          es: Buenos días. ¿Qué desea?
+          ko: 안녕하세요. 무엇을 찾으세요?
+        native:
+          es: Hola, ¿buscas algo?
+          ko: 안녕하세요, 뭐 찾으세요?
+          note_ko: ¿Qué desea?는 격식 있는 말이에요. 가게에서는 tú로 짧게 묻는 일이 많아요.
+      - who: B
+        textbook:
+          es: Necesito un cepillo de dientes y pasta de dientes.
+          ko: 칫솔이랑 치약이 필요해요.
+        native:
+          es: Sí, se me ha olvidado el cepillo de dientes. Y la pasta también.
+          ko: 네, 칫솔을 깜빡했어요. 치약도요.
+          note_ko: se me ha olvidado는 '깜빡했다'예요. 아주 흔하게 쓰는 표현이에요.
+      - who: A
+        textbook:
+          es: Los cepillos están aquí. La pasta está al lado.
+          ko: 칫솔은 여기 있어요. 치약은 옆에 있어요.
+        native:
+          es: Mira, los cepillos están aquí, y la pasta justo al lado.
+          ko: 보세요, 칫솔은 여기 있고 치약은 바로 옆이에요.
+          note_ko: mira(봐요)는 물건을 가리킬 때 말머리로 자주 붙여요. justo는 '바로'예요.
+      - who: B
+        textbook:
+          es: ¿Tiene también una maquinilla de afeitar?
+          ko: 면도기도 있나요?
+        native:
+          es: Vale. ¿Y maquinillas de afeitar tenéis?
+          ko: 알겠어요. 면도기도 있어요?
+          note_ko: tenéis는 '이 가게 사람들'에게 묻는 말이에요. 물건을 앞에 두는 어순도 흔해요.
+      - who: A
+        textbook:
+          es: Sí. Las maquinillas están en el pasillo dos.
+          ko: 네. 면도기는 2번 통로에 있어요.
+        native:
+          es: Sí, en el pasillo dos, abajo del todo.
+          ko: 네, 2번 통로 맨 아래 칸에 있어요.
+          note_ko: abajo del todo는 '맨 아래'예요. 선반 위치를 말할 때 써요.
+      - who: B
+        textbook:
+          es: Gracias. ¿Cuánto es todo?
+          ko: 고마워요. 전부 얼마예요?
+        native:
+          es: Genial. Pues me llevo esto. ¿Qué te debo?
+          ko: 좋아요. 그럼 이거 살게요. 얼마예요?
+          note_ko: me llevo esto는 '이걸로 할게요'. ¿Qué te debo?는 계산할 때 흔히 묻는 말이에요.
+      - who: A
+        textbook:
+          es: Son seis euros con cincuenta.
+          ko: 6유로 50센트예요.
+        native:
+          es: Seis cincuenta. ¿Con tarjeta?
+          ko: 6유로 50이요. 카드로 하세요?
+          note_ko: 값을 말할 때 euros와 céntimos를 빼고 숫자만 말하기도 해요.
+      - who: B
+        textbook:
+          es: Sí, con tarjeta, por favor.
+          ko: 네, 카드로 할게요.
+        native:
+          es: Sí, con tarjeta. ¡Gracias, hasta luego!
+          ko: 네, 카드로요. 고마워요, 안녕히 계세요!
+          note_ko: 가게를 나올 때 hasta luego를 아주 많이 써요. 다시 볼 일이 없어도 써요.
+readings:
+  - id: r1
+    title_es: Una mañana en Granada
+    title_ko: 그라나다의 아침
+    level: A1
+    paragraphs:
+      - es: Hoy es 3 de mayo y estoy en Granada. Mi hotel es pequeño, pero el baño es bonito. Tiene una ducha grande, un lavabo blanco y un espejo redondo.
+        ko: 오늘은 5월 3일이고, 저는 그라나다에 있어요. 호텔은 작지만 욕실은 예뻐요. 샤워 공간이 넓고, 하얀 세면대와 둥근 거울이 있어요.
+      - es: Me levanto a las ocho. Me ducho con agua caliente y uso el champú del hotel. Después me lavo los dientes y me peino delante del espejo.
+        ko: 여덟 시에 일어나요. 따뜻한 물로 샤워하고 호텔 샴푸를 써요. 그다음 이를 닦고 거울 앞에서 머리를 빗어요.
+      - es: No hay bañera, pero no importa. Por la tarde voy a la Alhambra. Allí también hay baños, pero son muy antiguos.
+        ko: 욕조는 없지만 괜찮아요. 오후에는 알람브라에 가요. 거기에도 목욕탕이 있는데, 아주 오래된 거예요.
+    questions:
+      - q_ko: 글쓴이의 호텔 욕실에 없는 것은 무엇인가요?
+        choices_ko: [욕조, 거울, 세면대]
+        answer: 0
+      - q_ko: 글쓴이는 몇 시에 일어나요?
+        choices_ko: [일곱 시, 여덟 시, 아홉 시]
+        answer: 1
+      - q_ko: 오후에는 어디에 가요?
+        choices_ko: [알람브라, 바닷가, 시장]
+        answer: 0
+  - id: r2
+    title_es: Mi neceser de viaje
+    title_ko: 여행용 세면도구 가방
+    level: A2
+    paragraphs:
+      - es: Antes del viaje preparo mi neceser. Llevo un cepillo de dientes, pasta de dientes, un peine y una maquinilla de afeitar. También llevo unas chanclas para la ducha.
+        ko: 여행 전에 세면도구 가방을 챙겨요. 칫솔, 치약, 빗, 면도기를 넣어요. 샤워할 때 신을 슬리퍼도 가져가요.
+      - es: No llevo champú ni secador de pelo, porque en el hotel de Granada hay. El secador está en un cajón, al lado del lavabo.
+        ko: 샴푸랑 헤어드라이어는 안 가져가요. 그라나다 호텔에 있거든요. 드라이어는 세면대 옆 서랍에 있어요.
+      - es: Pero hoy tengo un problema. ¡No encuentro mis tijeras pequeñas! Creo que están en casa, en Corea. Mañana voy a comprar unas en una tienda del centro.
+        ko: 그런데 오늘 문제가 생겼어요. 작은 가위가 안 보여요! 아마 한국 집에 두고 온 것 같아요. 내일 시내 가게에서 하나 사려고요.
+    questions:
+      - q_ko: 글쓴이가 샴푸를 가져가지 않은 이유는 무엇인가요?
+        choices_ko: [호텔에 있어서, 너무 무거워서, 잊어버려서]
+        answer: 0
+      - q_ko: 글쓴이가 찾지 못한 물건은 무엇인가요?
+        choices_ko: [작은 가위, 빗, 슬리퍼]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "abajo": {lemma: "abajo", ko: "아래에", en: "down, below", pron: "아**바**호"}
+  "acabado": {lemma: "acabar", ko: "다 떨어진(완료형)", en: "run out (past participle)", pron: "아까**바**도"}
+  "agua": {lemma: "agua", ko: "물", en: "water", pron: "**아**구아"}
+  "ah": {lemma: "ah", ko: "아(감탄)", en: "ah", pron: "**아**"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "ahí": {lemma: "ahí", ko: "거기", en: "there", pron: "아**이**"}
+  "al": {lemma: "a + el", ko: "~에(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "alhambra": {lemma: "Alhambra", ko: "알람브라(그라나다의 궁전)", en: "the Alhambra", pron: "알**람**브라"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "antes": {lemma: "antes", ko: "전에", en: "before", pron: "**안**떼스"}
+  "antiguos": {lemma: "antiguo", ko: "오래된(남성 복수)", en: "old, ancient", pron: "안**띠**구오스"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "baño": {lemma: "baño", ko: "욕실", en: "bathroom", pron: "**바**뇨"}
+  "baños": {lemma: "baño", ko: "목욕탕, 욕실들", en: "baths", pron: "**바**뇨스"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "blanco": {lemma: "blanco", ko: "하얀", en: "white", pron: "**블랑**꼬"}
+  "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
+  "buenas": {lemma: "bueno", ko: "안녕하세요(buenas 인사)", en: "hi (short greeting)", pron: "**부에**나스"}
+  "buenos": {lemma: "bueno", ko: "좋은(남성 복수)", en: "good", pron: "**부에**노스"}
+  "buscas": {lemma: "buscar", ko: "찾다(너는)", en: "you look for", pron: "**부**스까스"}
+  "cajón": {lemma: "cajón", ko: "서랍", en: "drawer", pron: "까**혼**"}
+  "caliente": {lemma: "caliente", ko: "뜨거운, 따뜻한", en: "hot", pron: "깔**리엔**떼"}
+  "casa": {lemma: "casa", ko: "집", en: "home, house", pron: "**까**사"}
+  "centro": {lemma: "centro", ko: "시내, 중심", en: "town centre", pron: "**센**뜨로"}
+  "cepillos": {lemma: "cepillo", ko: "솔, 칫솔들", en: "brushes", pron: "세**삐**요스"}
+  "cinco": {lemma: "cinco", ko: "다섯", en: "five", pron: "**신**꼬"}
+  "cincuenta": {lemma: "cincuenta", ko: "쉰", en: "fifty", pron: "신**꾸엔**따"}
+  "comprar": {lemma: "comprar", ko: "사다", en: "to buy", pron: "꼼**쁘라르**"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "corea": {lemma: "Corea", ko: "한국", en: "Korea", pron: "꼬**레**아"}
+  "creo": {lemma: "creer", ko: "생각하다(나는)", en: "I think", pron: "**끄레**오"}
+  "cuánto": {lemma: "cuánto", ko: "얼마", en: "how much", pron: "**꾸안**또"}
+  "debo": {lemma: "deber", ko: "빚지다(나는)", en: "I owe", pron: "**데**보"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "delante": {lemma: "delante", ko: "앞에", en: "in front", pron: "델**란**떼"}
+  "desea": {lemma: "desear", ko: "원하다(당신은)", en: "you (formal) wish", pron: "데**세**아"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "dime": {lemma: "decir", ko: "나에게 말해", en: "tell me", pron: "**디**메"}
+  "dos": {lemma: "dos", ko: "둘", en: "two", pron: "**도스**"}
+  "ducho": {lemma: "ducharse", ko: "샤워하다(나는)", en: "I shower", pron: "**두**초"}
+  "días": {lemma: "día", ko: "날들(buenos días: 아침 인사)", en: "days", pron: "**디**아스"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "enchufado": {lemma: "enchufar", ko: "플러그가 꽂힌", en: "plugged in", pron: "엔추**파**도"}
+  "encuentro": {lemma: "encontrar", ko: "찾다(나는)", en: "I find", pron: "엔**꾸엔**뜨로"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에**스"}
+  "esto": {lemma: "esto", ko: "이것", en: "this", pron: "**에**스또"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "euros": {lemma: "euro", ko: "유로(복수)", en: "euros", pron: "**에우**로스"}
+  "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
+  "funciona": {lemma: "funcionar", ko: "작동하다(그것은)", en: "it works", pron: "푼**시오**나"}
+  "genial": {lemma: "genial", ko: "아주 좋은", en: "great", pron: "헤**니알**"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "granada": {lemma: "Granada", ko: "그라나다(도시)", en: "Granada", pron: "그라**나**다"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "habitación": {lemma: "habitación", ko: "방, 객실", en: "room", pron: "아비따**시온**"}
+  "has": {lemma: "haber", ko: "(완료 조동사, 너는)", en: "you have", pron: "**아스**"}
+  "hasta": {lemma: "hasta", ko: "~까지(hasta luego: 또 봐요)", en: "until", pron: "**아**스따"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hotel": {lemma: "hotel", ko: "호텔", en: "hotel", pron: "오**뗄**"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "importa": {lemma: "importar", ko: "중요하다(그것은)", en: "it matters", pron: "임**뽀르**따"}
+  "justo": {lemma: "justo", ko: "바로", en: "right, just", pron: "**후**스또"}
+  "lado": {lemma: "lado", ko: "옆(al lado: 옆에)", en: "side", pron: "**라**도"}
+  "lavo": {lemma: "lavarse", ko: "씻다(나는)", en: "I wash", pron: "**라**보"}
+  "levanto": {lemma: "levantarse", ko: "일어나다(나는)", en: "I get up", pron: "레**반**또"}
+  "llego": {lemma: "llegar", ko: "도착하다(나는)", en: "I arrive", pron: "**예**고"}
+  "llevo": {lemma: "llevar", ko: "가져가다, 사 가다(나는)", en: "I take", pron: "**예**보"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "los": {lemma: "el", ko: "그(남성 복수 관사)", en: "the", pron: "로스"}
+  "luego": {lemma: "luego", ko: "나중에", en: "later", pron: "**루에**고"}
+  "maquinillas": {lemma: "maquinilla", ko: "면도기들", en: "razors", pron: "마끼**니**야스"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "mi": {lemma: "mi", ko: "나의", en: "my", pron: "미"}
+  "minutos": {lemma: "minuto", ko: "분(복수)", en: "minutes", pron: "미**누**또스"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "mis": {lemma: "mi", ko: "나의(복수)", en: "my", pron: "미스"}
+  "mismo": {lemma: "mismo", ko: "바로(ahora mismo: 지금 당장)", en: "right (now)", pron: "**미**스모"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "neceser": {lemma: "neceser", ko: "세면도구 가방", en: "toiletry bag", pron: "네세**세르**"}
+  "necesito": {lemma: "necesitar", ko: "필요하다(나는)", en: "I need", pron: "네세**시**또"}
+  "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "노"}
+  "ocho": {lemma: "ocho", ko: "여덟", en: "eight", pron: "**오**초"}
+  "olvidado": {lemma: "olvidar", ko: "잊은(완료형)", en: "forgotten", pron: "올비**다**도"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "par": {lemma: "par", ko: "두어 개, 한 쌍", en: "pair, couple", pron: "**빠르**"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "pasa": {lemma: "pasar", ko: "일어나다(무슨 일이)", en: "happens", pron: "**빠**사"}
+  "pasillo": {lemma: "pasillo", ko: "통로", en: "aisle", pron: "빠**시**요"}
+  "peino": {lemma: "peinarse", ko: "머리를 빗다(나는)", en: "I comb my hair", pron: "**뻬이**노"}
+  "pequeñas": {lemma: "pequeño", ko: "작은(여성 복수)", en: "small", pron: "뻬**께**냐스"}
+  "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
+  "perdona": {lemma: "perdonar", ko: "미안해요(tú 명령)", en: "sorry, excuse me", pron: "뻬르**도**나"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "porque": {lemma: "porque", ko: "왜냐하면", en: "because", pron: "뽀르께"}
+  "preparo": {lemma: "preparar", ko: "준비하다(나는)", en: "I prepare", pron: "쁘레**빠**로"}
+  "problema": {lemma: "problema", ko: "문제", en: "problem", pron: "쁘로**블레**마"}
+  "problemilla": {lemma: "problema", ko: "작은 문제", en: "small problem", pron: "쁘로블레**미**야"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "que": {lemma: "que", ko: "~라는 것(말머리)", en: "that", pron: "께"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "redondo": {lemma: "redondo", ko: "둥근", en: "round", pron: "레**돈**도"}
+  "rollos": {lemma: "rollo", ko: "두루마리(복수)", en: "rolls", pron: "**로**요스"}
+  "se": {lemma: "se", ko: "자기를(재귀 대명사)", en: "itself", pron: "세"}
+  "seis": {lemma: "seis", ko: "여섯", en: "six", pron: "**세이스**"}
+  "siento": {lemma: "sentir", ko: "느끼다(lo siento: 죄송해요)", en: "I feel (sorry)", pron: "**시엔**또"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "subo": {lemma: "subir", ko: "올려 주다(나는)", en: "I bring up", pron: "**수**보"}
+  "suelta": {lemma: "soltarse", ko: "빠지다(그것은)", en: "comes loose", pron: "**수엘**따"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "tarjeta": {lemma: "tarjeta", ko: "카드", en: "card", pron: "따르**헤**따"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tengo": {lemma: "tener", ko: "가지고 있다(나는)", en: "I have", pron: "**뗑**고"}
+  "tenéis": {lemma: "tener", ko: "가지고 있다(너희는)", en: "you (pl.) have", pron: "떼**네이스**"}
+  "tienda": {lemma: "tienda", ko: "가게", en: "shop", pron: "**띠엔**다"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "unas": {lemma: "una", ko: "몇 개의(여성 복수)", en: "some", pron: "우나스"}
+  "uso": {lemma: "usar", ko: "쓰다(나는)", en: "I use", pron: "**우**소"}
+  "uy": {lemma: "uy", ko: "어머, 아이고", en: "oops", pron: "**우이**"}
+  "va": {lemma: "ir", ko: "가다; 작동하다(그것은)", en: "it goes, it works", pron: "**바**"}
+  "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "veces": {lemma: "vez", ko: "번(a veces: 가끔)", en: "times", pron: "**베**세스"}
+  "viaje": {lemma: "viaje", ko: "여행", en: "trip", pron: "비**아**헤"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
