@@ -115,13 +115,31 @@ function stopAll() {
   if (playingBtn) playingBtn.classList.remove("on");
   playingBtn = null;
 }
+/* preview builds pack audio into a few data/audiopack_NN.js files (the page host limits file counts) */
+const packs = {};
+function ensurePack(n) {
+  if (!window.VV_PACKED) return Promise.resolve();
+  const k = nn(n);
+  packs[k] = packs[k] || new Promise((res) => {
+    const sc = document.createElement("script"); sc.src = `data/audiopack_${k}.js`; sc.onload = res; sc.onerror = res; document.head.appendChild(sc);
+  });
+  return packs[k];
+}
+const audioSrc = (file) => { const b = (window.VV_AUDIO || {})[file]; return b ? "data:audio/mpeg;base64," + b : "media/audio/" + file; };
+let speakSeq = 0;
 function speak(text, file, btn) {
+  const my = ++speakSeq;
   return new Promise((resolve) => {
     stopAll();
     if (btn) { btn.classList.add("on"); playingBtn = btn; }
     const done = () => { if (btn) btn.classList.remove("on"); resolve(); };
+    if (file && window.VV_PACKED && !(window.VV_AUDIO || {})[file]) {
+      // preview build: audio lives in per-chapter packs; load the one holding this file, then play
+      const ch = (window.VV_PACK_INDEX || {})[file];
+      if (ch) { ensurePack(ch).then(() => { if (my === speakSeq) speak(text, file, btn).then(resolve); else resolve(); }); return; }
+    }
     if (file) {
-      player.src = "media/audio/" + file;
+      player.src = audioSrc(file);
       player.playbackRate = rate;
       player.onended = done; player.onerror = () => tts(text, done);
       player.play().catch(() => tts(text, done));
@@ -247,7 +265,7 @@ function openSheet(ch, word, el) {
   const say = chw ? chw.es : word;
   sheetBody.innerHTML = `
     ${chw ? img(chw.img, "", chw.en) : ""}
-    <div class="row"><span class="es" id="sheetWord">${esc(chw ? chw.es : word)}</span>${playBtn(say, chw ? chw.audio : null)}</div>
+    <div class="row"><span class="es" id="sheetWord">${esc(chw ? chw.es : word)}</span>${playBtn(say, chw ? chw.audio : e.audio)}</div>
     ${e.lemma && norm(e.lemma) !== norm(word) && !chw ? `<div class="lemma">기본형: ${esc(e.lemma)}</div>` : ""}
     <div class="pron">[${pron(e.pron || "")}]</div>
     <div class="mean">${esc(e.ko || "")}</div>
@@ -256,7 +274,7 @@ function openSheet(ch, word, el) {
     ${chw ? "" : `<button class="btn ghost" id="saveWord" type="button" style="margin-top:10px"></button>`}`;
   const sv = sheetBody.querySelector("#saveWord");
   if (sv) {
-    const entry = { id: `${nn(ch.num)}:${norm(word)}`, ch: ch.num, es: word.toLowerCase(), lemma: e.lemma, ko: e.ko, en: e.en, pron: e.pron };
+    const entry = { id: `${nn(ch.num)}:${norm(word)}`, ch: ch.num, es: word.toLowerCase(), lemma: e.lemma, ko: e.ko, en: e.en, pron: e.pron, audio: e.audio || null };
     const paint = () => { sv.textContent = mine.has(entry.id) ? "★ 내 단어장에 있어요 (빼기)" : "☆ 내 단어장에 저장"; };
     paint();
     sv.onclick = () => { mine.toggle(entry); paint(); };
@@ -290,9 +308,10 @@ async function route() {
     if (parts[0] === "ch" && parts[1]) {
       const ch = await getChapter(parseInt(parts[1], 10));
       currentChapter = ch;
+      ensurePack(ch.num);
       const tab = TABS.some(([k]) => k === parts[2]) ? parts[2] : "words";
       renderChapter(ch, tab);
-    } else if (parts[0] === "review") { currentChapter = null; await renderReview(); }
+    } else if (parts[0] === "review") { if (window.VV_PACKED) index.chapters.forEach((c) => ensurePack(c.num)); currentChapter = null; await renderReview(); }
     else if (parts[0] === "credits") { currentChapter = null; await renderCredits(); }
     else if (parts[0] === "mine") { currentChapter = null; renderMine(); }
     else if (parts[0] === "search") { currentChapter = null; await renderSearch(decodeURIComponent(parts[1] || "")); }
@@ -1003,7 +1022,7 @@ async function renderReview() {
 /* ---------- 내 단어장 ---------- */
 function mineEntries() {
   return mine.all().map((m) => ({ ch: { num: m.ch, es: index.chapters.find((c) => c.num === m.ch)?.es || "" },
-    w: { key: "g_" + norm(m.es).replace(/\s+/g, "_"), es: m.es, ko: m.ko, en: m.en, pron: m.pron, img: null, audio: null } }));
+    w: { key: "g_" + norm(m.es).replace(/\s+/g, "_"), es: m.es, ko: m.ko, en: m.en, pron: m.pron, img: null, audio: m.audio || null } }));
 }
 function renderMine() {
   const list = mine.all();
@@ -1011,7 +1030,7 @@ function renderMine() {
     <p class="sub">대화·읽기에서 단어를 누르고 ☆를 누르면 여기에 모여요. ${list.length}개.</p>
     ${list.length ? `<div class="row" style="margin-bottom:12px"><button class="btn" id="mf" type="button">플래시카드로 외우기</button></div>
       <section id="pane"></section>
-      <div id="mlist">${list.map((m) => `<div class="line">${playBtn(m.es, null)}<div style="flex:1"><div class="es2"><b>${esc(m.es)}</b>${m.lemma && norm(m.lemma) !== norm(m.es) ? ` <span class="muted small">← ${esc(m.lemma)}</span>` : ""}</div>
+      <div id="mlist">${list.map((m) => `<div class="line">${playBtn(m.es, m.audio)}<div style="flex:1"><div class="es2"><b>${esc(m.es)}</b>${m.lemma && norm(m.lemma) !== norm(m.es) ? ` <span class="muted small">← ${esc(m.lemma)}</span>` : ""}</div>
         <div class="pron small">[${pron(m.pron || "")}]</div><div class="t">${esc(m.ko)} · ${esc(m.en)} · <a href="#/ch/${nn(m.ch)}/read">${nn(m.ch)}장</a></div></div>
         <button class="btn ghost small" data-rm="${esc(m.id)}" type="button" aria-label="빼기">빼기</button></div>`).join("")}</div>`
       : `<div class="panel">아직 저장한 단어가 없어요. 장의 <b>대화</b>나 <b>읽기</b>에서 모르는 단어를 눌러 보세요.</div>`}`;
@@ -1041,7 +1060,7 @@ async function renderSearch(q) {
     <form class="search" id="searchForm" role="search"><input id="q" type="search" value="${esc(q)}" autocomplete="off" aria-label="단어 찾기"><button class="btn" type="submit">찾기</button></form>
     <p class="sub">“${esc(q)}” ${hits.length}개${hits.length > 60 ? " · 앞의 60개만 보여요" : ""}</p>
     <div class="wgrid">${hits.filter((h) => h.kind === "word").slice(0, 40).map((h) => wordCard(h.ch, h.w).replace("<article class=\"wcard\">", `<article class="wcard"><a class="chlink small" href="#/ch/${nn(h.ch.num)}">${nn(h.ch.num)} ${esc(h.ch.es)}</a>`)).join("")}</div>
-    ${hits.some((h) => h.kind === "gl") ? `<h3>대화·읽기에 나온 말</h3>${hits.filter((h) => h.kind === "gl").slice(0, 30).map((h) => `<div class="line">${playBtn(h.form, null, true)}<div><div class="es2"><b>${esc(h.form)}</b> <span class="muted small">${esc(h.e.lemma !== h.form ? "← " + h.e.lemma : "")}</span></div>
+    ${hits.some((h) => h.kind === "gl") ? `<h3>대화·읽기에 나온 말</h3>${hits.filter((h) => h.kind === "gl").slice(0, 30).map((h) => `<div class="line">${playBtn(h.form, h.e.audio, true)}<div><div class="es2"><b>${esc(h.form)}</b> <span class="muted small">${esc(h.e.lemma !== h.form ? "← " + h.e.lemma : "")}</span></div>
       <div class="t">${esc(h.e.ko)} · ${esc(h.e.en)} · <a href="#/ch/${nn(h.ch.num)}/read">${nn(h.ch.num)}장</a></div></div></div>`).join("")}` : ""}`;
   document.getElementById("searchForm").onsubmit = (e) => { e.preventDefault(); const v = document.getElementById("q").value.trim(); if (v) location.hash = "#/search/" + encodeURIComponent(v); };
 }

@@ -27,17 +27,25 @@
 사진·음성이 있는 ch01~ch07, ch11에 사진 없는 ch08을 더해 9개 장이에요. 이 목록은 `tools/build_data.py`의 `CHAPTERS`에서 바꿔요.
 
 ## 음성
-1. `content/audio/gm_*.mp3` — Gemini TTS로 만든 음성 (있으면 이걸 먼저 써요)
-2. v6 mp3 — 그록봇이 만든 기존 음성
-3. 둘 다 없으면 기기에 내장된 스페인어 음성 (테두리가 옅은 ▶)
+기기에 내장된 기계 음성은 쓰지 않아요. 모든 문장과 누를 수 있는 단어에 사람 같은 음성 파일이 있어요.
+1. **v6 음성**: 그록봇이 만든 단어·예문·장면 음성 (스페인 여성 목소리). 있으면 이걸 써요.
+2. **Kokoro 음성**: 나머지 전부 (대화, 읽기, ch08·ch11 문장, 단어 사전). 오픈소스 모델이라 무료이고 이 컴퓨터에서 바로 만들어요.
+   - 목소리 3개를 섞어 써요: 여성 `ef_dora`, 남성 `em_alex`, 남성 `em_santa`
+   - 대화는 역할마다 다른 목소리(남녀 한 쌍), 읽기 글은 글마다 한 목소리, 단어는 셋이 돌아가며 읽어요.
 
-Gemini 음성 만들기 (키는 환경 변수로만, 파일에 쓰지 않아요):
+글을 고치거나 새 장을 넣은 뒤 음성 만들기:
 ```bash
-python3 webapp/tools/build_data.py
-GEMINI_API_KEY=... python3 webapp/tools/gen_audio_gemini.py
+pip install kokoro-onnx soundfile
+python3 webapp/tools/build_data.py        # 음성이 없는 줄을 content/audio_manifest.json에 적어요
+python3 webapp/tools/gen_audio_kokoro.py  # 없는 줄만 만들어요 (처음엔 모델 350MB를 GitHub에서 받아요)
 python3 webapp/tools/build_data.py
 ```
-무료 등급은 TTS가 모델당 하루 10번이라, 전체(약 700줄)를 만들려면 결제를 연결한 키가 필요해요. 이미 만든 줄은 건너뛰니 몇 번에 나눠 돌려도 돼요.
+`gen_audio_gemini.py`도 남겨 뒀어요. Gemini 키에 결제가 연결되면 쓸 수 있어요.
+
+claude.ai 미리보기처럼 파일 수가 제한된 곳에 올릴 때는 음성을 장별 묶음으로 합친 사본을 만들어요:
+```bash
+python3 webapp/tools/build_data.py --preview /tmp/vv-preview
+```
 
 ## 폴더
 ```
@@ -47,11 +55,12 @@ webapp/
 ├─ data/                         build_data.py가 만든 JSON + bundle.js
 ├─ media/                        build_data.py가 복사한 사진·음성·출처 문서
 ├─ content/chNN_extra.yaml       웹 전용 대화·읽기·단어 사전 (형식: content/SCHEMA_extra.md)
-├─ content/audio/                Gemini 음성 원본
+├─ content/audio/                Kokoro 음성 원본 (kk_*.mp3)
 └─ tools/
    ├─ build_data.py              es/chNN/text + content + design 결과물 → data/, media/
    ├─ check_extra.py             chNN_extra.yaml 검사
-   ├─ gen_audio_gemini.py        Gemini TTS로 음성 만들기
+   ├─ gen_audio_kokoro.py        Kokoro로 음성 만들기 (기본)
+   ├─ gen_audio_gemini.py        Gemini TTS로 음성 만들기 (결제 키 필요)
    └─ smoke.js                   모든 화면·기능 자동 점검 (Playwright)
 ```
 원본(`es/`, `design/`)은 읽기만 해요.

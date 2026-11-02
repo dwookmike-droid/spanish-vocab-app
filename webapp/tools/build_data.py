@@ -17,10 +17,12 @@ so any sentence that was voiced in v6 gets its mp3; the rest fall back to browse
 
 Usage: python3 webapp/tools/build_data.py
 """
+import base64
 import hashlib
 import json
 import re
 import shutil
+import sys
 import zipfile
 from pathlib import Path
 
@@ -30,10 +32,11 @@ ROOT = Path(__file__).resolve().parents[2]
 APP = ROOT / "webapp"
 CHAPTERS = [1, 2, 3, 4, 5, 6, 7, 8, 11]
 V6_WEB = ROOT / "design/deliverables/v6/web"
-GEMINI_DIR = APP / "content/audio"        # mp3s made by gen_audio_gemini.py (source, kept in git)
-MANIFEST = APP / "content/audio_manifest.json"   # every (text, voice) the app wants voiced
-NARRATOR = "Kore"
-DIALOGUE_VOICES = {"A": "Charon", "B": "Kore"}
+VOICE_DIR = APP / "content/audio"         # mp3s made by gen_audio_kokoro.py (source, kept in git)
+MANIFEST = APP / "content/audio_manifest.json"   # every line that still needs a voice: name -> text, voice
+# Kokoro voices, mixed: one female, two male. Lines are spread across them so the app does not sound like one reader.
+KOKORO_VOICES = ["ef_dora", "em_alex", "em_santa"]
+NARRATOR = None   # None = pick a voice from the text (stable), so single lines rotate between the three
 
 IMG_OUT = APP / "media/img"
 AUDIO_OUT = APP / "media/audio"
@@ -53,8 +56,12 @@ ARTICLES = {
 }
 
 
-def gemini_name(text, voice):
-    return "gm_" + hashlib.md5(f"{voice}|{text}".encode()).hexdigest()[:10] + ".mp3"
+def voice_name(text, voice):
+    return "kk_" + hashlib.md5(f"{voice}|{text}".encode()).hexdigest()[:10] + ".mp3"
+
+
+def pick_voice(seed):
+    return KOKORO_VOICES[int(hashlib.md5(seed.encode()).hexdigest(), 16) % len(KOKORO_VOICES)]
 
 
 def audio_name(text):
@@ -105,27 +112,29 @@ def build_chapter(num, imgs, audios):
 
     stats = {"audio_hit": 0, "audio_miss": 0}
 
-    def au(s, voice=NARRATOR):
-        """Attach an mp3 for this Spanish text: Gemini voice first, then the v6 mp3, else browser TTS."""
+    def au(s, voice=NARRATOR, prefer_v6=True):
+        """Attach an mp3 for this Spanish text: the v6 recording when it exists (narrated lines only),
+        otherwise a Kokoro voice; with neither, the app falls back to the device's TTS."""
         if not s:
             return None
-        g = gemini_name(s, voice)
-        WANTED[g] = {"text": s, "voice": voice}
-        if (GEMINI_DIR / g).exists():
-            shutil.copy(GEMINI_DIR / g, AUDIO_OUT / g)
+        n = audio_name(s)
+        if prefer_v6 and n in audios:
+            stats["audio_hit"] += 1
+            return n
+        v = voice or pick_voice(s)
+        g = voice_name(s, v)
+        if (VOICE_DIR / g).exists():
+            shutil.copy(VOICE_DIR / g, AUDIO_OUT / g)
             audios.add(g)
             stats["audio_hit"] += 1
             return g
-        n = audio_name(s)
-        if n in audios:
-            stats["audio_hit"] += 1
-            return n
+        WANTED[g] = {"text": s, "voice": v}
         stats["audio_miss"] += 1
         return None
 
-    def sent(d, *keep, voice=NARRATOR):
+    def sent(d, *keep, voice=NARRATOR, prefer_v6=True):
         out = {k: d.get(k) for k in keep if d.get(k) not in (None, "", [])}
-        out["audio"] = au(d.get("es"), voice)
+        out["audio"] = au(d.get("es"), voice, prefer_v6)
         return out
 
     words = []
@@ -156,19 +165,23 @@ def build_chapter(num, imgs, audios):
     }
 
     dialogues = []
-    for d in extra.get("dialogues", []):
+    for di, d in enumerate(extra.get("dialogues", [])):
+        # two different voices per dialogue: the female voice and one of the male voices, swapping sides by dialogue
+        male = KOKORO_VOICES[1 + (num + di) % 2]
+        roles = {"A": male, "B": "ef_dora"} if (num + di) % 2 == 0 else {"A": "ef_dora", "B": male}
         lines = []
         for ln in d.get("lines", []):
-            v = DIALOGUE_VOICES.get(ln["who"], NARRATOR)
+            v = roles.get(ln["who"], "ef_dora")
             lines.append({"who": ln["who"],
-                          "textbook": sent(ln["textbook"], "es", "ko", voice=v),
-                          "native": sent(ln["native"], "es", "ko", "note_ko", voice=v)})
+                          "textbook": sent(ln["textbook"], "es", "ko", voice=v, prefer_v6=False),
+                          "native": sent(ln["native"], "es", "ko", "note_ko", voice=v, prefer_v6=False)})
         dialogues.append({k: d.get(k) for k in ("id", "title_es", "title_ko", "setting_ko", "roles")} | {"lines": lines})
 
     readings = []
-    for r in extra.get("readings", []):
+    for ri, r in enumerate(extra.get("readings", [])):
+        rv = KOKORO_VOICES[(num + ri) % len(KOKORO_VOICES)]   # one reader per text
         readings.append({k: r.get(k) for k in ("id", "title_es", "title_ko", "level", "questions")}
-                        | {"paragraphs": [sent(p, "es", "ko") for p in r.get("paragraphs", [])]})
+                        | {"paragraphs": [sent(p, "es", "ko", voice=rv, prefer_v6=False) for p in r.get("paragraphs", [])]})
 
     # glossary: chapter words (by every token of es/base) + extra glossary
     glossary = {}
@@ -182,6 +195,10 @@ def build_chapter(num, imgs, audios):
     # articles are part of the chapter words ("la toalla"), so the content checker never asks for them
     for k, v in ARTICLES.items():
         glossary.setdefault(k, v)
+    # a voice for every tappable word form (chapter words already carry their own audio)
+    for k, v in glossary.items():
+        if k and not v.get("key"):
+            glossary[k] = {**v, "audio": au(k)}
 
     ch = text["chapter"]
     data = {
@@ -216,14 +233,13 @@ def main():
     (DATA_OUT / "chapters.json").write_text(
         json.dumps({"chapters": chapters, "credits": credits}, ensure_ascii=False, indent=1), encoding="utf-8")
     MANIFEST.write_text(json.dumps(WANTED, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
-    have = sum(1 for g in WANTED if (GEMINI_DIR / g).exists())
-    print(f"gemini voice: {have}/{len(WANTED)} lines (run gen_audio_gemini.py for the rest)")
+    print(f"lines without a voice yet: {len(WANTED)} (run gen_audio_kokoro.py, then build again)")
 
     # keep only the media the app references: one image per word (the 2x file, shown scaled down,
     # stays sharp on phones) and the mp3s that match a sentence
     used = "".join(f.read_text(encoding="utf-8") for f in DATA_OUT.glob("ch*.json"))
     used_img = set(re.findall(r'"img":"([^"]+)"', used))
-    used_audio = set(re.findall(r"(?:es|gm)_[0-9a-f]{10}\.mp3", used))
+    used_audio = set(re.findall(r"(?:es|kk)_[0-9a-f]{10}\.mp3", used))
     for f in list(IMG_OUT.iterdir()):
         stem = f.name.removesuffix("_2x.webp")
         if f.name.endswith("_2x.webp") and stem in used_img:
@@ -244,6 +260,34 @@ def main():
         "window.VV_DATA=" + json.dumps(bundle, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
     size = sum(f.stat().st_size for f in (APP / "media").rglob("*") if f.is_file())
     print(f"media: {len(imgs)} images, {len(audios)} audio, {size/1e6:.1f} MB")
+    if "--preview" in sys.argv:
+        build_preview(Path(sys.argv[sys.argv.index("--preview") + 1]), bundle)
+
+
+def build_preview(out, bundle):
+    """A copy of the site for hosts that cap the file count (claude.ai artifacts): audio is packed into one
+    base64 script per chapter (data/audiopack_NN.js) instead of ~1,400 mp3 files."""
+    if out.exists():
+        shutil.rmtree(out)
+    (out / "data").mkdir(parents=True)
+    for f in ("index.html", "app.js", "app.css", "manifest.webmanifest"):
+        shutil.copy(APP / f, out / f)
+    shutil.copytree(APP / "icons", out / "icons")
+    shutil.copytree(IMG_OUT, out / "media/img")
+    index = {}
+    for f in sorted(DATA_OUT.glob("ch*.json")):
+        k = f.stem[2:]
+        names = sorted(set(re.findall(r"(?:es|kk)_[0-9a-f]{10}\.mp3", f.read_text(encoding="utf-8"))))
+        pack = {n: base64.b64encode((AUDIO_OUT / n).read_bytes()).decode() for n in names}
+        for n in names:
+            index.setdefault(n, int(k))
+        (out / f"data/audiopack_{k}.js").write_text(
+            "window.VV_AUDIO=Object.assign(window.VV_AUDIO||{}," + json.dumps(pack, separators=(",", ":")) + ");\n")
+    (out / "data/bundle.js").write_text(
+        "window.VV_PACKED=true;window.VV_PACK_INDEX=" + json.dumps(index, separators=(",", ":")) + ";\n"
+        + "window.VV_DATA=" + json.dumps(bundle, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
+    n = sum(1 for f in out.rglob("*") if f.is_file())
+    print(f"preview: {out} ({n} files)")
 
 
 if __name__ == "__main__":
