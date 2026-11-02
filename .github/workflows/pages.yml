@@ -28,7 +28,7 @@ jobs:
       - name: Keep only the files the site serves
         run: |
           mkdir -p _site
-          cp -r webapp/index.html webapp/app.js webapp/app.css webapp/data webapp/media _site/
+          cp -r webapp/index.html webapp/app.js webapp/app.css webapp/sw.js webapp/manifest.webmanifest webapp/icons webapp/data webapp/media _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
