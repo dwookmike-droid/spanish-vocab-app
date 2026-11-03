@@ -1,0 +1,194 @@
+{
+ "museum": [
+  {
+   "title": "Museo del Padro Madrid entrada lateral izquierda",
+   "lic": "CC BY 2.0",
+   "artist": "ReservasdeCoches.com",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3444/3384939979_0beb12b9ae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7526e442-c260-4605-a612-e12026f1c3ee/thumb/",
+   "page": "https://www.flickr.com/photos/33083165@N02/3384939979",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/museum_1.jpg"
+  },
+  {
+   "title": "Real Academia de la Lengua Española- Madrid",
+   "lic": "CC BY 2.0",
+   "artist": "federicojorda",
+   "w": 1024,
+   "h": 691,
+   "url": "https://live.staticflickr.com/5293/5460041742_23344d02cd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3c15b8eb-f462-4570-9910-2119880fd761/thumb/",
+   "page": "https://www.flickr.com/photos/51470606@N05/5460041742",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/museum_2.jpg"
+  }
+ ],
+ "painting": [
+  {
+   "title": "So Beautiful",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 626,
+   "h": 1000,
+   "url": "https://live.staticflickr.com/7390/9928059996_88e9f8c1c7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6588ddb1-ecd7-4726-afba-80cbca63dd2a/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/9928059996",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painting_0.jpg"
+  },
+  {
+   "title": "Interior of Kew Cottage, Kew Green, home of the Duchess of Cambridge, dated June 1865, and showing a painting by Heinrich Brandes",
+   "lic": "Public Domain",
+   "artist": "whatsthatpicture",
+   "w": 1000,
+   "h": 843,
+   "url": "https://live.staticflickr.com/4129/5188128510_3feb79060c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ce5dbc17-15d8-491f-97db-81b6d37fab13/thumb/",
+   "page": "https://www.flickr.com/photos/24469639@N00/5188128510",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painting_1.jpg"
+  },
+  {
+   "title": "Amsterdam 2011 - Temple of Hip Hop",
+   "lic": "CC BY 2.0",
+   "artist": "Tiws",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/5068/5643536575_7408ed047f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1da047d-80c0-4d3d-b656-e0c0e18fe201/thumb/",
+   "page": "https://www.flickr.com/photos/43164453@N08/5643536575",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painting_2.jpg"
+  }
+ ],
+ "paintingart": [
+  {
+   "title": "Art supplies",
+   "lic": "CC BY 2.0",
+   "artist": "Average Jane",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/7257/7624350518_68a21e0049_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ebfea2d7-f442-4b6f-8c6f-3e26f4b97778/thumb/",
+   "page": "https://www.flickr.com/photos/64401168@N00/7624350518",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/paintingart_0.jpg"
+  },
+  {
+   "title": "Oil Portrait of Ben Heine (2014)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ben Heine",
+   "w": 866,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/15597434368_904425e7ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f28d6d47-a8d5-4fa6-ae0e-f99fd6812127/thumb/",
+   "page": "https://www.flickr.com/photos/43335486@N00/15597434368",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/paintingart_1.jpg"
+  },
+  {
+   "title": "Oil painting - wip 24 x 24",
+   "lic": "CC BY 2.0",
+   "artist": "Sultry/sulky/silly",
+   "w": 1024,
+   "h": 1003,
+   "url": "https://live.staticflickr.com/7010/6425602363_cf9eac4352_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/203048bd-8a55-4193-8566-76c2844fca4b/thumb/",
+   "page": "https://www.flickr.com/photos/52739188@N00/6425602363",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/paintingart_2.jpg"
+  }
+ ],
+ "painter": [
+  {
+   "title": "Painter's Easel",
+   "lic": "CC BY 2.0",
+   "artist": "Kasia!!",
+   "w": 1024,
+   "h": 689,
+   "url": "https://live.staticflickr.com/3623/3380742222_31c3105361_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d5dcd385-cea5-41a9-b48d-ad720df86665/thumb/",
+   "page": "https://www.flickr.com/photos/14538143@N08/3380742222",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painter_0.jpg"
+  },
+  {
+   "title": "Plein Air Painter Easel",
+   "lic": "CC0",
+   "artist": "themet",
+   "w": 2489,
+   "h": 3699,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L21ldDYzMjcwNi1pbWFnZS5qcGc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/db094074-8b4c-47ec-96f1-2d8b2db88552/thumb/",
+   "page": "https://www.rawpixel.com/image/8116926/plein-air-painter-easel",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painter_1.jpg"
+  },
+  {
+   "title": "Pencil draft painter easel",
+   "lic": "CC0",
+   "artist": "",
+   "w": 3095,
+   "h": 3377,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA5L3Nta2trc2diNzMwOV9fdmVyc28taW1hZ2UuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/922d4b5f-2f2f-4349-aa9b-923d46434586/thumb/",
+   "page": "https://www.rawpixel.com/image/8818039/pencil-draft-for-painter-easel",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painter_2.jpg"
+  }
+ ],
+ "sculpture": [
+  {
+   "title": "'Timeo Danaos et dona ferentes', Laocoon and His Sons, Vatican",
+   "lic": "CC BY 2.0",
+   "artist": "Dimitry B",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2043/2439864049_b5b9e335f0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3a97dde2-e0a1-40b0-a937-8131bfdea197/thumb/",
+   "page": "https://www.flickr.com/photos/61533954@N00/2439864049",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_0.jpg"
+  },
+  {
+   "title": "A Secret from Above by Hiplyte Mouline [1872]",
+   "lic": "CC BY 2.0",
+   "artist": "sfmission.com",
+   "w": 682,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5282/5218147344_5aeb4b761c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/deab4e53-9a22-46ba-82ba-52e6afaa6964/thumb/",
+   "page": "https://www.flickr.com/photos/17281186@N00/5218147344",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_1.jpg"
+  },
+  {
+   "title": "General George Gordon Meade",
+   "lic": "CC BY 2.0",
+   "artist": "dbking",
+   "w": 639,
+   "h": 988,
+   "url": "https://live.staticflickr.com/11/14400286_851a2037b8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/743bc178-0f37-466b-9b4a-04e580daaf22/thumb/",
+   "page": "https://www.flickr.com/photos/65193799@N00/14400286",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_2.jpg"
+  }
+ ]
+}

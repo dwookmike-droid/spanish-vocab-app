@@ -1,0 +1,207 @@
+{
+ "beach": [
+  {
+   "title": "la caleta de cádiz",
+   "lic": "CC BY-SA 2.0",
+   "artist": "rey perezoso",
+   "w": 1024,
+   "h": 512,
+   "url": "https://live.staticflickr.com/3852/14758429201_bf2168ace1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a04e33e7-ed82-490e-a7dc-c1fd564d14f9/thumb/",
+   "page": "https://www.flickr.com/photos/39739891@N05/14758429201",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beach_0.jpg"
+  },
+  {
+   "title": "2002-10-26 11-15 Andalusien, Lissabon 307 Cádiz",
+   "lic": "CC BY 2.0",
+   "artist": "Allie_Caulfield",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3510/3172018398_4eb67864b0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/57ecbf51-78c8-4a20-bd8a-0a400c674fc6/thumb/",
+   "page": "https://www.flickr.com/photos/28577026@N02/3172018398",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beach_1.jpg"
+  },
+  {
+   "title": "2002-10-26 11-15 Andalusien, Lissabon 305 Cádiz, Castillo de Santa Catalina",
+   "lic": "CC BY 2.0",
+   "artist": "Allie_Caulfield",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3079/3171186687_524ca8b3ba_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fea39443-3d2c-4da3-b5f3-e5a88a05f466/thumb/",
+   "page": "https://www.flickr.com/photos/28577026@N02/3171186687",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beach_2.jpg"
+  }
+ ],
+ "sea": [
+  {
+   "title": "Dead calm at sea",
+   "lic": "CC BY 2.0",
+   "artist": "Gael Varoquaux",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/4217/34212317084_17971801e4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64040cfe-dc6f-4728-ac19-7f5fee7d1cf6/thumb/",
+   "page": "https://www.flickr.com/photos/66885349@N03/34212317084",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sea_0.jpg"
+  },
+  {
+   "title": "Solar protection",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/2932/14576289206_6037a24214_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/15b9c560-7571-41ce-8550-b37e15a76246/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/14576289206",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sea_1.jpg"
+  },
+  {
+   "title": "Calm gray sea",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 577,
+   "url": "https://live.staticflickr.com/7331/13443482894_a94441f1ee_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4b4121a6-fbff-4482-8878-6008f996a5d8/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/13443482894",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sea_2.jpg"
+  }
+ ],
+ "sand": [
+  {
+   "title": "Beach Sand Sculpture",
+   "lic": "CC BY 2.0",
+   "artist": "Ronald Douglas Frazier",
+   "w": 1024,
+   "h": 764,
+   "url": "https://live.staticflickr.com/7577/15410688414_f860f9944f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0d29373c-5918-43fa-b60f-60f0f1f6d7b5/thumb/",
+   "page": "https://www.flickr.com/photos/56377701@N07/15410688414",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sand_0.jpg"
+  },
+  {
+   "title": "Body & Face Beach Sand",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Izzie Button (Izzie's)",
+   "w": 1024,
+   "h": 592,
+   "url": "https://live.staticflickr.com/7310/27704498586_cab8abce62_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6c47058c-e538-4bbd-a1ed-c8665413b8ae/thumb/",
+   "page": "https://www.flickr.com/photos/48385543@N02/27704498586",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sand_1.jpg"
+  },
+  {
+   "title": "Zen rock on beach sand",
+   "lic": "CC BY 2.0",
+   "artist": "photoloni",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/6129/5935510711_00c28d2d14_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40f07ad5-c8c1-4760-88ee-b5c11a61ec50/thumb/",
+   "page": "https://www.flickr.com/photos/64177673@N05/5935510711",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sand_2.jpg"
+  }
+ ],
+ "wave": [
+  {
+   "title": "Sea wave",
+   "lic": "CC BY 2.0",
+   "artist": "kewl",
+   "w": 1024,
+   "h": 678,
+   "url": "https://live.staticflickr.com/5447/8763362960_e35d40704f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c57b2534-0892-4374-aaea-6595936a5d28/thumb/",
+   "page": "https://www.flickr.com/photos/58411470@N00/8763362960",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/wave_0.jpg"
+  },
+  {
+   "title": "In sea waves",
+   "lic": "CC BY 2.0",
+   "artist": "Space Butterfly",
+   "w": 678,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3869/15011538362_be461a41b7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5012c811-5fcd-46f7-90b4-fd379a638547/thumb/",
+   "page": "https://www.flickr.com/photos/121812387@N06/15011538362",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/wave_1.jpg"
+  },
+  {
+   "title": "Sea waves breaking",
+   "lic": "CC BY 2.0",
+   "artist": "piropiro3",
+   "w": 1024,
+   "h": 439,
+   "url": "https://live.staticflickr.com/7599/16651145497_25a2bafb0f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d2acd309-90d3-447a-88fb-bf1709bd7941/thumb/",
+   "page": "https://www.flickr.com/photos/65630793@N05/16651145497",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/wave_2.jpg"
+  }
+ ],
+ "sun": [
+  {
+   "title": "Iceland: Sólfar (Sun Voyager)",
+   "lic": "CC BY 2.0",
+   "artist": "vicmontol",
+   "w": 1024,
+   "h": 494,
+   "url": "https://live.staticflickr.com/1086/541575380_9d3b414049_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/58b79f85-6201-40a8-9218-7e1b4c08d782/thumb/",
+   "page": "https://www.flickr.com/photos/8703154@N06/541575380",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sun_0.jpg"
+  },
+  {
+   "title": "Sibu Island beach and sky",
+   "lic": "CC BY 2.0",
+   "artist": "kwc909",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/4057/4379404732_abd6eaeb4c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ed498a76-702d-4fd2-8d9c-c0d2b82845fc/thumb/",
+   "page": "https://www.flickr.com/photos/65129151@N00/4379404732",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sun_1.jpg"
+  },
+  {
+   "title": "flamed sky",
+   "lic": "CC BY 2.0",
+   "artist": "skyseeker",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6117/6346923985_9d1ca003eb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/17946070-8315-4f26-b2ee-17cb21c13d89/thumb/",
+   "page": "https://www.flickr.com/photos/40422902@N00/6346923985",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sun_2.jpg"
+  }
+ ]
+}

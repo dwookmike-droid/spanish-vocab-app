@@ -11,5 +11,210 @@
    "page": "https://commons.wikimedia.org/wiki/File:PALMA_de_MALLORCA,_AB-112.jpg",
    "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/table_0.jpg"
   }
+ ],
+ "menu": [
+  {
+   "title": "Business card details - Il Fornaio",
+   "lic": "CC BY-SA 2.0",
+   "artist": "avlxyz",
+   "w": 1024,
+   "h": 686,
+   "url": "https://live.staticflickr.com/4129/5053687393_ac42554b74_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6c005ae1-5a3e-46e1-b2cd-af9668eaf665/thumb/",
+   "page": "https://www.flickr.com/photos/10559879@N00/5053687393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/menu_0.jpg"
+  },
+  {
+   "title": "Business cards back - Tea Rooms of Yarck",
+   "lic": "CC BY-SA 2.0",
+   "artist": "avlxyz",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3012/2865471392_29c6bd5e32_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/773bf697-7e7c-4e92-84a8-e6c955fd343e/thumb/",
+   "page": "https://www.flickr.com/photos/10559879@N00/2865471392",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/menu_1.jpg"
+  },
+  {
+   "title": "Business cards front - Tea Rooms of Yarck",
+   "lic": "CC BY-SA 2.0",
+   "artist": "avlxyz",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2192/2864641235_16cbe69414_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a8187a90-cfdc-44b9-b0c8-68b08c2c8994/thumb/",
+   "page": "https://www.flickr.com/photos/10559879@N00/2864641235",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/menu_2.jpg"
+  }
+ ],
+ "setmenu": [
+  {
+   "title": "Menú del McDonalds",
+   "lic": "CC BY 2.0",
+   "artist": "ManuelSagra",
+   "w": 727,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/67/193239783_29e4cd88b8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9533eb26-09e6-4409-b015-7f41f02e0684/thumb/",
+   "page": "https://www.flickr.com/photos/62128026@N00/193239783",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/setmenu_0.jpg"
+  },
+  {
+   "title": "from @myantojitos - MENÚ DEL DÍA 🍴🍳☕🍗🍛🍖 #empanadas de #cazón #pabellón #pollo #carnemechada #carnemolida #queso #dominó #arepas de #perico #pernil #asadonegro #chorizo #reinapepiada #caraotasnegras con",
+   "lic": "CC BY 2.0",
+   "artist": "YellowGreenFarmersMarket",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/3726/33509742281_1b1b56a807.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6fbac469-8ef7-469b-b9d6-945e527299a1/thumb/",
+   "page": "https://www.flickr.com/photos/82179181@N04/33509742281",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/setmenu_1.jpg"
+  },
+  {
+   "title": "Menú del McDonalds",
+   "lic": "CC BY 2.0",
+   "artist": "ManuelSagra",
+   "w": 727,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/53/193239782_6a6288ac14_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4bd84dee-599c-4b45-a484-3beffe8f1751/thumb/",
+   "page": "https://www.flickr.com/photos/62128026@N00/193239782",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/setmenu_2.jpg"
+  }
+ ],
+ "firstcourse": [
+  {
+   "title": "Gazpacho",
+   "lic": "CC BY 2.0",
+   "artist": "tomatoes and friends",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4118/4812761687_7f7268fd76_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/270dff6f-9c0b-42a0-bbcf-837607038b0d/thumb/",
+   "page": "https://www.flickr.com/photos/49845772@N03/4812761687",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/firstcourse_0.jpg"
+  },
+  {
+   "title": "Bento #34",
+   "lic": "CC BY 2.0",
+   "artist": "chispita_666",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1350/802504388_d170d904d2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/74d726d7-71aa-4ee0-96be-3513f8720c7a/thumb/",
+   "page": "https://www.flickr.com/photos/12477719@N00/802504388",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/firstcourse_1.jpg"
+  },
+  {
+   "title": "Tomato & Cantaloupe Gazpacho with Swiss Chard Dolma, Carrot Halva Over Avocado Aioli",
+   "lic": "CC BY 2.0",
+   "artist": "AVID Vines",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2914/14137917450_3b8c8fe08e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9f156b1a-2906-4814-a412-0e06be864371/thumb/",
+   "page": "https://www.flickr.com/photos/75921150@N00/14137917450",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/firstcourse_2.jpg"
+  }
+ ],
+ "maincourse": [
+  {
+   "title": "Roast chicken",
+   "lic": "CC BY 2.0",
+   "artist": "prague.czech.photo",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3953/15341412949_3f28c084be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/576e9819-7a2f-4ad3-89b9-8d34d9e537b2/thumb/",
+   "page": "https://www.flickr.com/photos/99424477@N04/15341412949",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/maincourse_0.jpg"
+  },
+  {
+   "title": "Mmm... Grilled steak for the win",
+   "lic": "CC BY 2.0",
+   "artist": "jeffreyw",
+   "w": 1024,
+   "h": 655,
+   "url": "https://live.staticflickr.com/7102/7054702687_bbf1bac42f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dcf38c29-f280-4a2d-a5ac-336cfe934101/thumb/",
+   "page": "https://www.flickr.com/photos/7927684@N03/7054702687",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/maincourse_1.jpg"
+  },
+  {
+   "title": "Potato Salad",
+   "lic": "CC BY 2.0",
+   "artist": "larryjh1234",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4025/4435335951_c90eededd7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a15d8291-0a7e-4220-9072-fd7fcee49c43/thumb/",
+   "page": "https://www.flickr.com/photos/83886716@N00/4435335951",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/maincourse_2.jpg"
+  }
+ ],
+ "dessert": [
+  {
+   "title": "delicious goat cheese flan dessert at Andina",
+   "lic": "CC BY 2.0",
+   "artist": "elliterati",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/4022/4507236052_30ccc6566b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cc410079-122c-4596-8e0b-516c477ab2d2/thumb/",
+   "page": "https://www.flickr.com/photos/47786311@N00/4507236052",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/dessert_0.jpg"
+  },
+  {
+   "title": "Entremet coco/mangue/framboise - Coco/manguo/raspberry dessert",
+   "lic": "CC BY-SA 2.0",
+   "artist": "balise42",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2438/3864796265_e850fe3787_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3c996613-7831-4c6e-8feb-157cd09cc9e3/thumb/",
+   "page": "https://www.flickr.com/photos/22722986@N08/3864796265",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/dessert_1.jpg"
+  },
+  {
+   "title": "Ginger Creme Caramel - close-up - Annie Smithers Bistrot AUD12.50",
+   "lic": "CC BY-SA 2.0",
+   "artist": "avlxyz",
+   "w": 685,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4056/4246287713_e3146cd823_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/552f62d8-3125-48ec-acf7-21d20ac0d7a2/thumb/",
+   "page": "https://www.flickr.com/photos/10559879@N00/4246287713",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/dessert_2.jpg"
+  }
  ]
 }
