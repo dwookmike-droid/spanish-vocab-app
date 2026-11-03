@@ -21,5 +21,6 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | doorway | Santuario de Montserrat 'Monasterio Santa María de Montserrat' Barcelona,Cataluña,España | Catedrales e Iglesias | CC BY 2.0 | https://www.flickr.com/photos/12950131@N06/8693583665 |
 | neighborhood | Barri gòtic | AlejandraPT | CC BY 2.0 | https://www.flickr.com/photos/46395728@N04/5443154207 |
 | shop | shop window | zoetnet | CC BY 2.0 | https://www.flickr.com/photos/13286453@N00/4857210053 |
+| bank | Market Street National Bank Facade (은행 이름 흐림 처리) | Jim, the Photographer | CC BY 2.0 | https://www.flickr.com/photos/72744295@N00/11357543333 |
 | pharmacy | Farmacia - Calle Pedro Antonio de Alarcon, Granada - green cross | ell brown | CC BY-SA 2.0 | https://www.flickr.com/photos/39415781@N06/14594738373 |
 | atm | Barclay's cash machines (ATM) | markhillary | CC BY 2.0 | https://www.flickr.com/photos/56087830@N00/413488870 |

@@ -748,6 +748,19 @@
    "src": "openverse",
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_7.jpg"
+  },
+  {
+   "title": "Market Street National Bank Facade (은행 이름 흐림 처리)",
+   "lic": "CC BY 2.0",
+   "artist": "Jim, the Photographer",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3830/11357543333_f903d622d6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40e4491c-4947-44e0-812f-0398701d591a/thumb/",
+   "page": "https://www.flickr.com/photos/72744295@N00/11357543333",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "claude_design/ch10/cand/bank_blur.jpg"
   }
  ],
  "pharmacy": [

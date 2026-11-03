@@ -12,6 +12,7 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | parasol | Beach Umbrella 2 | daryl_mitchell | CC BY-SA 2.0 | https://www.flickr.com/photos/49169223@N00/8626153857 |
 | towel | Beach Towel | freexe | CC BY 2.0 | https://www.flickr.com/photos/7781035@N06/857404981 |
 | swimsuit | Swimsuit Mannequins | edenpictures | CC BY 2.0 | https://www.flickr.com/photos/10485077@N06/41714623541 |
+| sunscreen | Sunscreen (상표 흐림 처리) | Tom Newby Photography | CC BY 2.0 | https://www.flickr.com/photos/23460063@N06/5392321454 |
 | sunglasses | Sunglasses beach sand sunset |  | CC0 | https://www.rawpixel.com/image/6031139/photo-image-public-domain-beach-summer |
 | beachbar | BEACH BAR IN GOLDEN BEACH. THASSOS GREECE. | ronsaunders47 | CC BY-SA 2.0 | https://www.flickr.com/photos/46781500@N00/3794863997 |
 | boat | Small boat sea |  | CC0 | https://www.rawpixel.com/image/3295667/free-photo-image-yacht-alone-barge |

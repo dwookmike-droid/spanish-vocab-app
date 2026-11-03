@@ -444,6 +444,19 @@
    "src": "openverse",
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_5.jpg"
+  },
+  {
+   "title": "Sunscreen (상표 흐림 처리)",
+   "lic": "CC BY 2.0",
+   "artist": "Tom Newby Photography",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5097/5392321454_8e3108af33_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0500a7db-a068-4f14-8612-fbdc0212f498/thumb/",
+   "page": "https://www.flickr.com/photos/23460063@N06/5392321454",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "claude_design/ch15/cand/sunscreen_blur.jpg"
   }
  ],
  "sunglasses": [
