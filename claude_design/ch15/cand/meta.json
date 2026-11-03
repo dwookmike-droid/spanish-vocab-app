@@ -244,5 +244,115 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/parasol_2.jpg"
   }
+ ],
+ "towel": [
+  {
+   "title": "At the Beach",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Andym5855",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7554/16228794042_c33e947a28_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a2010c03-a263-4830-ada4-597fcec17590/thumb/",
+   "page": "https://www.flickr.com/photos/58693493@N05/16228794042",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/towel_0.jpg"
+  },
+  {
+   "title": "Boomerang Beach",
+   "lic": "CC BY 2.0",
+   "artist": "Vincent Albanese",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7500/15541256624_4cd2099ff0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8527dc8d-c7ed-4ade-9869-a9e56f6aec00/thumb/",
+   "page": "https://www.flickr.com/photos/33939722@N00/15541256624",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/towel_1.jpg"
+  },
+  {
+   "title": "Massage bed on the beach",
+   "lic": "CC BY 2.0",
+   "artist": "Horia Varlan",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2562/3889807777_9fe8fae036_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a5ddc7bf-4e0f-4a27-ad54-77e2ed14155b/thumb/",
+   "page": "https://www.flickr.com/photos/10361931@N06/3889807777",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/towel_2.jpg"
+  }
+ ],
+ "swimsuit": [
+  {
+   "title": "Woman in Black Swimsuit",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Chris Hunkeler",
+   "w": 576,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7397/9221932754_04543150cc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8f5b6f65-e19b-4313-a0a3-5b5987da3365/thumb/",
+   "page": "https://www.flickr.com/photos/14913305@N00/9221932754",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/swimsuit_0.jpg"
+  },
+  {
+   "title": "Swimsuit",
+   "lic": "CC BY 2.0",
+   "artist": "edenpictures",
+   "w": 679,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2092/2534790950_e002155200_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4e348aed-e015-47c0-ad50-985bf03d7300/thumb/",
+   "page": "https://www.flickr.com/photos/10485077@N06/2534790950",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/swimsuit_1.jpg"
+  },
+  {
+   "title": "The Stone Golem and the Girl in the Coi Swimsuit",
+   "lic": "CC BY-SA 2.0",
+   "artist": "The Crump Effect",
+   "w": 764,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3921/14660963459_ac1db164e7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/63b1ebbb-d8b9-491a-9595-3126eb7e151f/thumb/",
+   "page": "https://www.flickr.com/photos/36251149@N00/14660963459",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/swimsuit_2.jpg"
+  }
+ ],
+ "sunscreen": [
+  {
+   "title": "Project 365 #127: 070510 Those Little Essentials",
+   "lic": "Public Domain",
+   "artist": "comedy_nose",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/4021/4587523606_dc663e819d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8e0cfd16-163e-4494-b2e4-9c3e49717677/thumb/",
+   "page": "https://www.flickr.com/photos/23408922@N07/4587523606",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_1.jpg"
+  },
+  {
+   "title": "Sunscreen",
+   "lic": "CC BY 2.0",
+   "artist": "Tom Newby Photography",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5097/5392321454_8e3108af33_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0500a7db-a068-4f14-8612-fbdc0212f498/thumb/",
+   "page": "https://www.flickr.com/photos/23460063@N06/5392321454",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_2.jpg"
+  }
  ]
 }

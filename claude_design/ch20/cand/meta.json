@@ -246,5 +246,128 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_0.jpg"
   }
+ ],
+ "ticketoffice": [
+  {
+   "title": "The Making of Harry Potter 29-05-2012",
+   "lic": "CC BY 2.0",
+   "artist": "Karen Roe",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8286/7544311982_11cce988fa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f5ebb113-8a46-417c-a706-0df85667ed3c/thumb/",
+   "page": "https://www.flickr.com/photos/28752865@N08/7544311982",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_0.jpg"
+  },
+  {
+   "title": "The Making of Harry Potter 29-05-2012",
+   "lic": "CC BY 2.0",
+   "artist": "Karen Roe",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8151/7544313238_a130b05c36_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6288cafb-b6a9-4437-b4af-e189c89cd538/thumb/",
+   "page": "https://www.flickr.com/photos/28752865@N08/7544313238",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_1.jpg"
+  },
+  {
+   "title": "Unlawful Yellow Boxes - Tottenham Bus Garage #2",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Alan Stanton",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2404/2333537668_8984b39fd1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f39096c0-a423-41ab-bd21-0cadd4ce25f8/thumb/",
+   "page": "https://www.flickr.com/photos/53921762@N00/2333537668",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_2.jpg"
+  }
+ ],
+ "exhibition": [
+  {
+   "title": "Dublin Contemporary 2011 is a contemporary art exhibition taking place in Dublin",
+   "lic": "CC BY-SA 2.0",
+   "artist": "infomatique",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/6161/6150186350_16ffa824b6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5c1ee53e-cdf2-433b-b364-eed930b0bd05/thumb/",
+   "page": "https://www.flickr.com/photos/80824546@N00/6150186350",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_0.jpg"
+  },
+  {
+   "title": "Community art exhibition and event",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ck Cheang",
+   "w": 1024,
+   "h": 775,
+   "url": "https://live.staticflickr.com/7167/6559045267_dc0af46ec9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d0af3513-d86d-4a12-8e27-e556d1c1d34c/thumb/",
+   "page": "https://www.flickr.com/photos/14095779@N05/6559045267",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_1.jpg"
+  },
+  {
+   "title": "Dublin Contemporary 2011 is a contemporary art exhibition taking place in Dublin",
+   "lic": "CC BY-SA 2.0",
+   "artist": "infomatique",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/6177/6150209124_87dd7312b1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e1d3d542-633c-4bd1-a08e-510f71f57cdc/thumb/",
+   "page": "https://www.flickr.com/photos/80824546@N00/6150209124",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_2.jpg"
+  }
+ ],
+ "frame": [
+  {
+   "title": "Angel Playing a Flageolet (drawing after Sir Edward Burne-Jones) and Pre-Raphaelite Angels: #Flickr12Days(poem)",
+   "lic": "CC BY 2.0",
+   "artist": "faith goble",
+   "w": 824,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2067/2375947713_12e70a1f8d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/85bad744-ec4e-4281-8b32-9c9202fc5b09/thumb/",
+   "page": "https://www.flickr.com/photos/24420613@N08/2375947713",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_0.jpg"
+  },
+  {
+   "title": "Porsche 911 GT1 engine subsystems cartoon",
+   "lic": "CC BY-SA 2.0",
+   "artist": "wbaiv",
+   "w": 1009,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6115/6224577419_0d46f9dc5a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9b753cdf-03fb-400d-aeb4-1a4734571540/thumb/",
+   "page": "https://www.flickr.com/photos/9998127@N06/6224577419",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_1.jpg"
+  },
+  {
+   "title": "Vaulted Ceiling, St Edmundsbury Cathedral",
+   "lic": "CC BY 2.0",
+   "artist": "Karen Roe",
+   "w": 1024,
+   "h": 656,
+   "url": "https://live.staticflickr.com/6127/5999203598_b68e70785a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a8840c97-ed6c-4f7f-b6c0-89b8c8d06f8a/thumb/",
+   "page": "https://www.flickr.com/photos/28752865@N08/5999203598",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_2.jpg"
+  }
  ]
 }

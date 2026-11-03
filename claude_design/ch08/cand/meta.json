@@ -395,5 +395,87 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/bill_2.jpg"
   }
+ ],
+ "tip": [
+  {
+   "title": "Tips",
+   "lic": "CC BY 2.0",
+   "artist": "ornello_pics",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/6226/6344816210_98b390b130_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7112d1eb-27da-4a8c-968c-0d4bd69f97c2/thumb/",
+   "page": "https://www.flickr.com/photos/69709778@N03/6344816210",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/tip_0.jpg"
+  },
+  {
+   "title": "Euro",
+   "lic": "CC BY-SA 2.0",
+   "artist": "alf.melin",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7203/7035825939_0e47694d94_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1b041332-8eb3-40ff-ba06-94be8282c9ae/thumb/",
+   "page": "https://www.flickr.com/photos/27412901@N04/7035825939",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/tip_1.jpg"
+  },
+  {
+   "title": "Smaller than a Coin",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Pasi Mammela",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/7657/27109844261_ae72a368ae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6573d668-1700-40a5-9774-d05fdb4ca388/thumb/",
+   "page": "https://www.flickr.com/photos/75247711@N05/27109844261",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/tip_2.jpg"
+  }
+ ],
+ "reservation": [
+  {
+   "title": "Reserved",
+   "lic": "CC BY 2.0",
+   "artist": "Web-Betty",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4715/38436976320_6d833aa91d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f2f8fb50-e2e1-474b-904f-f1684e5ccb8f/thumb/",
+   "page": "https://www.flickr.com/photos/17017714@N04/38436976320",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/reservation_0.jpg"
+  },
+  {
+   "title": "Table reserved sign at Oxbow Cheese Merchant",
+   "lic": "CC BY 2.0",
+   "artist": "winecountrymedia",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5804/23306300632_f38a66eb71_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1824a4e1-8e24-41d1-9098-3cd4a6d5496e/thumb/",
+   "page": "https://www.flickr.com/photos/136394702@N02/23306300632",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/reservation_1.jpg"
+  },
+  {
+   "title": "chipmunk say what?",
+   "lic": "CC BY 2.0",
+   "artist": "erin leigh mcconnell",
+   "w": 1024,
+   "h": 994,
+   "url": "https://live.staticflickr.com/3103/2410639668_f6c75c1f6b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9b0645e1-64f8-4007-88a5-799a080eb1bc/thumb/",
+   "page": "https://www.flickr.com/photos/59521823@N00/2410639668",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/reservation_2.jpg"
+  }
  ]
 }
