@@ -131,7 +131,7 @@ def design_photos():
             rows.append(f"| {k} | {c.get('title', '').removeprefix('File:')} | {c.get('artist', '')} | {c.get('lic', '')} | {c.get('page', '')} |")
         if rows:
             md = CREDITS_OUT / f"CREDITS_ch{nn}_web.md"
-            md.write_text(f"# ch{nn} 단어 사진 (웹앱)\n\n모두 Wikimedia Commons 사진이에요. 웹용으로 줄이고 잘랐어요.\n\n"
+            md.write_text(f"# ch{nn} 단어 사진 (웹앱)\n\nWikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메인 사진이에요. 웹용으로 줄이고 잘랐어요.\n\n"
                           "| 단어 | 파일 | 저자 | 라이선스 | 링크 |\n|---|---|---|---|---|\n" + "\n".join(rows) + "\n", encoding="utf-8")
             out.append(md)
     return out
