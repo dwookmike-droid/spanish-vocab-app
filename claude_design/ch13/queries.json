@@ -1,0 +1,22 @@
+{
+"hotel": "hotel facade Salamanca",
+"reception": "hotel reception desk",
+"room": "hotel room bed",
+"key": "hotel room key",
+"card": "hotel key card",
+"lift": "elevator doors",
+"stairs": "staircase hotel",
+"floor": "hotel corridor floor",
+"breakfast": "hotel breakfast buffet",
+"towel": "folded towels hotel",
+"reservation": "hotel booking confirmation",
+"passport": "passport",
+"suitcase": "suitcase",
+"receptionist": "hotel receptionist",
+"doublebed": "double bed hotel room",
+"shower": "shower head",
+"wifi": "wifi sign",
+"exit": "emergency exit sign",
+"invoice": "hotel invoice paper",
+"pillow": "pillow bed"
+}

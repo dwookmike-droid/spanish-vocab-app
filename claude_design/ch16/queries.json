@@ -1,0 +1,22 @@
+{
+"weather": "weather sky clouds sun",
+"sun": "sun sky",
+"rain": "rain drops street",
+"cloud": "cumulus cloud",
+"wind": "wind trees blowing",
+"fog": "fog mist",
+"snow": "snow",
+"storm": "storm clouds",
+"thunder": "thunderstorm",
+"lightning": "lightning bolt",
+"umbrella": "umbrella rain",
+"heat": "thermometer hot summer",
+"cold": "frost cold winter",
+"temperature": "thermometer temperature",
+"degree": "thermometer degrees",
+"sky": "blue sky",
+"rainbow": "rainbow",
+"raincoat": "raincoat",
+"forecast": "weather map forecast",
+"season": "autumn leaves season"
+}
