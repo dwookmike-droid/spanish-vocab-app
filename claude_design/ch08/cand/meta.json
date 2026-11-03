@@ -380,5 +380,20 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/glass_2.jpg"
   }
+ ],
+ "bill": [
+  {
+   "title": "split check",
+   "lic": "CC BY 2.0",
+   "artist": "Dan4th",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5252/5466878315_f5601f5070_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e5a3cec9-9231-4e2d-936f-a35affee37ed/thumb/",
+   "page": "https://www.flickr.com/photos/43264265@N00/5466878315",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/bill_2.jpg"
+  }
  ]
 }
