@@ -16,7 +16,7 @@
  "doorway": 1,
  "neighborhood": 1,
  "shop": 2,
- "bank": 0,
+ "bank": null,
  "pharmacy": 0,
  "atm": 0
 }

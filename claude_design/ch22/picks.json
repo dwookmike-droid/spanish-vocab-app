@@ -1,0 +1,22 @@
+{
+ "head": 0,
+ "eye": 0,
+ "ear": 2,
+ "nose": 1,
+ "mouth": 1,
+ "tooth": 2,
+ "neck": 1,
+ "arm": null,
+ "hand": null,
+ "finger": 2,
+ "leg": 0,
+ "foot": 0,
+ "back": 2,
+ "stomach": 2,
+ "pharmacy": 2,
+ "pill": 1,
+ "prescription": 2,
+ "plaster": null,
+ "syrup": 1,
+ "thermometer": 0
+}

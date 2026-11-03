@@ -1,0 +1,22 @@
+{
+ "shirt": 0,
+ "tshirt": 1,
+ "trousers": 2,
+ "skirt": 2,
+ "dress": null,
+ "jacket": 2,
+ "coat": 2,
+ "jumper": 2,
+ "shoes": 1,
+ "boots": 0,
+ "socks": 2,
+ "hat": null,
+ "scarf": 1,
+ "gloves": 2,
+ "belt": 2,
+ "tie": 1,
+ "button": 2,
+ "zip": 1,
+ "handbag": 2,
+ "cap": 2
+}

@@ -124,40 +124,40 @@
  ],
  "firecracker": [
   {
-   "title": "Firecracker Mountain Bike Race - Juniors 4",
-   "lic": "CC BY 2.0",
-   "artist": "Citizen 4474",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/2919/14361391439_c68b0b6885_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3878650f-c1e3-48c0-9382-004faa5bcacd/thumb/",
-   "page": "https://www.flickr.com/photos/8590349@N05/14361391439",
+   "title": "Polvoretes y petardos de Valencia.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "AlbertoMQB",
+   "w": 723,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2811/13540692493_0ac2ef0368_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/17bd6f4f-9aaf-4cc0-b234-87447bb7418d/thumb/",
+   "page": "https://www.flickr.com/photos/80107981@N08/13540692493",
    "src": "openverse",
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_0.jpg"
   },
   {
-   "title": "Firecracker Mountain Bike Race - Juniors 1",
+   "title": "Petardos en las Fallas de Valencia",
    "lic": "CC BY 2.0",
-   "artist": "Citizen 4474",
+   "artist": "luisrull",
    "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/2904/14524917156_7c73b73f04_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e4ed5f4c-8f44-4fb6-8059-63c60e54fff0/thumb/",
-   "page": "https://www.flickr.com/photos/8590349@N05/14524917156",
+   "h": 768,
+   "url": "https://live.staticflickr.com/42/120230927_a35a7b73c3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2a151f10-d88b-4125-99ce-0f1c5fc300ee/thumb/",
+   "page": "https://www.flickr.com/photos/32307999@N00/120230927",
    "src": "openverse",
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_1.jpg"
   },
   {
-   "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
-   "lic": "CC BY 2.0",
-   "artist": "mckaysavage",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/2358/1980340953_afe8b79843_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3e972aa2-e63c-453d-81bc-8350e29a0a54/thumb/",
-   "page": "https://www.flickr.com/photos/56796376@N00/1980340953",
+   "title": "Petardos!",
+   "lic": "CC BY-SA 2.0",
+   "artist": "qiv",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8212/8262537856_652477e1f4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7cd0efbb-6701-4898-af91-0d8e6db185ec/thumb/",
+   "page": "https://www.flickr.com/photos/14196341@N08/8262537856",
    "src": "openverse",
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_2.jpg"
@@ -765,5 +765,45 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/dinner_2.jpg"
   }
  ],
- "parade": []
+ "parade": [
+  {
+   "title": "First World War era parade float, Clitheroe, Lancashire (c.1918)",
+   "lic": "CC BY 2.0",
+   "artist": "pellethepoet",
+   "w": 1024,
+   "h": 647,
+   "url": "https://live.staticflickr.com/8160/7102059485_e872db7740_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/36a863dd-f8ed-4ecd-92aa-e6f045b212e5/thumb/",
+   "page": "https://www.flickr.com/photos/47201412@N02/7102059485",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_0.jpg"
+  },
+  {
+   "title": "Women model clothing on an ILGWU parade float.",
+   "lic": "CC BY 2.0",
+   "artist": "Kheel Center, Cornell University Library",
+   "w": 1024,
+   "h": 820,
+   "url": "https://live.staticflickr.com/5209/5279529404_e7ca0f6182_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b5371ea4-3f8a-4f4e-aacc-cdd06e761b7b/thumb/",
+   "page": "https://www.flickr.com/photos/38445726@N04/5279529404",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_1.jpg"
+  },
+  {
+   "title": "1923. Pine Beetle Control Project parade float sponsored by: USDA Forest Service, U.S. Indian Service, USDA Bureau of Entomology, Oregon State Board of Forestry, and the Klamath Forest Protective Association. Klamath Falls, Oregon.",
+   "lic": "Public Domain",
+   "artist": "USDA Forest Service",
+   "w": 1024,
+   "h": 700,
+   "url": "https://live.staticflickr.com/3855/33471269662_a27cd92102_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d7bf72c6-6dd6-4edd-94d3-135e70d0c602/thumb/",
+   "page": "https://www.flickr.com/photos/151887236@N05/33471269662",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_2.jpg"
+  }
+ ]
 }

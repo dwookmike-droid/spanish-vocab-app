@@ -55,7 +55,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/eye_0.jpg"
   }
  ],
- "ear": [],
+ "ear": [
+  {
+   "title": "Baby's Ear",
+   "lic": "CC BY 2.0",
+   "artist": "LisaW123",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/4023/4716593694_ef9628b421_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eb5baed0-e0ee-4e86-8bf7-607f298c745a/thumb/",
+   "page": "https://www.flickr.com/photos/32389209@N05/4716593694",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_0.jpg"
+  },
+  {
+   "title": "Golden Ears",
+   "lic": "CC BY 2.0",
+   "artist": "enneafive",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3867/14473495216_0dc87c0906_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1342dcf-981f-4c55-ab50-6c66a92d5449/thumb/",
+   "page": "https://www.flickr.com/photos/75612671@N03/14473495216",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_1.jpg"
+  },
+  {
+   "title": "Ear",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Menage a Moi",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3244/2706701983_dc3d66fb8a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0b0f7edd-67e4-4923-878f-3e7d5319fcc1/thumb/",
+   "page": "https://www.flickr.com/photos/12917962@N00/2706701983",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_2.jpg"
+  }
+ ],
  "nose": [
   {
    "title": "inside a human nose",

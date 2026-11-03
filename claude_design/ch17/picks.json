@@ -16,7 +16,7 @@
  "parade": 1,
  "entryticket": 0,
  "champion": 1,
- "referee": 1,
+ "referee": null,
  "pool": 0,
  "gym": 2
 }

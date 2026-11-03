@@ -1,0 +1,22 @@
+{
+ "museum": 0,
+ "painting": 0,
+ "paintingart": 0,
+ "painter": 1,
+ "sculpture": 0,
+ "room": 0,
+ "entryticket": null,
+ "ticketoffice": 0,
+ "exhibition": 2,
+ "frame": 0,
+ "portrait": 0,
+ "landscape": 1,
+ "guide": null,
+ "audioguide": 0,
+ "guard": 0,
+ "shop": 0,
+ "floorplan": 0,
+ "poster": 2,
+ "hours": 2,
+ "bench": 0
+}
