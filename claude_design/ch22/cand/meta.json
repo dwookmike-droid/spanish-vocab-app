@@ -1,0 +1,796 @@
+{
+ "head": [
+  {
+   "title": "Two figures human head profile:",
+   "lic": "CC0",
+   "artist": "",
+   "w": 7716,
+   "h": 5583,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL3djcG1wNWNyaGQtaW1hZ2UuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f10f958e-0e5d-4433-aeba-aa0ca57f5716/thumb/",
+   "page": "https://www.rawpixel.com/image/13963005/image-face-person-art",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/head_0.jpg"
+  },
+  {
+   "title": "Two figures human head profile:",
+   "lic": "CC0",
+   "artist": "",
+   "w": 7716,
+   "h": 5583,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL3djeGV0eHprZHMtaW1hZ2UuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e932b36d-cb5e-46e0-bf4c-22d2839a306b/thumb/",
+   "page": "https://www.rawpixel.com/image/13970612/image-face-person-art",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/head_1.jpg"
+  },
+  {
+   "title": "Two figures human head profile:",
+   "lic": "CC0",
+   "artist": "",
+   "w": 3167,
+   "h": 2290,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL3djY2MzYnVjc3QtaW1hZ2UuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e9f080c6-d460-48a0-8fd5-c795abdcf0da/thumb/",
+   "page": "https://www.rawpixel.com/image/13952256/image-face-person-art",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/head_2.jpg"
+  }
+ ],
+ "eye": [
+  {
+   "title": "Close-Up of the Human Eye - Primer plano del ojo humano",
+   "lic": "CC BY 2.0",
+   "artist": "Hugo Quintero",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/8341/8162626598_bfef3bf02b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/96e605d2-a052-41ea-897a-5572dd0b102d/thumb/",
+   "page": "https://www.flickr.com/photos/92529460@N00/8162626598",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/eye_0.jpg"
+  }
+ ],
+ "ear": [
+  {
+   "title": "Baby's Ear",
+   "lic": "CC BY 2.0",
+   "artist": "LisaW123",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/4023/4716593694_ef9628b421_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eb5baed0-e0ee-4e86-8bf7-607f298c745a/thumb/",
+   "page": "https://www.flickr.com/photos/32389209@N05/4716593694",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_0.jpg"
+  },
+  {
+   "title": "Golden Ears",
+   "lic": "CC BY 2.0",
+   "artist": "enneafive",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3867/14473495216_0dc87c0906_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1342dcf-981f-4c55-ab50-6c66a92d5449/thumb/",
+   "page": "https://www.flickr.com/photos/75612671@N03/14473495216",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_1.jpg"
+  },
+  {
+   "title": "Ear",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Menage a Moi",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3244/2706701983_dc3d66fb8a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0b0f7edd-67e4-4923-878f-3e7d5319fcc1/thumb/",
+   "page": "https://www.flickr.com/photos/12917962@N00/2706701983",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_2.jpg"
+  }
+ ],
+ "nose": [
+  {
+   "title": "inside a human nose",
+   "lic": "CC BY 2.0",
+   "artist": "bradleygee",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/4072/4712310379_b9632d3ccc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4befaa47-3d7d-4866-a95c-a8e1c2bf0a59/thumb/",
+   "page": "https://www.flickr.com/photos/13951072@N00/4712310379",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/nose_0.jpg"
+  },
+  {
+   "title": "a human nose",
+   "lic": "CC BY 2.0",
+   "artist": "bradleygee",
+   "w": 1024,
+   "h": 674,
+   "url": "https://live.staticflickr.com/7151/6753461045_277e113c9d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b9763c5-5264-462f-a158-39990a8cd935/thumb/",
+   "page": "https://www.flickr.com/photos/13951072@N00/6753461045",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/nose_1.jpg"
+  },
+  {
+   "title": "Naughty cat",
+   "lic": "CC BY 2.0",
+   "artist": "kevin dooley",
+   "w": 1024,
+   "h": 766,
+   "url": "https://live.staticflickr.com/150/386303100_c7ed386a6b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/926b9ed6-8f13-49ee-823a-6bd873a58d96/thumb/",
+   "page": "https://www.flickr.com/photos/12836528@N00/386303100",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/nose_2.jpg"
+  }
+ ],
+ "mouth": [
+  {
+   "title": "Sexy lips",
+   "lic": "CC BY 2.0",
+   "artist": "ePi.Longo",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/3070/2706139249_60e85e5346_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9d7d10a3-48b4-453e-a485-c841c8f9fd6d/thumb/",
+   "page": "https://www.flickr.com/photos/56278354@N00/2706139249",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_0.jpg"
+  },
+  {
+   "title": "Sugar Lips",
+   "lic": "CC BY 2.0",
+   "artist": "Jeanny Schmidt",
+   "w": 1024,
+   "h": 731,
+   "url": "https://live.staticflickr.com/2317/5716365533_b44f6975ff_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/10bcb1d9-71e0-4c8a-9652-fd7e37695a49/thumb/",
+   "page": "https://www.flickr.com/photos/48776556@N04/5716365533",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_1.jpg"
+  },
+  {
+   "title": "Mercedes-Benz CL [W216] PD-Black Edition Black Series Widebody PRIOR-DESIGN Aerodynamic-Kit, Front bumper, vented hood, rear bumper and rear diffuser, front lip, trunk spoiler and exhaust tips. CL63 CL65 AMG. Like SL65 Black Series",
+   "lic": "CC BY 2.0",
+   "artist": "Prior Design NA (priordesignusa.com)",
+   "w": 1024,
+   "h": 640,
+   "url": "https://live.staticflickr.com/7053/6939709693_174788f29e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9b5b076b-e6e0-45a2-a725-a99b745597f0/thumb/",
+   "page": "https://www.flickr.com/photos/49500824@N02/6939709693",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_2.jpg"
+  }
+ ],
+ "tooth": [
+  {
+   "title": "Cat teeth",
+   "lic": "CC BY-SA 2.0",
+   "artist": "barbourians",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/8035/8063956956_dd44aaf3bc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/30356372-d61a-497a-871d-021a96728b77/thumb/",
+   "page": "https://www.flickr.com/photos/51607907@N03/8063956956",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_0.jpg"
+  },
+  {
+   "title": "Those are rawfed teeth, baby.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "This Year's Love",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2230/2311374241_f0fc474d8a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/90585d07-1461-410c-b141-d3f00698514f/thumb/",
+   "page": "https://www.flickr.com/photos/82328600@N00/2311374241",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_1.jpg"
+  },
+  {
+   "title": "Teeth",
+   "lic": "CC BY 2.0",
+   "artist": "Zawezome",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2262/2276185684_cc7d8d3b39_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cb9edcc3-c4f4-40a9-a7ed-f253b72fdf3e/thumb/",
+   "page": "https://www.flickr.com/photos/8699239@N04/2276185684",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_2.jpg"
+  }
+ ],
+ "neck": [
+  {
+   "title": "The neck",
+   "lic": "CC BY 2.0",
+   "artist": "elements_of_this_world",
+   "w": 1024,
+   "h": 731,
+   "url": "https://live.staticflickr.com/919/41677386500_4195feaf3c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/20c9c82c-37a8-45ec-a28c-cfb91dcdd298/thumb/",
+   "page": "https://www.flickr.com/photos/135717563@N05/41677386500",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/neck_0.jpg"
+  },
+  {
+   "title": "Arteries and nerves of the face and neck",
+   "lic": "CC BY-SA 2.0",
+   "artist": "liverpoolhls",
+   "w": 786,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7382/10818483386_323573f562_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9367e52a-32d8-4f87-a612-ef48470951ae/thumb/",
+   "page": "https://www.flickr.com/photos/107733654@N04/10818483386",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/neck_1.jpg"
+  },
+  {
+   "title": "Pork Neck and Fatty Pork",
+   "lic": "CC BY-SA 2.0",
+   "artist": "avlxyz",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/3571/3649639169_64e35f401a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1255851a-dce4-4ddb-ad89-79c91bf30fb4/thumb/",
+   "page": "https://www.flickr.com/photos/10559879@N00/3649639169",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/neck_2.jpg"
+  }
+ ],
+ "arm": [
+  {
+   "title": "measuring forearm",
+   "lic": "CC BY 2.0",
+   "artist": "USFWS Headquarters",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7019/6643313051_803093f69e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/16ddd644-e5c2-40ae-a2e7-c134d193e6e9/thumb/",
+   "page": "https://www.flickr.com/photos/50838842@N06/6643313051",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_0.jpg"
+  },
+  {
+   "title": "Pincha Mayurasana - Forearm Stand",
+   "lic": "CC BY-SA 2.0",
+   "artist": "a4gpa",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/3016/2793988454_7d9204169c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c24374ec-e100-42e6-8fc7-f6a53149b140/thumb/",
+   "page": "https://www.flickr.com/photos/94833286@N00/2793988454",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_1.jpg"
+  },
+  {
+   "title": "Pincha Mayurasana - Forearm Stand",
+   "lic": "CC BY-SA 2.0",
+   "artist": "a4gpa",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3030/2681445482_0915e7b97e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/df7a5efe-e8eb-4ab2-b1e8-91d29c9029ea/thumb/",
+   "page": "https://www.flickr.com/photos/94833286@N00/2681445482",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_2.jpg"
+  }
+ ],
+ "hand": [
+  {
+   "title": "Concrete statue of Samantabhadra riding on a elepant, top knot hair style, halo, one hand raised, open palm, silks, jewels, Dario's Statuary, Lake City Way, Seattle, Washington, USA",
+   "lic": "CC BY 2.0",
+   "artist": "Wonderlane",
+   "w": 600,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3903/14607141461_5e9b942ab6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/94c59200-9abb-4549-9e76-5ba2ff094837/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/14607141461",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_0.jpg"
+  },
+  {
+   "title": "Standing Buddha with open palms mudra, giving, fearlessness, flaming aura on top of his head, detail of torso, metal, Art Institute of Chicago, Illinois, USA",
+   "lic": "CC0",
+   "artist": "Wonderlane",
+   "w": 621,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8157/7521884070_e10df940cb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d299df8a-143a-496c-aa04-ba50bfd1df7b/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/7521884070",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_1.jpg"
+  },
+  {
+   "title": "Open palms",
+   "lic": "CC BY 2.0",
+   "artist": "Fencreative",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5141/5681232600_a98017b7b2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cfb7d8f9-dd6c-4104-91a7-1f6e65c9019e/thumb/",
+   "page": "https://www.flickr.com/photos/39841908@N05/5681232600",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_2.jpg"
+  }
+ ],
+ "finger": [
+  {
+   "title": "Finger, pointing",
+   "lic": "CC BY 2.0",
+   "artist": "Joelk75",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2108/2499631585_dd5525c5b6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/948e8d09-af3b-4142-a2c7-6c814ff5caf1/thumb/",
+   "page": "https://www.flickr.com/photos/75001512@N00/2499631585",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/finger_0.jpg"
+  },
+  {
+   "title": "Finger-wagging and finger-pointing",
+   "lic": "CC BY 2.0",
+   "artist": "Fuyoh!",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5812/20339535634_39fc467d4c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/497b8178-ce1f-4fbf-8ff5-af980a6ae1f3/thumb/",
+   "page": "https://www.flickr.com/photos/7747793@N08/20339535634",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/finger_1.jpg"
+  },
+  {
+   "title": "My finger pointing...",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Per Corell",
+   "w": 1024,
+   "h": 658,
+   "url": "https://live.staticflickr.com/7399/9087123731_7b204e841c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c68b323e-1143-45ac-aed5-67e333188570/thumb/",
+   "page": "https://www.flickr.com/photos/62811941@N00/9087123731",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/finger_2.jpg"
+  }
+ ],
+ "leg": [
+  {
+   "title": "Human Legs",
+   "lic": "CC BY 2.0",
+   "artist": "Skakerman (Archive)",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/1535/24326318075_a5c7fceae1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7be56046-7891-4fd9-8bf1-da7721742007/thumb/",
+   "page": "https://www.flickr.com/photos/27482959@N08/24326318075",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/leg_0.jpg"
+  },
+  {
+   "title": "Mummified fragments of human legs, possibly of the Queen herself, from Nefertari's sacked tomb. New Kingdom Dynasty 19 Reign of Ramesses II 1279-1213 BC S. 5154 @MuseoEgizio #Immortali",
+   "lic": "CC0",
+   "artist": "akhenatenator",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/606/23271960300_2a233558c3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b4cd032a-7817-4822-b603-bff84feb88ad/thumb/",
+   "page": "https://www.flickr.com/photos/86012097@N08/23271960300",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/leg_1.jpg"
+  },
+  {
+   "title": "Human leg trap",
+   "lic": "CC BY 2.0",
+   "artist": "quinet",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7470/15757242159_46b68b259e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d7493d99-c08f-4038-aa8f-80730b179683/thumb/",
+   "page": "https://www.flickr.com/photos/91994044@N00/15757242159",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/leg_2.jpg"
+  }
+ ],
+ "foot": [
+  {
+   "title": "“The human foot is a masterpiece of engineering and a work of art.”",
+   "lic": "CC BY 2.0",
+   "artist": "katerha",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4017/4661338656_1ef920f55a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/21275b71-9f12-4dac-aaf9-7541dda9f1eb/thumb/",
+   "page": "https://www.flickr.com/photos/8489692@N03/4661338656",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_3.jpg"
+  },
+  {
+   "title": "Common Leopard (Phalanta phalanta) sipping sweat from a human foot",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gbohne",
+   "w": 1024,
+   "h": 721,
+   "url": "https://live.staticflickr.com/5007/5338281677_4a73a65eeb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/551deee5-3fa7-416f-9d4d-59ec225ab403/thumb/",
+   "page": "https://www.flickr.com/photos/51216897@N07/5338281677",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_4.jpg"
+  },
+  {
+   "title": "Pussy cat foot prints and human foot prints in the snow",
+   "lic": "CC BY 2.0",
+   "artist": "Abi Skipp",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5213/5384083089_742328b25b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d7221683-a6ea-4abf-a99a-2538b37a03c8/thumb/",
+   "page": "https://www.flickr.com/photos/9557815@N05/5384083089",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_5.jpg"
+  }
+ ],
+ "back": [
+  {
+   "title": "Back Pain",
+   "lic": "CC BY 2.0",
+   "artist": "PracticalCures",
+   "w": 1024,
+   "h": 602,
+   "url": "https://live.staticflickr.com/5683/22784724783_95ef17af67_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/49197e24-b494-4edd-8568-2dae6f82a308/thumb/",
+   "page": "https://www.flickr.com/photos/133128892@N02/22784724783",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_0.jpg"
+  },
+  {
+   "title": "DGJ_3542 - Back Pain Creator",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5126/5333025364_d9cd6da3b9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eb9c1e2d-0ce3-4e4f-ba52-3752a8531fc6/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/5333025364",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_1.jpg"
+  },
+  {
+   "title": "A young woman having back pain while sitting at the desk in her office",
+   "lic": "CC BY 2.0",
+   "artist": "Ivan Radic",
+   "w": 684,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/49496167428_068696a14f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7a85da03-c3d0-4798-98f5-215568afe1ae/thumb/",
+   "page": "https://www.flickr.com/photos/26344495@N05/49496167428",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_2.jpg"
+  }
+ ],
+ "stomach": [
+  {
+   "title": "Pierced outie belly button",
+   "lic": "CC BY 2.0",
+   "artist": "kaderyn",
+   "w": 957,
+   "h": 1005,
+   "url": "https://live.staticflickr.com/3391/4572736949_12a0ec2ebe_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0358928f-d7a5-42aa-9025-2995f821a70e/thumb/",
+   "page": "https://www.flickr.com/photos/49863541@N06/4572736949",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/stomach_0.jpg"
+  },
+  {
+   "title": "Pierced outie belly button",
+   "lic": "CC BY 2.0",
+   "artist": "kaderyn",
+   "w": 1000,
+   "h": 667,
+   "url": "https://live.staticflickr.com/3321/4593308697_fab07b64cc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/03152e52-476b-429a-9ce5-675adc083765/thumb/",
+   "page": "https://www.flickr.com/photos/49863541@N06/4593308697",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/stomach_1.jpg"
+  },
+  {
+   "title": "Disney aftermath",
+   "lic": "CC BY 2.0",
+   "artist": "meshmar2",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/157/363014979_5e62e9581c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eab3a3cf-7b25-4262-b713-67611807c6c1/thumb/",
+   "page": "https://www.flickr.com/photos/21837558@N00/363014979",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/stomach_2.jpg"
+  }
+ ],
+ "pharmacy": [
+  {
+   "title": "Alcaicería, Granada - Farmacia - gren cross",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3885/14582963861_03cb5daba0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d83d3445-c57f-4138-84b6-3ffa1d1aac57/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/14582963861",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pharmacy_0.jpg"
+  },
+  {
+   "title": "Farmacia - Calle Recogidas, Granada - green cross",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3844/14571593811_ea78ea1861_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/70b07043-1f48-4afd-8402-7d74673b9fcc/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/14571593811",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pharmacy_1.jpg"
+  },
+  {
+   "title": "Farmacia - Calle Recogidas, Granada - green cross",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3888/14574182162_64a23668d5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/85cf110a-81d9-49dd-8b66-c2074a590e52/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/14574182162",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pharmacy_2.jpg"
+  }
+ ],
+ "pill": [
+  {
+   "title": "Pills Tablets",
+   "lic": "CC0",
+   "artist": "Michal Jarmoluk",
+   "w": 4928,
+   "h": 3264,
+   "url": "https://cdn.stocksnap.io/img-thumbs/960w/DJ9ULAB05C.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4c31805e-3c08-490e-8e90-be64f6dabe3a/thumb/",
+   "page": "https://stocksnap.io/photo/pills-tablets-DJ9ULAB05C",
+   "src": "openverse",
+   "provider": "stocksnap",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pill_0.jpg"
+  },
+  {
+   "title": "Heal thyself",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MatHampson",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5186/5586239731_04f1d0b45b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e3cffc8b-5545-4c75-8ec8-63e5f3492d2e/thumb/",
+   "page": "https://www.flickr.com/photos/41894164051@N01/5586239731",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pill_1.jpg"
+  },
+  {
+   "title": "Pills",
+   "lic": "CC BY-SA 2.0",
+   "artist": "michaeln3",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3/4738586_8e6d1513c8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c965f1b0-8049-4304-a47f-f148cbb8ed6f/thumb/",
+   "page": "https://www.flickr.com/photos/51035599008@N01/4738586",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pill_2.jpg"
+  }
+ ],
+ "prescription": [
+  {
+   "title": "OTC Professional Appliances, circa 1965 - Advertising Postcard",
+   "lic": "CC BY 2.0",
+   "artist": "Shook Photos",
+   "w": 1024,
+   "h": 652,
+   "url": "https://live.staticflickr.com/65535/4767205949_baf837e6a4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/65710317-8463-4990-b39b-e2241ae4cfca/thumb/",
+   "page": "https://www.flickr.com/photos/24724221@N07/4767205949",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_0.jpg"
+  },
+  {
+   "title": "Me and DirecTV booth babes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "nickgraywfu",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/135/351205431_1afb3de4a3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4e97c93c-0075-4928-88d9-8b42f844acb0/thumb/",
+   "page": "https://www.flickr.com/photos/35034365374@N01/351205431",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_1.jpg"
+  },
+  {
+   "title": "White prescription bag held by hand stock photo",
+   "lic": "CC BY 2.0",
+   "artist": "Chemist 4 U",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7801/47486288271_37791b0abc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5f60a37b-0975-4538-b0d3-84938e45910f/thumb/",
+   "page": "https://www.flickr.com/photos/170378439@N03/47486288271",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_2.jpg"
+  }
+ ],
+ "plaster": [
+  {
+   "title": "Young girl with band-aid on her upper arm",
+   "lic": "CC BY 2.0",
+   "artist": "SELF Magazine",
+   "w": 705,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/48545942051_0ba7b4e8d4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11f306aa-5d35-472a-8f3f-49e8a2a361cd/thumb/",
+   "page": "https://www.flickr.com/photos/183469667@N05/48545942051",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/plaster_0.jpg"
+  },
+  {
+   "title": "Young girl holding stuffed animal having band-aid applied",
+   "lic": "CC BY 2.0",
+   "artist": "SELF Magazine",
+   "w": 763,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/48546119217_0300ed8be5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/34996c61-f7f5-4206-b455-f82a872b0f93/thumb/",
+   "page": "https://www.flickr.com/photos/183469667@N05/48546119217",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/plaster_1.jpg"
+  },
+  {
+   "title": "Woman with band-aid on her upper arm",
+   "lic": "CC BY 2.0",
+   "artist": "SELF Magazine",
+   "w": 706,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/48546110352_28f57363be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f5799864-d9b2-43ba-9f13-2abc3fb5544a/thumb/",
+   "page": "https://www.flickr.com/photos/183469667@N05/48546110352",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/plaster_2.jpg"
+  }
+ ],
+ "syrup": [
+  {
+   "title": "Tis' the season ... for Cough Syrup",
+   "lic": "CC BY 2.0",
+   "artist": "Vox Efx",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/2124/2091307451_401f25a4b3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8e478642-236b-4923-97df-03fdc4fbf8e4/thumb/",
+   "page": "https://www.flickr.com/photos/39096030@N00/2091307451",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/syrup_0.jpg"
+  },
+  {
+   "title": "Cough syrup",
+   "lic": "CC BY 2.0",
+   "artist": "Dvortygirl",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8364/8313967466_f81151aff0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e61fc3ba-a8f8-4f20-b196-e8c54b52612a/thumb/",
+   "page": "https://www.flickr.com/photos/21093323@N02/8313967466",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/syrup_1.jpg"
+  },
+  {
+   "title": "Homemade cough syrup: honey, coconut oil, lemon juice. #sickfamily #crunchymama",
+   "lic": "CC BY 2.0",
+   "artist": "amberdegrace",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/7347/9164149583_523605f2dd.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e2a81b92-6dd6-4dc0-b7d3-851e1e4bce20/thumb/",
+   "page": "https://www.flickr.com/photos/34823437@N04/9164149583",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/syrup_2.jpg"
+  }
+ ],
+ "thermometer": [
+  {
+   "title": "Digital thermometer",
+   "lic": "CC BY 2.0",
+   "artist": "Wheeler Cowperthwaite",
+   "w": 883,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6097/6212530282_b896d50b35_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ff06a1bc-ba01-4ee1-8301-a603fda4c4ab/thumb/",
+   "page": "https://www.flickr.com/photos/60756254@N07/6212530282",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_1.jpg"
+  },
+  {
+   "title": "Wall mounted digital thermometer, Gigaset basestation & TP-LINK TL-WR1043ND",
+   "lic": "CC BY 2.0",
+   "artist": "Kai Hendry",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7319/8728994145_49065a69b2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e6a4f627-075f-42ac-b6e2-72231dc46d6c/thumb/",
+   "page": "https://www.flickr.com/photos/16105436@N00/8728994145",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_2.jpg"
+  },
+  {
+   "title": "Labor-Sehr genaues Digital-Thermometer......",
+   "lic": "CC BY-SA 2.0",
+   "artist": "labormikro",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1364/1018240852_3c184a61be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c115e91f-d8d3-42cc-96a4-89be2d5a2a65/thumb/",
+   "page": "https://www.flickr.com/photos/10974451@N05/1018240852",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_3.jpg"
+  }
+ ]
+}

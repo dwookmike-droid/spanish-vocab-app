@@ -1,0 +1,22 @@
+{
+ "hotel": null,
+ "reception": 0,
+ "room": 2,
+ "key": 1,
+ "card": 0,
+ "lift": 0,
+ "stairs": 1,
+ "floor": 0,
+ "breakfast": 0,
+ "towel": 0,
+ "reservation": null,
+ "passport": 1,
+ "suitcase": 0,
+ "receptionist": 1,
+ "doublebed": 0,
+ "shower": 1,
+ "wifi": 0,
+ "exit": 2,
+ "invoice": 0,
+ "pillow": 1
+}

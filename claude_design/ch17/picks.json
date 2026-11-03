@@ -1,0 +1,22 @@
+{
+ "football": 1,
+ "football_ball": 1,
+ "stadium": 0,
+ "team": 1,
+ "match": 1,
+ "goal": 0,
+ "ball": 2,
+ "bike": 0,
+ "race": 0,
+ "runner": 1,
+ "party": 1,
+ "neckerchief": null,
+ "band": 0,
+ "fireworks": 2,
+ "parade": 1,
+ "entryticket": 0,
+ "champion": 1,
+ "referee": null,
+ "pool": 0,
+ "gym": 2
+}

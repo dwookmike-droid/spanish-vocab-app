@@ -1,0 +1,822 @@
+{
+ "shirt": [
+  {
+   "title": "T-shirts hanger",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4459,
+   "h": 2977,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvYnMzMzItaW1hZ2Uta3d2eW43eGkuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/22d3dcca-88c7-4d8b-9abc-4d7ca7bc2cca/thumb/",
+   "page": "https://www.rawpixel.com/image/5928381/photo-image-public-domain-t-shirt-free",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_0.jpg"
+  },
+  {
+   "title": "T-shirts hanger",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4460,
+   "h": 2974,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2JzMzEyLWltYWdlLWt3dnltdWN4LmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4894ca07-f2d0-4130-98aa-4f020cc06577/thumb/",
+   "page": "https://www.rawpixel.com/image/5928263/photo-image-public-domain-t-shirt-free",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_1.jpg"
+  },
+  {
+   "title": "T-shirts hanger",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4460,
+   "h": 2973,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2JzMzgwLWltYWdlLWt3dnluYWRoLmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/65de6cce-4132-426f-91ef-2bf74a77c471/thumb/",
+   "page": "https://www.rawpixel.com/image/5928389/photo-image-public-domain-t-shirt-free",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_2.jpg"
+  }
+ ],
+ "tshirt": [
+  {
+   "title": "Funeral Home wet t shirt contest",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ashi",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1074/1003037750_dbab30c27a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/79350844-cea4-42e1-a69c-f8f5b31474bf/thumb/",
+   "page": "https://www.flickr.com/photos/15948105@N00/1003037750",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tshirt_0.jpg"
+  },
+  {
+   "title": "Lemmings t-shirt - worn by Max",
+   "lic": "CC BY 2.0",
+   "artist": "New Internationalist",
+   "w": 495,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3280/2906026575_531ae9654b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/66527e22-317c-4fd7-826a-e1fe5c630b75/thumb/",
+   "page": "https://www.flickr.com/photos/31386874@N00/2906026575",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tshirt_1.jpg"
+  },
+  {
+   "title": "DEATH BY STEREO T-SHIRT",
+   "lic": "CC BY 2.0",
+   "artist": "TuRk3y",
+   "w": 450,
+   "h": 500,
+   "url": "https://live.staticflickr.com/1134/580226765_2f79297279.jpg",
+   "thumb": "https://api.openverse.org/v1/images/83bdd33e-c081-436e-b5c9-1253f8123598/thumb/",
+   "page": "https://www.flickr.com/photos/28122080@N00/580226765",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tshirt_2.jpg"
+  }
+ ],
+ "trousers": [
+  {
+   "title": "Royal Italian Air Force",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ksr8s",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/4056/5148182970_f166e45608_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fd683aa2-51a5-4dc4-a0cc-79973096ce4e/thumb/",
+   "page": "https://www.flickr.com/photos/54825391@N00/5148182970",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_2.jpg"
+  },
+  {
+   "title": "Wounded soldiers and a nurse at a hospital or convalescent home somewhere in the UK - WW1",
+   "lic": "Public Domain",
+   "artist": "Aussie~mobs",
+   "w": 912,
+   "h": 530,
+   "url": "https://live.staticflickr.com/65535/49657973446_351d5f2e93_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8d3ea6ad-69d5-40fb-8255-23b35e396cef/thumb/",
+   "page": "https://www.flickr.com/photos/70994841@N07/49657973446",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_4.jpg"
+  },
+  {
+   "title": "Chino Pant Stack",
+   "lic": "CC BY 2.0",
+   "artist": "Menswear Market",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/1696/26222122412_66ebc0f181_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d92e7617-5421-417a-a9c3-00927bc6a22d/thumb/",
+   "page": "https://www.flickr.com/photos/85546319@N04/26222122412",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_5.jpg"
+  }
+ ],
+ "skirt": [
+  {
+   "title": "skirt and shirt",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Martina H.",
+   "w": 416,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1812/29080066217_a1f902cbbe_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6854c54c-fe92-4666-a2d0-ed5ff2ccbf73/thumb/",
+   "page": "https://www.flickr.com/photos/157338256@N03/29080066217",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/skirt_0.jpg"
+  },
+  {
+   "title": "Satin blouse under skirt suit",
+   "lic": "CC BY 2.0",
+   "artist": "Rikky_Satin",
+   "w": 755,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/49804162123_68621375c9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3349aa35-37d9-413f-8216-bf4dc8989a47/thumb/",
+   "page": "https://www.flickr.com/photos/95163690@N07/49804162123",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/skirt_1.jpg"
+  },
+  {
+   "title": "Rain Skirt in Denver 14",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gregglesworth",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/190/499715075_1b31baf9bb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5932814b-38f3-4220-bafe-2178633f09d5/thumb/",
+   "page": "https://www.flickr.com/photos/39237655@N00/499715075",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/skirt_2.jpg"
+  }
+ ],
+ "dress": [
+  {
+   "title": "Cutout Patterned Summer Dress",
+   "lic": "CC BY 2.0",
+   "artist": "FreePeopleFlickr",
+   "w": 412,
+   "h": 500,
+   "url": "https://live.staticflickr.com/7435/14002995621_9aa8e4ce4a.jpg",
+   "thumb": "https://api.openverse.org/v1/images/555de6c0-0366-4816-968d-8605e3d5370e/thumb/",
+   "page": "https://www.flickr.com/photos/43714106@N03/14002995621",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_0.jpg"
+  },
+  {
+   "title": "floral summer dress",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Martina H.",
+   "w": 585,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/964/27447555117_7769d479bc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/24b57b63-5454-41e3-afd7-271a89ee4788/thumb/",
+   "page": "https://www.flickr.com/photos/157338256@N03/27447555117",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_1.jpg"
+  },
+  {
+   "title": "Showing a bit of leg in my summer dress and chocolate brown tights",
+   "lic": "CC BY 2.0",
+   "artist": "ptxdview",
+   "w": 543,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7307/9187228788_a58332af52_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c16940cc-68bf-488c-b4db-a2e7345dfd59/thumb/",
+   "page": "https://www.flickr.com/photos/30708162@N04/9187228788",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_2.jpg"
+  }
+ ],
+ "jacket": [
+  {
+   "title": "Leather Jacket Outfit Idea",
+   "lic": "CC BY 2.0",
+   "artist": "FreePeopleFlickr",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/7097/14002995881_19d90bc8af.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6f2e8ff1-8947-47de-b06b-110b32116b10/thumb/",
+   "page": "https://www.flickr.com/photos/43714106@N03/14002995881",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_0.jpg"
+  },
+  {
+   "title": "Paris Woman with Leather Jacket",
+   "lic": "CC BY 2.0",
+   "artist": "Stephan Rosger",
+   "w": 859,
+   "h": 1022,
+   "url": "https://live.staticflickr.com/5047/5260657018_898a69624c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f8280ea9-9a8d-4b52-86bc-85da166b338a/thumb/",
+   "page": "https://www.flickr.com/photos/56183874@N08/5260657018",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_1.jpg"
+  },
+  {
+   "title": "Leather Jacket by Brioni",
+   "lic": "CC BY 2.0",
+   "artist": "Menswear Market",
+   "w": 1024,
+   "h": 789,
+   "url": "https://live.staticflickr.com/5473/10062428925_81bac218f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/015932fa-e9b9-4e91-98a6-e73590050083/thumb/",
+   "page": "https://www.flickr.com/photos/85546319@N04/10062428925",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_2.jpg"
+  }
+ ],
+ "coat": [
+  {
+   "title": "new coat stand",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Super Rabbit One",
+   "w": 1024,
+   "h": 943,
+   "url": "https://live.staticflickr.com/230/519702388_7afe3f731b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/43ad40df-8d21-4bf4-a1b7-6c2d188a68f7/thumb/",
+   "page": "https://www.flickr.com/photos/33498328@N00/519702388",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/coat_0.jpg"
+  },
+  {
+   "title": "African American woman in a fur coat walking down the sidewalk",
+   "lic": "CC BY 2.0",
+   "artist": "simpleinsomnia",
+   "w": 709,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8774/16900511727_99312dbd02_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b4916211-e247-4e4b-a400-ab611f4e4243/thumb/",
+   "page": "https://www.flickr.com/photos/95329455@N02/16900511727",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/coat_1.jpg"
+  },
+  {
+   "title": "Coat felted from merino and silk lap",
+   "lic": "CC BY 2.0",
+   "artist": "ingermaaike2",
+   "w": 762,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3080/2416285336_34005a1fb1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f4712a87-dbd2-4450-8af5-10802d7a222d/thumb/",
+   "page": "https://www.flickr.com/photos/17293359@N07/2416285336",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/coat_2.jpg"
+  }
+ ],
+ "jumper": [
+  {
+   "title": "Lovely sweater",
+   "lic": "CC BY 2.0",
+   "artist": "Aaron Stidwell",
+   "w": 819,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4446/37883396266_1b22e6c930_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/666e97a4-cea3-45d5-b3f8-882e626ab7aa/thumb/",
+   "page": "https://www.flickr.com/photos/36602595@N03/37883396266",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jumper_0.jpg"
+  },
+  {
+   "title": "invisible friend",
+   "lic": "CC BY 2.0",
+   "artist": "ellectric",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/46/174944475_3ba08c1b23_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6942b209-265d-418a-959f-eee78ff5abc6/thumb/",
+   "page": "https://www.flickr.com/photos/68964522@N00/174944475",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jumper_1.jpg"
+  },
+  {
+   "title": "Vintage Ralph Lauren Cardigan",
+   "lic": "CC BY 2.0",
+   "artist": "Menswear Market",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5609/15785587141_3e57b133b4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2b1e5ee5-e641-4919-bd00-8a5459d238f8/thumb/",
+   "page": "https://www.flickr.com/photos/85546319@N04/15785587141",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jumper_2.jpg"
+  }
+ ],
+ "shoes": [
+  {
+   "title": "Pink Shoes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ChodHound",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/4112/4994567382_9ed2afb80d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d6aaa428-5f03-46c1-b045-d19a433912eb/thumb/",
+   "page": "https://www.flickr.com/photos/21208051@N00/4994567382",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shoes_0.jpg"
+  },
+  {
+   "title": "shoes",
+   "lic": "CC BY 2.0",
+   "artist": "kats_stock_photos",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3405/4637013309_e9d79f0018_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7d4901ac-7a91-4304-b84b-39204deb275d/thumb/",
+   "page": "https://www.flickr.com/photos/50469473@N02/4637013309",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shoes_1.jpg"
+  },
+  {
+   "title": "Shoes",
+   "lic": "CC BY 2.0",
+   "artist": "kenkwsiu",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/4083/5061337706_2f5249d4ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/771be041-eccd-4c59-b01e-17bac6d3a167/thumb/",
+   "page": "https://www.flickr.com/photos/32137198@N07/5061337706",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shoes_2.jpg"
+  }
+ ],
+ "boots": [
+  {
+   "title": "Army boots",
+   "lic": "CC BY-SA 2.0",
+   "artist": "liftarn",
+   "w": 923,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1043/1447521121_94a34fec32_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b18afb0e-adaf-42f3-ae54-3fc2099ba3c6/thumb/",
+   "page": "https://www.flickr.com/photos/8543480@N06/1447521121",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/boots_0.jpg"
+  },
+  {
+   "title": "Boots !",
+   "lic": "CC BY 2.0",
+   "artist": "Jay Phagan",
+   "w": 1024,
+   "h": 771,
+   "url": "https://live.staticflickr.com/8488/8204959904_b8e1334925_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4a8b710f-6d4d-4185-9b4f-50a446696152/thumb/",
+   "page": "https://www.flickr.com/photos/70671301@N03/8204959904",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/boots_1.jpg"
+  },
+  {
+   "title": "wrong boots",
+   "lic": "Public Domain",
+   "artist": "rallie1@yahoo.com",
+   "w": 595,
+   "h": 915,
+   "url": "https://live.staticflickr.com/4408/36602716771_5a456d6091_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/265426f8-f029-42d1-9de8-5a4efdd5348d/thumb/",
+   "page": "https://www.flickr.com/photos/40129118@N08/36602716771",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/boots_2.jpg"
+  }
+ ],
+ "socks": [
+  {
+   "title": "Wife socks",
+   "lic": "CC BY-SA 2.0",
+   "artist": "monoglot",
+   "w": 1024,
+   "h": 677,
+   "url": "https://live.staticflickr.com/3256/3207948537_bf9401e799_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3dd7e683-f2dc-4477-baf9-6e35f30d1f94/thumb/",
+   "page": "https://www.flickr.com/photos/73396184@N00/3207948537",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/socks_0.jpg"
+  },
+  {
+   "title": "Socks",
+   "lic": "CC BY-SA 2.0",
+   "artist": "monoglot",
+   "w": 1024,
+   "h": 677,
+   "url": "https://live.staticflickr.com/3490/3207946749_0ac2434ccf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e25a6e4f-b672-415a-b5f3-769ba1d4fb12/thumb/",
+   "page": "https://www.flickr.com/photos/73396184@N00/3207946749",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/socks_1.jpg"
+  },
+  {
+   "title": "Socks",
+   "lic": "CC BY 2.0",
+   "artist": "milele",
+   "w": 720,
+   "h": 960,
+   "url": "https://live.staticflickr.com/7076/7393632874_529f4ec237_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7874a4ad-8640-46a9-a4e2-9fd3b64c1034/thumb/",
+   "page": "https://www.flickr.com/photos/48744022@N00/7393632874",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/socks_2.jpg"
+  }
+ ],
+ "hat": [
+  {
+   "title": "Woman Street Vendor in Straw Hat",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Chris Hunkeler",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/7101/7288419104_9335b8a2e2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e34e066a-2afb-48b8-ae72-b387601db13a/thumb/",
+   "page": "https://www.flickr.com/photos/14913305@N00/7288419104",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_0.jpg"
+  },
+  {
+   "title": "Straw Hat Pirates: Nico Robin",
+   "lic": "CC BY 2.0",
+   "artist": "Brian Rinker Creative",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3697/13130676485_517ef3ae13_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/38891a04-3b45-48f5-ae13-94f81c4bab48/thumb/",
+   "page": "https://www.flickr.com/photos/44242222@N07/13130676485",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_1.jpg"
+  },
+  {
+   "title": "Straw Hat Pirates",
+   "lic": "CC BY 2.0",
+   "artist": "Brian Rinker Creative",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2864/13225649935_02ca0724aa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bf222ad4-e094-489d-8950-748dffaff881/thumb/",
+   "page": "https://www.flickr.com/photos/44242222@N07/13225649935",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_2.jpg"
+  }
+ ],
+ "scarf": [
+  {
+   "title": "silk scarf",
+   "lic": "CC BY-SA 2.0",
+   "artist": "DU Jenny",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/3753/13571973965_1d51f48899_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5fc6ae6c-a036-486e-93e4-3a85eba22427/thumb/",
+   "page": "https://www.flickr.com/photos/122102475@N06/13571973965",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/scarf_0.jpg"
+  },
+  {
+   "title": "Hearts Scarf",
+   "lic": "CC BY-SA 2.0",
+   "artist": "noricum",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2417/2019700794_29a3524d3a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e6d98d1a-ec33-449c-9233-44cd5c30b2b8/thumb/",
+   "page": "https://www.flickr.com/photos/43437767@N00/2019700794",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/scarf_1.jpg"
+  },
+  {
+   "title": "A better scarf model",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Aine D",
+   "w": 814,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5/5015528_1094345762_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/841e6e80-9958-480e-8839-b156e2a28448/thumb/",
+   "page": "https://www.flickr.com/photos/48600087038@N01/5015528",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/scarf_2.jpg"
+  }
+ ],
+ "gloves": [
+  {
+   "title": "baseball glove",
+   "lic": "CC BY-SA 2.0",
+   "artist": "theseanster93",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/1331/861124921_bb593599fe_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/829b34ac-e094-4745-ad21-86d40a4a70a0/thumb/",
+   "page": "https://www.flickr.com/photos/7912605@N08/861124921",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/gloves_0.jpg"
+  },
+  {
+   "title": "Baseball glove",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Andrei!",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2046/2318093969_1c77083865_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9483630c-fd90-49f7-866f-f9bdb94475de/thumb/",
+   "page": "https://www.flickr.com/photos/29465285@N00/2318093969",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/gloves_1.jpg"
+  },
+  {
+   "title": "Leather gloves",
+   "lic": "CC BY 2.0",
+   "artist": "el cajon yacht club",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/800/41485371462_64e0bc497f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ef0273d8-1530-442e-9737-3a89893db4be/thumb/",
+   "page": "https://www.flickr.com/photos/60944636@N00/41485371462",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/gloves_2.jpg"
+  }
+ ],
+ "belt": [
+  {
+   "title": "leather belt",
+   "lic": "CC BY 2.0",
+   "artist": "Sean MacEntee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5492/12205374334_2e464e51a5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d6419982-6a3e-4547-880e-31ba646db2a2/thumb/",
+   "page": "https://www.flickr.com/photos/18090920@N07/12205374334",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_0.jpg"
+  },
+  {
+   "title": "Leather Belt, Metal Buckle",
+   "lic": "CC BY-SA 2.0",
+   "artist": "blmurch",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/143/428349468_321a88eed5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f7fc8073-0503-4b72-bb53-b3c6128ebe80/thumb/",
+   "page": "https://www.flickr.com/photos/82439748@N00/428349468",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_1.jpg"
+  },
+  {
+   "title": "leather belt",
+   "lic": "CC BY-SA 2.0",
+   "artist": "wagnerkari",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5589/14841090661_a123e4f464_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/867a8a38-b8cd-446e-bfc9-3ba97f3a83b3/thumb/",
+   "page": "https://www.flickr.com/photos/34952213@N07/14841090661",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_2.jpg"
+  }
+ ],
+ "tie": [
+  {
+   "title": "5.6k ohm resistor necktie",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Bekathwia",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6138/5947832571_f8b4d397e2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/13343b75-abac-40d8-9db5-480540538a48/thumb/",
+   "page": "https://www.flickr.com/photos/23243094@N00/5947832571",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tie_0.jpg"
+  },
+  {
+   "title": "Greater Manchester Metrolink neckties",
+   "lic": "CC BY 2.0",
+   "artist": "The Laird of Oldham",
+   "w": 575,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7257/6949896638_ce9d2b5810_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ced54ce0-229c-41f1-a3a9-09cb65a83bb8/thumb/",
+   "page": "https://www.flickr.com/photos/13452129@N07/6949896638",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tie_1.jpg"
+  },
+  {
+   "title": "Necktie",
+   "lic": "CC BY 2.0",
+   "artist": "Laineema",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2895/14288055734_a7d969ce1b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6fa4dadb-8254-4b41-af0c-6dce8ba08783/thumb/",
+   "page": "https://www.flickr.com/photos/57389791@N03/14288055734",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tie_2.jpg"
+  }
+ ],
+ "button": [
+  {
+   "title": "Button sewing on folk costume shirt",
+   "lic": "CC BY 4.0",
+   "artist": "",
+   "w": 799,
+   "h": 533,
+   "url": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=09a41bf4-b4b6-4637-b67d-7638524715ee",
+   "thumb": "https://api.openverse.org/v1/images/05d8b289-b578-49f5-ac6e-4f6706d342f5/thumb/",
+   "page": "https://www.muis.ee/museaalView/3940411",
+   "src": "openverse",
+   "provider": "europeana",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/button_0.jpg"
+  },
+  {
+   "title": "Fav Buttons",
+   "lic": "CC BY 2.0",
+   "artist": "Laineys Repertoire",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/66/184615745_002d01b177_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c7aa9a55-6b4c-4bec-af9a-83975607db4f/thumb/",
+   "page": "https://www.flickr.com/photos/76283671@N00/184615745",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/button_1.jpg"
+  },
+  {
+   "title": "buttons buttons buttons",
+   "lic": "CC BY-SA 2.0",
+   "artist": "monkey123",
+   "w": 720,
+   "h": 932,
+   "url": "https://live.staticflickr.com/1331/755811669_609d962fed_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9d6df16c-3aeb-4986-87d2-963b6d473b23/thumb/",
+   "page": "https://www.flickr.com/photos/88562953@N00/755811669",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/button_2.jpg"
+  }
+ ],
+ "zip": [
+  {
+   "title": "fuzzy, but I love the zipper idea",
+   "lic": "CC BY 2.0",
+   "artist": "bptakoma",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3417/3471761201_89600e26ff_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b4bf1397-6f96-443a-9fa5-7b353a6d60dc/thumb/",
+   "page": "https://www.flickr.com/photos/8010145@N08/3471761201",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/zip_0.jpg"
+  },
+  {
+   "title": "Zipper",
+   "lic": "CC BY-SA 2.0",
+   "artist": "kla4067",
+   "w": 1024,
+   "h": 601,
+   "url": "https://live.staticflickr.com/65535/49923618247_5c47d2b232_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2af44fba-906b-4568-957f-5d95e1556590/thumb/",
+   "page": "https://www.flickr.com/photos/84263554@N00/49923618247",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/zip_1.jpg"
+  },
+  {
+   "title": "Leather leggings with side zipper",
+   "lic": "Public Domain",
+   "artist": "rallie1@yahoo.com",
+   "w": 555,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/628/22620390595_65325bf9c2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9da5edf3-2225-4d6f-9fdb-8f952848d72c/thumb/",
+   "page": "https://www.flickr.com/photos/40129118@N08/22620390595",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/zip_2.jpg"
+  }
+ ],
+ "handbag": [
+  {
+   "title": "Argentinian handbags: Ortega, Zanetti, Batistuta, Veron and Simeone photoshopped by artist unknown #WorldCup",
+   "lic": "CC BY-SA 2.0",
+   "artist": "dullhunk",
+   "w": 500,
+   "h": 407,
+   "url": "https://live.staticflickr.com/152/358317646_9d5ac2eb43.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6bd63104-57bd-4bb3-b980-81dfcfc9b7c8/thumb/",
+   "page": "https://www.flickr.com/photos/14829735@N00/358317646",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/handbag_0.jpg"
+  },
+  {
+   "title": "Smiling handbag",
+   "lic": "CC BY 2.0",
+   "artist": "MShades",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3062/2649113959_aedd712952_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6ab751f7-edac-452c-9be0-f73ea5ecf475/thumb/",
+   "page": "https://www.flickr.com/photos/23054755@N00/2649113959",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/handbag_1.jpg"
+  },
+  {
+   "title": "Vintage G4 12' Powerbook handbag",
+   "lic": "CC BY 2.0",
+   "artist": "Denna Jones",
+   "w": 1024,
+   "h": 879,
+   "url": "https://live.staticflickr.com/2343/2381701367_068ec02c43_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b1db80ae-d9f9-4697-9b67-37238b10d3b6/thumb/",
+   "page": "https://www.flickr.com/photos/95267793@N00/2381701367",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/handbag_2.jpg"
+  }
+ ],
+ "cap": [
+  {
+   "title": "Baseball Caps",
+   "lic": "CC BY 2.0",
+   "artist": "Menswear Market",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8469/8442851109_88c99549ec_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b74727c6-ee30-4bdb-b6d5-849dcff40731/thumb/",
+   "page": "https://www.flickr.com/photos/85546319@N04/8442851109",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/cap_0.jpg"
+  },
+  {
+   "title": "Stussy: baseball cap",
+   "lic": "CC BY 2.0",
+   "artist": "lydia_shiningbrightly",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5290/5353207348_9f4b895189_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2098ab9b-0b53-426c-bf89-4fa4ed881588/thumb/",
+   "page": "https://www.flickr.com/photos/31917220@N07/5353207348",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/cap_1.jpg"
+  },
+  {
+   "title": "Plaid Baseball Cap",
+   "lic": "CC BY 2.0",
+   "artist": "Menswear Market",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5611/15600797831_ba5971f9d3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/feb7ab81-4457-468e-b0c6-143ed0edfb4e/thumb/",
+   "page": "https://www.flickr.com/photos/85546319@N04/15600797831",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/cap_2.jpg"
+  }
+ ]
+}

@@ -1,0 +1,796 @@
+{
+ "museum": [
+  {
+   "title": "Museo del Padro Madrid entrada lateral izquierda",
+   "lic": "CC BY 2.0",
+   "artist": "ReservasdeCoches.com",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3444/3384939979_0beb12b9ae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7526e442-c260-4605-a612-e12026f1c3ee/thumb/",
+   "page": "https://www.flickr.com/photos/33083165@N02/3384939979",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/museum_1.jpg"
+  },
+  {
+   "title": "Real Academia de la Lengua Española- Madrid",
+   "lic": "CC BY 2.0",
+   "artist": "federicojorda",
+   "w": 1024,
+   "h": 691,
+   "url": "https://live.staticflickr.com/5293/5460041742_23344d02cd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3c15b8eb-f462-4570-9910-2119880fd761/thumb/",
+   "page": "https://www.flickr.com/photos/51470606@N05/5460041742",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/museum_2.jpg"
+  }
+ ],
+ "painting": [
+  {
+   "title": "So Beautiful",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 626,
+   "h": 1000,
+   "url": "https://live.staticflickr.com/7390/9928059996_88e9f8c1c7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6588ddb1-ecd7-4726-afba-80cbca63dd2a/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/9928059996",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painting_0.jpg"
+  },
+  {
+   "title": "Interior of Kew Cottage, Kew Green, home of the Duchess of Cambridge, dated June 1865, and showing a painting by Heinrich Brandes",
+   "lic": "Public Domain",
+   "artist": "whatsthatpicture",
+   "w": 1000,
+   "h": 843,
+   "url": "https://live.staticflickr.com/4129/5188128510_3feb79060c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ce5dbc17-15d8-491f-97db-81b6d37fab13/thumb/",
+   "page": "https://www.flickr.com/photos/24469639@N00/5188128510",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painting_1.jpg"
+  },
+  {
+   "title": "Amsterdam 2011 - Temple of Hip Hop",
+   "lic": "CC BY 2.0",
+   "artist": "Tiws",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/5068/5643536575_7408ed047f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1da047d-80c0-4d3d-b656-e0c0e18fe201/thumb/",
+   "page": "https://www.flickr.com/photos/43164453@N08/5643536575",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painting_2.jpg"
+  }
+ ],
+ "paintingart": [
+  {
+   "title": "Art supplies",
+   "lic": "CC BY 2.0",
+   "artist": "Average Jane",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/7257/7624350518_68a21e0049_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ebfea2d7-f442-4b6f-8c6f-3e26f4b97778/thumb/",
+   "page": "https://www.flickr.com/photos/64401168@N00/7624350518",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/paintingart_0.jpg"
+  },
+  {
+   "title": "Oil Portrait of Ben Heine (2014)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ben Heine",
+   "w": 866,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/15597434368_904425e7ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f28d6d47-a8d5-4fa6-ae0e-f99fd6812127/thumb/",
+   "page": "https://www.flickr.com/photos/43335486@N00/15597434368",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/paintingart_1.jpg"
+  },
+  {
+   "title": "Oil painting - wip 24 x 24",
+   "lic": "CC BY 2.0",
+   "artist": "Sultry/sulky/silly",
+   "w": 1024,
+   "h": 1003,
+   "url": "https://live.staticflickr.com/7010/6425602363_cf9eac4352_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/203048bd-8a55-4193-8566-76c2844fca4b/thumb/",
+   "page": "https://www.flickr.com/photos/52739188@N00/6425602363",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/paintingart_2.jpg"
+  }
+ ],
+ "painter": [
+  {
+   "title": "Painter's Easel",
+   "lic": "CC BY 2.0",
+   "artist": "Kasia!!",
+   "w": 1024,
+   "h": 689,
+   "url": "https://live.staticflickr.com/3623/3380742222_31c3105361_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d5dcd385-cea5-41a9-b48d-ad720df86665/thumb/",
+   "page": "https://www.flickr.com/photos/14538143@N08/3380742222",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painter_0.jpg"
+  },
+  {
+   "title": "Plein Air Painter Easel",
+   "lic": "CC0",
+   "artist": "themet",
+   "w": 2489,
+   "h": 3699,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L21ldDYzMjcwNi1pbWFnZS5qcGc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/db094074-8b4c-47ec-96f1-2d8b2db88552/thumb/",
+   "page": "https://www.rawpixel.com/image/8116926/plein-air-painter-easel",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painter_1.jpg"
+  },
+  {
+   "title": "Pencil draft painter easel",
+   "lic": "CC0",
+   "artist": "",
+   "w": 3095,
+   "h": 3377,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA5L3Nta2trc2diNzMwOV9fdmVyc28taW1hZ2UuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/922d4b5f-2f2f-4349-aa9b-923d46434586/thumb/",
+   "page": "https://www.rawpixel.com/image/8818039/pencil-draft-for-painter-easel",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/painter_2.jpg"
+  }
+ ],
+ "sculpture": [
+  {
+   "title": "'Timeo Danaos et dona ferentes', Laocoon and His Sons, Vatican",
+   "lic": "CC BY 2.0",
+   "artist": "Dimitry B",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2043/2439864049_b5b9e335f0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3a97dde2-e0a1-40b0-a937-8131bfdea197/thumb/",
+   "page": "https://www.flickr.com/photos/61533954@N00/2439864049",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_0.jpg"
+  },
+  {
+   "title": "A Secret from Above by Hiplyte Mouline [1872]",
+   "lic": "CC BY 2.0",
+   "artist": "sfmission.com",
+   "w": 682,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5282/5218147344_5aeb4b761c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/deab4e53-9a22-46ba-82ba-52e6afaa6964/thumb/",
+   "page": "https://www.flickr.com/photos/17281186@N00/5218147344",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_1.jpg"
+  },
+  {
+   "title": "General George Gordon Meade",
+   "lic": "CC BY 2.0",
+   "artist": "dbking",
+   "w": 639,
+   "h": 988,
+   "url": "https://live.staticflickr.com/11/14400286_851a2037b8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/743bc178-0f37-466b-9b4a-04e580daaf22/thumb/",
+   "page": "https://www.flickr.com/photos/65193799@N00/14400286",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_2.jpg"
+  }
+ ],
+ "room": [
+  {
+   "title": "Nude",
+   "lic": "CC0",
+   "artist": "Thad Zajdowicz",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1749/41690146494_e435b9a622_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9a8e0007-cbf0-4d91-9365-2a3456878215/thumb/",
+   "page": "https://www.flickr.com/photos/40632439@N00/41690146494",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/room_0.jpg"
+  },
+  {
+   "title": "Homemade Light Box",
+   "lic": "CC BY 2.0",
+   "artist": "rotokirby",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/2499/3863563133_0733006968.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ad27eb71-50c4-44f1-84c3-c0818da50279/thumb/",
+   "page": "https://www.flickr.com/photos/68017810@N00/3863563133",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/room_1.jpg"
+  },
+  {
+   "title": "The New Computer History Museum Exhibition",
+   "lic": "CC BY 2.0",
+   "artist": "jurvetson",
+   "w": 1024,
+   "h": 772,
+   "url": "https://live.staticflickr.com/1340/5111508738_377d4e1682_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/15e099c0-f4a3-4fe8-8c3f-a1a047e6a091/thumb/",
+   "page": "https://www.flickr.com/photos/44124348109@N01/5111508738",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/room_2.jpg"
+  }
+ ],
+ "entryticket": [
+  {
+   "title": "Admission tickets ANIMAX MUSIX 2012",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8064/8215972387_b3d07f026b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/048e1ad1-63b9-4611-915c-a3f2da95f6ca/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/8215972387",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_1.jpg"
+  },
+  {
+   "title": "Admission tickets ANIMAX MUSIX 2012",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8344/8217055624_4c26071e1b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2efe3546-f6f8-4cdf-bd21-a9a6dc60bcfb/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/8217055624",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_2.jpg"
+  },
+  {
+   "title": "Admission tickets ANIMAX MUSIX 2012",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8059/8217055290_e3e25f2707_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9ee50faa-a875-40e3-ab79-243b741225f1/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/8217055290",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_3.jpg"
+  }
+ ],
+ "ticketoffice": [
+  {
+   "title": "Olympia Theater Ticket Booth Downtown Miami",
+   "lic": "CC BY 2.0",
+   "artist": "Phillip Pessar",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/897/40592644904_3597a87568_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e5c0e8f3-5bc2-4b52-ba91-6409aab6e8cf/thumb/",
+   "page": "https://www.flickr.com/photos/25955895@N03/40592644904",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_0.jpg"
+  },
+  {
+   "title": "carlo scarpa, biennale ticket booth, venice 1952",
+   "lic": "CC BY 2.0",
+   "artist": "seier+seier",
+   "w": 762,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3199/2982890199_b968a48a5f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0415a764-ddb2-4c6f-b73e-d69f916af064/thumb/",
+   "page": "https://www.flickr.com/photos/94852245@N00/2982890199",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_1.jpg"
+  },
+  {
+   "title": "Fantasyland ticket booth, Disneyland, 1960s",
+   "lic": "CC BY 2.0",
+   "artist": "Orange County Archives",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7223/7097158893_d8f923d6c1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e0a90d4f-94cf-479a-87d1-0379a569c9cc/thumb/",
+   "page": "https://www.flickr.com/photos/30346812@N07/7097158893",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_2.jpg"
+  }
+ ],
+ "exhibition": [
+  {
+   "title": "Perth Art Gallery visitors 2008",
+   "lic": "CC BY-SA 2.0",
+   "artist": "davidmallett33",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3746/12218981553_083588e8f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64ec0f94-6be2-4b71-a6e2-3f999bbe4b27/thumb/",
+   "page": "https://www.flickr.com/photos/115530434@N02/12218981553",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_0.jpg"
+  },
+  {
+   "title": "Albany - New York - United States - The Albany Institute and Historical and Art Society",
+   "lic": "Public Domain",
+   "artist": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/51548142410_8d7ec63a8d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c0a9a24a-0f3c-4b15-9bf5-78f6de415a93/thumb/",
+   "page": "https://www.flickr.com/photos/7156765@N05/51548142410",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_5.jpg"
+  },
+  {
+   "title": "The dinosaur meet and greet",
+   "lic": "CC BY-SA 2.0",
+   "artist": "e³°°°",
+   "w": 1024,
+   "h": 874,
+   "url": "https://live.staticflickr.com/2099/2066371508_67a6a5ba61_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a5d0af07-d163-4da7-8db3-21f45482c601/thumb/",
+   "page": "https://www.flickr.com/photos/23566085@N00/2066371508",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_6.jpg"
+  }
+ ],
+ "frame": [
+  {
+   "title": "Angel Playing a Flageolet (drawing after Sir Edward Burne-Jones) and Pre-Raphaelite Angels: #Flickr12Days(poem)",
+   "lic": "CC BY 2.0",
+   "artist": "faith goble",
+   "w": 824,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2067/2375947713_12e70a1f8d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/85bad744-ec4e-4281-8b32-9c9202fc5b09/thumb/",
+   "page": "https://www.flickr.com/photos/24420613@N08/2375947713",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_0.jpg"
+  },
+  {
+   "title": "Porsche 911 GT1 engine subsystems cartoon",
+   "lic": "CC BY-SA 2.0",
+   "artist": "wbaiv",
+   "w": 1009,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6115/6224577419_0d46f9dc5a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9b753cdf-03fb-400d-aeb4-1a4734571540/thumb/",
+   "page": "https://www.flickr.com/photos/9998127@N06/6224577419",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_1.jpg"
+  },
+  {
+   "title": "Vaulted Ceiling, St Edmundsbury Cathedral",
+   "lic": "CC BY 2.0",
+   "artist": "Karen Roe",
+   "w": 1024,
+   "h": 656,
+   "url": "https://live.staticflickr.com/6127/5999203598_b68e70785a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a8840c97-ed6c-4f7f-b6c0-89b8c8d06f8a/thumb/",
+   "page": "https://www.flickr.com/photos/28752865@N08/5999203598",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_2.jpg"
+  }
+ ],
+ "portrait": [
+  {
+   "title": "Oil Portrait of Ben Heine (2014)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ben Heine",
+   "w": 866,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/15597434368_904425e7ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f28d6d47-a8d5-4fa6-ae0e-f99fd6812127/thumb/",
+   "page": "https://www.flickr.com/photos/43335486@N00/15597434368",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_0.jpg"
+  },
+  {
+   "title": "Oil Portrait",
+   "lic": "CC BY 2.0",
+   "artist": "DeeAshley",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/5127/5246280631_cbd2709502.jpg",
+   "thumb": "https://api.openverse.org/v1/images/16d31af3-aaf9-4034-a806-56dc4598acff/thumb/",
+   "page": "https://www.flickr.com/photos/43559902@N07/5246280631",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_1.jpg"
+  },
+  {
+   "title": "Oil Portrait of a Broken Red Handle Champion Blade Rusted Crosscut Saw",
+   "lic": "CC BY-SA 2.0",
+   "artist": "cdsessums",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3676/9888586763_fd53820fcb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aa3546e6-b030-4e5c-ae05-967bf1f2e0ad/thumb/",
+   "page": "https://www.flickr.com/photos/53313745@N00/9888586763",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_4.jpg"
+  }
+ ],
+ "landscape": [
+  {
+   "title": "Macaw in the Mist Landscape Painting",
+   "lic": "CC BY 2.0",
+   "artist": "REDFISH1223",
+   "w": 797,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6017/5915759775_8f13831cbf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/32dfabe0-59bd-46da-9f6c-192b2e53412f/thumb/",
+   "page": "https://www.flickr.com/photos/30565636@N05/5915759775",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_0.jpg"
+  },
+  {
+   "title": "Jungle King Fisher Landscape Painting",
+   "lic": "CC BY 2.0",
+   "artist": "REDFISH1223",
+   "w": 849,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6222/6290908219_c5bd81e3fa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4c1d3c4e-dfb5-45ea-95e4-8f0c25a88f75/thumb/",
+   "page": "https://www.flickr.com/photos/30565636@N05/6290908219",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_1.jpg"
+  },
+  {
+   "title": "Landscape Painting II",
+   "lic": "CC BY 2.0",
+   "artist": "dailyinvention",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/42/87086174_9dc2a60d13_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f30398e4-917d-42e8-a605-d6477a27e765/thumb/",
+   "page": "https://www.flickr.com/photos/96162367@N00/87086174",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_2.jpg"
+  }
+ ],
+ "guide": [
+  {
+   "title": "Lords Cricket Ground - Aug 2011 - The Pavilion, The Tour Guide and the Legs",
+   "lic": "CC BY 2.0",
+   "artist": "Gareth1953 All Right Now",
+   "w": 864,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6081/6082692165_07337991fb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/91035d78-8ee4-499b-8dc1-7e3f11de8f4c/thumb/",
+   "page": "https://www.flickr.com/photos/40837632@N05/6082692165",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_0.jpg"
+  },
+  {
+   "title": "NY Tour Guide",
+   "lic": "CC BY 2.0",
+   "artist": "spaztacular",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6019/6291929903_451cdebef1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ffe5022a-b141-4dcd-a51b-25f912c4740c/thumb/",
+   "page": "https://www.flickr.com/photos/47178427@N00/6291929903",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_1.jpg"
+  },
+  {
+   "title": "Disneyland tour guide, 1961",
+   "lic": "CC BY 2.0",
+   "artist": "Orange County Archives",
+   "w": 696,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1656/24782597655_f403a02c22_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b293ed4-29fa-44c5-8026-865cf75dd4da/thumb/",
+   "page": "https://www.flickr.com/photos/30346812@N07/24782597655",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_2.jpg"
+  }
+ ],
+ "audioguide": [
+  {
+   "title": "Audioguide sur smartphone 3G au MAMAC (Nice)",
+   "lic": "CC BY 2.0",
+   "artist": "dalbera",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6013/5946931324_dc992dee7c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b87b82d-c7dd-4490-940a-2ab3cf34b368/thumb/",
+   "page": "https://www.flickr.com/photos/72746018@N00/5946931324",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_0.jpg"
+  },
+  {
+   "title": "discarded italian audioguide receipt",
+   "lic": "CC BY 2.0",
+   "artist": "austinevan",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1285/1226077012_5872f806c2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/02f1d10b-4c92-4185-8f25-726be7d32804/thumb/",
+   "page": "https://www.flickr.com/photos/19762676@N00/1226077012",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_1.jpg"
+  },
+  {
+   "title": "théâtre antique, audioguide et bronzage (ORANGE,FR84)",
+   "lic": "CC BY 2.0",
+   "artist": "jean-louis zimmermann",
+   "w": 744,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2145/2508017865_9a2c992f92_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/09d3a8da-deaf-410d-823e-07df41f0a3a7/thumb/",
+   "page": "https://www.flickr.com/photos/40911451@N00/2508017865",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_3.jpg"
+  }
+ ],
+ "guard": [
+  {
+   "title": "Museum Guard",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Trinity",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1/893380_99301a608e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a0a40f06-e813-4934-9e89-0d101cce0307/thumb/",
+   "page": "https://www.flickr.com/photos/34427465504@N01/893380",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guard_0.jpg"
+  },
+  {
+   "title": "visitors and Museum guard",
+   "lic": "CC BY-SA 2.0",
+   "artist": "glasseyes view",
+   "w": 1024,
+   "h": 586,
+   "url": "https://live.staticflickr.com/2907/14007456148_d476b9a46d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cd6d2efd-6adc-4c89-8319-9697c90069dd/thumb/",
+   "page": "https://www.flickr.com/photos/74708580@N00/14007456148",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guard_1.jpg"
+  },
+  {
+   "title": "The Museum Guard",
+   "lic": "CC BY 2.0",
+   "artist": "Miss Claeson",
+   "w": 735,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2129/2223696384_d3d3aac337_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fb720994-3e90-41bd-b2e8-d9b1f40a7444/thumb/",
+   "page": "https://www.flickr.com/photos/9650697@N06/2223696384",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guard_2.jpg"
+  }
+ ],
+ "shop": [
+  {
+   "title": "Day 29 - Museum Shop",
+   "lic": "CC0",
+   "artist": "akhenatenator",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8033/8036348033_c95ffcfdbd.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b636d9e9-deac-415d-bbb7-6a5fce8c3ca4/thumb/",
+   "page": "https://www.flickr.com/photos/86012097@N08/8036348033",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/shop_0.jpg"
+  },
+  {
+   "title": "Natural History Museum shop",
+   "lic": "CC BY-SA 2.0",
+   "artist": "HowardLake",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2719/4183424294_d57f41fdae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/93f082a7-ca9b-47da-870c-33a23f62fb1e/thumb/",
+   "page": "https://www.flickr.com/photos/53941041@N00/4183424294",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/shop_2.jpg"
+  }
+ ],
+ "floorplan": [
+  {
+   "title": "Black Country Living Museum - map",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6080/6059660513_97c5a0537c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11f73e52-443c-40c1-bc22-f85b9288200b/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/6059660513",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_1.jpg"
+  },
+  {
+   "title": "Vatican Museum Map Room",
+   "lic": "CC BY 2.0",
+   "artist": "cfwee",
+   "w": 446,
+   "h": 500,
+   "url": "https://live.staticflickr.com/82/217159731_f21ed1d847.jpg",
+   "thumb": "https://api.openverse.org/v1/images/42ab252b-47cd-498c-af4d-095cdb5958f3/thumb/",
+   "page": "https://www.flickr.com/photos/11206448@N00/217159731",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_3.jpg"
+  },
+  {
+   "title": "Historiska Museum Map of Sweden",
+   "lic": "CC BY 2.0",
+   "artist": "Jodimu",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8018/7182161444_8cba58347a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bf81b8df-38f3-4218-9bba-2e9402bf5a65/thumb/",
+   "page": "https://www.flickr.com/photos/30305102@N04/7182161444",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_6.jpg"
+  }
+ ],
+ "poster": [
+  {
+   "title": "Pour l'Art, exhibition poster",
+   "lic": "CC BY 2.0",
+   "artist": "MCAD Library",
+   "w": 1024,
+   "h": 604,
+   "url": "https://live.staticflickr.com/7388/10174692374_f2b0c383c5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/af2cce4c-9740-435f-9d78-f899ad0cf5d4/thumb/",
+   "page": "https://www.flickr.com/photos/69184488@N06/10174692374",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/poster_0.jpg"
+  },
+  {
+   "title": "Vienna Secession, First Exhibition, poster",
+   "lic": "CC BY 2.0",
+   "artist": "MCAD Library",
+   "w": 759,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8277/10212404534_ed93fd021d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cdeffd13-7c28-4024-a0a8-68d5f1a72d40/thumb/",
+   "page": "https://www.flickr.com/photos/69184488@N06/10212404534",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/poster_1.jpg"
+  },
+  {
+   "title": "Ein Dokument deutscher Kunst, Darmstadt, exhibition poster",
+   "lic": "CC BY 2.0",
+   "artist": "MCAD Library",
+   "w": 620,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2892/10276453645_67cc46e919_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40eceb8f-0624-49ad-a411-f6383f2c912f/thumb/",
+   "page": "https://www.flickr.com/photos/69184488@N06/10276453645",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/poster_2.jpg"
+  }
+ ],
+ "hours": [
+  {
+   "title": "Cathedral Notre Dame, Chartres - opening hours sign",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2510/3729769207_e53afecae3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/20d3e0b1-8868-41bc-b1ef-30378d99ac54/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/3729769207",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/hours_0.jpg"
+  },
+  {
+   "title": "Gunmakers Arms M & B - 92 and 93 Bath Street, Birmingham - Opening Hours - sign",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4044/4252159216_7fd2d4f66a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/160f6717-716b-4ccb-8213-5eb8e8b8e912/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/4252159216",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/hours_1.jpg"
+  },
+  {
+   "title": "Great Western - pub on Sherbourne Road, Acocks Green - Opening Hours sign",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4029/4320445352_b5a96a7f91_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3704449b-1242-4489-81a3-4e442f7d09c8/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/4320445352",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/hours_2.jpg"
+  }
+ ],
+ "bench": [
+  {
+   "title": "Sir Richard Arkwright's Masson Mills Working Textile Museum - bench",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3908/15247694031_6853738aa8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40aaa658-9bc9-4812-9628-a88fb67f27ad/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/15247694031",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/bench_0.jpg"
+  },
+  {
+   "title": "Museum Bench",
+   "lic": "CC BY 2.0",
+   "artist": "ottofocus13",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5180/5388710195_9e759b91ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40b43542-5c0f-4761-a3df-0b1aa1f6add8/thumb/",
+   "page": "https://www.flickr.com/photos/56576694@N05/5388710195",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/bench_1.jpg"
+  },
+  {
+   "title": "Kenner Rivertown May 2010 Mardi Gras Museum Bench",
+   "lic": "CC BY 2.0",
+   "artist": "Infrogmation",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5065/5597848827_e411f6504d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d676401e-42e7-4d81-9ef5-fb3e26e4e9a4/thumb/",
+   "page": "https://www.flickr.com/photos/29350288@N06/5597848827",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/bench_2.jpg"
+  }
+ ]
+}

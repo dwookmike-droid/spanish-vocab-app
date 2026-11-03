@@ -1,0 +1,783 @@
+{
+ "airport": [
+  {
+   "title": "Harrisburg Airport Terminal Drawing",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mchart929",
+   "w": 1024,
+   "h": 771,
+   "url": "https://live.staticflickr.com/3208/2811821241_92d9f78182_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0e1f903a-74d5-4c99-ab54-9449dd544288/thumb/",
+   "page": "https://www.flickr.com/photos/29958866@N07/2811821241",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/airport_0.jpg"
+  },
+  {
+   "title": "Delhi Airport Terminals 1A, 1B",
+   "lic": "CC BY-SA 2.0",
+   "artist": "seaview99",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/49/178035022_9a4fc549c1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/10c2a994-41a1-495e-a329-ea0a5f5e2aa3/thumb/",
+   "page": "https://www.flickr.com/photos/85296574@N00/178035022",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/airport_1.jpg"
+  },
+  {
+   "title": "Neo-socialist-realist Aeroflot ad, Heathrow Airport Terminal 2, Hounslow, London, UK",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7465/15819530641_90df339dc0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d690210f-4ced-48c8-bee2-277ee1d0c1f4/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/15819530641",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/airport_2.jpg"
+  }
+ ],
+ "plane": [
+  {
+   "title": "#airplane #runway #fly #airport #photooftheday #instagramhub #instagramers #instamood #picoftheday #editoftheday #igersfollow #instanods #bestoftheday #instagold #webstagram #photoaday #photo #instagram #instagroove #picoftheday #iphonesia #wondershots #i",
+   "lic": "CC BY 2.0",
+   "artist": "gabemac",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8071/8294924611_95a8d06a27.jpg",
+   "thumb": "https://api.openverse.org/v1/images/de295fc3-7d3b-4c90-98f4-fc5a8566d066/thumb/",
+   "page": "https://www.flickr.com/photos/38366783@N00/8294924611",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/plane_0.jpg"
+  },
+  {
+   "title": "airplane runway lights",
+   "lic": "CC BY 2.0",
+   "artist": "Brian Moriarty",
+   "w": 1024,
+   "h": 724,
+   "url": "https://live.staticflickr.com/2263/2308148349_47bdf6a07a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c44f897c-8997-4dc5-b67e-e97d48ca8613/thumb/",
+   "page": "https://www.flickr.com/photos/54205562@N00/2308148349",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/plane_1.jpg"
+  },
+  {
+   "title": "Airplane runway",
+   "lic": "CC0",
+   "artist": "",
+   "w": 6000,
+   "h": 4000,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhaXJjcmFmdF9haXJwb3J0X3Bhc3Nlbmdlcl9haXJjcmFmdC1pbWFnZS1reWJlY2RmeS5qcGc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/604e8107-1b56-4b37-9ae8-45caded4fa3d/thumb/",
+   "page": "https://www.rawpixel.com/image/6041771/photo-image-public-domain-free-plane",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/plane_2.jpg"
+  }
+ ],
+ "flight": [
+  {
+   "title": "airplane in sky",
+   "lic": "CC BY 2.0",
+   "artist": "Sean MacEntee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4134/4820389847_ee2321f5e9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a7dcd85e-1f10-4019-92ef-0512c3188f96/thumb/",
+   "page": "https://www.flickr.com/photos/18090920@N07/4820389847",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/flight_0.jpg"
+  },
+  {
+   "title": "Blue airplane.",
+   "lic": "CC BY 2.0",
+   "artist": "skyseeker",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/79/207962777_4e529b2ec8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/225aed6e-9aec-4fbf-945f-e03a14e511e0/thumb/",
+   "page": "https://www.flickr.com/photos/40422902@N00/207962777",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/flight_1.jpg"
+  },
+  {
+   "title": "Daytime Dynamo Rocket Launch",
+   "lic": "CC BY 2.0",
+   "artist": "NASA Goddard Photo and Video",
+   "w": 640,
+   "h": 960,
+   "url": "https://live.staticflickr.com/5454/9215683919_76d238814e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b3e17de-9882-4363-9b36-8c27db6e3a14/thumb/",
+   "page": "https://www.flickr.com/photos/24662369@N07/9215683919",
+   "src": "openverse",
+   "provider": "nasa",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/flight_2.jpg"
+  }
+ ],
+ "gate": [
+  {
+   "title": "026.BAGDOGRA INTERNATIONAL AIRPORT - BOARDING GATE NO. 2",
+   "lic": "Public Domain",
+   "artist": "samarkumarsarkar",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4530/24411324388_346c3a014c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/848b832f-08b1-4566-b4d6-c793398a3c61/thumb/",
+   "page": "https://www.flickr.com/photos/154080581@N07/24411324388",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/gate_5.jpg"
+  }
+ ],
+ "boardingpass": [
+  {
+   "title": "Passport and boarding pass",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mroach",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4138/4923113846_bb96046791_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d165a2e9-c11c-47cf-bfd1-c969bb5e51ed/thumb/",
+   "page": "https://www.flickr.com/photos/73569497@N00/4923113846",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/boardingpass_0.jpg"
+  },
+  {
+   "title": "BA mobile app for iPhone - Mobile boarding pass",
+   "lic": "CC BY 2.0",
+   "artist": "BritishAirways",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4099/4793367997_4f827171d1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a93a6cf3-9bf9-4b62-bd68-7264f4da5094/thumb/",
+   "page": "https://www.flickr.com/photos/36000748@N08/4793367997",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/boardingpass_1.jpg"
+  },
+  {
+   "title": "Boarding pass for Fukuoka",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mroach",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3375/4611131746_f729458359_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/19208252-77de-414b-9b5b-69f384ac3916/thumb/",
+   "page": "https://www.flickr.com/photos/73569497@N00/4611131746",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/boardingpass_2.jpg"
+  }
+ ],
+ "passport": [
+  {
+   "title": "Passport photo (1992)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Mike Knell",
+   "w": 1024,
+   "h": 712,
+   "url": "https://live.staticflickr.com/26/95717568_ac5629d22c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7d6a570d-3c08-4aea-98d3-42b941bf2980/thumb/",
+   "page": "https://www.flickr.com/photos/30523851@N00/95717568",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/passport_0.jpg"
+  },
+  {
+   "title": "passport",
+   "lic": "CC BY-SA 2.0",
+   "artist": "One-Fat-Man",
+   "w": 1000,
+   "h": 716,
+   "url": "https://live.staticflickr.com/2315/1716599526_92fff19515_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/08bedc4c-7a36-4eba-84cc-3035e6f25dbd/thumb/",
+   "page": "https://www.flickr.com/photos/86175259@N00/1716599526",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/passport_1.jpg"
+  },
+  {
+   "title": "Passport",
+   "lic": "CC BY-SA 2.0",
+   "artist": "rkelland",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1008/526712852_69618c756d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b9f1e9b-2645-4a96-9547-5e2a08d800c9/thumb/",
+   "page": "https://www.flickr.com/photos/66174874@N00/526712852",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/passport_2.jpg"
+  }
+ ],
+ "luggage": [
+  {
+   "title": "Unclaimed",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Chor Ip",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1132/1108547176_6b3273fe86_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0c60dc59-5eb3-4858-b359-21c7732e4d26/thumb/",
+   "page": "https://www.flickr.com/photos/38146962@N00/1108547176",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/luggage_0.jpg"
+  },
+  {
+   "title": "Passport and Luggage",
+   "lic": "CC BY 2.0",
+   "artist": "Sean MacEntee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5224/5778139343_b473354b5d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2588783a-367b-4485-93b0-9d007e16ab95/thumb/",
+   "page": "https://www.flickr.com/photos/18090920@N07/5778139343",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/luggage_1.jpg"
+  },
+  {
+   "title": "'Please report any unattended luggage.'",
+   "lic": "CC BY 2.0",
+   "artist": "ToastyKen",
+   "w": 1024,
+   "h": 605,
+   "url": "https://live.staticflickr.com/3173/2619866851_15d9801875_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/534e6f23-49fc-49f7-b7f2-d0e34964e896/thumb/",
+   "page": "https://www.flickr.com/photos/24226200@N00/2619866851",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/luggage_2.jpg"
+  }
+ ],
+ "suitcase": [
+  {
+   "title": "Suitcase",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2153/2133667196_7025f72320_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f877d75a-121a-4cf0-abdf-e43681795aa7/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/2133667196",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/suitcase_0.jpg"
+  },
+  {
+   "title": "Suitcase",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2109/2133667892_c722113eb4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/78fa56d1-942d-458c-8c31-5c3ec8516015/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/2133667892",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/suitcase_1.jpg"
+  },
+  {
+   "title": "Suitcase",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2301/2132888767_75c3276e51_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6849dbc7-bcb4-4ae6-9279-8e62d91e6587/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/2132888767",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/suitcase_2.jpg"
+  }
+ ],
+ "security": [
+  {
+   "title": "Security Check",
+   "lic": "CC BY 2.0",
+   "artist": "CarlosPacheco",
+   "w": 765,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6200/6039133718_2403d4c1b6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a3cadc3a-9245-4383-8686-65072f3f8329/thumb/",
+   "page": "https://www.flickr.com/photos/48678427@N06/6039133718",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/security_9.jpg"
+  },
+  {
+   "title": "TSA Far Blue Cell",
+   "lic": "CC BY 2.0",
+   "artist": "jurvetson",
+   "w": 936,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/113/315439026_386f642aaa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6cc0a529-ee8b-4a61-8578-3550cd1b1dd8/thumb/",
+   "page": "https://www.flickr.com/photos/44124348109@N01/315439026",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/security_10.jpg"
+  },
+  {
+   "title": "Burundi peacekeepers prepare for next rotation to Somalia, Bjumbura, Burundi 012210",
+   "lic": "CC BY 2.0",
+   "artist": "US Army Africa",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2705/4324781393_8c714bf140_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f29a4b77-ae4e-4cc1-ad5f-b26ae24b26fc/thumb/",
+   "page": "https://www.flickr.com/photos/36281822@N08/4324781393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/security_11.jpg"
+  }
+ ],
+ "terminal": [
+  {
+   "title": "Paris - Charles de Gaulle - Terminal 2 - Hall F - IMG_4757",
+   "lic": "CC BY 2.0",
+   "artist": "Nicola since 1972",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/7001/6596908461_f8037debf6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9f86376b-cb38-4a29-982d-4d2ec3b26c61/thumb/",
+   "page": "https://www.flickr.com/photos/15216811@N06/6596908461",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/terminal_0.jpg"
+  },
+  {
+   "title": "Halls @ Chicago O'Hare International airport",
+   "lic": "CC BY 2.0",
+   "artist": "Wouter Kiel",
+   "w": 1024,
+   "h": 702,
+   "url": "https://live.staticflickr.com/3201/3160705934_6439209705_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/620b86c2-9faa-4b73-aa5c-d689bda09385/thumb/",
+   "page": "https://www.flickr.com/photos/30682807@N02/3160705934",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/terminal_1.jpg"
+  },
+  {
+   "title": "The Hero's Journey",
+   "lic": "CC BY 2.0",
+   "artist": "Nelo Hotsuma",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/818/26500770617_44378377b6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4c1b1597-af25-41d0-bd09-53968754a6f7/thumb/",
+   "page": "https://www.flickr.com/photos/63122283@N06/26500770617",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/terminal_2.jpg"
+  }
+ ],
+ "arrival": [
+  {
+   "title": "Lowlight arrival hall",
+   "lic": "CC BY 2.0",
+   "artist": "Henry Söderlund",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8760/16468871204_7622a309f8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40566675-c256-4189-bf3f-0031ff3bff00/thumb/",
+   "page": "https://www.flickr.com/photos/46563758@N04/16468871204",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_0.jpg"
+  },
+  {
+   "title": "Arrival Hall, Pokhara Airport",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Debarshi Ray",
+   "w": 1024,
+   "h": 633,
+   "url": "https://live.staticflickr.com/3732/9029881897_1eca5ee28a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/39733590-ef01-468e-b3a6-eaa000f3154e/thumb/",
+   "page": "https://www.flickr.com/photos/39423133@N04/9029881897",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_1.jpg"
+  },
+  {
+   "title": "Sukhothai Airport Arrival Hall",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mikecogh",
+   "w": 915,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8472/8375170914_5af0b5f511_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4d44ef69-bcaa-44d4-8d66-d8000856c833/thumb/",
+   "page": "https://www.flickr.com/photos/89165847@N00/8375170914",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_2.jpg"
+  }
+ ],
+ "exit": [
+  {
+   "title": "Roosevelt Lodge, exit sign",
+   "lic": "Public Domain",
+   "artist": "YellowstoneNPS",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2863/9411460132_ae98c43e91_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4d9f8119-d7e8-4c24-a550-066e849df381/thumb/",
+   "page": "https://www.flickr.com/photos/80223459@N05/9411460132",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_1.jpg"
+  },
+  {
+   "title": "Exit sign, London Zoo, London, UK.JPG",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/2132/2281254371_b0e0b2783f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dcca10d9-1c68-4f14-a21c-d31ba2b9092e/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/2281254371",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_2.jpg"
+  },
+  {
+   "title": "Pink & purple emergency lights - Seattle police at work in the thick of traffic, Highway 5 headed north, truck, suv, car lights, traffic signs, exit signs, commute, North Seattle, Washington, USA",
+   "lic": "CC BY 2.0",
+   "artist": "Wonderlane",
+   "w": 1024,
+   "h": 528,
+   "url": "https://live.staticflickr.com/5219/5511581092_1a5b096736_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a5428c29-7bee-4611-a737-7ceff27b9035/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/5511581092",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_3.jpg"
+  }
+ ],
+ "delay": [
+  {
+   "title": "Southwest Arrival Departure Board Airport Sign",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mrkathika",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2270/2500524754_5129a21f0d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/18588992-9cc9-4e7b-862c-06e7a86c0b52/thumb/",
+   "page": "https://www.flickr.com/photos/23842402@N07/2500524754",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/delay_0.jpg"
+  },
+  {
+   "title": "Southwest Arrival Departure Board Airport Sign",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mrkathika",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2215/2499693837_68d4f7f754_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9dbcbab9-6b7e-431b-8e2c-11c055cf04d7/thumb/",
+   "page": "https://www.flickr.com/photos/23842402@N07/2499693837",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/delay_1.jpg"
+  },
+  {
+   "title": "low-angle shot departure board airport",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4200,
+   "h": 2800,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYyMTk1NjgxLXdpa2ltZWRpYS1pbWFnZS1rb3dzMnlkbi5qcGc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d9a465fa-8b23-416b-8755-314318d65bc7/thumb/",
+   "page": "https://www.rawpixel.com/image/3305496/free-photo-image-airport-display-terminal",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/delay_2.jpg"
+  }
+ ],
+ "seat": [
+  {
+   "title": "Airplane seating",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MattHurst",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/6212/6327493213_2db19a6023_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e61a8394-e5ca-46ea-83a2-a1347b1d254a/thumb/",
+   "page": "https://www.flickr.com/photos/22937701@N00/6327493213",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_0.jpg"
+  },
+  {
+   "title": "Airplane Seats",
+   "lic": "CC BY 2.0",
+   "artist": "momentcaptured1",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2704/4171177670_9cc4173f5e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2b8302c0-810b-4954-a860-c948b1564a39/thumb/",
+   "page": "https://www.flickr.com/photos/42391519@N02/4171177670",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_1.jpg"
+  },
+  {
+   "title": "Blue Sun Glasses on Airplane Seats",
+   "lic": "CC BY 2.0",
+   "artist": "Michael Nukular",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/2850/13333554235_324d2025ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c165319e-bd84-4f4b-bb4b-abcd89a9141d/thumb/",
+   "page": "https://www.flickr.com/photos/105261405@N04/13333554235",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_2.jpg"
+  }
+ ],
+ "planewindow": [
+  {
+   "title": "Airplane Window View (left)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "dvanzuijlekom",
+   "w": 1024,
+   "h": 767,
+   "url": "https://live.staticflickr.com/65535/46992985755_4300d54bfe_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ed0c3237-f07b-430b-ad12-774966129a89/thumb/",
+   "page": "https://www.flickr.com/photos/52365139@N05/46992985755",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/planewindow_0.jpg"
+  },
+  {
+   "title": "Airplane Window View (right)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "dvanzuijlekom",
+   "w": 1024,
+   "h": 714,
+   "url": "https://live.staticflickr.com/65535/47857045852_abaace9bf1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/432a5205-2722-46c4-91c4-05a9fa4c4374/thumb/",
+   "page": "https://www.flickr.com/photos/52365139@N05/47857045852",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/planewindow_1.jpg"
+  }
+ ],
+ "aisle": [
+  {
+   "title": "New Lufthansa cabin",
+   "lic": "CC BY 2.0",
+   "artist": "airbusky",
+   "w": 1024,
+   "h": 737,
+   "url": "https://live.staticflickr.com/166/337687403_ae855bfecc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/04fd771d-7390-4a00-90ce-176daf6d8052/thumb/",
+   "page": "https://www.flickr.com/photos/19383997@N00/337687403",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/aisle_0.jpg"
+  },
+  {
+   "title": "Flight",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/3947/15413427359_361b94277a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fa7793cf-4d80-47e4-932a-b53588c9c406/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/15413427359",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/aisle_1.jpg"
+  },
+  {
+   "title": "Airplane seating",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MattHurst",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/6212/6327493213_2db19a6023_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e61a8394-e5ca-46ea-83a2-a1347b1d254a/thumb/",
+   "page": "https://www.flickr.com/photos/22937701@N00/6327493213",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/aisle_2.jpg"
+  }
+ ],
+ "ticket": [
+  {
+   "title": "My plane ticket was a failure",
+   "lic": "CC BY 2.0",
+   "artist": "kalleboo",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2106/2314892520_e0fb6ea911_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/115f9a31-8746-41ae-8dfa-8d2995d1669b/thumb/",
+   "page": "https://www.flickr.com/photos/82365211@N00/2314892520",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_0.jpg"
+  },
+  {
+   "title": "Paid for my plane ticket at FamilyMart",
+   "lic": "CC BY 2.0",
+   "artist": "kalleboo",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2682/4522924463_d5646147cb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/21d664e6-a664-4702-9c3a-4c199765bfd0/thumb/",
+   "page": "https://www.flickr.com/photos/82365211@N00/4522924463",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_1.jpg"
+  },
+  {
+   "title": "Why is there a creepy man on my plane ticket?",
+   "lic": "CC BY-SA 2.0",
+   "artist": "quinn.anya",
+   "w": 612,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4134/4935476536_6229c95e78_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/df30bcd3-8ed0-48f5-b7b4-f2c025ac179e/thumb/",
+   "page": "https://www.flickr.com/photos/53326337@N00/4935476536",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_2.jpg"
+  }
+ ],
+ "customs": [
+  {
+   "title": "Dear customers sign, shuttered Vietnamese convenience store, sign, Parkdale, Toronto, ON, Canada.jpg",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5190/5822050751_6d8e7f2317_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b81fed8-01fe-4eba-bb90-ab2c7d94aea5/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/5822050751",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_0.jpg"
+  },
+  {
+   "title": "A Proclamation for the Suppression of Coffee Houses — See Nikki Davis @SignsNDesign for your custom sign. :)",
+   "lic": "CC BY 2.0",
+   "artist": "SpunkyGidget",
+   "w": 685,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5515/10565306705_668d232a3d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ac1e4780-d8cc-40f2-b08d-1a3f62039a93/thumb/",
+   "page": "https://www.flickr.com/photos/60621749@N00/10565306705",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_1.jpg"
+  },
+  {
+   "title": "This notice has been issued for the benefit of our customer sign, till, Marks and Spencer, Liverpool Street Station, London, UK.JPG",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/2019/2373300033_12e2d317c2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b441c2e-0147-4bcf-be98-e0e2d024cb60/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/2373300033",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_2.jpg"
+  }
+ ],
+ "trolley": [
+  {
+   "title": "Where's your luggage?",
+   "lic": "CC BY 2.0",
+   "artist": "Marit & Toomas Hinnosaar",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2675/4226902615_d69ccb755f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/50c4235b-1aea-4746-8ebf-e23c3013e061/thumb/",
+   "page": "https://www.flickr.com/photos/27519540@N04/4226902615",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/trolley_0.jpg"
+  },
+  {
+   "title": "Heathrow - luggage trollies",
+   "lic": "CC BY 2.0",
+   "artist": "markhillary",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3241/2957371909_e82fd815db_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/753d10a9-4368-4150-b881-38eab2915c21/thumb/",
+   "page": "https://www.flickr.com/photos/56087830@N00/2957371909",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/trolley_1.jpg"
+  },
+  {
+   "title": "MEL #2 - Luggage Trolley",
+   "lic": "CC BY 2.0",
+   "artist": "tttallis",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/19/88728220_c94703dc81_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ab596840-bf9c-4c0c-b739-6743b9c0e1e9/thumb/",
+   "page": "https://www.flickr.com/photos/30977589@N00/88728220",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/trolley_2.jpg"
+  }
+ ],
+ "screen": [
+  {
+   "title": "Mobile Edge ScanFast Onyx Briefcase opened for airport screening",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Mobile Edge Laptop Cases",
+   "w": 1024,
+   "h": 818,
+   "url": "https://live.staticflickr.com/3377/3421760930_ed295ce4fe_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9de4fa49-a228-4712-81dc-374c7355cd7f/thumb/",
+   "page": "https://www.flickr.com/photos/32168913@N02/3421760930",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_0.jpg"
+  },
+  {
+   "title": "Mobile Edge ScanFast Onyx Briefcase oped for airport screening",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Mobile Edge Laptop Cases",
+   "w": 1024,
+   "h": 818,
+   "url": "https://live.staticflickr.com/3159/3402395830_f9f4858b98_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7ead3ba8-0f5b-431b-8f90-e68862ce73eb/thumb/",
+   "page": "https://www.flickr.com/photos/32168913@N02/3402395830",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_1.jpg"
+  },
+  {
+   "title": "Miami Airport Screen",
+   "lic": "CC BY-SA 2.0",
+   "artist": "bobbsled",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4094/4936284705_6a27d10034_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b50b32c9-16a9-4985-858f-63a68f14488c/thumb/",
+   "page": "https://www.flickr.com/photos/22121135@N00/4936284705",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_2.jpg"
+  }
+ ]
+}

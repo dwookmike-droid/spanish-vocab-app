@@ -1,0 +1,22 @@
+{
+ "beach": 0,
+ "sea": 0,
+ "sand": 2,
+ "wave": 2,
+ "sun": 0,
+ "parasol": 2,
+ "towel": 1,
+ "swimsuit": null,
+ "sunscreen": null,
+ "sunglasses": 2,
+ "beachbar": 1,
+ "boat": 0,
+ "rock": 0,
+ "shell": 2,
+ "lifeguard": 0,
+ "sunlounger": 0,
+ "icecream": 0,
+ "bucket": 1,
+ "spade": 1,
+ "port": 0
+}

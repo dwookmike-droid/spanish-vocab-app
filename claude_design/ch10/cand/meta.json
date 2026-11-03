@@ -1,0 +1,757 @@
+{
+ "street": [
+  {
+   "title": "Capitania Maritima and La Rambla street viewed from the Monument a Cristofor Colom",
+   "lic": "CC BY 2.0",
+   "artist": "Jorge Lascar",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/4069/4469040861_087eb810e1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/88e76946-e54c-487b-a1a0-1c2e726779ed/thumb/",
+   "page": "https://www.flickr.com/photos/8721758@N06/4469040861",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/street_0.jpg"
+  },
+  {
+   "title": "Laietanii Clock, the façade of the Edifici del Col·legi d'Enginyers Industrials in the Via Laietana in Barcelona Spain",
+   "lic": "CC BY 2.0",
+   "artist": "Arjan Richter",
+   "w": 576,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5098/5490827073_5b3ff6fcd1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/84b5bdc3-3ce5-4bdb-88f7-279d24eaf241/thumb/",
+   "page": "https://www.flickr.com/photos/42102924@N02/5490827073",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/street_1.jpg"
+  },
+  {
+   "title": "City Street with Traffic in Barcelona",
+   "lic": "CC0",
+   "artist": "Image Catalog",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8872/17880154749_373232e7be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ace0de9a-afa1-479b-9a47-e24640137798/thumb/",
+   "page": "https://www.flickr.com/photos/132795455@N08/17880154749",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/street_2.jpg"
+  }
+ ],
+ "square": [
+  {
+   "title": "Plaça Reial, Barcelona",
+   "lic": "CC BY-SA 2.0",
+   "artist": "slasher-fun",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3377/5734878412_b1fb9b4ea7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6ba4fc2b-b584-469f-a0bd-230f99c63145/thumb/",
+   "page": "https://www.flickr.com/photos/10226584@N06/5734878412",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/square_1.jpg"
+  },
+  {
+   "title": "Plaça Reial, Barcelona",
+   "lic": "CC BY-SA 2.0",
+   "artist": "slasher-fun",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5027/5734324865_cc8a8fbe5e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a88d05b1-10b4-4344-b18c-4f107cbcf0c7/thumb/",
+   "page": "https://www.flickr.com/photos/10226584@N06/5734324865",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/square_2.jpg"
+  }
+ ],
+ "avenue": [
+  {
+   "title": "Palm tree lined avenue in Copiapo",
+   "lic": "CC BY-SA 2.0",
+   "artist": "sergejf",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4034/4320370343_471acd11ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/412f1de5-9fa4-4317-bdb2-7f4375b5b6ea/thumb/",
+   "page": "https://www.flickr.com/photos/7942389@N04/4320370343",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_0.jpg"
+  },
+  {
+   "title": "Beautiful tree lined avenue",
+   "lic": "CC BY 2.0",
+   "artist": "shankar s.",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8027/7637763242_9181d28d36_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/673466fc-80fd-4c6b-89ba-3d12e02da733/thumb/",
+   "page": "https://www.flickr.com/photos/77742560@N06/7637763242",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_1.jpg"
+  },
+  {
+   "title": "Tree-lined Avenue at Badminton",
+   "lic": "CC BY 2.0",
+   "artist": "shirokazan",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4118/4826569070_7fb5c83849_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/042f7eb0-476c-478c-98f5-1931485d07c6/thumb/",
+   "page": "https://www.flickr.com/photos/11302107@N05/4826569070",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_2.jpg"
+  }
+ ],
+ "building": [
+  {
+   "title": "auguste perret, architect: 25 bis rue franklin apartment building, paris 1903-1904",
+   "lic": "CC BY 2.0",
+   "artist": "seier+seier",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/7038/6941331593_f90e01120a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8499ec92-3613-423a-8ddb-03d9bf342878/thumb/",
+   "page": "https://www.flickr.com/photos/94852245@N00/6941331593",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_0.jpg"
+  },
+  {
+   "title": "集合住宅 apartment buildings",
+   "lic": "CC BY 2.0",
+   "artist": "Yuya Tamai",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2487/3820595970_4ccf0d7ec1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2a0ce09a-9bf0-4678-ba35-c78f93957fc4/thumb/",
+   "page": "https://www.flickr.com/photos/76758469@N00/3820595970",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_1.jpg"
+  },
+  {
+   "title": "auguste perret, architect: 25 bis rue franklin apartment building, paris 1903-1904",
+   "lic": "CC BY 2.0",
+   "artist": "seier+seier",
+   "w": 757,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7194/6999220803_c1fa83422c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0789344b-5aa8-4815-b933-bb556d9fa924/thumb/",
+   "page": "https://www.flickr.com/photos/94852245@N00/6999220803",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_2.jpg"
+  }
+ ],
+ "church": [
+  {
+   "title": "Toledo Cathedral",
+   "lic": "CC BY 2.0",
+   "artist": "kevinpoh",
+   "w": 1024,
+   "h": 869,
+   "url": "https://live.staticflickr.com/2916/14060235146_d00dfc30ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bb713a89-46b2-4582-8544-375262471bbc/thumb/",
+   "page": "https://www.flickr.com/photos/7679455@N03/14060235146",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/church_0.jpg"
+  },
+  {
+   "title": "Barcelona, Spain",
+   "lic": "CC BY 2.0",
+   "artist": "rick ligthelm",
+   "w": 820,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2886/9089932335_e5e4604b1c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c5d8e759-b82e-4e19-b8c1-6dcbae15ca08/thumb/",
+   "page": "https://www.flickr.com/photos/24810732@N08/9089932335",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/church_1.jpg"
+  },
+  {
+   "title": "Barcelona, La Sagrada Familia, nativity facade",
+   "lic": "CC BY 2.0",
+   "artist": "Arian Zwegers",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7155/6661281487_2f0bc69079_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/871221b4-0cbd-4710-b75e-a0d597623253/thumb/",
+   "page": "https://www.flickr.com/photos/67769030@N07/6661281487",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/church_2.jpg"
+  }
+ ],
+ "townhall": [
+  {
+   "title": "Ayuntamiento en Navidad (Valencia)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "alcebal2002",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3285/3135342854_60d1a2f208_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/acf07192-334c-4eef-8e5f-d43085e57ae1/thumb/",
+   "page": "https://www.flickr.com/photos/16161296@N00/3135342854",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_0.jpg"
+  },
+  {
+   "title": "Belén ayuntamiento de Madrid",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jacilluch",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8602/15934447086_ff7d75e05e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8e1261d0-b37f-4998-8297-feded998ddfd/thumb/",
+   "page": "https://www.flickr.com/photos/70626035@N00/15934447086",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_2.jpg"
+  },
+  {
+   "title": "Ayuntamiento de Tel Aviv en la Semana del Orgullo Gay 2015",
+   "lic": "CC BY 2.0",
+   "artist": "Edgardo W. Olivera",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/1650/26150354576_48fee0837d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1f7db70e-aca2-467e-9aaa-28c634300ea5/thumb/",
+   "page": "https://www.flickr.com/photos/124137421@N04/26150354576",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_3.jpg"
+  }
+ ],
+ "market": [
+  {
+   "title": "2006-0920 Barcelona panorama 01 - Mercat Santa Caterina by Enric Miralles",
+   "lic": "CC BY 2.0",
+   "artist": "準建築人手札網站 Forgemind ArchiMedia",
+   "w": 1024,
+   "h": 648,
+   "url": "https://live.staticflickr.com/5190/5686507020_fb98027e2e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64c762d7-be31-4ebb-8a29-945fa74a04ee/thumb/",
+   "page": "https://www.flickr.com/photos/44343967@N00/5686507020",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/market_0.jpg"
+  },
+  {
+   "title": "Mercat Santa Caterina photo by giobiter 02",
+   "lic": "CC BY 2.0",
+   "artist": "準建築人手札網站 Forgemind ArchiMedia",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5188/5685952985_1d0f755a04_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/edd772c5-d2b6-4f4b-997f-64a9ac9d9455/thumb/",
+   "page": "https://www.flickr.com/photos/44343967@N00/5685952985",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/market_1.jpg"
+  },
+  {
+   "title": "Mercat Santa Caterina photo by giobiter 01",
+   "lic": "CC BY 2.0",
+   "artist": "準建築人手札網站 Forgemind ArchiMedia",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5265/5685952723_2e2b518f09_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c975c4b4-961e-4973-b476-44fa89faacd6/thumb/",
+   "page": "https://www.flickr.com/photos/44343967@N00/5685952723",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/market_2.jpg"
+  }
+ ],
+ "park": [
+  {
+   "title": "Cascada del parc de la Ciutadella 1888 ('Cascade of the Park of the Ciutadella, 1888')",
+   "lic": "CC BY 2.0",
+   "artist": "Mario Martí",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3066/2702362548_8bc1bd503b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/216df531-ff70-40bf-9e2d-4bd59a59c3c3/thumb/",
+   "page": "https://www.flickr.com/photos/25851862@N06/2702362548",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/park_0.jpg"
+  },
+  {
+   "title": "Parc de la Ciutadella",
+   "lic": "Public Domain",
+   "artist": "Dious",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5571/15063372231_a59d907e30_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a1e47b80-8194-4732-872a-3640d00896a9/thumb/",
+   "page": "https://www.flickr.com/photos/91387891@N07/15063372231",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/park_1.jpg"
+  },
+  {
+   "title": "Parc de la Ciutadella (Barcelona)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "tgrauros",
+   "w": 816,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8612/15850443215_483fd7f2a4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c7276db4-2e19-40b7-bed4-76e297a760c6/thumb/",
+   "page": "https://www.flickr.com/photos/27439865@N05/15850443215",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/park_2.jpg"
+  }
+ ],
+ "bridge": [
+  {
+   "title": "Runes del Castell de Selma, Aiguamurcia, Alt Camp -1357",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MARIA ROSA FERRE",
+   "w": 1024,
+   "h": 672,
+   "url": "https://live.staticflickr.com/6151/6181489858_a637a65f4e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/36fe99aa-b1f3-41e4-b428-8ef4ef1f85e6/thumb/",
+   "page": "https://www.flickr.com/photos/54943216@N08/6181489858",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bridge_0.jpg"
+  },
+  {
+   "title": "Pont del carrer del Bisbe, Barcelona.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Angela Llop",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8377/8591474167_69f6cc21c0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3d454059-449c-4366-aa2e-55ff320408dd/thumb/",
+   "page": "https://www.flickr.com/photos/37963111@N03/8591474167",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bridge_1.jpg"
+  }
+ ],
+ "corner": [
+  {
+   "title": "Corner flats in the Eixample, Barcelona",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Spencer Means",
+   "w": 1024,
+   "h": 512,
+   "url": "https://live.staticflickr.com/7801/40041424403_be199762a3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cffe65ae-8d88-4748-bd75-92b55a3c270c/thumb/",
+   "page": "https://www.flickr.com/photos/28643687@N08/40041424403",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/corner_0.jpg"
+  },
+  {
+   "title": "Barcelona, Spain",
+   "lic": "CC BY 2.0",
+   "artist": "JasonParis",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4101/4781065960_9537dfe372_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/811657b5-60f1-4aec-8f86-271333f7876b/thumb/",
+   "page": "https://www.flickr.com/photos/94064020@N00/4781065960",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/corner_1.jpg"
+  },
+  {
+   "title": "Barcelona, Spain",
+   "lic": "CC BY 2.0",
+   "artist": "JasonParis",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4099/4780437317_6743116ae0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/153169a0-e185-4398-ac7b-432d6611e273/thumb/",
+   "page": "https://www.flickr.com/photos/94064020@N00/4780437317",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/corner_2.jpg"
+  }
+ ],
+ "lights": [
+  {
+   "title": "Traffic Light",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Luis Rodero-Merino",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2395/2495333756_de52dbd092_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0c3ef68c-bcb2-40fd-a0c8-92ce860bac64/thumb/",
+   "page": "https://www.flickr.com/photos/49865627@N00/2495333756",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_0.jpg"
+  },
+  {
+   "title": "Traffic Lights",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ullrich.c",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2367/2079746671_5a4ae9e957_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a935c9e1-67ba-4e0c-8d34-5012ffecb2e3/thumb/",
+   "page": "https://www.flickr.com/photos/7926008@N08/2079746671",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_1.jpg"
+  },
+  {
+   "title": "Strange traffic lights",
+   "lic": "CC BY 2.0",
+   "artist": "Tilemahos Efthimiadis",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3212/2788591239_4dd01c01f5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/36375c97-3843-4de5-a5d7-d6d02d15a818/thumb/",
+   "page": "https://www.flickr.com/photos/64379474@N00/2788591239",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_2.jpg"
+  }
+ ],
+ "crosswalk": [
+  {
+   "title": "Heat",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ktoine",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7133/7803393030_88d61e9a50_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ad41dee3-21d1-4f0f-a940-7d999530649b/thumb/",
+   "page": "https://www.flickr.com/photos/49170045@N07/7803393030",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/crosswalk_0.jpg"
+  },
+  {
+   "title": "Zebra",
+   "lic": "CC BY 2.0",
+   "artist": "Ktoine",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4123/4883006258_fb7bbcf43c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/860e471d-f9b3-4909-a730-1b95b7b78a7a/thumb/",
+   "page": "https://www.flickr.com/photos/49170045@N07/4883006258",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/crosswalk_1.jpg"
+  },
+  {
+   "title": "Zebrakunst Rotterdam CS",
+   "lic": "CC BY 2.0",
+   "artist": "FaceMePLS",
+   "w": 500,
+   "h": 433,
+   "url": "https://live.staticflickr.com/4149/4976384977_7146d4a9df.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e9755695-229a-4041-8b0e-6232a83abeb3/thumb/",
+   "page": "https://www.flickr.com/photos/38891071@N00/4976384977",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/crosswalk_2.jpg"
+  }
+ ],
+ "sidewalk": [
+  {
+   "title": "More Cafe Bar Restaurant / Trafalgar Street",
+   "lic": "CC BY 2.0",
+   "artist": "Dominic's pics",
+   "w": 1024,
+   "h": 804,
+   "url": "https://live.staticflickr.com/1291/1135876473_dbbb64dccf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/06a51988-3e1d-4c76-96c7-9d6ff652ddb6/thumb/",
+   "page": "https://www.flickr.com/photos/64097751@N00/1135876473",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/sidewalk_0.jpg"
+  },
+  {
+   "title": "Wheelchair On Sidewalk",
+   "lic": "CC BY 2.0",
+   "artist": "srqpix",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3225/3390089202_1d00c88193_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/223af6a9-ddfd-41a3-a28d-b29dfe95875b/thumb/",
+   "page": "https://www.flickr.com/photos/85549619@N00/3390089202",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/sidewalk_1.jpg"
+  },
+  {
+   "title": "Street life with clothing shop entrance and shopping women in the Ferdinand Bolstreet in sunlight and shadows and shop-entrance; photo Amsterdam city; urban photographer Fons Heijnsbroek, 2013",
+   "lic": "CC0",
+   "artist": "Amsterdam free photos & pictures of the Dutch city",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3815/10797052506_e4c0707cff_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/502978a6-35c7-4c64-bcdf-7bd988c3b907/thumb/",
+   "page": "https://www.flickr.com/photos/104736837@N03/10797052506",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/sidewalk_2.jpg"
+  }
+ ],
+ "balcony": [
+  {
+   "title": "Floral window frame and wrought iron balcony, Barcelona",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Spencer Means",
+   "w": 1024,
+   "h": 712,
+   "url": "https://live.staticflickr.com/4782/40630095592_c55cda2d35_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/528b73cb-0bc4-47d3-be2a-1af944b10dd6/thumb/",
+   "page": "https://www.flickr.com/photos/28643687@N08/40630095592",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/balcony_0.jpg"
+  },
+  {
+   "title": "Barcelona, Casa Mila (La Pedrera), on the roof",
+   "lic": "CC BY 2.0",
+   "artist": "Arian Zwegers",
+   "w": 1024,
+   "h": 710,
+   "url": "https://live.staticflickr.com/7142/6660826877_d37d4ac6a3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/be5313e8-018e-441f-a69f-398310bb7fbd/thumb/",
+   "page": "https://www.flickr.com/photos/67769030@N07/6660826877",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/balcony_1.jpg"
+  },
+  {
+   "title": "Barcelona Oriels",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Spencer Means",
+   "w": 1024,
+   "h": 483,
+   "url": "https://live.staticflickr.com/4473/36925138484_5ca146e68e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/63b8e344-f481-4f4e-a6ad-f8e737224fd0/thumb/",
+   "page": "https://www.flickr.com/photos/28643687@N08/36925138484",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/balcony_2.jpg"
+  }
+ ],
+ "doorway": [
+  {
+   "title": "Estelada",
+   "lic": "CC BY 2.0",
+   "artist": "Don McCullough",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8366/8547903183_c92b5d641b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d9e54329-25d9-4c0f-92b2-4cefc806a2d2/thumb/",
+   "page": "https://www.flickr.com/photos/69214385@N04/8547903183",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/doorway_0.jpg"
+  },
+  {
+   "title": "Santuario de Montserrat 'Monasterio Santa María de Montserrat' Barcelona,Cataluña,España",
+   "lic": "CC BY 2.0",
+   "artist": "Catedrales e Iglesias",
+   "w": 684,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8544/8693583665_a85d4be3ce_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a1c18d10-25ee-4793-a985-c9e46e5975c0/thumb/",
+   "page": "https://www.flickr.com/photos/12950131@N06/8693583665",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/doorway_1.jpg"
+  },
+  {
+   "title": "Santuario de Montserrat 'Monasterio Santa María de Montserrat' Barcelona,Cataluña,España",
+   "lic": "CC BY 2.0",
+   "artist": "Catedrales e Iglesias",
+   "w": 684,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8544/8694708230_d646c05a88_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e3884407-87c7-46d5-9046-163bda0014a9/thumb/",
+   "page": "https://www.flickr.com/photos/12950131@N06/8694708230",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/doorway_2.jpg"
+  }
+ ],
+ "neighborhood": [
+  {
+   "title": "Plaça de Catalunya",
+   "lic": "CC BY-SA 2.0",
+   "artist": "_bianconero",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/3498/3701085931_73b78ef572_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11080e44-136d-43c5-838d-c330ec6f1a7d/thumb/",
+   "page": "https://www.flickr.com/photos/39088614@N04/3701085931",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/neighborhood_0.jpg"
+  },
+  {
+   "title": "Barri gòtic",
+   "lic": "CC BY 2.0",
+   "artist": "AlejandraPT",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/5055/5443154207_e94515fcb3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dba17b7f-c05e-4bc3-aa50-868d31c445a6/thumb/",
+   "page": "https://www.flickr.com/photos/46395728@N04/5443154207",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/neighborhood_1.jpg"
+  },
+  {
+   "title": "Barri Gòtic",
+   "lic": "CC BY 2.0",
+   "artist": "jcorrius",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/55/162650590_48db1b1ce5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/27e6621d-8611-481d-b372-61c6058b055d/thumb/",
+   "page": "https://www.flickr.com/photos/15974624@N00/162650590",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/neighborhood_2.jpg"
+  }
+ ],
+ "shop": [
+  {
+   "title": "Love triangle in a shop window",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Photocapy",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/24/95840884_a8c2f3b93f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d01778a1-81d4-42fa-8bd3-848dbbf5cbc4/thumb/",
+   "page": "https://www.flickr.com/photos/81635051@N00/95840884",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_0.jpg"
+  },
+  {
+   "title": "Shop Window for corpus christi",
+   "lic": "CC BY 2.0",
+   "artist": "mozzercork",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/34/71720111_5109e94b1c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64360701-add2-47f3-83fe-c4179732f278/thumb/",
+   "page": "https://www.flickr.com/photos/98382796@N00/71720111",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_1.jpg"
+  },
+  {
+   "title": "shop window",
+   "lic": "CC BY 2.0",
+   "artist": "zoetnet",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4116/4857210053_bc6eab5ceb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/696ecb1f-3050-4819-bb89-c453c71dee53/thumb/",
+   "page": "https://www.flickr.com/photos/13286453@N00/4857210053",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_2.jpg"
+  }
+ ],
+ "bank": [
+  {
+   "title": "Market Street National Bank Facade",
+   "lic": "CC BY 2.0",
+   "artist": "Jim, the Photographer",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3830/11357543333_f903d622d6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40e4491c-4947-44e0-812f-0398701d591a/thumb/",
+   "page": "https://www.flickr.com/photos/72744295@N00/11357543333",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_0.jpg"
+  },
+  {
+   "title": "Former Bank Facade, Milwaukee Ave. south of Logan Blvd.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "artistmac",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8889/17658992264_5828e9ddb0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7290ea66-3773-42af-a464-549f4e2369b3/thumb/",
+   "page": "https://www.flickr.com/photos/26329029@N06/17658992264",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_1.jpg"
+  },
+  {
+   "title": "BANK FACADE",
+   "lic": "CC BY 2.0",
+   "artist": "tombabich24",
+   "w": 678,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2808/10427279393_afe5abdaae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/92a8a19b-0cb3-4b3e-8008-f436831a01f7/thumb/",
+   "page": "https://www.flickr.com/photos/100308777@N07/10427279393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_3.jpg"
+  }
+ ],
+ "pharmacy": [
+  {
+   "title": "Farmacia - Calle Pedro Antonio de Alarcon, Granada - green cross",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3897/14594738373_68f1d1cff5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aff4ad72-b699-4fe1-b6fd-4a69ab650b23/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/14594738373",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/pharmacy_0.jpg"
+  }
+ ],
+ "atm": [
+  {
+   "title": "Barclay's cash machines (ATM)",
+   "lic": "CC BY 2.0",
+   "artist": "markhillary",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/154/413488870_2e9e579e5d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/09dde721-24ce-4b56-a48b-691edb62d152/thumb/",
+   "page": "https://www.flickr.com/photos/56087830@N00/413488870",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/atm_0.jpg"
+  },
+  {
+   "title": "HSBC",
+   "lic": "CC BY 2.0",
+   "artist": "markhillary",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3136/3043547504_ffedcd9d4e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4f6ec5b2-87dc-4518-9582-0ae03ccc165f/thumb/",
+   "page": "https://www.flickr.com/photos/56087830@N00/3043547504",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/atm_2.jpg"
+  }
+ ]
+}

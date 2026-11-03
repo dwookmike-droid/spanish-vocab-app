@@ -1,0 +1,731 @@
+{
+ "hotel": [
+  {
+   "title": "Farglory Hotel facade – Hualien, Taiwan",
+   "lic": "CC BY-SA 2.0",
+   "artist": "williamcho",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/2574/3982439259_e7fc5572eb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ebfc9600-f77c-45d0-9c41-839668278128/thumb/",
+   "page": "https://www.flickr.com/photos/84493444@N00/3982439259",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_0.jpg"
+  },
+  {
+   "title": "Cosmopolitan Hotel ( facade )",
+   "lic": "CC BY 2.0",
+   "artist": "Prayitno / Thank you for (12 millions +) view",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6190/6059149022_233ba20b60_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ce4877c8-d561-4dc2-b512-a2e791f921b9/thumb/",
+   "page": "https://www.flickr.com/photos/34128007@N04/6059149022",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_2.jpg"
+  },
+  {
+   "title": "Four Seasons Gresham Palace Hotel - Facade - Pest Side - Budapest - Hungary",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Adam Jones, Ph.D. - Global Photo Archive",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2637/4110576964_a4f532e8a9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6a146efe-13f3-452d-b4ea-69e17a721133/thumb/",
+   "page": "https://www.flickr.com/photos/41000732@N04/4110576964",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_3.jpg"
+  }
+ ],
+ "reception": [
+  {
+   "title": "Reception desk",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jepoirrier",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3241/3026154262_c46a281f5f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dd42f7ab-8007-46d2-9902-b43c9e9cb6f3/thumb/",
+   "page": "https://www.flickr.com/photos/57519914@N00/3026154262",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_0.jpg"
+  },
+  {
+   "title": "Crosshairs of the Transparent Society: the hotel reception desk runs a live cam of my house!",
+   "lic": "CC BY 2.0",
+   "artist": "jurvetson",
+   "w": 1024,
+   "h": 901,
+   "url": "https://live.staticflickr.com/7420/11059593346_7f3c1fb233_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0a5e9215-7391-446f-99da-5e2d66a82f15/thumb/",
+   "page": "https://www.flickr.com/photos/44124348109@N01/11059593346",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_1.jpg"
+  },
+  {
+   "title": "BostonArt Reception Desk by Phil Manker",
+   "lic": "CC BY 2.0",
+   "artist": "Phil Manker",
+   "w": 1024,
+   "h": 562,
+   "url": "https://live.staticflickr.com/3263/3148589951_13b2a73758_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9577d298-259e-404e-8d04-cb075664c0fd/thumb/",
+   "page": "https://www.flickr.com/photos/33820070@N04/3148589951",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_2.jpg"
+  }
+ ],
+ "room": [
+  {
+   "title": "Las Vegas Wynn Hotel Room Bed",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mrkathika",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2410/2450179178_efbef47a79_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/992d6aa3-2fa8-4d97-bf50-1c44451e4aa5/thumb/",
+   "page": "https://www.flickr.com/photos/23842402@N07/2450179178",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/room_0.jpg"
+  },
+  {
+   "title": "Hotel room Beds Disney Coronado Springs Hotel",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mrkathika",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3579/3321651892_00664d0b86_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4e62ef32-802c-4a17-95d2-b99f08e594c4/thumb/",
+   "page": "https://www.flickr.com/photos/23842402@N07/3321651892",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/room_1.jpg"
+  },
+  {
+   "title": "Hotel Room Bed Riviera Hotel Las Vegas Strip September 2008",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mrkathika",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3124/2896595818_37f848d9a5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a2b98eeb-6932-484a-834c-5605337c201c/thumb/",
+   "page": "https://www.flickr.com/photos/23842402@N07/2896595818",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/room_2.jpg"
+  }
+ ],
+ "key": [
+  {
+   "title": "40 Hotel Room 'Keys'",
+   "lic": "CC BY 2.0",
+   "artist": "RichardBH",
+   "w": 1024,
+   "h": 732,
+   "url": "https://live.staticflickr.com/2842/8953732329_2bf7abc749_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ad24f46c-dc7e-4eb2-b8e9-0bf593dd9c74/thumb/",
+   "page": "https://www.flickr.com/photos/81076746@N00/8953732329",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/key_0.jpg"
+  },
+  {
+   "title": "Northern Hotel Room Key",
+   "lic": "CC BY 2.0",
+   "artist": "dave_mcmt",
+   "w": 1024,
+   "h": 583,
+   "url": "https://live.staticflickr.com/457/19899875571_73ebe82bdb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0c79736d-7d6b-45d3-a0c8-9ee405a70426/thumb/",
+   "page": "https://www.flickr.com/photos/30512529@N00/19899875571",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/key_1.jpg"
+  },
+  {
+   "title": "Disposable Electronic Hotel Room Key",
+   "lic": "CC BY 2.0",
+   "artist": "D H Wright",
+   "w": 602,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4003/4287999938_67208c478b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6c0fce15-e076-444f-a28b-d395ee772809/thumb/",
+   "page": "https://www.flickr.com/photos/59521130@N00/4287999938",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/key_2.jpg"
+  }
+ ],
+ "card": [
+  {
+   "title": "hotel key card face",
+   "lic": "CC BY-SA 2.0",
+   "artist": "arripay",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/56/174828996_24edf81cf4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/473f3573-ce23-4ea2-9614-bbab04cd4632/thumb/",
+   "page": "https://www.flickr.com/photos/27466406@N00/174828996",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/card_1.jpg"
+  },
+  {
+   "title": "132 of 366",
+   "lic": "CC BY 2.0",
+   "artist": "Phil Gradwell",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7226/7178961696_137f911e76_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d3d9a906-fc7a-4f3b-808e-c3e186b2b927/thumb/",
+   "page": "https://www.flickr.com/photos/73228447@N02/7178961696",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/card_2.jpg"
+  }
+ ],
+ "lift": [
+  {
+   "title": "Elevator doors",
+   "lic": "CC BY 2.0",
+   "artist": "ricardodiaz11",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2138/2311260401_fc894e7e7f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2780ebd6-46d0-4cb9-985a-b8bcf9ba5b9e/thumb/",
+   "page": "https://www.flickr.com/photos/41652235@N00/2311260401",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/lift_0.jpg"
+  },
+  {
+   "title": "Art Deco Elevator Door",
+   "lic": "CC BY 2.0",
+   "artist": "Steve Snodgrass",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5055/5490361309_313fdeedaa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a8ebb311-c1c1-47d0-8cc1-f0c3f232b7a6/thumb/",
+   "page": "https://www.flickr.com/photos/10710442@N08/5490361309",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/lift_1.jpg"
+  },
+  {
+   "title": "Elevator Doors DuPont Building Downtown Miami",
+   "lic": "CC BY 2.0",
+   "artist": "Phillip Pessar",
+   "w": 682,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7673/16963817779_65b0e20285_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1f2c0bfd-dd7d-40cc-a137-f0028573f4ce/thumb/",
+   "page": "https://www.flickr.com/photos/25955895@N03/16963817779",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/lift_2.jpg"
+  }
+ ],
+ "stairs": [
+  {
+   "title": "Staircase Hotel",
+   "lic": "CC0",
+   "artist": "goldiamondcorp",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/65535/49276497023_216d3261a8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/be064557-300c-4c60-a2c8-f679ca989ffa/thumb/",
+   "page": "https://www.flickr.com/photos/186116748@N05/49276497023",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/stairs_0.jpg"
+  },
+  {
+   "title": "Staircase, Hotel Binalong.",
+   "lic": "CC BY 2.0",
+   "artist": "jemasmith",
+   "w": 1024,
+   "h": 666,
+   "url": "https://live.staticflickr.com/6221/6222306214_6eb55f2289_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eb683b60-4e9e-4878-947f-e54cf3902f39/thumb/",
+   "page": "https://www.flickr.com/photos/26085795@N02/6222306214",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/stairs_2.jpg"
+  }
+ ],
+ "floor": [
+  {
+   "title": "The Passageway // Georgia 2.0",
+   "lic": "CC BY 2.0",
+   "artist": "James Kerwin Photographic",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48721494612_1d70957796_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f84e3880-25d8-42e3-9bad-38f4eeb41635/thumb/",
+   "page": "https://www.flickr.com/photos/47716103@N03/48721494612",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/floor_0.jpg"
+  },
+  {
+   "title": "february 2012, wallpaper calendar",
+   "lic": "CC BY 2.0",
+   "artist": "nevil zaveri (thank you for 20+M views:)",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/7033/6617377577_9df56c806b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8b8fb93f-c58b-4a15-b72a-367a4dc3e667/thumb/",
+   "page": "https://www.flickr.com/photos/43109416@N00/6617377577",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/floor_1.jpg"
+  },
+  {
+   "title": "Aria, City Center, Las Vegas, Nevada (2)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ken Lund",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4044/4206925421_592cf21f02_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6f27e0e1-f0e0-4481-bfb5-666c72c270cb/thumb/",
+   "page": "https://www.flickr.com/photos/75683070@N00/4206925421",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/floor_2.jpg"
+  }
+ ],
+ "breakfast": [
+  {
+   "title": "Granada Hotel Breakfast Buffet",
+   "lic": "CC BY 2.0",
+   "artist": "snowpea&bokchoi",
+   "w": 1024,
+   "h": 679,
+   "url": "https://live.staticflickr.com/2798/4459155163_bf9efec570_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/211f5cac-689d-4e4c-97ce-20b6b0becb02/thumb/",
+   "page": "https://www.flickr.com/photos/28531775@N06/4459155163",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/breakfast_0.jpg"
+  },
+  {
+   "title": "From the New Otani Hotel breakfast buffet.",
+   "lic": "CC BY 2.0",
+   "artist": "sodai gomi",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7468/16280150946_778a32e53a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/55155607-7903-4899-acce-7208a617a552/thumb/",
+   "page": "https://www.flickr.com/photos/49774228@N00/16280150946",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/breakfast_1.jpg"
+  }
+ ],
+ "towel": [
+  {
+   "title": "Penguin Towel Folding",
+   "lic": "CC BY 2.0",
+   "artist": "Prayitno / Thank you for (12 millions +) view",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/4043/4594064046_ba2e435cd0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64f411d5-1198-45c3-8555-3c0f89a94238/thumb/",
+   "page": "https://www.flickr.com/photos/34128007@N04/4594064046",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/towel_0.jpg"
+  },
+  {
+   "title": "Paper Towel Folding",
+   "lic": "CC BY 2.0",
+   "artist": "edkohler",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2280/2436671732_198a5e29cc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ff7feab6-bf11-4734-bcd3-783337e4e5e6/thumb/",
+   "page": "https://www.flickr.com/photos/45078337@N00/2436671732",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/towel_1.jpg"
+  },
+  {
+   "title": "MONKEY towel folding",
+   "lic": "CC BY 2.0",
+   "artist": "Prayitno / Thank you for (12 millions +) view",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/3187/4626809385_ddd88c8138_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d6deabf4-2e2f-45a0-a73e-b72bf94531ad/thumb/",
+   "page": "https://www.flickr.com/photos/34128007@N04/4626809385",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/towel_2.jpg"
+  }
+ ],
+ "reservation": [
+  {
+   "title": "Tricycle- motor cab",
+   "lic": "CC BY 2.0",
+   "artist": "shankar s.",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7285/9163039413_bb197214ae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/625d0419-af6a-4c26-a982-6b15496d1e05/thumb/",
+   "page": "https://www.flickr.com/photos/77742560@N06/9163039413",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reservation_0.jpg"
+  },
+  {
+   "title": "Korean F1 Poster",
+   "lic": "CC BY-SA 2.0",
+   "artist": "WaegookTravel.com",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2704/4458761904_2d0ce9354f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c4cd173e-9837-416c-87ea-211119b4c52e/thumb/",
+   "page": "https://www.flickr.com/photos/9289684@N08/4458761904",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reservation_1.jpg"
+  },
+  {
+   "title": "Art Nouveau Ironwork at Metro Station",
+   "lic": "CC BY 2.0",
+   "artist": "Jose and Roxanne",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3632/3448424718_4352a43978_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4924d124-5505-4a79-b455-bcace6555dc7/thumb/",
+   "page": "https://www.flickr.com/photos/53196116@N00/3448424718",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reservation_2.jpg"
+  }
+ ],
+ "passport": [
+  {
+   "title": "Passport photo (1992)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Mike Knell",
+   "w": 1024,
+   "h": 712,
+   "url": "https://live.staticflickr.com/26/95717568_ac5629d22c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7d6a570d-3c08-4aea-98d3-42b941bf2980/thumb/",
+   "page": "https://www.flickr.com/photos/30523851@N00/95717568",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/passport_0.jpg"
+  },
+  {
+   "title": "passport",
+   "lic": "CC BY-SA 2.0",
+   "artist": "One-Fat-Man",
+   "w": 1000,
+   "h": 716,
+   "url": "https://live.staticflickr.com/2315/1716599526_92fff19515_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/08bedc4c-7a36-4eba-84cc-3035e6f25dbd/thumb/",
+   "page": "https://www.flickr.com/photos/86175259@N00/1716599526",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/passport_1.jpg"
+  },
+  {
+   "title": "Passport",
+   "lic": "CC BY-SA 2.0",
+   "artist": "rkelland",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1008/526712852_69618c756d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b9f1e9b-2645-4a96-9547-5e2a08d800c9/thumb/",
+   "page": "https://www.flickr.com/photos/66174874@N00/526712852",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/passport_2.jpg"
+  }
+ ],
+ "suitcase": [
+  {
+   "title": "Suitcase",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2153/2133667196_7025f72320_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f877d75a-121a-4cf0-abdf-e43681795aa7/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/2133667196",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/suitcase_0.jpg"
+  },
+  {
+   "title": "Suitcase",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2109/2133667892_c722113eb4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/78fa56d1-942d-458c-8c31-5c3ec8516015/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/2133667892",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/suitcase_1.jpg"
+  },
+  {
+   "title": "Suitcase",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2301/2132888767_75c3276e51_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6849dbc7-bcb4-4ae6-9279-8e62d91e6587/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/2132888767",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/suitcase_2.jpg"
+  }
+ ],
+ "receptionist": [
+  {
+   "title": "Hotel Receptionist (Ada) - Budapest - Hungary",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Adam Jones, Ph.D. - Global Photo Archive",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2701/4109723951_c541dc9d09_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8f1886d3-9b83-4961-8f9e-cc5b58bef52a/thumb/",
+   "page": "https://www.flickr.com/photos/41000732@N04/4109723951",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/receptionist_0.jpg"
+  },
+  {
+   "title": "Hotel Receptionist",
+   "lic": "CC BY 2.0",
+   "artist": "shankar s.",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7232/7348817248_995409def6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aa0cd8e9-8fc8-4cbb-838d-6e742ef239b8/thumb/",
+   "page": "https://www.flickr.com/photos/77742560@N06/7348817248",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/receptionist_1.jpg"
+  }
+ ],
+ "doublebed": [
+  {
+   "title": "bus12",
+   "lic": "CC BY 2.0",
+   "artist": "shalommama",
+   "w": 960,
+   "h": 960,
+   "url": "https://live.staticflickr.com/7390/9267770752_7d8972472b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/269e0a42-f671-45f9-8225-5ef457f16bb2/thumb/",
+   "page": "https://www.flickr.com/photos/77516069@N05/9267770752",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/doublebed_0.jpg"
+  },
+  {
+   "title": "Double Room Style 2 beds",
+   "lic": "CC BY 2.0",
+   "artist": "toddwight1",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6182/6077270322_27f8a1b67e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5f980c53-1ca8-43db-a8d7-5a459c2bcb40/thumb/",
+   "page": "https://www.flickr.com/photos/35598032@N06/6077270322",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/doublebed_1.jpg"
+  },
+  {
+   "title": "Beds",
+   "lic": "CC BY 2.0",
+   "artist": "oatsy40",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8092/8596784421_bdf8db0742_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aa0d7d82-1708-424b-bbe7-f0554cf68710/thumb/",
+   "page": "https://www.flickr.com/photos/68089229@N06/8596784421",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/doublebed_2.jpg"
+  }
+ ],
+ "shower": [
+  {
+   "title": "Shower head instant water heater",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Dvortygirl",
+   "w": 1024,
+   "h": 857,
+   "url": "https://live.staticflickr.com/4038/4278726815_007e55ac7e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8991aa14-a0db-4a5b-88c7-d9d06b9c265f/thumb/",
+   "page": "https://www.flickr.com/photos/21093323@N02/4278726815",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/shower_0.jpg"
+  },
+  {
+   "title": "shower-head",
+   "lic": "CC BY 2.0",
+   "artist": "Spring Dew",
+   "w": 992,
+   "h": 744,
+   "url": "https://live.staticflickr.com/26/44588780_32ad74ca0f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dc1e8acc-765b-4d12-8b81-00eca749e900/thumb/",
+   "page": "https://www.flickr.com/photos/32959686@N00/44588780",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/shower_1.jpg"
+  },
+  {
+   "title": "Shower Head",
+   "lic": "CC BY 2.0",
+   "artist": "darkday.",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/7556/16093062740_0599875003_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/07f9761b-d681-47b3-9175-3f62bad0177d/thumb/",
+   "page": "https://www.flickr.com/photos/99649389@N02/16093062740",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/shower_2.jpg"
+  }
+ ],
+ "wifi": [
+  {
+   "title": "WiFi symbol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christiaan Colen",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/596/21123084082_3e8e0c670c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b3a4e981-cb96-4045-b38e-fd50d72c609c/thumb/",
+   "page": "https://www.flickr.com/photos/132889348@N07/21123084082",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_0.jpg"
+  },
+  {
+   "title": "WiFi symbol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christiaan Colen",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/5779/20510597554_18c9a2150a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bb3fd2e3-1776-4a93-9d0b-508e29a28d7c/thumb/",
+   "page": "https://www.flickr.com/photos/132889348@N07/20510597554",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_1.jpg"
+  },
+  {
+   "title": "WiFi symbol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christiaan Colen",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/618/20510597184_45bd31da2a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/793221e5-ab7d-4a6e-966a-181ff5ff7d3b/thumb/",
+   "page": "https://www.flickr.com/photos/132889348@N07/20510597184",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_2.jpg"
+  }
+ ],
+ "exit": [
+  {
+   "title": "Emergency exit sign",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jepoirrier",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1196/748257187_67aace7123_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/727230aa-bcae-411a-b5d0-ebc33032dac8/thumb/",
+   "page": "https://www.flickr.com/photos/57519914@N00/748257187",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/exit_0.jpg"
+  },
+  {
+   "title": "Emergency Exit Sign",
+   "lic": "CC BY 2.0",
+   "artist": "erix!",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3269/2991411339_b52a504905_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f3dca26f-4985-4ab6-aaf7-7999747f050a/thumb/",
+   "page": "https://www.flickr.com/photos/68387408@N00/2991411339",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/exit_1.jpg"
+  },
+  {
+   "title": "New emergency exit sign at Coliseum",
+   "lic": "CC BY 2.0",
+   "artist": "Eric Fischer",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7498/15971071618_c54ecfbd2a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/176f84dd-91b8-4f11-ba3a-81aff9801605/thumb/",
+   "page": "https://www.flickr.com/photos/24431382@N03/15971071618",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/exit_2.jpg"
+  }
+ ],
+ "invoice": [
+  {
+   "title": "Herbert Lindinger. Clima Hotel",
+   "lic": "CC BY 2.0",
+   "artist": "80magazine",
+   "w": 1024,
+   "h": 494,
+   "url": "https://live.staticflickr.com/5288/5337245499_47469a5e8c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/36befac9-c8d8-4b5e-9505-cb65088ad5c6/thumb/",
+   "page": "https://www.flickr.com/photos/81135242@N00/5337245499",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/invoice_0.jpg"
+  }
+ ],
+ "pillow": [
+  {
+   "title": "Get her Maxxie! That's YOUR Doughnut Pillow Bed-Bed.",
+   "lic": "CC BY 2.0",
+   "artist": "PetLvr",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/155/424926068_48d3cf5c38_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/afc30aec-d253-4bdc-a352-ac6ba16c4a72/thumb/",
+   "page": "https://www.flickr.com/photos/43612083@N00/424926068",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/pillow_0.jpg"
+  },
+  {
+   "title": "Pillows bed",
+   "lic": "CC0",
+   "artist": "",
+   "w": 5146,
+   "h": 3431,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxODU2MDEyLXdpa2ltZWRpYS1pbWFnZS1rb3djc2ptMC1remVtMjg2cy5qcGc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5057baf1-19dd-4d74-9640-c97b335d1bed/thumb/",
+   "page": "https://www.rawpixel.com/image/3284787/free-photo-image-hotel-room-linen-bed",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/pillow_1.jpg"
+  }
+ ]
+}

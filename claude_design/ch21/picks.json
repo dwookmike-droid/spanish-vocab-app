@@ -1,0 +1,22 @@
+{
+ "shop": 1,
+ "fleamarket": 0,
+ "stall": 2,
+ "price": 1,
+ "offer": 1,
+ "sales": 1,
+ "euro": 0,
+ "coin": 1,
+ "banknote": 1,
+ "card": 1,
+ "receipt": 1,
+ "bag": 0,
+ "till": 1,
+ "fittingroom": 2,
+ "size": 0,
+ "discount": 0,
+ "gift": 0,
+ "antique": 1,
+ "seller": 0,
+ "change": 2
+}

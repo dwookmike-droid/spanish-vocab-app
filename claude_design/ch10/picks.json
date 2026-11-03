@@ -1,0 +1,22 @@
+{
+ "street": 2,
+ "square": 0,
+ "avenue": 1,
+ "building": 0,
+ "church": 0,
+ "townhall": 0,
+ "market": 1,
+ "park": 1,
+ "bridge": 1,
+ "corner": 2,
+ "lights": 2,
+ "crosswalk": 2,
+ "sidewalk": 1,
+ "balcony": 0,
+ "doorway": 1,
+ "neighborhood": 1,
+ "shop": 2,
+ "bank": null,
+ "pharmacy": 0,
+ "atm": 0
+}

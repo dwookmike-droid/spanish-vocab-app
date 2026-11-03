@@ -1,0 +1,22 @@
+{
+ "airport": "airport terminal",
+ "plane": "airplane runway",
+ "flight": "airplane in flight sky",
+ "gate": "airport boarding gate",
+ "boardingpass": "boarding pass",
+ "passport": "passport",
+ "luggage": "luggage bags airport",
+ "suitcase": "suitcase",
+ "security": "airport security check",
+ "terminal": "airport terminal hall",
+ "arrival": "arrivals hall",
+ "exit": "exit sign",
+ "delay": "departure board airport",
+ "seat": "airplane seat",
+ "planewindow": "airplane window view",
+ "aisle": "airplane aisle cabin",
+ "ticket": "plane ticket",
+ "customs": "customs sign",
+ "trolley": "luggage trolley airport",
+ "screen": "airport screen"
+}
