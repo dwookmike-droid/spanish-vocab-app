@@ -203,5 +203,46 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sun_2.jpg"
   }
+ ],
+ "parasol": [
+  {
+   "title": "Beach Umbrella",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Kevin Zollman",
+   "w": 1024,
+   "h": 565,
+   "url": "https://live.staticflickr.com/85/232350883_10eebf7953_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a8da93bf-ea23-4f2a-9691-e5789930235d/thumb/",
+   "page": "https://www.flickr.com/photos/36144637@N00/232350883",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/parasol_0.jpg"
+  },
+  {
+   "title": "Beach Umbrella",
+   "lic": "CC BY 2.0",
+   "artist": "downing.amanda",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3011/2677383835_74fd0570cd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b6fa4e7-03d0-4d96-b177-7bc69528be84/thumb/",
+   "page": "https://www.flickr.com/photos/37973182@N00/2677383835",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/parasol_1.jpg"
+  },
+  {
+   "title": "Beach Umbrella 2",
+   "lic": "CC BY-SA 2.0",
+   "artist": "daryl_mitchell",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8117/8626153857_35554f7acf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/163910d7-8884-4cba-a53f-b0dca9d7fcd1/thumb/",
+   "page": "https://www.flickr.com/photos/49169223@N00/8626153857",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/parasol_2.jpg"
+  }
  ]
 }

@@ -216,5 +216,169 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/dessert_2.jpg"
   }
+ ],
+ "water": [
+  {
+   "title": "eau plat",
+   "lic": "CC BY 2.0",
+   "artist": "jenny downing",
+   "w": 1024,
+   "h": 750,
+   "url": "https://live.staticflickr.com/4093/4850731034_2ee15eda38_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b1e32e6-caf6-42d6-870a-3c6f7322a0c9/thumb/",
+   "page": "https://www.flickr.com/photos/7941044@N06/4850731034",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/water_0.jpg"
+  },
+  {
+   "title": "Three young Walapai Indian women water carriers, Hackbury, Arizona, ca.1900 (CHS-3148)",
+   "lic": "Public Domain",
+   "artist": "Fæ",
+   "w": 1024,
+   "h": 774,
+   "url": "https://live.staticflickr.com/8594/16678551332_f45b3058b5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2f5594cc-811f-425f-953b-ac80607ae97c/thumb/",
+   "page": "https://www.flickr.com/photos/50398299@N08/16678551332",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/water_1.jpg"
+  },
+  {
+   "title": "Campî varî",
+   "lic": "CC BY 2.0",
+   "artist": "Conanil",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2241/2328114423_2ecec1c00d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/28b4725d-3cae-4e10-9970-717abacf6352/thumb/",
+   "page": "https://www.flickr.com/photos/24559254@N00/2328114423",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/water_2.jpg"
+  }
+ ],
+ "bottle": [
+  {
+   "title": "Free wine bottle table image",
+   "lic": "CC0",
+   "artist": "",
+   "w": 3212,
+   "h": 3453,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNjMxODAxLWltYWdlLWt3dnZrdHZ3LmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b25d1b65-1f82-42f1-bd9f-696b9287aeee/thumb/",
+   "page": "https://www.rawpixel.com/image/5909190/image-background-christmas-public-domain",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/bottle_0.jpg"
+  },
+  {
+   "title": "Kosta Boda Eclipse Wine Glasses",
+   "lic": "CC BY 2.0",
+   "artist": "Didriks",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/5284/5261410119_35ae5d9d4f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3a6b9da1-13da-4696-b47b-d873d63826aa/thumb/",
+   "page": "https://www.flickr.com/photos/49889671@N03/5261410119",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/bottle_1.jpg"
+  },
+  {
+   "title": "Bar",
+   "lic": "CC BY 2.0",
+   "artist": "Sam Howzit",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8593/16419929831_792a1a41ec_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f3893234-c29e-412a-8817-9d04c0959374/thumb/",
+   "page": "https://www.flickr.com/photos/12508217@N08/16419929831",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/bottle_2.jpg"
+  }
+ ],
+ "wineglass": [
+  {
+   "title": "Red Wine Glass #dailyshoot",
+   "lic": "CC BY 2.0",
+   "artist": "Leshaines123",
+   "w": 771,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7437/9031746040_d40bc7e5ee_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fcfb4ffe-b5d4-45fe-90e9-decd28217649/thumb/",
+   "page": "https://www.flickr.com/photos/46018453@N06/9031746040",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/wineglass_0.jpg"
+  },
+  {
+   "title": "Bottle of Red Wine + Glass + Cork",
+   "lic": "CC BY 2.0",
+   "artist": "TheBusyBrain",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/3013/2857498721_0910907411_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/51f863ab-c53a-4459-bf65-24e3e9fb7d02/thumb/",
+   "page": "https://www.flickr.com/photos/26176646@N04/2857498721",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/wineglass_1.jpg"
+  },
+  {
+   "title": "Vinao Red Wine Glass by Schott Zwiesel",
+   "lic": "CC BY 2.0",
+   "artist": "Didriks",
+   "w": 682,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/379/19719405372_ca3a71a355_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e9526029-bf56-4b0b-8d67-d1b2f97aa8ec/thumb/",
+   "page": "https://www.flickr.com/photos/49889671@N03/19719405372",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/wineglass_2.jpg"
+  }
+ ],
+ "glass": [
+  {
+   "title": "Drink Pink",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Eldkvast",
+   "w": 704,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7409/10246255394_298a49ba76_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/58eda9fb-3a9d-46df-b7a4-23271f7f02a1/thumb/",
+   "page": "https://www.flickr.com/photos/84159903@N00/10246255394",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/glass_0.jpg"
+  },
+  {
+   "title": "Green Smoothie",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Tim Patterson",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2509/3710708383_c5f179c052_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/73c7fb8a-cd83-42c1-8996-fe2d75bb873f/thumb/",
+   "page": "https://www.flickr.com/photos/72248790@N00/3710708383",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/glass_1.jpg"
+  },
+  {
+   "title": "Final Fantasy XII Potion Drink (herb drink?)",
+   "lic": "CC BY 2.0",
+   "artist": "joka2000",
+   "w": 1024,
+   "h": 794,
+   "url": "https://live.staticflickr.com/54/110799510_23c8cc396b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f79b3a0b-42a7-4f92-8072-eea2e2ba9bc1/thumb/",
+   "page": "https://www.flickr.com/photos/77585122@N00/110799510",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/glass_2.jpg"
+  }
  ]
 }

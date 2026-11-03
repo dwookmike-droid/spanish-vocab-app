@@ -190,5 +190,61 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/sculpture_2.jpg"
   }
+ ],
+ "room": [
+  {
+   "title": "Nude",
+   "lic": "CC0",
+   "artist": "Thad Zajdowicz",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1749/41690146494_e435b9a622_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9a8e0007-cbf0-4d91-9365-2a3456878215/thumb/",
+   "page": "https://www.flickr.com/photos/40632439@N00/41690146494",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/room_0.jpg"
+  },
+  {
+   "title": "Homemade Light Box",
+   "lic": "CC BY 2.0",
+   "artist": "rotokirby",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/2499/3863563133_0733006968.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ad27eb71-50c4-44f1-84c3-c0818da50279/thumb/",
+   "page": "https://www.flickr.com/photos/68017810@N00/3863563133",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/room_1.jpg"
+  },
+  {
+   "title": "The New Computer History Museum Exhibition",
+   "lic": "CC BY 2.0",
+   "artist": "jurvetson",
+   "w": 1024,
+   "h": 772,
+   "url": "https://live.staticflickr.com/1340/5111508738_377d4e1682_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/15e099c0-f4a3-4fe8-8c3f-a1a047e6a091/thumb/",
+   "page": "https://www.flickr.com/photos/44124348109@N01/5111508738",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/room_2.jpg"
+  }
+ ],
+ "entryticket": [
+  {
+   "title": "Tissot Clock of the Wax Museum Ticket Stand, La Rambla, Barcelona Spain",
+   "lic": "CC BY 2.0",
+   "artist": "Arjan Richter",
+   "w": 576,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1597/26154666442_b6fc0768bd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aed73492-45c7-4864-97a3-11c6de03ce35/thumb/",
+   "page": "https://www.flickr.com/photos/42102924@N02/26154666442",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_0.jpg"
+  }
  ]
 }
