@@ -1,0 +1,380 @@
+schema_version: 1
+chapter: 10
+dialogues:
+  - id: d1
+    title_es: ¿Hay un cajero por aquí?
+    title_ko: 이 근처에 현금인출기 있어요?
+    setting_ko: 바르셀로나 에이샴플레의 거리. 지나가던 나이 든 아저씨에게 길을 물어요.
+    roles:
+      A: {es: Señor, ko: 아저씨}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, ¿hay un cajero por aquí?
+          ko: 실례합니다, 이 근처에 현금인출기 있어요?
+        native:
+          es: Perdone, ¿sabe si hay algún cajero por aquí cerca?
+          ko: 저기요, 이 근처에 현금인출기 있는지 아세요?
+          note_ko: ¿sabe si…?(…인지 아세요?)를 앞에 붙이면 더 부드럽게 들려요.
+      - who: A
+        textbook:
+          es: Sí. Hay un cajero en la avenida, al lado del banco.
+          ko: 네. 대로에 있는 은행 옆에 현금인출기가 있어요.
+        native:
+          es: Sí, sí. Mire, en la avenida tiene uno, justo al lado del banco.
+          ko: 네, 있어요. 보세요, 대로에 하나 있어요. 은행 바로 옆이에요.
+          note_ko: tiene uno는 ‘(가시면) 하나 있어요’라는 말투예요. justo는 ‘바로’예요.
+      - who: B
+        textbook:
+          es: ¿Está lejos?
+          ko: 멀어요?
+        native:
+          es: ¿Y eso queda muy lejos?
+          ko: 거기 많이 멀어요?
+          note_ko: quedar는 장소가 어디에 있는지, 얼마나 먼지 말할 때 많이 써요.
+      - who: A
+        textbook:
+          es: No, está muy cerca. Baje por esta calle y gire a la derecha en la segunda esquina.
+          ko: 아니요, 아주 가까워요. 이 길로 내려가서 두 번째 모퉁이에서 오른쪽으로 도세요.
+        native:
+          es: Qué va, está a dos minutos. Baje por esta calle y, en la segunda esquina, a la derecha.
+          ko: 아니요, 2분 거리예요. 이 길로 내려가서 두 번째 모퉁이에서 오른쪽이요.
+          note_ko: qué va는 ‘아니에요, 전혀요’예요. 길을 알려 줄 때는 gire를 빼기도 해요.
+      - who: B
+        textbook:
+          es: ¿En la esquina del semáforo?
+          ko: 신호등 있는 모퉁이요?
+        native:
+          es: ¿Donde está el semáforo?
+          ko: 신호등 있는 데요?
+          note_ko: 악센트 없는 donde는 ‘~하는 곳’이에요. ‘어디’를 묻는 dónde와 달라요.
+      - who: A
+        textbook:
+          es: Sí. Cruce por el paso de cebra. El banco está enfrente.
+          ko: 네. 횡단보도로 건너세요. 은행은 맞은편에 있어요.
+        native:
+          es: Eso. Cruce en el paso de cebra y lo tiene enfrente.
+          ko: 맞아요. 횡단보도에서 건너면 바로 맞은편에 있어요.
+          note_ko: eso는 ‘맞아요, 바로 그거예요’라는 맞장구예요. lo tiene enfrente는 ‘맞은편에 있어요’예요.
+      - who: B
+        textbook:
+          es: Muchas gracias. ¿Y hay una farmacia cerca?
+          ko: 고맙습니다. 그리고 근처에 약국도 있어요?
+        native:
+          es: Genial, gracias. Ah, ¿y una farmacia?
+          ko: 좋아요, 고마워요. 아, 약국은요?
+          note_ko: 앞 질문에 이어서 묻는 거라 명사만 말해도 뜻이 통해요.
+      - who: A
+        textbook:
+          es: Sí, hay una en la plaza, enfrente de la iglesia.
+          ko: 네, 광장에 하나 있어요. 성당 맞은편이에요.
+        native:
+          es: En la plaza hay una, enfrente de la iglesia. La verá por la cruz verde.
+          ko: 광장에 하나 있어요. 성당 맞은편이에요. 초록 십자가 보면 알 거예요.
+          note_ko: 스페인 약국은 대개 초록 십자 간판을 달고 있어요. verá는 ‘보실 거예요’예요.
+      - who: B
+        textbook:
+          es: Muchas gracias. Adiós.
+          ko: 정말 고맙습니다. 안녕히 계세요.
+        native:
+          es: ¡Muchísimas gracias!
+          ko: 정말 정말 고마워요!
+          note_ko: muchísimas는 muchas에 ‘아주’를 더한 말이에요.
+      - who: A
+        textbook:
+          es: De nada.
+          ko: 천만에요.
+        native:
+          es: De nada. ¡Que disfrute de Barcelona!
+          ko: 별말씀을요. 바르셀로나에서 즐겁게 지내세요!
+          note_ko: que 뒤에 접속법(disfrute)을 쓰면 ‘~하시길’ 하고 바라는 말이 돼요.
+  - id: d2
+    title_es: Quedar con una amiga
+    title_ko: 친구와 만나기로 했는데
+    setting_ko: 바르셀로나에 사는 친구 마르타와 통화해요. 시장 앞에서 만나기로 했는데 길을 헤매요.
+    roles:
+      A: {es: Marta, ko: 마르타}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: A
+        textbook:
+          es: Hola. ¿Dónde estás?
+          ko: 안녕. 너 어디야?
+        native:
+          es: ¡Oye! ¿Dónde andas?
+          ko: 야! 어디쯤이야?
+          note_ko: ¿dónde andas?는 친구끼리 ‘어디쯤이야?’ 하고 묻는 말이에요.
+      - who: B
+        textbook:
+          es: Estoy en una plaza pequeña. Hay una iglesia y muchos balcones.
+          ko: 작은 광장에 있어. 성당이 하나 있고 발코니가 많아.
+        native:
+          es: Pues no sé… En una plaza pequeñita, con una iglesia y balcones por todos lados.
+          ko: 글쎄, 잘 모르겠어… 조그만 광장인데, 성당이 있고 사방에 발코니야.
+          note_ko: -ito, -ita를 붙이면 ‘조그만’ 느낌이 나요. por todos lados는 ‘사방에’예요.
+      - who: A
+        textbook:
+          es: ¿Cómo se llama la plaza?
+          ko: 그 광장 이름이 뭐야?
+        native:
+          es: Vale, ¿y cómo se llama? Mira el nombre en la esquina.
+          ko: 알았어, 이름이 뭔데? 모퉁이에 있는 이름 좀 봐.
+          note_ko: 길과 광장 이름 표지판은 보통 건물 모퉁이 벽에 붙어 있어요.
+      - who: B
+        textbook:
+          es: No veo el nombre. Pero delante hay una farmacia y un banco.
+          ko: 이름은 안 보여. 그런데 앞에 약국이랑 은행이 있어.
+        native:
+          es: No lo veo, la verdad. Pero tengo una farmacia delante y un cajero al lado.
+          ko: 솔직히 안 보여. 근데 앞에 약국이 있고 옆에 현금인출기가 있어.
+          note_ko: la verdad를 문장 끝에 붙이면 ‘솔직히’라는 뜻이 돼요.
+      - who: A
+        textbook:
+          es: Bien. ¿Ves el mercado? Está al final de la calle.
+          ko: 좋아. 시장 보여? 길 끝에 있어.
+        native:
+          es: Vale. ¿Y ves un mercado grande al fondo de la calle?
+          ko: 알았어. 그럼 길 끝 쪽에 큰 시장 보여?
+          note_ko: al fondo de는 ‘~ 끝 쪽에, 안쪽에’예요.
+      - who: B
+        textbook:
+          es: Sí, lo veo. Hay mucha gente en la puerta.
+          ko: 응, 보여. 입구에 사람이 많아.
+        native:
+          es: ¡Sí! Uf, hay un montón de gente en la puerta.
+          ko: 응! 와, 입구에 사람 엄청 많다.
+          note_ko: un montón de는 ‘엄청 많은’이에요. 말할 때 아주 흔해요.
+      - who: A
+        textbook:
+          es: Bien. Camina hacia el mercado. Yo estoy en la esquina, delante de la tienda de flores.
+          ko: 좋아. 시장 쪽으로 걸어와. 나는 꽃집 앞 모퉁이에 있어.
+        native:
+          es: Pues ven hacia allí. Estoy en la esquina, delante de la floristería.
+          ko: 그럼 그쪽으로 와. 나 모퉁이에 있어, 꽃집 앞에.
+          note_ko: ven은 venir(오다)의 tú 명령이에요. floristería는 ‘꽃집’이에요.
+      - who: B
+        textbook:
+          es: Vale. Cruzo la calle y llego en cinco minutos.
+          ko: 알았어. 길 건너서 5분 안에 갈게.
+        native:
+          es: Vale, cruzo por el paso de cebra y voy. ¡Dame cinco minutos!
+          ko: 알았어, 횡단보도로 건너서 갈게. 5분만 줘!
+          note_ko: dame cinco minutos는 ‘5분만 줘’예요. 조금 늦을 때 자주 해요.
+      - who: A
+        textbook:
+          es: Muy bien. Hasta ahora.
+          ko: 좋아. 이따 봐.
+        native:
+          es: Venga, te espero. ¡Hasta ahora!
+          ko: 그래, 기다릴게. 좀 있다 봐!
+          note_ko: hasta ahora는 곧 다시 만날 사람에게 하는 인사예요.
+readings:
+  - id: r1
+    title_es: Un paseo por el Eixample
+    title_ko: 에이샴플레 산책
+    level: A1
+    paragraphs:
+      - es: Hoy es 8 de mayo y estoy en Barcelona. Por la mañana camino por el Eixample. Las calles son largas y rectas, y los edificios tienen balcones muy bonitos.
+        ko: 오늘은 5월 8일, 저는 바르셀로나에 있어요. 오전에 에이샴플레를 걸어요. 길은 길고 곧게 뻗어 있고, 건물에는 아주 예쁜 발코니가 있어요.
+      - es: Aquí las esquinas están cortadas, y por eso los cruces parecen pequeñas plazas. En cada esquina hay semáforos y pasos de cebra. Espero en la acera y cruzo con el semáforo en verde.
+        ko: 여기는 모퉁이가 비스듬히 잘려 있어서 교차로가 작은 광장처럼 보여요. 모퉁이마다 신호등과 횡단보도가 있어요. 인도에서 기다렸다가 초록불에 건너요.
+      - es: Al mediodía entro en un mercado del barrio. Compro fruta y agua. Después voy a un parque y como en un banco, a la sombra.
+        ko: 점심때 동네 시장에 들어가요. 과일과 물을 사요. 그다음 공원에 가서 그늘에 있는 벤치에서 먹어요.
+    questions:
+      - q_ko: 에이샴플레의 모퉁이는 어떻게 생겼나요?
+        choices_ko: [비스듬히 잘려 있다, 아주 좁다, 계단이 있다]
+        answer: 0
+      - q_ko: 글쓴이는 어디에서 점심을 먹었나요?
+        choices_ko: [시장 안 식당, 공원 벤치, 호텔 발코니]
+        answer: 1
+      - q_ko: 이 글에서 banco는 무슨 뜻인가요?
+        choices_ko: [은행, 벤치, 다리]
+        answer: 1
+  - id: r2
+    title_es: Una tarde en el barrio Gótico
+    title_ko: 고딕 지구에서 보낸 오후
+    level: A2
+    paragraphs:
+      - es: Por la tarde voy al barrio Gótico. Las calles son estrechas y hay muchas tiendas pequeñas. En una calle veo un puente de piedra entre dos edificios. Todo el mundo le hace fotos.
+        ko: 오후에는 고딕 지구에 가요. 길이 좁고 작은 가게가 많아요. 어느 길에서 두 건물 사이에 걸린 돌다리를 봐요. 다들 그 다리 사진을 찍어요.
+      - es: Necesito dinero, así que busco un cajero. Encuentro uno en una esquina, al lado de un banco. Después llego a una plaza grande. A un lado está el ayuntamiento de la ciudad.
+        ko: 돈이 필요해서 현금인출기를 찾아요. 어느 모퉁이에서 은행 옆에 있는 걸 찾아요. 그다음 넓은 광장에 도착해요. 광장 한쪽에 시청이 있어요.
+      - es: Al volver, me duele un poco la cabeza. Entro en una farmacia con una cruz verde. La farmacéutica me da unas pastillas y me lo explica todo despacio. ¡Qué amable!
+        ko: 돌아오는 길에 머리가 조금 아파요. 초록 십자가가 있는 약국에 들어가요. 약사가 알약을 주고 모든 걸 천천히 설명해 줘요. 정말 친절해요!
+    questions:
+      - q_ko: 시청은 어디에 있나요?
+        choices_ko: [시장 안, 넓은 광장 한쪽, 공원 옆]
+        answer: 1
+      - q_ko: 글쓴이는 왜 약국에 갔나요?
+        choices_ko: [머리가 조금 아파서, 물을 사려고, 길을 물으려고]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "adiós": {lemma: "adiós", ko: "안녕히 계세요", en: "goodbye", pron: "아**디오스**"}
+  "agua": {lemma: "agua", ko: "물", en: "water", pron: "**아**구아"}
+  "ah": {lemma: "ah", ko: "아(감탄)", en: "ah", pron: "**아**"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "al": {lemma: "a + el", ko: "~에, ~(으)로(a+el)", en: "to the", pron: "알"}
+  "algún": {lemma: "alguno", ko: "어떤(남성 단수, 명사 앞)", en: "any", pron: "알**군**"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "amable": {lemma: "amable", ko: "친절한", en: "kind", pron: "아**마**블레"}
+  "andas": {lemma: "andar", ko: "다니다, 있다(너는)", en: "you are (around)", pron: "**안**다스"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "así": {lemma: "así", ko: "그렇게(así que 그래서)", en: "so, like this", pron: "아**시**"}
+  "baje": {lemma: "bajar", ko: "내려가세요(usted 명령)", en: "go down (formal)", pron: "**바**헤"}
+  "balcones": {lemma: "balcón", ko: "발코니들", en: "balconies", pron: "발**꼬**네스"}
+  "barcelona": {lemma: "Barcelona", ko: "바르셀로나 (도시)", en: "Barcelona", pron: "바르셀**로**나"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "bonitos": {lemma: "bonito", ko: "예쁜(남성 복수)", en: "pretty", pron: "보**니**또스"}
+  "busco": {lemma: "buscar", ko: "찾다(나는)", en: "I look for", pron: "**부스**꼬"}
+  "cabeza": {lemma: "cabeza", ko: "머리", en: "head", pron: "까**베**사"}
+  "cada": {lemma: "cada", ko: "각각의", en: "each", pron: "**까**다"}
+  "calles": {lemma: "calle", ko: "거리들, 골목들", en: "streets", pron: "**까**예스"}
+  "camina": {lemma: "caminar", ko: "걸어와(tú 명령)", en: "walk", pron: "까**미**나"}
+  "camino": {lemma: "caminar", ko: "걷다(나는)", en: "I walk", pron: "까**미**노"}
+  "cerca": {lemma: "cerca", ko: "가까이", en: "near", pron: "**세르**까"}
+  "cinco": {lemma: "cinco", ko: "다섯", en: "five", pron: "**신**꼬"}
+  "ciudad": {lemma: "ciudad", ko: "도시", en: "city", pron: "시우**다드**"}
+  "como": {lemma: "comer", ko: "먹다(나는)", en: "I eat", pron: "**꼬**모"}
+  "compro": {lemma: "comprar", ko: "사다(나는)", en: "I buy", pron: "**꼼**쁘로"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "cortadas": {lemma: "cortar", ko: "잘린(여성 복수)", en: "cut", pron: "꼬르**따**다스"}
+  "cruce": {lemma: "cruzar", ko: "건너세요(usted 명령)", en: "cross (formal)", pron: "**끄루**세"}
+  "cruces": {lemma: "cruce", ko: "교차로들", en: "crossroads", pron: "**끄루**세스"}
+  "cruz": {lemma: "cruz", ko: "십자가", en: "cross", pron: "**끄루스**"}
+  "cruzo": {lemma: "cruzar", ko: "건너다(나는)", en: "I cross", pron: "**끄루**소"}
+  "cómo": {lemma: "cómo", ko: "어떻게", en: "how", pron: "**꼬**모"}
+  "da": {lemma: "dar", ko: "주다(그·그녀는)", en: "gives", pron: "**다**"}
+  "dame": {lemma: "dar", ko: "나한테 줘(tú 명령)", en: "give me", pron: "**다**메"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "delante": {lemma: "delante", ko: "앞에", en: "in front", pron: "델**란**떼"}
+  "derecha": {lemma: "derecha", ko: "오른쪽", en: "right", pron: "데**레**차"}
+  "despacio": {lemma: "despacio", ko: "천천히", en: "slowly", pron: "데스**빠**시오"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "dinero": {lemma: "dinero", ko: "돈", en: "money", pron: "디**네**로"}
+  "disfrute": {lemma: "disfrutar", ko: "즐기세요(usted 명령)", en: "enjoy (formal)", pron: "디스**프루**떼"}
+  "donde": {lemma: "donde", ko: "~하는 곳", en: "where", pron: "돈데"}
+  "dos": {lemma: "dos", ko: "둘", en: "two", pron: "**도스**"}
+  "duele": {lemma: "doler", ko: "아프다(그것이)", en: "hurts", pron: "**두엘**레"}
+  "dónde": {lemma: "dónde", ko: "어디", en: "where", pron: "**돈**데"}
+  "edificios": {lemma: "edificio", ko: "건물들", en: "buildings", pron: "에디**피**시오스"}
+  "eixample": {lemma: "Eixample", ko: "에이샴플레(바르셀로나의 구역 이름)", en: "Eixample", pron: "에이**샴**쁠레"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "encuentro": {lemma: "encontrar", ko: "찾다(나는)", en: "I find", pron: "엔**꾸엔**뜨로"}
+  "enfrente": {lemma: "enfrente", ko: "맞은편에", en: "opposite", pron: "엔**프렌**떼"}
+  "entre": {lemma: "entre", ko: "~ 사이에", en: "between, among", pron: "엔뜨레"}
+  "entro": {lemma: "entrar", ko: "들어가다(나는)", en: "I go in", pron: "**엔**뜨로"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "eso": {lemma: "eso", ko: "그것", en: "that", pron: "**에**소"}
+  "espero": {lemma: "esperar", ko: "기다리다(나는)", en: "I wait", pron: "에스**뻬**로"}
+  "esquinas": {lemma: "esquina", ko: "모퉁이들", en: "corners", pron: "에스**끼**나스"}
+  "esta": {lemma: "este", ko: "이(여성)", en: "this", pron: "**에스**따"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "estrechas": {lemma: "estrecho", ko: "좁은(여성 복수)", en: "narrow", pron: "에스**뜨레**차스"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "estás": {lemma: "estar", ko: "있다(너는)", en: "you are", pron: "에스**따스**"}
+  "explica": {lemma: "explicar", ko: "설명하다(그·그녀는)", en: "explains", pron: "엑스**쁠리**까"}
+  "farmacéutica": {lemma: "farmacéutico", ko: "약사(여성)", en: "pharmacist", pron: "파르마**세우**띠까"}
+  "final": {lemma: "final", ko: "끝", en: "end", pron: "피**날**"}
+  "flores": {lemma: "flor", ko: "꽃(복수)", en: "flowers", pron: "**플로**레스"}
+  "floristería": {lemma: "floristería", ko: "꽃집", en: "florist's", pron: "플로리스떼**리**아"}
+  "fondo": {lemma: "fondo", ko: "끝, 안쪽(al fondo de ~ 끝 쪽에)", en: "end, back", pron: "**폰**도"}
+  "fotos": {lemma: "foto", ko: "사진들", en: "photos", pron: "**포**또스"}
+  "fruta": {lemma: "fruta", ko: "과일", en: "fruit", pron: "**프루**따"}
+  "genial": {lemma: "genial", ko: "아주 좋은", en: "great", pron: "헤**니알**"}
+  "gente": {lemma: "gente", ko: "사람들", en: "people", pron: "**헨**떼"}
+  "gire": {lemma: "girar", ko: "도세요(usted 명령)", en: "turn (formal)", pron: "**히**레"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "gótico": {lemma: "gótico", ko: "고딕의(barrio Gótico 고딕 지구)", en: "Gothic", pron: "**고**띠꼬"}
+  "hace": {lemma: "hacer", ko: "하다(hacer fotos 사진을 찍다)", en: "does, makes", pron: "**아**세"}
+  "hacia": {lemma: "hacia", ko: "~ 쪽으로", en: "towards", pron: "아시아"}
+  "hasta": {lemma: "hasta", ko: "~까지(hasta luego 또 봐요)", en: "until", pron: "**아스**따"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "justo": {lemma: "justo", ko: "바로", en: "right, just", pron: "**후스**또"}
+  "lado": {lemma: "lado", ko: "옆(al lado: 옆에)", en: "side", pron: "**라**도"}
+  "lados": {lemma: "lado", ko: "쪽, 옆(por todos lados 사방에)", en: "sides", pron: "**라**도스"}
+  "largas": {lemma: "largo", ko: "긴(여성 복수)", en: "long", pron: "**라르**가스"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "le": {lemma: "le", ko: "당신에게", en: "you (formal), to you", pron: "레"}
+  "lejos": {lemma: "lejos", ko: "멀리", en: "far", pron: "**레**호스"}
+  "llama": {lemma: "llamar", ko: "불리다 (se llama: 이름이 ~이다)", en: "is called", pron: "**야**마"}
+  "llego": {lemma: "llegar", ko: "도착하다(나는)", en: "I arrive", pron: "**예**고"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "los": {lemma: "el", ko: "그(남성 복수 관사)", en: "the", pron: "로스"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "mediodía": {lemma: "mediodía", ko: "점심때, 정오", en: "midday", pron: "메디오**디**아"}
+  "minutos": {lemma: "minuto", ko: "분(복수)", en: "minutes", pron: "미**누**또스"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "mire": {lemma: "mirar", ko: "보세요(usted에게)", en: "look (formal)", pron: "**미**레"}
+  "montón": {lemma: "montón", ko: "더미(un montón de 엄청 많은)", en: "pile, loads", pron: "몬**똔**"}
+  "mucha": {lemma: "mucho", ko: "많은 (여성)", en: "a lot of", pron: "**무**차"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "muchos": {lemma: "mucho", ko: "많은(남성 복수)", en: "many", pron: "**무**초스"}
+  "muchísimas": {lemma: "mucho", ko: "정말 많은 (muchísimas gracias)", en: "very many", pron: "무**치**시마스"}
+  "mundo": {lemma: "mundo", ko: "세상(todo el mundo 모두)", en: "world", pron: "**문**도"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "necesito": {lemma: "necesitar", ko: "필요하다(나는)", en: "I need", pron: "네세**시**또"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "nombre": {lemma: "nombre", ko: "이름", en: "name", pron: "**놈**브레"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "parecen": {lemma: "parecer", ko: "~처럼 보이다 (그것들은)", en: "they seem", pron: "빠**레**센"}
+  "pasos": {lemma: "paso", ko: "걸음, 건널목(pasos de cebra 횡단보도들)", en: "crossings", pron: "**빠**소스"}
+  "pastillas": {lemma: "pastilla", ko: "알약들", en: "pills", pron: "빠스**띠**야스"}
+  "pequeña": {lemma: "pequeño", ko: "작은(여성)", en: "small", pron: "뻬**께**냐"}
+  "pequeñas": {lemma: "pequeño", ko: "작은(여성 복수)", en: "small", pron: "뻬**께**냐스"}
+  "pequeñita": {lemma: "pequeño", ko: "아주 작은(여성)", en: "tiny", pron: "뻬께**니**따"}
+  "perdone": {lemma: "perdonar", ko: "실례합니다 (usted)", en: "excuse me", pron: "뻬르**도**네"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "piedra": {lemma: "piedra", ko: "돌", en: "stone", pron: "**삐에**드라"}
+  "plazas": {lemma: "plaza", ko: "광장들", en: "squares", pron: "**쁠라**사스"}
+  "poco": {lemma: "poco", ko: "조금(un poco)", en: "a little", pron: "**뽀**꼬"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "puerta": {lemma: "puerta", ko: "문, 입구", en: "door, entrance", pron: "**뿌에르**따"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "que": {lemma: "que", ko: "~하는; ~거든요(이유)", en: "that; because", pron: "께"}
+  "queda": {lemma: "quedar", ko: "(어디에) 있다, 떨어져 있다", en: "is (located)", pron: "**께**다"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "rectas": {lemma: "recto", ko: "곧은(여성 복수)", en: "straight", pron: "**렉**따스"}
+  "sabe": {lemma: "saber", ko: "알다(당신은)", en: "you know (formal)", pron: "**사**베"}
+  "se": {lemma: "se", ko: "재귀·수동을 나타내는 말(se sirve 나오다)", en: "itself; (passive)", pron: "세"}
+  "segunda": {lemma: "segundo", ko: "두 번째(여성)", en: "second", pron: "세**군**다"}
+  "semáforos": {lemma: "semáforo", ko: "신호등들", en: "traffic lights", pron: "세**마**포로스"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "sombra": {lemma: "sombra", ko: "그늘", en: "shade", pron: "**솜**브라"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "sé": {lemma: "saber", ko: "알다(나는)", en: "I know", pron: "**세**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tengo": {lemma: "tener", ko: "가지고 있다(나는)", en: "I have", pron: "**뗑**고"}
+  "tiendas": {lemma: "tienda", ko: "가게들", en: "shops", pron: "**띠엔**다스"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienen": {lemma: "tener", ko: "가지고 있다(그것들은)", en: "they have", pron: "**띠에**넨"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "todos": {lemma: "todo", ko: "모든(por todos lados 사방에)", en: "all", pron: "**또**도스"}
+  "uf": {lemma: "uf", ko: "와, 휴(감탄)", en: "phew, wow", pron: "**우프**"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "unas": {lemma: "una", ko: "몇 개의(여성 복수)", en: "some", pron: "우나스"}
+  "uno": {lemma: "uno", ko: "하나", en: "one", pron: "**우**노"}
+  "va": {lemma: "ir", ko: "가다(va a ~할 것이다)", en: "goes; is going to", pron: "**바**"}
+  "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "ven": {lemma: "venir", ko: "와(tú 명령)", en: "come", pron: "**벤**"}
+  "venga": {lemma: "venga", ko: "그래, 자(재촉)", en: "come on, OK", pron: "**벵**가"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I see", pron: "**베**오"}
+  "verdad": {lemma: "verdad", ko: "사실(la verdad 솔직히)", en: "truth", pron: "베르**다드**"}
+  "verde": {lemma: "verde", ko: "초록색의", en: "green", pron: "**베르**데"}
+  "verá": {lemma: "ver", ko: "보실 거예요(당신은, 미래)", en: "you will see (formal)", pron: "베**라**"}
+  "ves": {lemma: "ver", ko: "보다 (너는)", en: "you see", pron: "**베스**"}
+  "volver": {lemma: "volver", ko: "돌아가다(al volver 돌아오는 길에)", en: "to return", pron: "볼**베르**"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "yo": {lemma: "yo", ko: "나", en: "I", pron: "**요**"}

@@ -1,0 +1,386 @@
+schema_version: 1
+chapter: 23
+dialogues:
+  - id: d1
+    title_es: Probarse una chaqueta
+    title_ko: 재킷 입어 보기
+    setting_ko: 바르셀로나 그라시아 거리의 옷 가게. 쇼윈도에서 본 재킷을 입어 보려고 해요.
+    roles:
+      A: {es: Dependiente, ko: 점원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: A
+        textbook:
+          es: Hola, buenas tardes. ¿Le puedo ayudar?
+          ko: 안녕하세요. 도와드릴까요?
+        native:
+          es: ¡Hola! ¿Te ayudo con algo o solo estás mirando?
+          ko: 안녕하세요! 도와드릴까요, 아니면 그냥 구경하세요?
+          note_ko: 옷 가게 점원은 처음 보는 손님에게도 tú로 말하는 일이 많아요.
+      - who: B
+        textbook:
+          es: Sí. Quiero probarme esta chaqueta.
+          ko: 네. 이 재킷을 입어 보고 싶어요.
+        native:
+          es: Sí, ¿me puedo probar esta chaqueta?
+          ko: 네, 이 재킷 입어 봐도 돼요?
+          note_ko: probarse는 ‘입어 보다’예요. me는 앞에 둬도, probarme처럼 붙여도 돼요.
+      - who: A
+        textbook:
+          es: Claro. ¿Qué talla tiene?
+          ko: 그럼요. 사이즈가 어떻게 되세요?
+        native:
+          es: Claro. ¿Qué talla gastas? ¿Una M?
+          ko: 그럼요. 사이즈 뭐 입으세요? M이요?
+          note_ko: gastar는 원래 ‘쓰다’인데, 스페인에서는 사이즈를 물을 때도 써요.
+      - who: B
+        textbook:
+          es: Una M. ¿Dónde está el probador?
+          ko: M이요. 탈의실은 어디 있어요?
+        native:
+          es: Una M, creo. ¿Y los probadores?
+          ko: 아마 M일 거예요. 탈의실은요?
+          note_ko: 묻고 싶은 것만 말끝을 올려 짧게 물어요.
+      - who: A
+        textbook:
+          es: Está al fondo, a la derecha.
+          ko: 안쪽 끝, 오른쪽에 있어요.
+        native:
+          es: Al fondo a la derecha. Cualquier cosa, me dices.
+          ko: 안쪽 끝 오른쪽이에요. 필요한 거 있으면 말씀하세요.
+          note_ko: cualquier cosa, me dices는 ‘필요하면 불러요’라는 인사말이에요.
+      - who: B
+        textbook:
+          es: Me queda pequeña. ¿La tiene en una talla más grande?
+          ko: 저한테 작아요. 더 큰 사이즈 있어요?
+        native:
+          es: Oye, me queda un poco justa. ¿La tienes en una L?
+          ko: 저기요, 좀 끼네요. L 사이즈 있어요?
+          note_ko: me queda는 ‘나한테 (어떻게) 맞다’예요. justo는 옷이 ‘꼭 끼다’라는 뜻이에요.
+      - who: A
+        textbook:
+          es: Sí, aquí tiene una L. También la tenemos en azul.
+          ko: 네, L 여기 있어요. 파란색도 있어요.
+        native:
+          es: Sí, toma. Y mira, también la tengo en azul, por si acaso.
+          ko: 네, 여기요. 그리고 혹시 몰라서요, 파란색도 있어요.
+          note_ko: por si acaso는 ‘혹시 모르니까’예요.
+      - who: B
+        textbook:
+          es: Esta talla me queda bien. Me la llevo en negro.
+          ko: 이 사이즈는 잘 맞아요. 검은색으로 살게요.
+        native:
+          es: Esta sí. Me la llevo, pero en negro.
+          ko: 이건 맞네요. 이걸로 할게요. 근데 검은색으로요.
+          note_ko: me la llevo는 ‘(그걸) 살게요’예요. la는 la chaqueta를 가리켜요.
+      - who: A
+        textbook:
+          es: Perfecto. Puede pagar en la caja.
+          ko: 좋아요. 계산대에서 계산하시면 돼요.
+        native:
+          es: Genial. Pues te la llevo a la caja.
+          ko: 좋아요. 그럼 계산대로 갖다드릴게요.
+          note_ko: te la llevo는 ‘그걸 갖다줄게’예요. 대명사 두 개가 동사 앞에 와요.
+  - id: d2
+    title_es: ¿Qué me pongo mañana?
+    title_ko: 내일 뭐 입지?
+    setting_ko: 바르셀로나의 숙소. 내일 도노스티아로 떠나기 전에 친구와 짐을 싸요.
+    roles:
+      A: {es: Amiga, ko: 친구}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Mañana vamos a Donostia. ¿Qué ropa me pongo?
+          ko: 내일 도노스티아에 가잖아. 무슨 옷을 입을까?
+        native:
+          es: Oye, mañana a Donostia, ¿no? ¿Qué me pongo?
+          ko: 있잖아, 내일 도노스티아 가지? 뭐 입지?
+          note_ko: ¿qué me pongo?는 ‘뭐 입지?’예요. ropa는 빼도 뜻이 통해요.
+      - who: A
+        textbook:
+          es: Allí llueve bastante. Ponte las botas.
+          ko: 거기는 비가 꽤 와. 부츠 신어.
+        native:
+          es: Allí llueve un montón. Yo me pondría las botas, ¿eh?
+          ko: 거긴 비가 엄청 와. 나라면 부츠 신겠어.
+          note_ko: me pondría는 ‘나라면 ~하겠어’예요. 조언할 때 부드럽게 들려요.
+      - who: B
+        textbook:
+          es: ¿Las botas? Pero estamos en mayo.
+          ko: 부츠? 그래도 5월인데.
+        native:
+          es: ¿Las botas? ¡Pero si estamos en mayo!
+          ko: 부츠? 아니, 지금 5월이잖아!
+          note_ko: pero si…는 ‘아니, ~잖아’ 하고 놀라거나 반박할 때 써요.
+      - who: A
+        textbook:
+          es: Sí, pero en el norte hace fresco. Lleva también una chaqueta.
+          ko: 응, 그래도 북쪽은 쌀쌀해. 재킷도 챙겨.
+        native:
+          es: Ya, pero en el norte refresca. Mete una chaqueta en la maleta, por si acaso.
+          ko: 알아, 근데 북쪽은 쌀쌀해. 혹시 모르니까 재킷 하나 가방에 넣어.
+          note_ko: 여기서 ya는 ‘그건 알아’라는 맞장구예요. refrescar는 ‘쌀쌀해지다’예요.
+      - who: B
+        textbook:
+          es: Vale. ¿Y los zapatos? Solo tengo estos.
+          ko: 알았어. 신발은? 이것밖에 없는데.
+        native:
+          es: Vale, vale. ¿Y de zapatos? Solo tengo estos.
+          ko: 알았어, 알았어. 신발은? 이것밖에 없어.
+          note_ko: vale를 두 번 말하면 ‘알았어, 알았다고’처럼 들려요.
+      - who: A
+        textbook:
+          es: Esos zapatos son bonitos, pero no son para la lluvia.
+          ko: 그 신발 예쁘긴 한데 비 올 때 신을 건 아니야.
+        native:
+          es: Esos son monísimos, pero con lluvia, fatal.
+          ko: 그거 진짜 예쁜데 비 오면 최악이야.
+          note_ko: monísimo는 mono(귀여운)를 강조한 말이에요. fatal은 ‘엉망, 최악’이에요.
+      - who: B
+        textbook:
+          es: Entonces voy a comprar unas botas esta tarde.
+          ko: 그럼 오늘 오후에 부츠를 사러 갈게.
+        native:
+          es: Pues nada, esta tarde me compro unas botas.
+          ko: 그럼 뭐, 오늘 오후에 부츠 하나 사야겠다.
+          note_ko: pues nada는 ‘그럼 뭐 어쩔 수 없지’ 하고 마음을 정할 때 써요.
+      - who: A
+        textbook:
+          es: Buena idea. En el Passeig de Gràcia hay muchas tiendas.
+          ko: 좋은 생각이야. 그라시아 거리에 가게가 많아.
+        native:
+          es: ¡Eso! Te acompaño, que yo también quiero mirar bolsos.
+          ko: 그거야! 같이 가 줄게. 나도 핸드백 구경하고 싶거든.
+          note_ko: ¡eso!는 ‘바로 그거야’라는 맞장구예요. 여기서 que는 이유를 덧붙여요.
+      - who: B
+        textbook:
+          es: Perfecto. Vamos después de comer.
+          ko: 좋아. 점심 먹고 가자.
+        native:
+          es: Hecho. Después de comer, ¿vale?
+          ko: 좋아. 점심 먹고 가자, 응?
+          note_ko: hecho는 ‘좋아, 그렇게 하자’라는 짧은 대답이에요.
+readings:
+  - id: r1
+    title_es: Escaparates de Gràcia
+    title_ko: 그라시아 거리의 쇼윈도
+    level: A1
+    paragraphs:
+      - es: Hoy es 9 de mayo y estoy en Barcelona. Paseo por el Passeig de Gràcia y miro los escaparates.
+        ko: 오늘은 5월 9일, 저는 바르셀로나에 있어요. 그라시아 거리를 걸으며 쇼윈도를 구경해요.
+      - es: En un escaparate hay un vestido rojo, una falda, camisetas de rayas y un abrigo largo. En otro hay zapatos, botas y bolsos. Todo es muy bonito, pero también caro.
+        ko: 한 쇼윈도에는 빨간 원피스, 치마, 줄무늬 티셔츠, 긴 외투가 있어요. 다른 쇼윈도에는 신발, 부츠, 핸드백이 있어요. 다 예쁘지만 비싸기도 해요.
+      - es: Al final entro en una tienda pequeña y me compro una gorra y unos calcetines. Mañana voy a Donostia y allí llueve mucho. ¡Necesito unas botas!
+        ko: 결국 작은 가게에 들어가 야구 모자와 양말을 사요. 내일은 도노스티아에 가는데 거기는 비가 많이 와요. 부츠가 필요해요!
+    questions:
+      - q_ko: 글쓴이는 어디를 걸었나요?
+        choices_ko: [그라시아 거리, 해변, 시장]
+        answer: 0
+      - q_ko: 글쓴이는 작은 가게에서 무엇을 샀나요?
+        choices_ko: [원피스와 치마, 야구 모자와 양말, 부츠와 핸드백]
+        answer: 1
+      - q_ko: 글쓴이는 왜 부츠가 필요한가요?
+        choices_ko: [부츠가 싸서, 선물하려고, 내일 갈 도노스티아에 비가 많이 와서]
+        answer: 2
+  - id: r2
+    title_es: Un botón perdido
+    title_ko: 잃어버린 단추
+    level: A2
+    paragraphs:
+      - es: Esta mañana, al ponerme la camisa, se me ha caído un botón. Lo busco por toda la habitación, pero no lo encuentro.
+        ko: 오늘 아침 셔츠를 입다가 단추가 하나 떨어졌어요. 방 안을 다 찾아보지만 보이지 않아요.
+      - es: En la recepción del hotel me dan una aguja, hilo y un botón parecido. No sé coser muy bien, pero en diez minutos el botón está otra vez en su sitio.
+        ko: 호텔 프런트에서 바늘과 실, 비슷한 단추 하나를 줘요. 바느질은 잘 못하지만 10분 만에 단추가 다시 제자리에 붙어요.
+      - es: Por la tarde me pongo la camisa con el pantalón negro y la chaqueta, y salgo a cenar. Nadie ve el botón nuevo, pero yo sí.
+        ko: 저녁에는 그 셔츠에 검은 바지와 재킷을 입고 저녁을 먹으러 나가요. 새 단추를 알아보는 사람은 없지만 저는 알아요.
+    questions:
+      - q_ko: 아침에 무슨 일이 있었나요?
+        choices_ko: [셔츠 단추가 떨어졌다, 재킷을 잃어버렸다, 바지가 찢어졌다]
+        answer: 0
+      - q_ko: 호텔 프런트에서 무엇을 줬나요?
+        choices_ko: [새 셔츠, 바늘과 실과 단추, 지도]
+        answer: 1
+      - q_ko: 단추를 다는 데 시간이 얼마나 걸렸나요?
+        choices_ko: [한 시간, 30분, 10분]
+        answer: 2
+glossary:
+  "a": {lemma: "a", ko: "~에, ~(으)로, ~에게", en: "to", pron: "아"}
+  "acaso": {lemma: "acaso", ko: "혹시(por si acaso 혹시 모르니까)", en: "perhaps (just in case)", pron: "아**까**소"}
+  "acompaño": {lemma: "acompañar", ko: "같이 가 주다(나는)", en: "I go with (you)", pron: "아꼼**빠**뇨"}
+  "aguja": {lemma: "aguja", ko: "바늘", en: "needle", pron: "아**구**하"}
+  "al": {lemma: "a + el", ko: "~에게, ~(으)로(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "ayudar": {lemma: "ayudar", ko: "돕다", en: "to help", pron: "아유**다르**"}
+  "ayudo": {lemma: "ayudar", ko: "돕다(나는)", en: "I help", pron: "아**유**도"}
+  "azul": {lemma: "azul", ko: "파란", en: "blue", pron: "아**술**"}
+  "barcelona": {lemma: "Barcelona", ko: "바르셀로나 (도시)", en: "Barcelona", pron: "바르셀**로**나"}
+  "bastante": {lemma: "bastante", ko: "꽤", en: "quite a lot", pron: "바스**딴**떼"}
+  "bien": {lemma: "bien", ko: "잘, 좋게", en: "well", pron: "**비엔**"}
+  "bolsos": {lemma: "bolso", ko: "핸드백(복수)", en: "handbags", pron: "**볼**소스"}
+  "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
+  "bonitos": {lemma: "bonito", ko: "예쁜(남성 복수)", en: "pretty", pron: "보**니**또스"}
+  "buena": {lemma: "bueno", ko: "좋은(여성)", en: "good", pron: "**부에**나"}
+  "buenas": {lemma: "bueno", ko: "좋은(여성 복수)", en: "good", pron: "**부에**나스"}
+  "busco": {lemma: "buscar", ko: "찾다(나는)", en: "I look for", pron: "**부스**꼬"}
+  "caja": {lemma: "caja", ko: "계산대", en: "till, checkout", pron: "**까**하"}
+  "camisetas": {lemma: "camiseta", ko: "티셔츠(복수)", en: "T-shirts", pron: "까미**세**따스"}
+  "caro": {lemma: "caro", ko: "비싼", en: "expensive", pron: "**까**로"}
+  "caído": {lemma: "caer", ko: "떨어진(완료)", en: "fallen", pron: "까**이**도"}
+  "cenar": {lemma: "cenar", ko: "저녁을 먹다", en: "to have dinner", pron: "세**나르**"}
+  "claro": {lemma: "claro", ko: "물론이죠", en: "of course", pron: "**끌라**로"}
+  "comer": {lemma: "comer", ko: "먹다, 점심을 먹다", en: "to eat, to have lunch", pron: "꼬**메르**"}
+  "comprar": {lemma: "comprar", ko: "사다", en: "to buy", pron: "꼼**쁘라르**"}
+  "compro": {lemma: "comprar", ko: "사다(나는)", en: "I buy", pron: "**꼼**쁘로"}
+  "con": {lemma: "con", ko: "~와 함께, ~을 넣은", en: "with", pron: "꼰"}
+  "cosa": {lemma: "cosa", ko: "것, 일", en: "thing", pron: "**꼬**사"}
+  "coser": {lemma: "coser", ko: "바느질하다", en: "to sew", pron: "꼬**세르**"}
+  "creo": {lemma: "creer", ko: "생각하다(나는)", en: "I think", pron: "**끄레**오"}
+  "cualquier": {lemma: "cualquiera", ko: "어떤 ~이든(cualquier cosa 뭐든)", en: "any", pron: "꾸알**끼에르**"}
+  "dan": {lemma: "dar", ko: "주다(그들은)", en: "they give", pron: "**단**"}
+  "de": {lemma: "de", ko: "~의, ~으로 만든", en: "of", pron: "데"}
+  "del": {lemma: "de + el", ko: "~의, ~에서(de+el)", en: "of the, from the", pron: "델"}
+  "derecha": {lemma: "derecha", ko: "오른쪽(a la derecha 오른쪽에)", en: "right", pron: "데**레**차"}
+  "después": {lemma: "después", ko: "나중에, 그다음에", en: "later, after", pron: "데스**뿌에스**"}
+  "dices": {lemma: "decir", ko: "말하다(너는), me dices 나한테 말해", en: "you tell", pron: "**디**세스"}
+  "diez": {lemma: "diez", ko: "10, 열", en: "ten", pron: "**디에스**"}
+  "donostia": {lemma: "Donostia", ko: "도노스티아(산세바스티안)", en: "Donostia (San Sebastián)", pron: "도**노스**띠아"}
+  "dónde": {lemma: "dónde", ko: "어디", en: "where", pron: "**돈**데"}
+  "eh": {lemma: "eh", ko: "응?, 알았지?", en: "eh?", pron: "**에**"}
+  "en": {lemma: "en", ko: "~에, ~에서", en: "in, at", pron: "엔"}
+  "encuentro": {lemma: "encontrar", ko: "찾다(나는)", en: "I find", pron: "엔**꾸엔**뜨로"}
+  "entonces": {lemma: "entonces", ko: "그럼", en: "then", pron: "엔**똔**세스"}
+  "entro": {lemma: "entrar", ko: "들어가다(나는)", en: "I go in", pron: "**엔**뜨로"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "is", pron: "**에스**"}
+  "escaparate": {lemma: "escaparate", ko: "쇼윈도", en: "shop window", pron: "에스까빠**라**떼"}
+  "escaparates": {lemma: "escaparate", ko: "쇼윈도(복수)", en: "shop windows", pron: "에스까빠**라**떼스"}
+  "eso": {lemma: "eso", ko: "그것", en: "that", pron: "**에**소"}
+  "esos": {lemma: "ese", ko: "그, 저 (남성 복수)", en: "those", pron: "**에**소스"}
+  "esta": {lemma: "este", ko: "이(여성); 이것", en: "this; this one", pron: "**에스**따"}
+  "estamos": {lemma: "estar", ko: "있다(우리는), estamos en mayo 지금은 5월이다", en: "we are", pron: "에스**따**모스"}
+  "estos": {lemma: "este", ko: "이것들(남성 복수)", en: "these", pron: "**에스**또스"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "estás": {lemma: "estar", ko: "있다(너는)", en: "you are", pron: "에스**따스**"}
+  "fatal": {lemma: "fatal", ko: "엉망, 최악(구어)", en: "awful", pron: "파**딸**"}
+  "final": {lemma: "final", ko: "끝", en: "end", pron: "피**날**"}
+  "fondo": {lemma: "fondo", ko: "안쪽(al fondo 안쪽 끝에)", en: "back", pron: "**폰**도"}
+  "fresco": {lemma: "fresco", ko: "선선한(hace fresco 쌀쌀하다)", en: "cool", pron: "**프레스**꼬"}
+  "gastas": {lemma: "gastar", ko: "쓰다; (사이즈를) 입다(너는, 구어)", en: "you wear (size)", pron: "**가스**따스"}
+  "genial": {lemma: "genial", ko: "최고, 아주 좋아요", en: "great", pron: "헤**니알**"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "gràcia": {lemma: "Gràcia", ko: "그라시아(Passeig de Gràcia 그라시아 거리)", en: "Gràcia", pron: "**그라**시아"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "habitación": {lemma: "habitación", ko: "방, 객실", en: "room", pron: "아비따**시온**"}
+  "hace": {lemma: "hacer", ko: "(날씨가) ~하다", en: "it makes (weather)", pron: "**아**세"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is, there are", pron: "**아이**"}
+  "hecho": {lemma: "hacer", ko: "좋아, 그렇게 하자", en: "deal, done", pron: "**에**초"}
+  "hilo": {lemma: "hilo", ko: "실", en: "thread", pron: "**일**로"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hotel": {lemma: "hotel", ko: "호텔", en: "hotel", pron: "오**뗄**"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "idea": {lemma: "idea", ko: "생각, 아이디어", en: "idea", pron: "이**데**아"}
+  "justa": {lemma: "justo", ko: "(옷이) 꼭 끼는(여성)", en: "tight", pron: "**후스**따"}
+  "l": {lemma: "L", ko: "L 사이즈", en: "L (large)", pron: "**엘**레"}
+  "largo": {lemma: "largo", ko: "긴", en: "long", pron: "**라르**고"}
+  "le": {lemma: "le", ko: "당신을, 당신에게", en: "you (formal)", pron: "레"}
+  "lleva": {lemma: "llevar", ko: "챙겨 가(tú 명령)", en: "take (with you)", pron: "**예**바"}
+  "llevo": {lemma: "llevar", ko: "사 가다; 갖다주다(나는)", en: "I take; I bring", pron: "**예**보"}
+  "llueve": {lemma: "llover", ko: "비가 오다", en: "it rains", pron: "**유에**베"}
+  "lluvia": {lemma: "lluvia", ko: "비", en: "rain", pron: "**유**비아"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "m": {lemma: "M", ko: "M 사이즈", en: "M (medium)", pron: "**에**메"}
+  "maleta": {lemma: "maleta", ko: "여행 가방", en: "suitcase", pron: "말**레**따"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침, 오전 / 내일(pasado mañana 모레)", en: "morning / tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나에게", en: "me, to me", pron: "메"}
+  "mete": {lemma: "meter", ko: "넣어(tú 명령)", en: "put in", pron: "**메**떼"}
+  "minutos": {lemma: "minuto", ko: "분", en: "minutes", pron: "미**누**또스"}
+  "mira": {lemma: "mirar", ko: "봐요(tú에게)", en: "look", pron: "**미**라"}
+  "mirando": {lemma: "mirar", ko: "구경하는 중(진행형)", en: "looking", pron: "미**란**도"}
+  "mirar": {lemma: "mirar", ko: "보다, 구경하다", en: "to look at", pron: "미**라르**"}
+  "miro": {lemma: "mirar", ko: "보다(나는)", en: "I look at", pron: "**미**로"}
+  "montón": {lemma: "montón", ko: "더미(un montón 엄청 많이)", en: "a lot", pron: "몬**똔**"}
+  "monísimos": {lemma: "mono", ko: "정말 예쁜(남성 복수, 강조)", en: "really cute", pron: "모**니**시모스"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mucho": {lemma: "mucho", ko: "많이, 많은 것", en: "a lot", pron: "**무**초"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "nada": {lemma: "nada", ko: "아무것도(pues nada 그럼 뭐)", en: "nothing", pron: "**나**다"}
+  "nadie": {lemma: "nadie", ko: "아무도", en: "nobody", pron: "**나**디에"}
+  "necesito": {lemma: "necesitar", ko: "필요하다(나는)", en: "I need", pron: "네세**시**또"}
+  "negro": {lemma: "negro", ko: "검은색, 검은", en: "black", pron: "**네**그로"}
+  "no": {lemma: "no", ko: "아니요", en: "no", pron: "**노**"}
+  "norte": {lemma: "norte", ko: "북쪽", en: "north", pron: "**노르**떼"}
+  "nuevo": {lemma: "nuevo", ko: "새", en: "new", pron: "**누에**보"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "pagar": {lemma: "pagar", ko: "계산하다, 내다", en: "to pay", pron: "빠**가르**"}
+  "para": {lemma: "para", ko: "~을 위해, ~에게는", en: "for", pron: "빠라"}
+  "parecido": {lemma: "parecido", ko: "비슷한", en: "similar", pron: "빠레**시**도"}
+  "paseo": {lemma: "pasear", ko: "산책하다, 거닐다(나는)", en: "I stroll", pron: "빠**세**오"}
+  "passeig": {lemma: "Passeig", ko: "거리, 산책로(카탈루냐어, Passeig de Gràcia)", en: "avenue (Catalan)", pron: "빠**세치**"}
+  "pequeña": {lemma: "pequeño", ko: "작은(여성)", en: "small", pron: "뻬**께**냐"}
+  "perfecto": {lemma: "perfecto", ko: "좋아요, 완벽한", en: "perfect", pron: "뻬르**펙**또"}
+  "pero": {lemma: "pero", ko: "하지만, 그런데", en: "but", pron: "뻬로"}
+  "poco": {lemma: "poco", ko: "조금", en: "a little", pron: "**뽀**꼬"}
+  "pondría": {lemma: "poner", ko: "입겠다, 신겠다(나라면)", en: "I would put on", pron: "뽄**드리**아"}
+  "ponerme": {lemma: "ponerse", ko: "(내가) 입다", en: "to put on (myself)", pron: "뽀**네르**메"}
+  "pongo": {lemma: "poner", ko: "입다(me pongo, 나는)", en: "I put on", pron: "**뽕**고"}
+  "ponte": {lemma: "ponerse", ko: "입어, 신어(tú 명령)", en: "put on", pron: "**뽄**떼"}
+  "por": {lemma: "por", ko: "~으로, ~에(por favor, por la noche)", en: "by, for, in", pron: "뽀르"}
+  "probador": {lemma: "probador", ko: "탈의실", en: "fitting room", pron: "쁘로바**도르**"}
+  "probadores": {lemma: "probador", ko: "탈의실(복수)", en: "fitting rooms", pron: "쁘로바**도**레스"}
+  "probar": {lemma: "probar", ko: "입어 보다(me puedo probar)", en: "to try on", pron: "쁘로**바르**"}
+  "probarme": {lemma: "probarse", ko: "(내가) 입어 보다", en: "to try on (myself)", pron: "쁘로**바르**메"}
+  "puede": {lemma: "poder", ko: "할 수 있다(당신은)", en: "you can (formal)", pron: "**뿌에**데"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "que": {lemma: "que", ko: "~라고, ~거든요, (que vaya bien) ~하기를", en: "that, because", pron: "께"}
+  "queda": {lemma: "quedar", ko: "(옷이) 맞다(그것이), me queda pequeña 나한테 작아요", en: "fits", pron: "**께**다"}
+  "quiero": {lemma: "querer", ko: "원하다(나는)", en: "I want", pron: "**끼에**로"}
+  "qué": {lemma: "qué", ko: "무엇, 얼마나(감탄)", en: "what, how", pron: "**께**"}
+  "rayas": {lemma: "raya", ko: "줄무늬(de rayas 줄무늬의)", en: "stripes", pron: "**라**야스"}
+  "recepción": {lemma: "recepción", ko: "프런트, 접수처", en: "reception", pron: "레셉**시온**"}
+  "refresca": {lemma: "refrescar", ko: "쌀쌀해지다", en: "it gets cool", pron: "레**프레스**까"}
+  "rojo": {lemma: "rojo", ko: "빨간", en: "red", pron: "**로**호"}
+  "ropa": {lemma: "ropa", ko: "옷", en: "clothes", pron: "**로**빠"}
+  "salgo": {lemma: "salir", ko: "나가다(나는)", en: "I go out", pron: "**살**고"}
+  "se": {lemma: "se", ko: "자기를(재귀 대명사)", en: "itself", pron: "세"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "sitio": {lemma: "sitio", ko: "자리(en su sitio 제자리에)", en: "place", pron: "**시**띠오"}
+  "solo": {lemma: "solo", ko: "~만", en: "only", pron: "**솔**로"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "su": {lemma: "su", ko: "그것의(en su sitio 제자리에)", en: "its", pron: "수"}
+  "sé": {lemma: "saber", ko: "알다(나는)", en: "I know", pron: "**세**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "talla": {lemma: "talla", ko: "사이즈", en: "size", pron: "**따**야"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "tardes": {lemma: "tarde", ko: "오후(buenas tardes: 오후 인사)", en: "afternoons", pron: "**따르**데스"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tenemos": {lemma: "tener", ko: "가지다 (우리는)", en: "we have", pron: "떼**네**모스"}
+  "tengo": {lemma: "tener", ko: "가지고 있다(나는)", en: "I have", pron: "**뗑**고"}
+  "tienda": {lemma: "tienda", ko: "가게", en: "shop", pron: "**띠엔**다"}
+  "tiendas": {lemma: "tienda", ko: "가게(복수)", en: "shops", pron: "**띠엔**다스"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienes": {lemma: "tener", ko: "있다, 가지다(너는)", en: "you have", pron: "**띠에**네스"}
+  "toda": {lemma: "todo", ko: "모든, 전체(toda la habitación 방 전체)", en: "the whole", pron: "**또**다"}
+  "todo": {lemma: "todo", ko: "모든 것", en: "everything", pron: "**또**도"}
+  "toma": {lemma: "tomar", ko: "여기요(받아)", en: "here you are", pron: "**또**마"}
+  "un": {lemma: "uno", ko: "하나의(남성)", en: "a, one", pron: "운"}
+  "una": {lemma: "uno", ko: "하나의(여성)", en: "a, one", pron: "우나"}
+  "unas": {lemma: "una", ko: "몇 개의(여성 복수)", en: "some", pron: "우나스"}
+  "unos": {lemma: "uno", ko: "몇몇의(남성 복수)", en: "some, a few", pron: "우노스"}
+  "vale": {lemma: "valer", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "vamos": {lemma: "ir", ko: "가자, 가다 (우리는)", en: "let's go", pron: "**바**모스"}
+  "ve": {lemma: "ver", ko: "보다(그·그녀·누구는)", en: "sees", pron: "**베**"}
+  "vez": {lemma: "vez", ko: "번(otra vez 다시)", en: "time (again)", pron: "**베스**"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고, ~와", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "그건 알아(맞장구); 이미", en: "I know; already", pron: "**야**"}
+  "yo": {lemma: "yo", ko: "나", en: "I", pron: "**요**"}

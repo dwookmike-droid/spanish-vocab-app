@@ -22,6 +22,7 @@ import hashlib
 import json
 import re
 import shutil
+import subprocess
 import sys
 import zipfile
 from pathlib import Path
@@ -30,7 +31,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[2]
 APP = ROOT / "webapp"
-CHAPTERS = [1, 2, 3, 4, 5, 6, 7, 8, 11]
+CHAPTERS = list(range(1, 25))   # every chapter that has es/chNN/text/chNN_text.yaml
 V6_WEB = ROOT / "design/deliverables/v6/web"
 VOICE_DIR = APP / "content/audio"         # mp3s made by gen_audio_kokoro.py (source, kept in git)
 MANIFEST = APP / "content/audio_manifest.json"   # every line that still needs a voice: name -> text, voice
@@ -95,6 +96,7 @@ def collect_media():
     credits = [ROOT / "design/docs/CREDITS_v6.md"] + sorted(ROOT.glob("es/ch*/design/CREDITS_ch*_v6.md"))
     for c in credits:
         shutil.copy(c, CREDITS_OUT / c.name)
+    credits += design_photos()
 
     imgs = {f.name for f in IMG_OUT.iterdir()}
     audios = {f.name for f in AUDIO_OUT.iterdir()}
@@ -102,6 +104,37 @@ def collect_media():
 
 
 WANTED = {}
+
+
+def design_photos():
+    """Word photos from Claude Code's print-design folders (claude_design/chNN/img/<word key>.jpg + credits.json),
+    for chapters that have no v6 web export. Writes chNN_<key>_2x.webp and a credits page; returns its path."""
+    out = []
+    for cdir in sorted(ROOT.glob("claude_design/ch[0-9][0-9]")):
+        nn = cdir.name[2:]
+        text_p = ROOT / f"es/ch{nn}/text/ch{nn}_text.yaml"
+        cred_p = cdir / "credits.json"
+        if not text_p.exists() or not cred_p.exists():
+            continue
+        keys = [w["key"] for w in yaml.safe_load(text_p.read_text(encoding="utf-8"))["words"]]
+        cred = json.loads(cred_p.read_text(encoding="utf-8"))
+        rows = []
+        for k in keys:
+            src = cdir / "img" / f"{k}.jpg"
+            dst = IMG_OUT / f"ch{nn}_{k}_2x.webp"
+            if not src.exists() or (dst.exists()):
+                continue
+            # 240 px tall: sharp at the app's 120 px on 2x screens
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-vf", "scale=-2:240",
+                            "-c:v", "libwebp", "-quality", "80", str(dst)], check=True)
+            c = cred.get(k) or {}
+            rows.append(f"| {k} | {c.get('title', '').removeprefix('File:')} | {c.get('artist', '')} | {c.get('lic', '')} | {c.get('page', '')} |")
+        if rows:
+            md = CREDITS_OUT / f"CREDITS_ch{nn}_web.md"
+            md.write_text(f"# ch{nn} 단어 사진 (웹앱)\n\n모두 Wikimedia Commons 사진이에요. 웹용으로 줄이고 잘랐어요.\n\n"
+                          "| 단어 | 파일 | 저자 | 라이선스 | 링크 |\n|---|---|---|---|---|\n" + "\n".join(rows) + "\n", encoding="utf-8")
+            out.append(md)
+    return out
 
 
 def build_chapter(num, imgs, audios):
@@ -141,7 +174,7 @@ def build_chapter(num, imgs, audios):
     for w in text["words"]:
         img = None
         for cand in (f"ch{nn}_{w['key']}", f"ch{nn}_c_{w['key']}"):
-            if f"{cand}_1x.webp" in imgs:
+            if f"{cand}_2x.webp" in imgs:
                 img = cand
                 break
         ex = w.get("example")

@@ -1,0 +1,373 @@
+schema_version: 1
+chapter: 20
+dialogues:
+  - id: d1
+    title_es: Dos entradas para el Prado
+    title_ko: 프라도 입장권 두 장 사기
+    setting_ko: 마드리드 프라도 미술관 매표소. 5월 13일 아침, 친구와 함께 입장권을 사요.
+    roles:
+      A: {es: Taquillera, ko: 매표소 직원}
+      B: {es: Visitante, ko: 관람객}
+    lines:
+      - who: B
+        textbook:
+          es: Buenos días. Dos entradas, por favor.
+          ko: 안녕하세요. 입장권 두 장 주세요.
+        native:
+          es: Hola, buenas. ¿Me das dos entradas?
+          ko: 안녕하세요. 입장권 두 장 주실래요?
+          note_ko: ¿me das…?는 창구나 가게에서 아주 흔하게 하는 부탁이에요. 직원에게도 tú를 써요.
+      - who: A
+        textbook:
+          es: Muy bien, dos entradas generales. ¿Quieren también la audioguía?
+          ko: 네, 일반 입장권 두 장이요. 오디오 가이드도 필요하세요?
+        native:
+          es: Vale, dos generales. ¿Queréis audioguía?
+          ko: 네, 일반 두 장이요. 오디오 가이드 하실래요?
+          note_ko: queréis는 vosotros(너희)에게 하는 말이에요. 두 사람에게 한꺼번에 물어요.
+      - who: B
+        textbook:
+          es: No, gracias. ¿Hay un plano del museo?
+          ko: 아니요, 괜찮아요. 미술관 안내도 있어요?
+        native:
+          es: No, gracias. ¿Tienes un plano?
+          ko: 아니요, 됐어요. 안내도 있어요?
+          note_ko: ¿hay…?(있어요?) 대신 ¿tienes…?(갖고 있어요?)로도 자주 물어요.
+      - who: A
+        textbook:
+          es: Sí, aquí tiene. El cuadro de Las meninas está en la sala doce.
+          ko: 네, 여기 있어요. 「시녀들」은 12번 전시실에 있어요.
+        native:
+          es: Toma. Y si buscáis Las meninas, sala doce.
+          ko: 여기요. 「시녀들」 찾으시면 12번 전시실이에요.
+          note_ko: toma는 물건을 건넬 때 하는 ‘여기요’예요. 동사를 빼고 sala doce만 말해도 돼요.
+      - who: B
+        textbook:
+          es: ¿Se pueden hacer fotos en las salas?
+          ko: 전시실에서 사진 찍어도 돼요?
+        native:
+          es: Oye, ¿y fotos se pueden hacer?
+          ko: 저기, 사진은 찍어도 돼요?
+          note_ko: 궁금한 말(fotos)을 문장 앞으로 빼서 강조했어요. oye는 tú에게 쓰는 ‘저기요’예요.
+      - who: A
+        textbook:
+          es: No, en las salas no se pueden hacer fotos.
+          ko: 아니요, 전시실에서는 사진을 찍으면 안 돼요.
+        native:
+          es: Dentro no, ¿eh? El guarda te lo dice enseguida.
+          ko: 안에서는 안 돼요. 경비원이 바로 말할 거예요.
+          note_ko: 말끝의 ¿eh?는 ‘알겠죠?’ 하고 다짐을 받는 말이에요.
+      - who: B
+        textbook:
+          es: ¿Cuál es el horario del museo?
+          ko: 미술관 운영 시간이 어떻게 돼요?
+        native:
+          es: Vale. ¿Y hasta qué hora abrís?
+          ko: 알겠어요. 그럼 몇 시까지 열어요?
+          note_ko: abrís는 vosotros 형태예요. 여기서는 ‘미술관 사람들’을 가리켜요.
+      - who: A
+        textbook:
+          es: Mire, el horario está en ese cartel, al lado de la puerta.
+          ko: 보세요, 운영 시간은 문 옆 저 포스터에 있어요.
+        native:
+          es: Lo tienes ahí, en el cartel de la puerta.
+          ko: 저기 문에 붙은 포스터에 나와 있어요.
+          note_ko: lo tienes ahí는 ‘거기 있어요’ 하고 가리키는 말이에요.
+      - who: B
+        textbook:
+          es: Muchas gracias.
+          ko: 고맙습니다.
+        native:
+          es: Genial, ¡gracias!
+          ko: 좋아요, 고마워요!
+          note_ko: genial은 ‘좋아요, 잘됐네요’ 정도로 아주 자주 쓰는 맞장구예요.
+  - id: d2
+    title_es: Preguntar al guarda
+    title_ko: 경비원에게 길 묻기
+    setting_ko: 프라도 미술관 전시실 안. 나이 지긋한 경비원에게 그림 위치를 물어요.
+    roles:
+      A: {es: Guarda, ko: 경비원}
+      B: {es: Visitante, ko: 관람객}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, ¿dónde están los cuadros de Goya?
+          ko: 실례합니다, 고야 그림은 어디 있어요?
+        native:
+          es: Perdone, ¿Goya por dónde cae?
+          ko: 실례지만, 고야는 어디쯤이에요?
+          note_ko: por dónde cae는 ‘어디쯤이에요?’라는 구어예요. 화가 이름만 말해도 그 그림을 뜻해요.
+      - who: A
+        textbook:
+          es: Hay cuadros de Goya en varias salas. Mire el plano, por favor.
+          ko: 고야 그림은 여러 전시실에 있어요. 안내도를 보세요.
+        native:
+          es: Uy, Goya está por todo el museo. ¿Tiene usted el plano?
+          ko: 아, 고야는 미술관 곳곳에 있어요. 안내도 갖고 계세요?
+          note_ko: por todo el museo는 ‘미술관 여기저기에’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: Sí, aquí está. ¿Dónde estamos ahora?
+          ko: 네, 여기 있어요. 저희는 지금 어디에 있어요?
+        native:
+          es: Sí, mire. ¿Y nosotros dónde estamos?
+          ko: 네, 여기요. 그럼 저희는 지금 어디예요?
+          note_ko: nosotros를 앞에 두면 ‘그럼 저희는요?’ 하고 묻는 말투가 돼요.
+      - who: A
+        textbook:
+          es: Estamos aquí. Siga recto y después gire a la derecha.
+          ko: 여기예요. 쭉 가다가 오른쪽으로 도세요.
+        native:
+          es: Aquí, mire. Todo recto y luego a la derecha.
+          ko: 여기요, 보세요. 쭉 가서 오른쪽이에요.
+          note_ko: 동사를 빼고 todo recto(쭉 직진), a la derecha(오른쪽)만 말해도 돼요.
+      - who: B
+        textbook:
+          es: Gracias. ¿Hay un banco para descansar un poco?
+          ko: 고마워요. 잠깐 쉴 벤치가 있어요?
+        native:
+          es: Gracias. Oiga, ¿hay algún banco por aquí? Necesito sentarme un rato.
+          ko: 고마워요. 저기요, 이 근처에 벤치 있어요? 좀 앉아야겠어요.
+          note_ko: oiga는 usted에게 쓰는 ‘저기요’예요. tú에게는 oye라고 해요.
+      - who: A
+        textbook:
+          es: Sí, en la sala de al lado hay un banco delante de un retrato grande.
+          ko: 네, 옆 전시실 큰 초상화 앞에 벤치가 있어요.
+        native:
+          es: Sí, aquí al lado tiene uno, justo delante de un retrato enorme.
+          ko: 네, 바로 옆방에 하나 있어요. 커다란 초상화 바로 앞에요.
+          note_ko: tiene uno는 ‘하나 있어요’예요. justo는 ‘바로’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: ¿Y dónde está la tienda del museo?
+          ko: 그리고 미술관 기념품 가게는 어디 있어요?
+        native:
+          es: ¿Y la tienda? Quiero llevarme un cartel.
+          ko: 가게는요? 포스터 하나 사 가고 싶어서요.
+          note_ko: llevarme는 ‘(사서) 가져가다’예요. 가게에서 아주 자주 써요.
+      - who: A
+        textbook:
+          es: La tienda está cerca de la salida. Hay carteles y postales.
+          ko: 가게는 출구 근처에 있어요. 포스터와 엽서가 있어요.
+        native:
+          es: Al salir la va a ver. Tiene carteles, postales... de todo.
+          ko: 나가실 때 보일 거예요. 포스터, 엽서… 이것저것 다 있어요.
+          note_ko: al salir는 ‘나갈 때’예요. de todo는 ‘이것저것 다’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: Muchas gracias, es usted muy amable.
+          ko: 정말 고마워요. 친절하시네요.
+        native:
+          es: Muy amable, gracias.
+          ko: 친절하시네요, 고마워요.
+          note_ko: muy amable만 말해도 ‘친절하시네요’라는 감사 인사가 돼요.
+      - who: A
+        textbook:
+          es: De nada. Disfrute del museo.
+          ko: 천만에요. 관람 잘 하세요.
+        native:
+          es: Nada, a disfrutar.
+          ko: 별말씀을요. 즐겁게 보세요.
+          note_ko: a disfrutar는 ‘즐기세요’ 하고 가볍게 건네는 말이에요.
+readings:
+  - id: r1
+    title_es: Una mañana en el Prado
+    title_ko: 프라도에서 보낸 오전
+    level: A1
+    paragraphs:
+      - es: Hoy es 13 de mayo y estoy en Madrid. Por la mañana voy al Museo del Prado. En la taquilla compro una entrada y cojo un plano.
+        ko: 오늘은 5월 13일, 저는 마드리드에 있어요. 오전에 프라도 미술관에 가요. 매표소에서 입장권을 사고 안내도를 하나 챙겨요.
+      - es: El museo es muy grande. Hay muchas salas con cuadros, retratos y paisajes. También hay esculturas. En una sala veo Las meninas, de Velázquez. ¡Qué cuadro!
+        ko: 미술관은 정말 커요. 전시실이 많고 그림, 초상화, 풍경화가 걸려 있어요. 조각상도 있어요. 한 전시실에서 벨라스케스의 「시녀들」을 봐요. 대단한 그림이에요!
+      - es: Después de dos horas, descanso un poco en un banco. Al final voy a la tienda y compro un cartel pequeño para mi habitación.
+        ko: 두 시간 뒤에 벤치에 앉아 잠깐 쉬어요. 마지막으로 가게에 가서 제 방에 붙일 작은 포스터를 하나 사요.
+    questions:
+      - q_ko: 글쓴이는 매표소에서 입장권 말고 무엇을 챙겼나요?
+        choices_ko: [오디오 가이드, 안내도, 엽서]
+        answer: 1
+      - q_ko: 「시녀들」은 누구의 그림인가요?
+        choices_ko: [벨라스케스, 고야, 엘 그레코]
+        answer: 0
+      - q_ko: 글쓴이는 가게에서 무엇을 샀나요?
+        choices_ko: [책, 엽서, 작은 포스터]
+        answer: 2
+  - id: r2
+    title_es: El pintor dentro del cuadro
+    title_ko: 그림 속에 있는 화가
+    level: A2
+    paragraphs:
+      - es: Por la tarde hago una visita con una guía. Somos doce personas. La guía habla despacio y entiendo casi todo.
+        ko: 오후에는 가이드와 함께 관람해요. 모두 열두 명이에요. 가이드가 천천히 말해서 거의 다 알아들어요.
+      - es: Delante de Las meninas, la guía explica que el pintor también está en el cuadro. Velázquez se pintó a sí mismo con un pincel en la mano. Al fondo, en un espejo, se ven el rey y la reina.
+        ko: 「시녀들」 앞에서 가이드는 화가도 그림 속에 있다고 설명해요. 벨라스케스는 붓을 손에 든 자기 모습을 그렸어요. 안쪽 거울에는 왕과 왕비가 비쳐요.
+      - es: Luego vamos a otra sala con retratos y paisajes. En las salas no se pueden hacer fotos, así que en la tienda compro unas postales. Otro día quiero volver con la audioguía.
+        ko: 그다음에는 초상화와 풍경화가 있는 다른 전시실로 가요. 전시실에서는 사진을 찍을 수 없어서 가게에서 엽서를 몇 장 사요. 다음에는 오디오 가이드를 들고 다시 오고 싶어요.
+    questions:
+      - q_ko: 그림 속 거울에는 누가 비치나요?
+        choices_ko: [가이드, 왕과 왕비, 화가의 친구]
+        answer: 1
+      - q_ko: 글쓴이는 왜 엽서를 샀나요?
+        choices_ko: [선물하려고, 값이 싸서, 전시실에서 사진을 찍을 수 없어서]
+        answer: 2
+      - q_ko: 가이드와 함께 관람한 사람은 모두 몇 명인가요?
+        choices_ko: [열두 명, 열 명, 스무 명]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~(으)로, ~에게", en: "to", pron: "아"}
+  "abrís": {lemma: "abrir", ko: "열다(너희는)", en: "you open (plural)", pron: "아**브리스**"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "ahí": {lemma: "ahí", ko: "거기", en: "there", pron: "아**이**"}
+  "al": {lemma: "a + el", ko: "~에게, ~(으)로(a+el)", en: "to the", pron: "알"}
+  "algún": {lemma: "alguno", ko: "어떤(남성 단수, 명사 앞)", en: "any", pron: "알**군**"}
+  "amable": {lemma: "amable", ko: "친절한", en: "kind", pron: "아**마**블레"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "así": {lemma: "así", ko: "그렇게(así que 그래서)", en: "so (así que)", pron: "아**시**"}
+  "bien": {lemma: "bien", ko: "잘, 좋게", en: "well", pron: "**비엔**"}
+  "buenas": {lemma: "bueno", ko: "좋은(여성 복수)", en: "good", pron: "**부에**나스"}
+  "buenos": {lemma: "bueno", ko: "좋은, 맛있는(남성 복수)", en: "good, tasty", pron: "**부에**노스"}
+  "buscáis": {lemma: "buscar", ko: "찾다(너희는)", en: "you look for (plural)", pron: "부스**까이스**"}
+  "cae": {lemma: "caer", ko: "떨어지다; ¿por dónde cae? 어디쯤이에요?", en: "falls; is (located)", pron: "**까**에"}
+  "carteles": {lemma: "cartel", ko: "포스터(복수)", en: "posters", pron: "까르**뗄**레스"}
+  "casi": {lemma: "casi", ko: "거의", en: "almost", pron: "**까**시"}
+  "cerca": {lemma: "cerca", ko: "가까이(cerca de ~근처에)", en: "near", pron: "**세르**까"}
+  "cojo": {lemma: "coger", ko: "타다, 잡다(나는)", en: "I take (a bus, a line)", pron: "**꼬**호"}
+  "compro": {lemma: "comprar", ko: "사다(나는)", en: "I buy", pron: "**꼼**쁘로"}
+  "con": {lemma: "con", ko: "~와 함께, ~을 넣은", en: "with", pron: "꼰"}
+  "cuadros": {lemma: "cuadro", ko: "그림(복수)", en: "paintings", pron: "**꾸아**드로스"}
+  "cuál": {lemma: "cuál", ko: "어느 것, 무엇", en: "which, what", pron: "**꾸알**"}
+  "das": {lemma: "dar", ko: "주다(너는)", en: "you give", pron: "**다스**"}
+  "de": {lemma: "de", ko: "~의, ~으로 만든", en: "of", pron: "데"}
+  "del": {lemma: "de + el", ko: "~의, ~에서(de+el)", en: "of the, from the", pron: "델"}
+  "delante": {lemma: "delante", ko: "앞에", en: "in front", pron: "델**란**떼"}
+  "dentro": {lemma: "dentro", ko: "안에서", en: "inside", pron: "**덴**뜨로"}
+  "derecha": {lemma: "derecha", ko: "오른쪽(a la derecha 오른쪽으로)", en: "right", pron: "데**레**차"}
+  "descansar": {lemma: "descansar", ko: "쉬다", en: "to rest", pron: "데스깐**사르**"}
+  "descanso": {lemma: "descansar", ko: "쉬다(나는)", en: "I rest", pron: "데스**깐**소"}
+  "despacio": {lemma: "despacio", ko: "천천히", en: "slowly", pron: "데스**빠**시오"}
+  "después": {lemma: "después", ko: "나중에, 그다음에", en: "later, after", pron: "데스**뿌에스**"}
+  "dice": {lemma: "decir", ko: "말하다(그·그녀·사람들은)", en: "says", pron: "**디**세"}
+  "disfrutar": {lemma: "disfrutar", ko: "즐기다", en: "to enjoy", pron: "디스프루**따르**"}
+  "disfrute": {lemma: "disfrutar", ko: "즐기세요(usted 명령)", en: "enjoy (formal)", pron: "디스**프루**떼"}
+  "doce": {lemma: "doce", ko: "12, 열둘", en: "twelve", pron: "**도**세"}
+  "dos": {lemma: "dos", ko: "둘", en: "two", pron: "**도스**"}
+  "día": {lemma: "día", ko: "날, 하루", en: "day", pron: "**디**아"}
+  "días": {lemma: "día", ko: "날들(buenos días 아침 인사)", en: "days", pron: "**디**아스"}
+  "dónde": {lemma: "dónde", ko: "어디", en: "where", pron: "**돈**데"}
+  "eh": {lemma: "eh", ko: "응?, 알았지?", en: "eh?", pron: "**에**"}
+  "en": {lemma: "en", ko: "~에, ~에서", en: "in, at", pron: "엔"}
+  "enorme": {lemma: "enorme", ko: "엄청 큰", en: "huge", pron: "에**노르**메"}
+  "enseguida": {lemma: "enseguida", ko: "곧바로", en: "right away", pron: "엔세**기**다"}
+  "entiendo": {lemma: "entender", ko: "알아듣다(나는)", en: "I understand", pron: "엔**띠엔**도"}
+  "entradas": {lemma: "entrada", ko: "입장권(복수)", en: "tickets", pron: "엔**뜨라**다스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "is", pron: "**에스**"}
+  "esculturas": {lemma: "escultura", ko: "조각상(복수)", en: "sculptures", pron: "에스꿀**뚜**라스"}
+  "ese": {lemma: "ese", ko: "그, 저(남성)", en: "that", pron: "**에**세"}
+  "espejo": {lemma: "espejo", ko: "거울", en: "mirror", pron: "에스**뻬**호"}
+  "estamos": {lemma: "estar", ko: "있다(우리는)", en: "we are", pron: "에스**따**모스"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "explica": {lemma: "explicar", ko: "설명하다(그·그녀는)", en: "explains", pron: "엑스**쁠리**까"}
+  "favor": {lemma: "favor", ko: "부탁, 호의", en: "favour", pron: "파**보르**"}
+  "final": {lemma: "final", ko: "끝(al final 마지막에)", en: "end", pron: "피**날**"}
+  "fondo": {lemma: "fondo", ko: "안쪽, 뒤쪽(al fondo 안쪽에)", en: "back, background", pron: "**폰**도"}
+  "fotos": {lemma: "foto", ko: "사진들", en: "photos", pron: "**포**또스"}
+  "generales": {lemma: "general", ko: "일반(복수), 일반 입장권", en: "general (tickets)", pron: "헤네**랄**레스"}
+  "genial": {lemma: "genial", ko: "최고, 아주 좋아요", en: "great", pron: "헤**니알**"}
+  "gire": {lemma: "girar", ko: "도세요(usted 명령)", en: "turn (formal)", pron: "**히**레"}
+  "goya": {lemma: "Goya", ko: "고야(스페인 화가)", en: "Goya", pron: "**고**야"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thanks", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "habitación": {lemma: "habitación", ko: "방, 객실", en: "room", pron: "아비따**시온**"}
+  "habla": {lemma: "hablar", ko: "말하다(그·그녀는)", en: "speaks", pron: "**아**블라"}
+  "hacer": {lemma: "hacer", ko: "하다, 찍다", en: "to do, to take", pron: "아**세르**"}
+  "hago": {lemma: "hacer", ko: "하다(나는)", en: "I do", pron: "**아**고"}
+  "hasta": {lemma: "hasta", ko: "~까지", en: "until", pron: "**아스**따"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is, there are", pron: "**아이**"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hora": {lemma: "hora", ko: "시간, 시각", en: "hour, time", pron: "**오**라"}
+  "horas": {lemma: "hora", ko: "시간(복수)", en: "hours", pron: "**오**라스"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "justo": {lemma: "justo", ko: "바로", en: "right, just", pron: "**후스**또"}
+  "lado": {lemma: "lado", ko: "옆(al lado: 옆에)", en: "side", pron: "**라**도"}
+  "las": {lemma: "la", ko: "그(여성 복수 정관사), a las dos 두 시에", en: "the", pron: "라스"}
+  "llevarme": {lemma: "llevarse", ko: "(사서) 가져가다(나 자신이)", en: "to take (for myself)", pron: "예**바르**메"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "los": {lemma: "el", ko: "그(남성 복수 정관사)", en: "the", pron: "로스"}
+  "luego": {lemma: "luego", ko: "이따가, 그다음에", en: "later, then", pron: "**루에**고"}
+  "madrid": {lemma: "Madrid", ko: "마드리드", en: "Madrid", pron: "마**드리드**"}
+  "mano": {lemma: "mano", ko: "손", en: "hand", pron: "**마**노"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침, 오전 / 내일(pasado mañana 모레)", en: "morning / tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나에게", en: "me, to me", pron: "메"}
+  "meninas": {lemma: "menina", ko: "시녀(Las meninas 「시녀들」)", en: "ladies-in-waiting", pron: "메**니**나스"}
+  "mi": {lemma: "mi", ko: "나의", en: "my", pron: "미"}
+  "mire": {lemma: "mirar", ko: "보세요(usted에게)", en: "look (formal)", pron: "**미**레"}
+  "mismo": {lemma: "mismo", ko: "자신(a sí mismo 자기 자신을)", en: "himself (a sí mismo)", pron: "**미스**모"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada 천만에요)", en: "nothing", pron: "**나**다"}
+  "necesito": {lemma: "necesitar", ko: "필요하다(나는)", en: "I need", pron: "네세**시**또"}
+  "no": {lemma: "no", ko: "아니요", en: "no", pron: "**노**"}
+  "nosotros": {lemma: "nosotros", ko: "우리(가)", en: "we", pron: "노**소**뜨로스"}
+  "oiga": {lemma: "oír", ko: "저기요(usted에게 말 걸 때)", en: "excuse me (formal)", pron: "**오이**가"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "paisajes": {lemma: "paisaje", ko: "풍경화(복수)", en: "landscapes", pron: "빠이**사**헤스"}
+  "para": {lemma: "para", ko: "~을 위해, ~에게는", en: "for", pron: "빠라"}
+  "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
+  "perdone": {lemma: "perdonar", ko: "실례합니다(usted에게)", en: "excuse me", pron: "뻬르**도**네"}
+  "personas": {lemma: "persona", ko: "사람(복수)", en: "people", pron: "뻬르**소**나스"}
+  "pincel": {lemma: "pincel", ko: "붓", en: "paintbrush", pron: "삔**셀**"}
+  "pintó": {lemma: "pintar", ko: "그렸다(그 사람은)", en: "painted", pron: "삔**또**"}
+  "poco": {lemma: "poco", ko: "조금", en: "a little", pron: "**뽀**꼬"}
+  "por": {lemma: "por", ko: "~으로, ~에(por favor, por la noche)", en: "by, for, in", pron: "뽀르"}
+  "postales": {lemma: "postal", ko: "엽서(복수)", en: "postcards", pron: "뽀스**딸**레스"}
+  "prado": {lemma: "Prado", ko: "프라도(마드리드의 미술관)", en: "Prado", pron: "**쁘라**도"}
+  "pueden": {lemma: "poder", ko: "~할 수 있다 (그들은)", en: "they can", pron: "**뿌에**덴"}
+  "puerta": {lemma: "puerta", ko: "문", en: "door", pron: "**뿌에르**따"}
+  "que": {lemma: "que", ko: "~라고, ~하는(관계사)", en: "that, which", pron: "께"}
+  "queréis": {lemma: "querer", ko: "원하다(너희는)", en: "you want (plural)", pron: "께**레이스**"}
+  "quieren": {lemma: "querer", ko: "원하다(당신들은)", en: "you want (plural formal)", pron: "**끼에**렌"}
+  "quiero": {lemma: "querer", ko: "원하다(나는)", en: "I want", pron: "**끼에**로"}
+  "qué": {lemma: "qué", ko: "무엇, 얼마나(감탄)", en: "what, how", pron: "**께**"}
+  "rato": {lemma: "rato", ko: "잠깐(un rato 잠시)", en: "a while", pron: "**라**또"}
+  "recto": {lemma: "recto", ko: "곧장(todo recto 쭉 직진)", en: "straight", pron: "**렉**또"}
+  "reina": {lemma: "reina", ko: "왕비, 여왕", en: "queen", pron: "**레이**나"}
+  "retratos": {lemma: "retrato", ko: "초상화(복수)", en: "portraits", pron: "레**뜨라**또스"}
+  "rey": {lemma: "rey", ko: "왕", en: "king", pron: "**레이**"}
+  "salas": {lemma: "sala", ko: "전시실(복수)", en: "rooms, galleries", pron: "**살**라스"}
+  "salida": {lemma: "salida", ko: "출구", en: "exit", pron: "살**리**다"}
+  "salir": {lemma: "salir", ko: "떠나다, 나가다", en: "to leave", pron: "살**리르**"}
+  "se": {lemma: "se", ko: "재귀·무인칭(se pueden ~할 수 있다, se ven 보이다)", en: "oneself; impersonal se", pron: "세"}
+  "sentarme": {lemma: "sentarse", ko: "앉다(나는)", en: "to sit (myself) down", pron: "센**따르**메"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "siga": {lemma: "seguir", ko: "계속 가세요(usted 명령)", en: "carry on (formal)", pron: "**시**가"}
+  "somos": {lemma: "ser", ko: "~이다(우리는)", en: "we are", pron: "**소**모스"}
+  "sí": {lemma: "sí", ko: "네; 자기(a sí mismo 자기 자신을)", en: "yes; himself", pron: "**시**"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienes": {lemma: "tener", ko: "있다, 가지다(너는)", en: "you have", pron: "**띠에**네스"}
+  "todo": {lemma: "todo", ko: "모든, 전부(todo recto 쭉 직진, de todo 이것저것 다)", en: "all, everything", pron: "**또**도"}
+  "toma": {lemma: "tomar", ko: "여기요(받아)", en: "here you are", pron: "**또**마"}
+  "un": {lemma: "uno", ko: "하나의(남성)", en: "a, one", pron: "운"}
+  "una": {lemma: "uno", ko: "하나의(여성)", en: "a, one", pron: "우나"}
+  "unas": {lemma: "una", ko: "몇 개의(여성 복수)", en: "some", pron: "우나스"}
+  "uno": {lemma: "uno", ko: "하나", en: "one", pron: "**우**노"}
+  "usted": {lemma: "usted", ko: "당신(존댓말)", en: "you (formal)", pron: "우스**떼드**"}
+  "uy": {lemma: "uy", ko: "아이고, 이런", en: "oops", pron: "**우이**"}
+  "va": {lemma: "ir", ko: "가다(당신은), va a ver 보게 될 거예요", en: "you go (formal)", pron: "**바**"}
+  "vale": {lemma: "valer", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "vamos": {lemma: "ir", ko: "가자, 가다 (우리는)", en: "let's go", pron: "**바**모스"}
+  "varias": {lemma: "varios", ko: "여러(여성 복수)", en: "several", pron: "**바**리아스"}
+  "velázquez": {lemma: "Velázquez", ko: "벨라스케스(스페인 화가)", en: "Velázquez", pron: "벨**라스**께스"}
+  "ven": {lemma: "ver", ko: "보다(그들은), se ven 보이다", en: "they see; can be seen", pron: "**벤**"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I see", pron: "**베**오"}
+  "ver": {lemma: "ver", ko: "보다(a ver 어디 보자)", en: "to see", pron: "**베르**"}
+  "visita": {lemma: "visita", ko: "관람, 방문(visita con guía 가이드 관람)", en: "visit, tour", pron: "비**시**따"}
+  "volver": {lemma: "volver", ko: "다시 오다, 돌아가다", en: "to come back", pron: "볼**베르**"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고, ~와", en: "and", pron: "이"}

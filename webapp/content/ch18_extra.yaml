@@ -1,0 +1,387 @@
+schema_version: 1
+chapter: 18
+dialogues:
+  - id: d1
+    title_es: ¿Por dónde se baja al río?
+    title_ko: 강으로 내려가는 길 묻기
+    setting_ko: 론다 푸엔테 누에보 근처 전망대. 협곡 아래로 내려가는 길을 물어요.
+    roles:
+      A: {es: Señor, ko: 아저씨}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, ¿hay un sendero para bajar al río?
+          ko: 실례합니다, 강까지 내려가는 오솔길이 있어요?
+        native:
+          es: Perdone, ¿por dónde se baja al río?
+          ko: 실례합니다, 강으로는 어디로 내려가요?
+          note_ko: se baja는 ‘(사람들이) 내려간다’예요. 길을 물을 때 흔히 이렇게 말해요.
+      - who: A
+        textbook:
+          es: Sí. El camino empieza allí, al final de esta calle.
+          ko: 네. 저기, 이 길 끝에서 시작해요.
+        native:
+          es: Mira, al final de esta calle sale un camino que baja hasta abajo.
+          ko: 봐요, 이 길 끝에서 아래까지 내려가는 길이 나와요.
+          note_ko: sale un camino는 ‘길이 하나 나온다, 시작된다’는 말이에요.
+      - who: B
+        textbook:
+          es: ¿Es difícil? ¿Cuánto tiempo se tarda?
+          ko: 어려워요? 시간은 얼마나 걸려요?
+        native:
+          es: ¿Y es muy duro? ¿Cuánto se tarda, más o menos?
+          ko: 많이 힘들어요? 대충 얼마나 걸려요?
+          note_ko: duro는 ‘힘든’이에요. tardar는 시간이 ‘걸리다’예요.
+      - who: A
+        textbook:
+          es: No es difícil. Se tarda unos veinte minutos. Pero la subida es más dura que la bajada.
+          ko: 어렵지 않아요. 20분쯤 걸려요. 그런데 올라오는 길이 내려가는 길보다 힘들어요.
+        native:
+          es: Qué va, bajar es un paseo. Lo malo es la vuelta, que es cuesta arriba.
+          ko: 아니에요, 내려가는 건 산책이죠. 문제는 돌아올 때예요. 오르막이거든요.
+          note_ko: lo malo es…는 ‘안 좋은 점은 ~예요’예요. cuesta arriba는 ‘오르막’이에요.
+      - who: B
+        textbook:
+          es: ¿Desde abajo se ve el puente?
+          ko: 아래에서 다리가 보여요?
+        native:
+          es: ¿Y desde abajo se ve bien el puente?
+          ko: 아래에서 다리가 잘 보여요?
+          note_ko: se ve는 ‘보인다’예요. 주어(el puente)가 뒤에 와도 돼요.
+      - who: A
+        textbook:
+          es: Sí, se ve muy bien. Abajo también hay una cascada pequeña.
+          ko: 네, 아주 잘 보여요. 아래에는 작은 폭포도 있어요.
+        native:
+          es: ¡Uf, mejor que desde aquí! Y con el río y la cascadita, es una postal.
+          ko: 와, 여기서 보는 것보다 나아요! 강이랑 작은 폭포까지 있어서 엽서 같아요.
+          note_ko: cascadita는 cascada에 -ita를 붙인 말이에요. es una postal은 ‘엽서처럼 예쁘다’는 뜻이에요.
+      - who: B
+        textbook:
+          es: Hace calor. ¿Hay sombra en el camino?
+          ko: 더워요. 길에 그늘이 있어요?
+        native:
+          es: Con este calor… ¿hay algo de sombra?
+          ko: 이렇게 더운데… 그늘은 좀 있어요?
+          note_ko: con este calor는 ‘이렇게 더운데’예요. 말끝을 흐리며 걱정을 드러내요.
+      - who: A
+        textbook:
+          es: Hay poca sombra. Lleve agua, por favor.
+          ko: 그늘이 별로 없어요. 물을 꼭 챙기세요.
+        native:
+          es: Poca, la verdad. Llévate agua, ¿eh?, que aquí el sol aprieta.
+          ko: 사실 별로 없어요. 물 꼭 챙겨 가요. 여기 햇볕이 세거든요.
+          note_ko: la verdad는 ‘사실은’이에요. el sol aprieta는 ‘햇볕이 세다’예요.
+      - who: B
+        textbook:
+          es: Muchas gracias por la información.
+          ko: 알려 주셔서 정말 고마워요.
+        native:
+          es: Vale, muchísimas gracias.
+          ko: 네, 정말 고맙습니다.
+          note_ko: muchísimas는 muchas를 더 세게 말한 거예요.
+      - who: A
+        textbook:
+          es: De nada. ¡Disfrute del paseo!
+          ko: 천만에요. 산책 즐겁게 하세요!
+        native:
+          es: ¡Nada! ¡Que lo disfrutes!
+          ko: 별말씀을요! 즐겁게 다녀와요!
+          note_ko: que lo disfrutes는 ‘즐겁게 보내요’라는 인사예요.
+  - id: d2
+    title_es: Por el sendero del Tajo
+    title_ko: 타호 협곡 오솔길에서
+    setting_ko: 론다 협곡 아래 오솔길. 친구 하비와 강 쪽으로 걸어 내려왔어요.
+    roles:
+      A: {es: Javi, ko: 하비}
+      B: {es: Min, ko: 민}
+    lines:
+      - who: A
+        textbook:
+          es: Mira el puente. Desde aquí es muy alto.
+          ko: 다리 좀 봐. 여기서 보니까 엄청 높아.
+        native:
+          es: ¡Hala, mira el puente! Desde aquí abajo impresiona, ¿eh?
+          ko: 우와, 저 다리 좀 봐! 여기 밑에서 보니까 대단하다, 그치?
+          note_ko: hala는 놀랐을 때 하는 ‘우와’예요. impresionar는 ‘깊은 인상을 주다’예요.
+      - who: B
+        textbook:
+          es: Sí. Y el Tajo es más profundo que en las fotos.
+          ko: 응. 그리고 협곡이 사진보다 더 깊어.
+        native:
+          es: Ya te digo. El Tajo es mucho más profundo que en las fotos.
+          ko: 그러니까. 협곡이 사진보다 훨씬 깊어.
+          note_ko: ya te digo는 ‘내 말이, 그러니까’처럼 맞장구치는 말이에요.
+      - who: A
+        textbook:
+          es: ¿Ves el río? Pasa debajo del puente.
+          ko: 강 보여? 다리 밑으로 흘러.
+        native:
+          es: Y fíjate en el río, ahí abajo del todo.
+          ko: 저 강 좀 봐, 저 맨 밑에.
+          note_ko: fíjate는 ‘잘 봐’예요. abajo del todo는 ‘맨 아래’예요.
+      - who: B
+        textbook:
+          es: ¿Qué es eso? ¿Es un pájaro grande?
+          ko: 저건 뭐야? 큰 새야?
+        native:
+          es: Oye, ¿y ese pájaro? ¡Qué grande!
+          ko: 야, 저 새 뭐야? 엄청 크다!
+          note_ko: ¿y ese…?는 ‘저 ~는 뭐야?’ 하고 가리키며 묻는 말이에요.
+      - who: A
+        textbook:
+          es: Creo que es un águila, pero no estoy seguro.
+          ko: 독수리 같은데, 확실하진 않아.
+        native:
+          es: Igual es un águila, ¿no? No sé mucho de pájaros.
+          ko: 독수리일지도? 나 새는 잘 몰라.
+          note_ko: igual은 ‘어쩌면’, 끝에 붙인 ¿no?는 ‘그치?’ 하고 확인하는 말이에요.
+      - who: B
+        textbook:
+          es: Hace calor. ¿Descansamos un poco debajo de ese árbol?
+          ko: 덥다. 저 나무 밑에서 좀 쉴까?
+        native:
+          es: Uf, qué calor. ¿Paramos un rato a la sombra de ese olivo?
+          ko: 휴, 덥다. 저 올리브나무 그늘에서 잠깐 쉴까?
+          note_ko: a la sombra de…는 ‘~의 그늘에서’예요. parar는 ‘멈추다, 쉬다’예요.
+      - who: A
+        textbook:
+          es: Sí. Después subimos al mirador por otro camino.
+          ko: 그래. 그다음에 다른 길로 전망대에 올라가자.
+        native:
+          es: Vale. Y luego subimos por el otro sendero, que es más corto.
+          ko: 좋아. 이따 다른 오솔길로 올라가자. 그게 더 짧거든.
+          note_ko: 여기서 que는 이유를 덧붙이는 ‘~거든’이에요.
+      - who: B
+        textbook:
+          es: ¿Es más difícil que este camino?
+          ko: 이 길보다 더 힘들어?
+        native:
+          es: ¿Más corto? O sea, más empinado, ¿no?
+          ko: 더 짧다고? 그러니까 더 가파르다는 거지?
+          note_ko: o sea는 ‘그러니까, 즉’이에요. 말할 때 아주 자주 써요. empinado는 ‘가파른’이에요.
+      - who: A
+        textbook:
+          es: Sí, un poco. Pero arriba la vista es muy bonita.
+          ko: 응, 좀. 그래도 위에서 보는 경치가 정말 좋아.
+        native:
+          es: Un poquito, sí. Pero arriba tienes una vista increíble del valle.
+          ko: 응, 쪼끔. 그래도 위에 올라가면 골짜기 경치가 끝내줘.
+          note_ko: un poquito는 un poco에 -ito를 붙여 ‘쪼끔’처럼 말한 거예요.
+readings:
+  - id: r1
+    title_es: Ronda y su puente
+    title_ko: 론다와 다리
+    level: A1
+    paragraphs:
+      - es: Hoy es 25 de mayo. Llego a Ronda en tren desde Sevilla. La ciudad está sobre una roca muy alta, y en el centro hay un tajo muy profundo. Abajo pasa un río.
+        ko: 오늘은 5월 25일이에요. 세비야에서 기차를 타고 론다에 와요. 도시는 아주 높은 바위 위에 있고, 한가운데에는 깊은 협곡이 있어요. 그 아래로 강이 흘러요.
+      - es: Sobre el tajo está el Puente Nuevo. Desde el mirador veo el puente, el río, el valle y las montañas. El cielo está azul y hace calor.
+        ko: 협곡 위에는 푸엔테 누에보가 놓여 있어요. 전망대에서 다리와 강, 골짜기와 산이 보여요. 하늘은 파랗고 날이 더워요.
+      - es: Por la tarde bajo por un sendero. Hay piedras, flores y algunos olivos. Desde abajo, el puente es todavía más impresionante. ¡Y veo un pájaro muy grande! Creo que es un águila.
+        ko: 오후에는 오솔길로 내려가요. 돌과 꽃, 올리브나무 몇 그루가 있어요. 아래에서 보면 다리가 훨씬 더 웅장해요. 아주 큰 새도 봐요! 독수리인 것 같아요.
+    questions:
+      - q_ko: 글쓴이는 무엇을 타고 론다에 왔나요?
+        choices_ko: [버스, 기차, 자동차]
+        answer: 1
+      - q_ko: 글쓴이는 오후에 무엇을 했나요?
+        choices_ko: [오솔길로 내려갔다, 동굴에 들어갔다, 호수에서 수영했다]
+        answer: 0
+  - id: r2
+    title_es: Sevilla, Ronda y Cádiz
+    title_ko: 세비야, 론다, 카디스
+    level: A2
+    paragraphs:
+      - es: Ayer estaba en Sevilla y mañana voy a Cádiz. Hoy, en Ronda, comparo los tres lugares. Sevilla es más grande que Ronda, pero Ronda es más tranquila.
+        ko: 어제는 세비야에 있었고, 내일은 카디스에 가요. 오늘 론다에서 세 곳을 견줘 봐요. 세비야는 론다보다 크지만, 론다가 더 조용해요.
+      - es: Aquí no hay mar ni playa, pero hay montañas, colinas con olivos y caminos para andar. El aire es más fresco que en Sevilla, sobre todo por la mañana.
+        ko: 여기에는 바다도 해변도 없지만, 산과 올리브나무 언덕, 걷기 좋은 길이 있어요. 공기는 세비야보다 선선해요. 특히 아침에 그래요.
+      - es: No hay ningún lago, pero el río tiene una cascada pequeña debajo del puente. Para mí, el mejor sitio es el mirador, porque desde allí se ve todo el valle.
+        ko: 호수는 없지만, 다리 밑 강에는 작은 폭포가 있어요. 제가 꼽는 최고의 장소는 전망대예요. 거기서는 골짜기 전체가 내려다보이거든요.
+    questions:
+      - q_ko: 세비야와 론다를 비교하면 어떤가요?
+        choices_ko: [세비야가 더 크다, 론다가 더 크다, 크기가 같다]
+        answer: 0
+      - q_ko: 론다의 공기는 어떤가요?
+        choices_ko: [세비야보다 선선하다, 세비야보다 덥다, 바닷바람이 분다]
+        answer: 0
+      - q_ko: 글쓴이가 꼽은 최고의 장소는 어디인가요?
+        choices_ko: [전망대, 호수, 동굴]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "abajo": {lemma: "abajo", ko: "아래에", en: "down, below", pron: "아**바**호"}
+  "agua": {lemma: "agua", ko: "물", en: "water", pron: "**아**구아"}
+  "ahí": {lemma: "ahí", ko: "거기", en: "there", pron: "아**이**"}
+  "aire": {lemma: "aire", ko: "공기", en: "air", pron: "**아이**레"}
+  "al": {lemma: "a + el", ko: "~에(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "algunos": {lemma: "alguno", ko: "몇몇의(남성 복수)", en: "some", pron: "알**구**노스"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "alta": {lemma: "alto", ko: "높은(여성)", en: "high", pron: "**알**따"}
+  "alto": {lemma: "alto", ko: "높은", en: "high", pron: "**알**또"}
+  "andar": {lemma: "andar", ko: "걷다", en: "to walk", pron: "안**다르**"}
+  "aprieta": {lemma: "apretar", ko: "세게 누르다(el sol aprieta 햇볕이 세다)", en: "presses (the sun beats down)", pron: "아쁘**리에**따"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "arriba": {lemma: "arriba", ko: "위에, 위쪽", en: "up, above", pron: "아**리**바"}
+  "ayer": {lemma: "ayer", ko: "어제", en: "yesterday", pron: "아**예르**"}
+  "azul": {lemma: "azul", ko: "파란", en: "blue", pron: "아**술**"}
+  "baja": {lemma: "bajar", ko: "내려가다(se baja 내려간다)", en: "goes down", pron: "**바**하"}
+  "bajada": {lemma: "bajada", ko: "내려가는 길, 내리막", en: "way down", pron: "바**하**다"}
+  "bajar": {lemma: "bajar", ko: "내려가다", en: "to go down", pron: "바**하르**"}
+  "bajo": {lemma: "bajar", ko: "내려가다(나는)", en: "I go down", pron: "**바**호"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "bonita": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**따"}
+  "calle": {lemma: "calle", ko: "거리, 골목", en: "street", pron: "**까**예"}
+  "calor": {lemma: "calor", ko: "더위", en: "heat", pron: "깔**로르**"}
+  "caminos": {lemma: "camino", ko: "길들", en: "paths", pron: "까**미**노스"}
+  "cascadita": {lemma: "cascada", ko: "작은 폭포", en: "little waterfall", pron: "까스까**디**따"}
+  "centro": {lemma: "centro", ko: "시내, 중심", en: "town centre", pron: "**센**뜨로"}
+  "ciudad": {lemma: "ciudad", ko: "도시", en: "city", pron: "시우**다드**"}
+  "colinas": {lemma: "colina", ko: "언덕들", en: "hills", pron: "꼴**리**나스"}
+  "comparo": {lemma: "comparar", ko: "견주다, 비교하다(나는)", en: "I compare", pron: "꼼**빠**로"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "corto": {lemma: "corto", ko: "짧은", en: "short", pron: "**꼬르**또"}
+  "creo": {lemma: "creer", ko: "생각하다(나는)", en: "I think", pron: "**끄레**오"}
+  "cuesta": {lemma: "cuesta", ko: "비탈(cuesta arriba 오르막)", en: "slope (uphill)", pron: "**꾸에스**따"}
+  "cuánto": {lemma: "cuánto", ko: "얼마", en: "how much", pron: "**꾸안**또"}
+  "cádiz": {lemma: "Cádiz", ko: "카디스", en: "Cádiz", pron: "**까**디스"}
+  "de": {lemma: "de", ko: "~의, ~에서", en: "of, from", pron: "데"}
+  "debajo": {lemma: "debajo", ko: "밑에", en: "underneath", pron: "데**바**호"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "descansamos": {lemma: "descansar", ko: "쉬다(우리는)", en: "we rest", pron: "데스깐**사**모스"}
+  "desde": {lemma: "desde", ko: "~에서(부터)", en: "from", pron: "데스데"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "difícil": {lemma: "difícil", ko: "어려운", en: "difficult", pron: "디**피**실"}
+  "digo": {lemma: "decir", ko: "말하다(나는)", en: "I say", pron: "**디**고"}
+  "disfrute": {lemma: "disfrutar", ko: "즐기세요(usted 명령)", en: "enjoy (formal)", pron: "디스**프루**떼"}
+  "disfrutes": {lemma: "disfrutar", ko: "즐기다(너는, 접속법)", en: "you enjoy", pron: "디스**프루**떼스"}
+  "dura": {lemma: "duro", ko: "힘든(여성)", en: "hard", pron: "**두**라"}
+  "duro": {lemma: "duro", ko: "힘든", en: "hard", pron: "**두**로"}
+  "dónde": {lemma: "dónde", ko: "어디", en: "where", pron: "**돈**데"}
+  "eh": {lemma: "eh", ko: "응?, 알았지?", en: "eh?", pron: "**에**"}
+  "empieza": {lemma: "empezar", ko: "시작하다(그것은)", en: "starts", pron: "엠**삐에**사"}
+  "empinado": {lemma: "empinado", ko: "가파른", en: "steep", pron: "엠삐**나**도"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "ese": {lemma: "ese", ko: "그, 저(남성)", en: "that", pron: "**에**세"}
+  "eso": {lemma: "eso", ko: "그것", en: "that", pron: "**에**소"}
+  "esta": {lemma: "este", ko: "이(것)(여성)", en: "this", pron: "**에스**따"}
+  "estaba": {lemma: "estar", ko: "~했다, ~였다(그것은, 과거)", en: "was", pron: "에스**따**바"}
+  "este": {lemma: "este", ko: "이(것)(남성)", en: "this", pron: "**에스**떼"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
+  "final": {lemma: "final", ko: "끝", en: "end", pron: "피**날**"}
+  "flores": {lemma: "flor", ko: "꽃(복수)", en: "flowers", pron: "**플로**레스"}
+  "fotos": {lemma: "foto", ko: "사진들", en: "photos", pron: "**포**또스"}
+  "fresco": {lemma: "fresco", ko: "시원한", en: "cool", pron: "**프레스**꼬"}
+  "fíjate": {lemma: "fijarse", ko: "잘 봐(tú 명령)", en: "look closely", pron: "**피**하떼"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "hace": {lemma: "hacer", ko: "(날씨가) ~하다", en: "it makes (weather)", pron: "**아**세"}
+  "hala": {lemma: "hala", ko: "우와(놀람)", en: "wow", pron: "**알**라"}
+  "hasta": {lemma: "hasta", ko: "~까지(hasta luego: 또 봐요)", en: "until", pron: "**아스**따"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "igual": {lemma: "igual", ko: "어쩌면(구어)", en: "maybe", pron: "이**구알**"}
+  "impresiona": {lemma: "impresionar", ko: "깊은 인상을 주다(그것은)", en: "is impressive", pron: "임쁘레시**오**나"}
+  "impresionante": {lemma: "impresionante", ko: "웅장한, 인상적인", en: "impressive", pron: "임쁘레시오**난**떼"}
+  "increíble": {lemma: "increíble", ko: "끝내주는, 믿기 힘든", en: "incredible", pron: "인끄레**이**블레"}
+  "información": {lemma: "información", ko: "정보", en: "information", pron: "인포르마**시온**"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "llego": {lemma: "llegar", ko: "도착하다(나는)", en: "I arrive", pron: "**예**고"}
+  "lleve": {lemma: "llevar", ko: "가져가세요(usted 명령)", en: "take (formal)", pron: "**예**베"}
+  "llévate": {lemma: "llevarse", ko: "챙겨 가(tú 명령)", en: "take with you", pron: "**예**바떼"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "los": {lemma: "el", ko: "그(남성 복수 관사)", en: "the", pron: "로스"}
+  "luego": {lemma: "luego", ko: "나중에", en: "later", pron: "**루에**고"}
+  "lugares": {lemma: "lugar", ko: "장소들", en: "places", pron: "루**가**레스"}
+  "malo": {lemma: "malo", ko: "나쁜(lo malo 안 좋은 점)", en: "bad", pron: "**말**로"}
+  "mar": {lemma: "mar", ko: "바다", en: "sea", pron: "**마르**"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "mejor": {lemma: "mejor", ko: "더 나은, ~하는 게 낫다", en: "better", pron: "메**호르**"}
+  "menos": {lemma: "menos", ko: "덜(más o menos: 대충)", en: "less", pron: "**메**노스"}
+  "minutos": {lemma: "minuto", ko: "분(복수)", en: "minutes", pron: "미**누**또스"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "montañas": {lemma: "montaña", ko: "산들", en: "mountains", pron: "몬**따**냐스"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mucho": {lemma: "mucho", ko: "많이", en: "a lot", pron: "**무**초"}
+  "muchísimas": {lemma: "mucho", ko: "정말 많은 (muchísimas gracias)", en: "very many", pron: "무**치**시마스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "mí": {lemma: "mí", ko: "나(para mí 저는)", en: "me", pron: "**미**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
+  "ningún": {lemma: "ninguno", ko: "아무 ~도 (없는)", en: "no, not any", pron: "닌**군**"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "nuevo": {lemma: "nuevo", ko: "새로운(Puente Nuevo 새 다리)", en: "new", pron: "**누에**보"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "olivos": {lemma: "olivo", ko: "올리브나무들", en: "olive trees", pron: "올**리**보스"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "paramos": {lemma: "parar", ko: "멈추다, 쉬다(우리는)", en: "we stop", pron: "빠**라**모스"}
+  "pasa": {lemma: "pasar", ko: "흐르다, 지나가다(그것은)", en: "flows, passes", pron: "**빠**사"}
+  "paseo": {lemma: "paseo", ko: "산책", en: "walk", pron: "빠**세**오"}
+  "pequeña": {lemma: "pequeño", ko: "작은(여성)", en: "small", pron: "뻬**께**냐"}
+  "perdone": {lemma: "perdonar", ko: "실례합니다 (usted)", en: "excuse me", pron: "뻬르**도**네"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "piedras": {lemma: "piedra", ko: "돌들", en: "stones", pron: "**삐에**드라스"}
+  "playa": {lemma: "playa", ko: "해변", en: "beach", pron: "**쁠라**야"}
+  "poca": {lemma: "poco", ko: "적은(여성)", en: "little", pron: "**뽀**까"}
+  "poco": {lemma: "poco", ko: "조금(un poco)", en: "a little", pron: "**뽀**꼬"}
+  "poquito": {lemma: "poco", ko: "아주 조금", en: "a little bit", pron: "뽀**끼**또"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "porque": {lemma: "porque", ko: "왜냐하면", en: "because", pron: "뽀르께"}
+  "postal": {lemma: "postal", ko: "엽서", en: "postcard", pron: "뽀스**딸**"}
+  "profundo": {lemma: "profundo", ko: "깊은", en: "deep", pron: "쁘로**푼**도"}
+  "pájaros": {lemma: "pájaro", ko: "새들", en: "birds", pron: "**빠**하로스"}
+  "que": {lemma: "que", ko: "~라는, ~하는; ~거든(이유)", en: "that; because", pron: "께"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "rato": {lemma: "rato", ko: "잠깐", en: "a while", pron: "**라**또"}
+  "ronda": {lemma: "Ronda", ko: "론다", en: "Ronda", pron: "**론**다"}
+  "sale": {lemma: "salir", ko: "떠나다, 나오다(그것은)", en: "leaves, comes out", pron: "**살**레"}
+  "se": {lemma: "se", ko: "자기를(재귀); 사람들이 ~하다(무인칭)", en: "oneself; one (impersonal)", pron: "세"}
+  "sea": {lemma: "ser", ko: "이다(접속법), o sea 그러니까", en: "be (o sea: I mean)", pron: "**세**아"}
+  "seguro": {lemma: "seguro", ko: "확실한; 틀림없이", en: "sure; surely", pron: "세**구**로"}
+  "sevilla": {lemma: "Sevilla", ko: "세비야(도시)", en: "Seville", pron: "세**비**야"}
+  "sitio": {lemma: "sitio", ko: "자리, 장소", en: "place, seat", pron: "**시**띠오"}
+  "sobre": {lemma: "sobre", ko: "~ 위에", en: "over, above", pron: "소브레"}
+  "sol": {lemma: "sol", ko: "해, 햇볕", en: "sun", pron: "**솔**"}
+  "sombra": {lemma: "sombra", ko: "그늘", en: "shade", pron: "**솜**브라"}
+  "subida": {lemma: "subida", ko: "올라가는 길, 오르막", en: "way up", pron: "수**비**다"}
+  "subimos": {lemma: "subir", ko: "올라가다(우리는)", en: "we go up", pron: "수**비**모스"}
+  "sé": {lemma: "saber", ko: "알다(나는)", en: "I know", pron: "**세**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "tajo": {lemma: "tajo", ko: "협곡(El Tajo, 론다의 협곡)", en: "gorge", pron: "**따**호"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tarda": {lemma: "tardar", ko: "(시간이) 걸리다", en: "takes (time)", pron: "**따르**다"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tiempo": {lemma: "tiempo", ko: "시간(con tiempo 여유 있게)", en: "time", pron: "**띠엠**뽀"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienes": {lemma: "tener", ko: "가지고 있다(너는)", en: "you have", pron: "**띠에**네스"}
+  "todavía": {lemma: "todavía", ko: "아직", en: "still, yet", pron: "또다**비**아"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "tranquila": {lemma: "tranquilo", ko: "조용한(여성)", en: "quiet", pron: "뜨란**낄**라"}
+  "tren": {lemma: "tren", ko: "기차", en: "train", pron: "**뜨렌**"}
+  "tres": {lemma: "tres", ko: "셋", en: "three", pron: "**뜨레스**"}
+  "uf": {lemma: "uf", ko: "휴, 아 (더울 때)", en: "phew", pron: "**우프**"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "unos": {lemma: "uno", ko: "몇몇의(남성 복수)", en: "some, a few", pron: "우노스"}
+  "va": {lemma: "ir", ko: "가다(qué va 아니에요, 전혀요)", en: "goes (no way)", pron: "**바**"}
+  "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "ve": {lemma: "ver", ko: "보이다(se ve 보인다)", en: "is seen", pron: "**베**"}
+  "veinte": {lemma: "veinte", ko: "스물", en: "twenty", pron: "**베인**떼"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I watch", pron: "**베**오"}
+  "verdad": {lemma: "verdad", ko: "정말(de verdad)", en: "truth (really)", pron: "베르**다드**"}
+  "ves": {lemma: "ver", ko: "보다 (너는)", en: "you see", pron: "**베스**"}
+  "vista": {lemma: "vista", ko: "경치, 전망", en: "view", pron: "**비스**따"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "vuelta": {lemma: "vuelta", ko: "돌아옴(ida y vuelta 왕복)", en: "return", pron: "**부엘**따"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이미, 벌써", en: "already", pron: "**야**"}

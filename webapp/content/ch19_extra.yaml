@@ -1,0 +1,405 @@
+schema_version: 1
+chapter: 19
+dialogues:
+  - id: d1
+    title_es: Entradas para el tablao
+    title_ko: 타블라오 입장권 사기
+    setting_ko: 세비야 트리아나의 타블라오 입구. 오늘 밤 공연 표를 사려고 해요.
+    roles:
+      A: {es: Taquillera, ko: 매표 직원}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Buenas tardes. ¿Quedan entradas para esta noche?
+          ko: 안녕하세요. 오늘 밤 표 남았어요?
+        native:
+          es: Buenas. ¿Os quedan entradas para esta noche?
+          ko: 안녕하세요. 오늘 밤 표 아직 있어요?
+          note_ko: os quedan은 ‘(여러분 가게에) 남아 있어요?’예요. 가게 사람들을 묶어 vosotros로 불러요.
+      - who: A
+        textbook:
+          es: Sí, quedan pocas. Hay un espectáculo a las siete y otro a las nueve.
+          ko: 네, 몇 장 안 남았어요. 7시 공연과 9시 공연이 있어요.
+        native:
+          es: Sí, pero quedan poquitas. ¿Para el pase de las siete o el de las nueve?
+          ko: 네, 근데 얼마 안 남았어요. 7시 회차요, 9시 회차요?
+          note_ko: el pase는 공연의 ‘회차’예요. 타블라오는 하룻밤에 공연을 여러 번 하기도 해요.
+      - who: B
+        textbook:
+          es: Para las nueve. ¿Cuánto cuesta una entrada?
+          ko: 9시요. 표 한 장에 얼마예요?
+        native:
+          es: El de las nueve. ¿Cuánto es?
+          ko: 9시 거요. 얼마예요?
+          note_ko: el de las nueve는 el pase de las nueve를 줄인 말이에요.
+      - who: A
+        textbook:
+          es: Cuesta veinticinco euros. Con una bebida, cuesta treinta.
+          ko: 25유로예요. 음료 포함이면 30유로예요.
+        native:
+          es: Veinticinco, o treinta con consumición.
+          ko: 25유로요. 음료 포함이면 30이고요.
+          note_ko: consumición은 표값에 들어 있는 ‘음료 한 잔’이에요.
+      - who: B
+        textbook:
+          es: Una entrada con bebida, por favor. ¿Hay sitio cerca del escenario?
+          ko: 음료 포함으로 한 장 주세요. 무대 가까운 자리 있어요?
+        native:
+          es: Una con consumición. ¿Y me pones cerca del escenario, si puede ser?
+          ko: 음료 포함으로 한 장이요. 되면 무대 가까이로 해 주세요.
+          note_ko: ¿me pones…?는 ‘~로 해 줄래요?’라는 부탁이에요. si puede ser는 ‘가능하면’이에요.
+      - who: A
+        textbook:
+          es: Sí. Tiene un asiento en la fila dos. Desde allí se ven muy bien los pies de la bailaora.
+          ko: 네. 2열에 자리가 있어요. 거기서는 여자 무용수의 발이 아주 잘 보여요.
+        native:
+          es: Te pongo en la fila dos, que se ven genial los pies de la bailaora.
+          ko: 2열로 해 드릴게요. 무용수 발놀림이 아주 잘 보이거든요.
+          note_ko: 플라멩코에서는 발로 바닥을 구르는 소리도 음악의 한 부분이에요.
+      - who: B
+        textbook:
+          es: ¿Puedo hacer fotos durante el espectáculo?
+          ko: 공연 중에 사진 찍어도 돼요?
+        native:
+          es: Una pregunta, ¿se pueden hacer fotos?
+          ko: 하나만 물어볼게요, 사진 찍어도 돼요?
+          note_ko: 스페인에서는 사진을 ‘찍다’를 hacer fotos라고 많이 해요.
+      - who: A
+        textbook:
+          es: Durante el baile, no. Al final, sí.
+          ko: 춤추는 동안은 안 돼요. 끝날 때는 괜찮아요.
+        native:
+          es: Durante el baile, mejor no, ¿vale? Al final, cuando saludan, ya sí.
+          ko: 춤출 땐 안 찍는 게 좋아요, 알겠죠? 끝나고 인사할 때는 찍어도 돼요.
+          note_ko: ya sí는 ‘그때는 돼요’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: Muy bien. Aquí tiene treinta euros.
+          ko: 좋아요. 여기 30유로요.
+        native:
+          es: Perfecto. Toma, treinta.
+          ko: 좋아요. 여기요, 30유로.
+          note_ko: perfecto는 ‘좋아요, 딱 좋네요’라는 맞장구예요. 스페인에서 아주 흔해요.
+      - who: A
+        textbook:
+          es: Gracias. La puerta abre a las ocho y media. ¡Que disfrute!
+          ko: 고맙습니다. 문은 8시 반에 열어요. 즐겁게 보세요!
+        native:
+          es: Gracias. Abrimos a las ocho y media. ¡Ya verás qué noche!
+          ko: 고마워요. 8시 반에 문 열어요. 오늘 밤 정말 좋을 거예요!
+          note_ko: ya verás는 ‘곧 알게 될 거예요’라는 말로, 기대를 실어 말할 때 써요.
+  - id: d2
+    title_es: Aprender a tocar las palmas
+    title_ko: 손뼉 장단 배우기
+    setting_ko: 공연이 끝난 타블라오. 옆자리에 앉은 아주머니와 이야기를 나눠요.
+    roles:
+      A: {es: Señora, ko: 아주머니}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: A
+        textbook:
+          es: ¿Le ha gustado el espectáculo?
+          ko: 공연 마음에 드셨어요?
+        native:
+          es: ¿Qué, te ha gustado?
+          ko: 어때요, 좋았어요?
+          note_ko: 앞에 ¿qué?를 붙여 ‘어때요?’ 하고 소감을 물어요.
+      - who: B
+        textbook:
+          es: Sí, mucho. La bailaora baila muy bien.
+          ko: 네, 아주요. 여자 무용수가 춤을 정말 잘 춰요.
+        native:
+          es: ¡Me ha encantado! ¡Qué bien baila la bailaora!
+          ko: 너무 좋았어요! 무용수가 정말 잘 추네요!
+          note_ko: encantar는 gustar보다 센 ‘정말 좋다’예요.
+      - who: A
+        textbook:
+          es: Sí, y el cante también es muy bueno. ¿Entiende las canciones?
+          ko: 네, 노래도 아주 좋아요. 노래는 알아들으세요?
+        native:
+          es: Y el cantaor, ¡qué voz! ¿Te enteras de lo que canta?
+          ko: 가수 목소리도 대단하죠! 무슨 노래인지 알아듣겠어요?
+          note_ko: cantaor는 플라멩코 남자 가수예요. enterarse는 ‘알아듣다’예요.
+      - who: B
+        textbook:
+          es: No, no entiendo mucho. Pero el ritmo me gusta mucho.
+          ko: 아니요, 잘 못 알아들어요. 그래도 리듬이 정말 좋아요.
+        native:
+          es: Poquito, la verdad. Pero el ritmo, ¡qué pasada!
+          ko: 사실 거의 못 알아들어요. 그래도 리듬은 정말 끝내줘요!
+          note_ko: ¡qué pasada!는 ‘끝내준다’는 스페인 구어예요.
+      - who: A
+        textbook:
+          es: ¿Sabe tocar las palmas?
+          ko: 손뼉 장단 칠 줄 아세요?
+        native:
+          es: ¿Y las palmas? ¿Te atreves?
+          ko: 손뼉 장단은요? 한번 해 볼래요?
+          note_ko: atreverse는 ‘용기 내서 해 보다’예요.
+      - who: B
+        textbook:
+          es: No. Es muy difícil. ¿Me enseña?
+          ko: 아니요. 너무 어려워요. 가르쳐 주실래요?
+        native:
+          es: Uy, no, ¡es dificilísimo! ¿Me enseña un poco?
+          ko: 아이고, 아니요, 엄청 어려워요! 조금만 가르쳐 주실래요?
+          note_ko: -ísimo를 붙이면 ‘아주 ~한’이 돼요. difícil → dificilísimo.
+      - who: A
+        textbook:
+          es: Sí. Mire, así. Primero despacio, y después más rápido.
+          ko: 그럼요. 보세요, 이렇게요. 처음엔 천천히, 그다음엔 더 빠르게요.
+        native:
+          es: Mira, así, suave al principio, y luego fuerte, con la guitarra.
+          ko: 봐요, 이렇게요. 처음엔 살살, 그다음엔 기타에 맞춰 세게요.
+          note_ko: 손바닥을 오므려 치면 소리가 부드럽고, 펴서 치면 소리가 커요.
+      - who: B
+        textbook:
+          es: ¿Así?
+          ko: 이렇게요?
+        native:
+          es: ¿Así? ¿Voy bien?
+          ko: 이렇게요? 잘하고 있어요?
+          note_ko: ¿voy bien?은 ‘맞게 하고 있어요?’라는 말이에요.
+      - who: A
+        textbook:
+          es: ¡Muy bien! Y cuando la bailaora baila muy bien, decimos «¡olé!».
+          ko: 아주 좋아요! 그리고 무용수가 정말 잘 추면 «올레!» 하고 외쳐요.
+        native:
+          es: ¡Eso es! Y cuando algo te emociona, se dice «¡olé!», con ganas.
+          ko: 바로 그거예요! 그리고 뭔가 가슴이 뛰면 힘차게 «올레!» 하고 외쳐요.
+          note_ko: con ganas는 ‘힘껏, 신나게’예요.
+      - who: B
+        textbook:
+          es: ¡Olé! ¡Muchas gracias por la clase!
+          ko: 올레! 가르쳐 주셔서 정말 고마워요!
+        native:
+          es: ¡Olé! ¡Mil gracias por la clase!
+          ko: 올레! 수업 정말 고마워요!
+          note_ko: mil gracias는 ‘천 번 고마워요’라는 말로, 아주 고맙다는 뜻이에요.
+readings:
+  - id: r1
+    title_es: Una noche de flamenco
+    title_ko: 플라멩코의 밤
+    level: A1
+    paragraphs:
+      - es: Hoy es 24 de mayo y estoy en Sevilla. Por la noche voy a un tablao en Triana. Es pequeño, y el público está muy cerca del escenario.
+        ko: 오늘은 5월 24일, 저는 세비야에 있어요. 밤에 트리아나의 타블라오에 가요. 공연장이 작아서 관객이 무대와 아주 가까워요.
+      - es: Primero, un músico toca la guitarra. Después, un cantaor empieza a cantar. Luego sale la bailaora, con un vestido rojo y un abanico. Baila con mucha fuerza.
+        ko: 먼저 음악가 한 명이 기타를 쳐요. 그다음 남자 가수가 노래를 시작해요. 이어서 빨간 옷을 입고 부채를 든 여자 무용수가 나와요. 아주 힘 있게 춤을 춰요.
+      - es: El público toca las palmas y dice «¡olé!». Yo no sé tocar las palmas, pero una señora me enseña. ¡Qué noche tan bonita!
+        ko: 관객들은 손뼉 장단을 치며 «올레!»를 외쳐요. 저는 손뼉 장단을 칠 줄 모르는데, 옆자리 아주머니가 가르쳐 줘요. 정말 멋진 밤이에요!
+    questions:
+      - q_ko: 타블라오는 어디에 있나요?
+        choices_ko: [트리아나, 론다, 카디스]
+        answer: 0
+      - q_ko: 무용수는 손에 무엇을 들고 있었나요?
+        choices_ko: [부채, 캐스터네츠, 북]
+        answer: 0
+      - q_ko: 손뼉 장단은 누가 가르쳐 줬나요?
+        choices_ko: [기타 연주자, 옆자리 아주머니, 무용수]
+        answer: 1
+  - id: r2
+    title_es: Flamenco y sevillanas
+    title_ko: 플라멩코와 세비야나스
+    level: A2
+    paragraphs:
+      - es: El flamenco tiene tres partes principales, el cante, el baile y la guitarra. Las palmas también son muy importantes, porque marcan el ritmo. Hoy, algunos músicos tocan flamenco con piano o violín.
+        ko: 플라멩코는 크게 노래, 춤, 기타로 이루어져요. 손뼉 장단도 아주 중요해요. 리듬을 잡아 주거든요. 요즘은 피아노나 바이올린으로 플라멩코를 연주하는 음악가도 있어요.
+      - es: Las sevillanas son otra cosa. Son un baile popular de Sevilla, y se bailan en pareja. En la Feria de Sevilla, en primavera, mucha gente baila sevillanas. Muchas mujeres llevan vestido de flamenca y, a veces, tocan las castañuelas.
+        ko: 세비야나스는 또 달라요. 세비야의 민속춤으로, 둘이 짝을 지어 춰요. 봄에 열리는 세비야 페리아에서는 많은 사람이 세비야나스를 춰요. 플라멩코 의상을 입는 여자가 많고, 캐스터네츠를 치기도 해요.
+      - es: Si vas a un tablao, mira bien los pies de los bailaores. ¡Con los pies también hacen música!
+        ko: 타블라오에 가면 무용수들의 발을 잘 보세요. 발로도 음악을 만들거든요!
+    questions:
+      - q_ko: 플라멩코의 세 가지 큰 요소가 아닌 것은?
+        choices_ko: [노래, 피아노, 기타]
+        answer: 1
+      - q_ko: 세비야나스는 어떻게 추나요?
+        choices_ko: [혼자서, 둘이 짝을 지어, 열 명이 줄을 서서]
+        answer: 1
+      - q_ko: 타블라오에서 무엇을 잘 보라고 했나요?
+        choices_ko: [무용수의 발, 기타 줄, 관객의 손]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "abre": {lemma: "abrir", ko: "열다(그것은)", en: "opens", pron: "**아**브레"}
+  "abrimos": {lemma: "abrir", ko: "열다(우리는)", en: "we open", pron: "아**브리**모스"}
+  "al": {lemma: "a + el", ko: "~에(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "algunos": {lemma: "alguno", ko: "몇몇의(남성 복수)", en: "some", pron: "알**구**노스"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "asiento": {lemma: "asiento", ko: "좌석, 자리", en: "seat", pron: "아**시엔**또"}
+  "así": {lemma: "así", ko: "이렇게", en: "like this", pron: "아**시**"}
+  "atreves": {lemma: "atreverse", ko: "용기 내서 해 보다(너는)", en: "you dare", pron: "아뜨**레**베스"}
+  "baila": {lemma: "bailar", ko: "춤추다(그·그녀는)", en: "dances", pron: "**바일**라"}
+  "bailan": {lemma: "bailar", ko: "춤추다(se bailan 춰요)", en: "they dance (are danced)", pron: "**바일**란"}
+  "bailaores": {lemma: "bailaor", ko: "플라멩코 무용수들", en: "flamenco dancers", pron: "바일라**오**레스"}
+  "bebida": {lemma: "bebida", ko: "음료", en: "drink", pron: "베**비**다"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "bonita": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**따"}
+  "buenas": {lemma: "bueno", ko: "안녕하세요(buenas 인사)", en: "hi (short greeting)", pron: "**부에**나스"}
+  "bueno": {lemma: "bueno", ko: "좋은(남성)", en: "good", pron: "**부에**노"}
+  "canciones": {lemma: "canción", ko: "노래들", en: "songs", pron: "깐**시오**네스"}
+  "canta": {lemma: "cantar", ko: "노래하다(그는)", en: "sings", pron: "**깐**따"}
+  "cantaor": {lemma: "cantaor", ko: "플라멩코 남자 가수", en: "flamenco singer", pron: "깐따**오르**"}
+  "cantar": {lemma: "cantar", ko: "노래하다", en: "to sing", pron: "깐**따르**"}
+  "cerca": {lemma: "cerca", ko: "가까이", en: "near", pron: "**세르**까"}
+  "clase": {lemma: "clase", ko: "수업", en: "class", pron: "**끌라**세"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "consumición": {lemma: "consumición", ko: "(표값에 포함된) 음료", en: "drink (included)", pron: "꼰수미**시온**"}
+  "cosa": {lemma: "cosa", ko: "것, 일", en: "thing", pron: "**꼬**사"}
+  "cuando": {lemma: "cuando", ko: "~할 때", en: "when", pron: "꾸안도"}
+  "cuesta": {lemma: "costar", ko: "값이 ~이다(그것은)", en: "it costs", pron: "**꾸에스**따"}
+  "cuánto": {lemma: "cuánto", ko: "얼마", en: "how much", pron: "**꾸안**또"}
+  "decimos": {lemma: "decir", ko: "말하다(우리는)", en: "we say", pron: "데**시**모스"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "desde": {lemma: "desde", ko: "~에서(부터)", en: "from", pron: "데스데"}
+  "despacio": {lemma: "despacio", ko: "천천히", en: "slowly", pron: "데스**빠**시오"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "dice": {lemma: "decir", ko: "말하다(그·그녀·사람들은)", en: "says", pron: "**디**세"}
+  "dificilísimo": {lemma: "difícil", ko: "엄청 어려운", en: "extremely hard", pron: "디피실**리**시모"}
+  "difícil": {lemma: "difícil", ko: "어려운", en: "difficult", pron: "디**피**실"}
+  "disfrute": {lemma: "disfrutar", ko: "즐기세요(usted 명령)", en: "enjoy (formal)", pron: "디스**프루**떼"}
+  "dos": {lemma: "dos", ko: "둘", en: "two", pron: "**도스**"}
+  "durante": {lemma: "durante", ko: "~ 동안", en: "during", pron: "두**란**떼"}
+  "emociona": {lemma: "emocionar", ko: "가슴을 뛰게 하다(그것은)", en: "moves (emotionally)", pron: "에모시**오**나"}
+  "empieza": {lemma: "empezar", ko: "시작하다(그것은)", en: "starts", pron: "엠**삐에**사"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "encantado": {lemma: "encantar", ko: "정말 좋다(me ha encantado 정말 좋았어요)", en: "loved", pron: "엔깐**따**도"}
+  "enseña": {lemma: "enseñar", ko: "가르치다(당신은)", en: "you teach (formal)", pron: "엔**세**냐"}
+  "enteras": {lemma: "enterarse", ko: "알아듣다(너는)", en: "you understand", pron: "엔**떼**라스"}
+  "entiende": {lemma: "entender", ko: "이해하다(당신은)", en: "you understand (formal)", pron: "엔**띠엔**데"}
+  "entiendo": {lemma: "entender", ko: "이해하다(나는)", en: "I understand", pron: "엔**띠엔**도"}
+  "entradas": {lemma: "entrada", ko: "입장권들", en: "tickets", pron: "엔**뜨라**다스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "eso": {lemma: "eso", ko: "그것", en: "that", pron: "**에**소"}
+  "espectáculo": {lemma: "espectáculo", ko: "공연", en: "show", pron: "에스뻭**따**꿀로"}
+  "esta": {lemma: "este", ko: "이(것)(여성)", en: "this", pron: "**에스**따"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "euros": {lemma: "euro", ko: "유로(복수)", en: "euros", pron: "**에우**로스"}
+  "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
+  "feria": {lemma: "feria", ko: "페리아(장터 축제)", en: "fair", pron: "**페**리아"}
+  "fila": {lemma: "fila", ko: "열, 줄", en: "row", pron: "**필**라"}
+  "final": {lemma: "final", ko: "끝", en: "end", pron: "피**날**"}
+  "flamenco": {lemma: "flamenco", ko: "플라멩코", en: "flamenco", pron: "플라**멩**꼬"}
+  "fotos": {lemma: "foto", ko: "사진들", en: "photos", pron: "**포**또스"}
+  "fuerte": {lemma: "fuerte", ko: "세게, 강한", en: "strong, hard", pron: "**푸에르**떼"}
+  "fuerza": {lemma: "fuerza", ko: "힘", en: "strength", pron: "**푸에르**사"}
+  "ganas": {lemma: "gana", ko: "의욕(con ganas 힘껏)", en: "eagerness", pron: "**가**나스"}
+  "genial": {lemma: "genial", ko: "아주 좋은", en: "great", pron: "헤**니알**"}
+  "gente": {lemma: "gente", ko: "사람들", en: "people", pron: "**헨**떼"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "gusta": {lemma: "gustar", ko: "좋아하다 (나에게 ~이)", en: "I like it", pron: "**구스**따"}
+  "gustado": {lemma: "gustar", ko: "마음에 들었다(완료)", en: "liked", pron: "구스**따**도"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "hacen": {lemma: "hacer", ko: "하다, 만들다(그들은)", en: "they make", pron: "**아**센"}
+  "hacer": {lemma: "hacer", ko: "하다, 찍다", en: "to do, to take", pron: "아**세르**"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "importantes": {lemma: "importante", ko: "중요한(복수)", en: "important", pron: "임뽀르**딴**떼스"}
+  "le": {lemma: "le", ko: "당신에게", en: "you (formal), to you", pron: "레"}
+  "llevan": {lemma: "llevar", ko: "입다(그들은)", en: "they wear", pron: "**예**반"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "los": {lemma: "el", ko: "그(남성 복수 관사)", en: "the", pron: "로스"}
+  "luego": {lemma: "luego", ko: "나중에", en: "later", pron: "**루에**고"}
+  "marcan": {lemma: "marcar", ko: "(리듬을) 잡다(그것들은)", en: "they mark", pron: "**마르**깐"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "media": {lemma: "medio", ko: "반 (여성)", en: "half", pron: "**메**디아"}
+  "mejor": {lemma: "mejor", ko: "더 나은, ~하는 게 낫다", en: "better", pron: "메**호르**"}
+  "mil": {lemma: "mil", ko: "천(mil gracias: 정말 고마워요)", en: "thousand", pron: "**밀**"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "mire": {lemma: "mirar", ko: "보세요(usted에게)", en: "look (formal)", pron: "**미**레"}
+  "mucha": {lemma: "mucho", ko: "많은 (여성)", en: "a lot of", pron: "**무**차"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mucho": {lemma: "mucho", ko: "많이", en: "a lot", pron: "**무**초"}
+  "mujeres": {lemma: "mujer", ko: "여자들", en: "women", pron: "무**헤**레스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "música": {lemma: "música", ko: "음악", en: "music", pron: "**무**시까"}
+  "músicos": {lemma: "músico", ko: "음악가들", en: "musicians", pron: "**무**시꼬스"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
+  "nueve": {lemma: "nueve", ko: "9, 아홉", en: "nine", pron: "**누에**베"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "ocho": {lemma: "ocho", ko: "여덟", en: "eight", pron: "**오**초"}
+  "olé": {lemma: "olé", ko: "올레(감탄)", en: "olé", pron: "올**레**"}
+  "os": {lemma: "os", ko: "너희에게", en: "(to) you all", pron: "오스"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "pareja": {lemma: "pareja", ko: "짝(en pareja 둘이 짝을 지어)", en: "pair", pron: "빠**레**하"}
+  "partes": {lemma: "parte", ko: "부분들", en: "parts", pron: "**빠르**떼스"}
+  "pasada": {lemma: "pasada", ko: "끝내주는 것(구어)", en: "something amazing", pron: "빠**사**다"}
+  "pase": {lemma: "pase", ko: "(공연) 회차", en: "show session", pron: "**빠**세"}
+  "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
+  "perfecto": {lemma: "perfecto", ko: "좋아요, 완벽한", en: "perfect", pron: "뻬르**펙**또"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "pies": {lemma: "pie", ko: "발들", en: "feet", pron: "**삐에스**"}
+  "pocas": {lemma: "poco", ko: "적은(여성 복수)", en: "few", pron: "**뽀**까스"}
+  "poco": {lemma: "poco", ko: "조금(un poco)", en: "a little", pron: "**뽀**꼬"}
+  "pones": {lemma: "poner", ko: "놓다, 맞추다 (너는)", en: "you put, you set", pron: "**뽀**네스"}
+  "pongo": {lemma: "poner", ko: "놓다, 자리를 주다(나는)", en: "I put", pron: "**뽕**고"}
+  "popular": {lemma: "popular", ko: "민속의, 대중의", en: "folk, popular", pron: "뽀뿔**라르**"}
+  "poquitas": {lemma: "poco", ko: "아주 적은(여성 복수)", en: "very few", pron: "뽀**끼**따스"}
+  "poquito": {lemma: "poco", ko: "아주 조금", en: "a little bit", pron: "뽀**끼**또"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "porque": {lemma: "porque", ko: "왜냐하면", en: "because", pron: "뽀르께"}
+  "pregunta": {lemma: "pregunta", ko: "질문", en: "question", pron: "쁘레**군**따"}
+  "primavera": {lemma: "primavera", ko: "봄", en: "spring", pron: "쁘리마**베**라"}
+  "primero": {lemma: "primero", ko: "첫 번째(로)", en: "first", pron: "쁘리**메**로"}
+  "principales": {lemma: "principal", ko: "주요한(복수)", en: "main", pron: "쁘린시**빨**레스"}
+  "principio": {lemma: "principio", ko: "처음(al principio 처음에)", en: "beginning", pron: "쁘린**시**삐오"}
+  "puede": {lemma: "poder", ko: "~할 수 있다 (당신은)", en: "you can", pron: "**뿌에**데"}
+  "pueden": {lemma: "poder", ko: "~할 수 있다 (그들은)", en: "they can", pron: "**뿌에**덴"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "puerta": {lemma: "puerta", ko: "문", en: "door", pron: "**뿌에르**따"}
+  "que": {lemma: "que", ko: "~라는, ~하는; ~거든(이유)", en: "that; because", pron: "께"}
+  "quedan": {lemma: "quedar", ko: "남아 있다(그것들은)", en: "there are ... left", pron: "**께**단"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "rojo": {lemma: "rojo", ko: "빨간", en: "red", pron: "**로**호"}
+  "rápido": {lemma: "rápido", ko: "빠른", en: "fast", pron: "**라**삐도"}
+  "sabe": {lemma: "saber", ko: "알다(당신은), sabe tocar 칠 줄 알다", en: "you know (formal)", pron: "**사**베"}
+  "sale": {lemma: "salir", ko: "떠나다, 나오다(그것은)", en: "leaves, comes out", pron: "**살**레"}
+  "saludan": {lemma: "saludar", ko: "인사하다(그들은)", en: "they bow, greet", pron: "살**루**단"}
+  "se": {lemma: "se", ko: "자기를(재귀); 사람들이 ~하다(무인칭)", en: "oneself; one (impersonal)", pron: "세"}
+  "ser": {lemma: "ser", ko: "~이다", en: "to be", pron: "**세르**"}
+  "sevilla": {lemma: "Sevilla", ko: "세비야(도시)", en: "Seville", pron: "세**비**야"}
+  "sevillanas": {lemma: "sevillanas", ko: "세비야나스(세비야 민속춤)", en: "sevillanas (dance)", pron: "세비**야**나스"}
+  "señora": {lemma: "señora", ko: "아주머니, 부인", en: "madam, lady", pron: "세**뇨**라"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "siete": {lemma: "siete", ko: "7, 일곱", en: "seven", pron: "**시에**떼"}
+  "sitio": {lemma: "sitio", ko: "자리, 장소", en: "place, seat", pron: "**시**띠오"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "suave": {lemma: "suave", ko: "부드러운", en: "soft", pron: "**수아**베"}
+  "sé": {lemma: "saber", ko: "알다(나는)", en: "I know", pron: "**세**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tan": {lemma: "tan", ko: "그렇게, 아주", en: "so", pron: "딴"}
+  "tardes": {lemma: "tarde", ko: "오후(buenas tardes: 오후 인사)", en: "afternoons", pron: "**따르**데스"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "toca": {lemma: "tocar", ko: "연주하다, 치다(그는)", en: "plays", pron: "**또**까"}
+  "tocan": {lemma: "tocar", ko: "연주하다, 치다(그들은)", en: "they play", pron: "**또**깐"}
+  "tocar": {lemma: "tocar", ko: "연주하다, 치다", en: "to play", pron: "또**까르**"}
+  "toma": {lemma: "tomar", ko: "여기요(받아)", en: "here you are", pron: "**또**마"}
+  "treinta": {lemma: "treinta", ko: "30", en: "thirty", pron: "**뜨레인**따"}
+  "tres": {lemma: "tres", ko: "셋", en: "three", pron: "**뜨레스**"}
+  "triana": {lemma: "Triana", ko: "트리아나(세비야의 동네)", en: "Triana", pron: "뜨리**아**나"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "uy": {lemma: "uy", ko: "아이고, 이런", en: "oops", pron: "**우이**"}
+  "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "vas": {lemma: "ir", ko: "가다(너는)", en: "you go", pron: "**바스**"}
+  "veces": {lemma: "vez", ko: "번(a veces: 가끔)", en: "times", pron: "**베**세스"}
+  "veinticinco": {lemma: "veinticinco", ko: "25", en: "twenty-five", pron: "베인띠**신**꼬"}
+  "ven": {lemma: "ver", ko: "보이다(se ven 보인다, 복수)", en: "are seen", pron: "**벤**"}
+  "verdad": {lemma: "verdad", ko: "정말(de verdad)", en: "truth (really)", pron: "베르**다드**"}
+  "verás": {lemma: "ver", ko: "보다(너는, 미래) ya verás 곧 알게 될 거야", en: "you'll see", pron: "베**라스**"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "voz": {lemma: "voz", ko: "목소리", en: "voice", pron: "**보스**"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이미, 벌써", en: "already", pron: "**야**"}
+  "yo": {lemma: "yo", ko: "나", en: "I", pron: "**요**"}

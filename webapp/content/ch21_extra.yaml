@@ -1,0 +1,384 @@
+schema_version: 1
+chapter: 21
+dialogues:
+  - id: d1
+    title_es: Regatear en el Rastro
+    title_ko: 라스트로에서 값 흥정하기
+    setting_ko: 마드리드 라스트로 벼룩시장. 골동품 노점에서 오래된 거울을 발견했어요.
+    roles:
+      A: {es: Vendedor, ko: 판매원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: A
+        textbook:
+          es: Buenos días. ¿Busca algo?
+          ko: 안녕하세요. 찾으시는 거 있어요?
+        native:
+          es: ¡Buenas! Mira sin compromiso, ¿eh?
+          ko: 안녕하세요! 부담 없이 구경해요.
+          note_ko: sin compromiso는 ‘안 사도 괜찮아요’라는 뜻이에요. 노점에서 자주 들어요.
+      - who: B
+        textbook:
+          es: Gracias. ¿Cuánto cuesta este espejo?
+          ko: 고마워요. 이 거울은 얼마예요?
+        native:
+          es: Gracias. Oiga, ¿y este espejo cuánto es?
+          ko: 고마워요. 저기요, 이 거울은 얼마예요?
+          note_ko: ¿cuánto es?는 ¿cuánto cuesta?보다 짧고 흔해요. 나이 든 판매원이라 usted(oiga)를 써요.
+      - who: A
+        textbook:
+          es: Cuesta treinta euros. Es una antigüedad.
+          ko: 30유로예요. 골동품이에요.
+        native:
+          es: Ese, treinta. Es antiguo de verdad, ¿eh?
+          ko: 그건 30유로요. 진짜 오래된 거예요.
+          note_ko: 손님 앞에 있는 물건이라 ese(그것)라고 해요. de verdad는 ‘진짜로’예요.
+      - who: B
+        textbook:
+          es: Es un poco caro. ¿Me hace un descuento?
+          ko: 좀 비싸네요. 좀 깎아 주실 수 있어요?
+        native:
+          es: Uf, un poco caro... ¿Me lo deja en veinte?
+          ko: 음, 좀 비싸네요… 20유로에 주실래요?
+          note_ko: ¿me lo deja en…?는 ‘…에 주실래요?’ 하고 값을 깎을 때 써요.
+      - who: A
+        textbook:
+          es: Veinte no. Se lo dejo en veinticinco euros.
+          ko: 20유로는 안 돼요. 25유로에 드릴게요.
+        native:
+          es: Veinte, imposible. Venga, veinticinco y te lo llevas.
+          ko: 20은 안 돼요. 좋아요, 25유로면 가져가요.
+          note_ko: venga는 ‘좋아요, 자’ 하고 한발 물러설 때도 써요.
+      - who: B
+        textbook:
+          es: Vale. ¿Puedo pagar con tarjeta?
+          ko: 좋아요. 카드로 내도 돼요?
+        native:
+          es: Vale, trato hecho. ¿Le puedo pagar con tarjeta?
+          ko: 좋아요, 그렇게 해요. 카드로 내도 될까요?
+          note_ko: trato hecho는 ‘거래 성사’라는 말이에요. 흥정이 끝났을 때 해요.
+      - who: A
+        textbook:
+          es: No, lo siento. Aquí solo aceptamos dinero en efectivo.
+          ko: 아니요, 죄송해요. 여기서는 현금만 받아요.
+        native:
+          es: Uy, no, aquí solo efectivo. Si quieres, hay un cajero por aquí cerca.
+          ko: 아이고, 아니요, 여기는 현금만 돼요. 필요하면 이 근처에 현금인출기가 있어요.
+          note_ko: efectivo는 ‘현금’, cajero는 ‘현금인출기’예요. 노점은 현금만 받는 곳이 많아요.
+      - who: B
+        textbook:
+          es: No pasa nada. Tengo un billete de cincuenta euros.
+          ko: 괜찮아요. 50유로 지폐가 있어요.
+        native:
+          es: Nada, tengo un billete de cincuenta. ¿Tiene cambio?
+          ko: 괜찮아요, 50유로짜리 있어요. 거스름돈 있으세요?
+          note_ko: 지폐 액수만 말할 때는 euros를 흔히 빼요.
+      - who: A
+        textbook:
+          es: Sí, claro. Aquí tiene el cambio, veinticinco euros.
+          ko: 네, 그럼요. 거스름돈 25유로 여기 있어요.
+        native:
+          es: Sí, sí. Toma, veinticinco de vuelta. Y te lo meto en una bolsa.
+          ko: 네, 있어요. 여기요, 25유로 거스름돈이요. 봉지에 넣어 드릴게요.
+          note_ko: de vuelta는 ‘거스름돈으로’예요. 스페인에서는 거스름돈을 la vuelta라고도 해요.
+      - who: B
+        textbook:
+          es: Muchas gracias. ¡Adiós!
+          ko: 고맙습니다. 안녕히 계세요!
+        native:
+          es: ¡Gracias! ¡Que vaya bien!
+          ko: 고마워요! 수고하세요!
+          note_ko: que vaya bien은 헤어질 때 ‘잘 지내세요’ 정도로 건네는 인사예요.
+  - id: d2
+    title_es: Un regalo en una tienda del centro
+    title_ko: 시내 가게에서 선물 사기
+    setting_ko: 마드리드 시내의 작은 가게. 어머니께 드릴 선물을 고르고 있어요.
+    roles:
+      A: {es: Dependienta, ko: 점원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: B
+        textbook:
+          es: Hola. Busco un regalo para mi madre.
+          ko: 안녕하세요. 어머니께 드릴 선물을 찾고 있어요.
+        native:
+          es: Hola, buenas. Estoy buscando un regalo para mi madre.
+          ko: 안녕하세요. 엄마 선물을 찾는 중이에요.
+          note_ko: estoy buscando는 ‘찾는 중이에요’예요. 가게에서 아주 흔하게 써요.
+      - who: A
+        textbook:
+          es: Tenemos estos pañuelos. Están en oferta.
+          ko: 이 스카프들이 있어요. 특가 상품이에요.
+        native:
+          es: Mira, estos pañuelos están de oferta esta semana.
+          ko: 보세요, 이 스카프들은 이번 주에 특가예요.
+          note_ko: en oferta와 de oferta는 둘 다 ‘특가 중’이라는 뜻이에요.
+      - who: B
+        textbook:
+          es: ¿Cuánto cuesta este?
+          ko: 이건 얼마예요?
+        native:
+          es: Qué bonito. ¿Y este cuánto sale?
+          ko: 예쁘네요. 이건 얼마예요?
+          note_ko: ¿cuánto sale?도 ‘얼마예요?’라는 뜻이에요.
+      - who: A
+        textbook:
+          es: Este cuesta quince euros. Antes costaba veinte.
+          ko: 이건 15유로예요. 원래는 20유로였어요.
+        native:
+          es: Quince euros. Antes estaba a veinte.
+          ko: 15유로예요. 전에는 20유로였어요.
+          note_ko: 값이 얼마인지 말할 때 estar a를 많이 써요.
+      - who: B
+        textbook:
+          es: Me llevo este. ¿Me lo puede envolver para regalo?
+          ko: 이걸로 살게요. 선물 포장해 주실 수 있어요?
+        native:
+          es: Me llevo este. ¿Me lo envuelves para regalo?
+          ko: 이걸로 할게요. 선물 포장해 주실래요?
+          note_ko: para regalo라고 하면 선물용으로 싸 달라는 뜻이에요.
+      - who: A
+        textbook:
+          es: Sí, claro. ¿Paga con tarjeta o en efectivo?
+          ko: 네, 그럼요. 카드로 내시겠어요, 현금으로 내시겠어요?
+        native:
+          es: Claro. ¿Tarjeta o efectivo?
+          ko: 그럼요. 카드요, 현금이요?
+          note_ko: 질문을 다 하지 않고 고를 것만 짧게 물어요.
+      - who: B
+        textbook:
+          es: Con tarjeta, por favor. ¿Me da el recibo?
+          ko: 카드로 할게요. 영수증 주시겠어요?
+        native:
+          es: Con tarjeta. ¿Me das el ticket, porfa?
+          ko: 카드로요. 영수증 주실래요?
+          note_ko: 영수증은 el ticket이라고도 해요. 가게에서는 이 말을 더 자주 들어요.
+      - who: A
+        textbook:
+          es: Aquí tiene el recibo. Si no le gusta, puede cambiarlo en quince días.
+          ko: 영수증 여기 있어요. 마음에 안 드시면 15일 안에 교환하실 수 있어요.
+        native:
+          es: Toma. Con el ticket lo puedes cambiar en quince días, ¿vale?
+          ko: 여기요. 영수증이 있으면 15일 안에 교환할 수 있어요, 아셨죠?
+          note_ko: 교환 기간은 가게마다 달라요. 영수증은 꼭 챙겨 둬요.
+      - who: B
+        textbook:
+          es: Muy bien. Muchas gracias.
+          ko: 알겠어요. 고맙습니다.
+        native:
+          es: Perfecto, ¡gracias!
+          ko: 좋아요, 고마워요!
+          note_ko: perfecto는 ‘딱 좋아요, 알겠어요’라는 맞장구로 자주 써요.
+readings:
+  - id: r1
+    title_es: Una mañana en el Rastro
+    title_ko: 라스트로에서 보낸 아침
+    level: A1
+    paragraphs:
+      - es: Es 13 de mayo, por la mañana. Voy al Rastro, un mercadillo muy grande de Madrid. La calle principal se llama Ribera de Curtidores.
+        ko: 5월 13일 아침이에요. 마드리드의 아주 큰 벼룩시장인 라스트로에 가요. 중심 거리 이름은 리베라 데 쿠르티도레스예요.
+      - es: Hay puestos de ropa, de libros viejos y de antigüedades. Hay mucha gente, así que llevo la mochila delante.
+        ko: 옷, 헌책, 골동품을 파는 노점이 있어요. 사람이 많아서 배낭은 앞으로 메요.
+      - es: En un puesto veo un espejo antiguo. El vendedor dice treinta euros, pero me lo deja en veinticinco. Pago con un billete de cincuenta y el vendedor me da el cambio. ¡Qué bien!
+        ko: 한 노점에서 오래된 거울을 봐요. 판매원은 30유로라고 하지만 25유로에 줘요. 50유로 지폐로 내고 거스름돈을 받아요. 잘됐어요!
+    questions:
+      - q_ko: 라스트로는 어떤 곳인가요?
+        choices_ko: [미술관, 벼룩시장, 기차역]
+        answer: 1
+      - q_ko: 글쓴이는 왜 배낭을 앞으로 멨나요?
+        choices_ko: [사람이 많아서, 비가 와서, 배낭이 무거워서]
+        answer: 0
+      - q_ko: 거울은 결국 얼마에 샀나요?
+        choices_ko: [20유로, 30유로, 25유로]
+        answer: 2
+  - id: r2
+    title_es: Regalos para casa
+    title_ko: 집에 가져갈 선물
+    level: A2
+    paragraphs:
+      - es: Por la tarde busco regalos para mi familia. En una tienda del centro hay ofertas, pero no hay rebajas. En España, las rebajas grandes suelen ser en enero y en julio.
+        ko: 오후에는 가족에게 줄 선물을 찾아요. 시내 가게에 특가 상품은 있지만 세일은 하지 않아요. 스페인에서 큰 세일은 보통 1월과 7월에 열리거든요.
+      - es: Para mi madre compro un pañuelo de quince euros. Antes costaba veinte, así que tiene un descuento de cinco euros. La dependienta lo envuelve para regalo y me da el recibo.
+        ko: 어머니께 드릴 15유로짜리 스카프를 사요. 원래 20유로였으니까 5유로 할인받은 셈이에요. 점원이 선물 포장을 해 주고 영수증을 줘요.
+      - es: En la caja pago con tarjeta, porque ya tengo pocas monedas. Ahora llevo muchas bolsas. Mañana voy a Toledo, y no sé si todo cabe en la maleta.
+        ko: 동전이 얼마 안 남아서 계산대에서 카드로 내요. 이제 봉지가 한가득이에요. 내일은 톨레도에 가는데, 여행 가방에 다 들어갈지 모르겠어요.
+    questions:
+      - q_ko: 스페인에서 큰 세일은 보통 언제 열리나요?
+        choices_ko: [5월, 1월과 7월, 12월]
+        answer: 1
+      - q_ko: 스카프는 얼마나 할인받았나요?
+        choices_ko: [5유로, 10유로, 15유로]
+        answer: 0
+      - q_ko: 글쓴이는 왜 카드로 냈나요?
+        choices_ko: [현금인출기가 없어서, 카드가 더 싸서, 동전이 얼마 안 남아서]
+        answer: 2
+glossary:
+  "a": {lemma: "a", ko: "~에, ~(으)로, ~에게", en: "to", pron: "아"}
+  "aceptamos": {lemma: "aceptar", ko: "받다(우리는)", en: "we accept", pron: "아셉**따**모스"}
+  "adiós": {lemma: "adiós", ko: "안녕히 계세요", en: "goodbye", pron: "아**디오스**"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "al": {lemma: "a + el", ko: "~에게, ~(으)로(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "antes": {lemma: "antes", ko: "전에", en: "before", pron: "**안**떼스"}
+  "antiguo": {lemma: "antiguo", ko: "오래된", en: "old", pron: "안**띠**구오"}
+  "antigüedades": {lemma: "antigüedad", ko: "골동품(복수)", en: "antiques", pron: "안띠구에**다**데스"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "así": {lemma: "así", ko: "그렇게(así que 그래서)", en: "so (así que)", pron: "아**시**"}
+  "bien": {lemma: "bien", ko: "잘, 좋게", en: "well", pron: "**비엔**"}
+  "bolsas": {lemma: "bolsa", ko: "봉지들", en: "bags", pron: "**볼**사스"}
+  "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
+  "buenas": {lemma: "bueno", ko: "좋은(여성 복수)", en: "good", pron: "**부에**나스"}
+  "buenos": {lemma: "bueno", ko: "좋은, 맛있는(남성 복수)", en: "good, tasty", pron: "**부에**노스"}
+  "busca": {lemma: "buscar", ko: "찾다(당신은)", en: "you look for (formal)", pron: "**부스**까"}
+  "buscando": {lemma: "buscar", ko: "찾는 중(진행형)", en: "looking for", pron: "부스**깐**도"}
+  "busco": {lemma: "buscar", ko: "찾다(나는)", en: "I look for", pron: "**부스**꼬"}
+  "cabe": {lemma: "caber", ko: "들어가다(그것은)", en: "it fits", pron: "**까**베"}
+  "cajero": {lemma: "cajero", ko: "현금인출기", en: "cash machine", pron: "까**헤**로"}
+  "calle": {lemma: "calle", ko: "길, 거리", en: "street", pron: "**까**예"}
+  "cambiar": {lemma: "cambiar", ko: "바꾸다, 교환하다", en: "to exchange", pron: "깜비**아르**"}
+  "cambiarlo": {lemma: "cambiar", ko: "그것을 교환하다", en: "to exchange it", pron: "깜비**아르**로"}
+  "caro": {lemma: "caro", ko: "비싼", en: "expensive", pron: "**까**로"}
+  "centro": {lemma: "centro", ko: "시내, 중심", en: "town centre", pron: "**센**뜨로"}
+  "cerca": {lemma: "cerca", ko: "가까이(por aquí cerca 이 근처에)", en: "near", pron: "**세르**까"}
+  "cinco": {lemma: "cinco", ko: "다섯", en: "five", pron: "**신**꼬"}
+  "cincuenta": {lemma: "cincuenta", ko: "쉰", en: "fifty", pron: "신**꾸엔**따"}
+  "claro": {lemma: "claro", ko: "물론이죠", en: "of course", pron: "**끌라**로"}
+  "compro": {lemma: "comprar", ko: "사다(나는)", en: "I buy", pron: "**꼼**쁘로"}
+  "compromiso": {lemma: "compromiso", ko: "의무, 약속(sin compromiso 부담 없이)", en: "obligation", pron: "꼼쁘로**미**소"}
+  "con": {lemma: "con", ko: "~와 함께, ~을 넣은", en: "with", pron: "꼰"}
+  "costaba": {lemma: "costar", ko: "값이 ~였다(그것은, 과거)", en: "it cost", pron: "꼬스**따**바"}
+  "cuesta": {lemma: "costar", ko: "값이 ~이다(그것은)", en: "it costs", pron: "**꾸에스**따"}
+  "curtidores": {lemma: "curtidor", ko: "무두장이(복수), Ribera de Curtidores 거리 이름", en: "tanners", pron: "꾸르띠**도**레스"}
+  "cuánto": {lemma: "cuánto", ko: "얼마", en: "how much", pron: "**꾸안**또"}
+  "da": {lemma: "dar", ko: "주다(그·그녀·당신은)", en: "gives; you give (formal)", pron: "**다**"}
+  "das": {lemma: "dar", ko: "주다(너는)", en: "you give", pron: "**다스**"}
+  "de": {lemma: "de", ko: "~의, ~으로 만든", en: "of", pron: "데"}
+  "deja": {lemma: "dejar", ko: "두다; (값을) 해 주다(당신은)", en: "you let (formal)", pron: "**데**하"}
+  "dejo": {lemma: "dejar", ko: "두다; (값을) 해 주다(나는), se lo dejo en… …에 드릴게요", en: "I leave; I let you have it for", pron: "**데**호"}
+  "del": {lemma: "de + el", ko: "~의, ~에서(de+el)", en: "of the, from the", pron: "델"}
+  "delante": {lemma: "delante", ko: "앞에", en: "in front", pron: "델**란**떼"}
+  "dependienta": {lemma: "dependiente", ko: "점원(여성)", en: "shop assistant (female)", pron: "데뻰**디엔**따"}
+  "dice": {lemma: "decir", ko: "말하다(그·그녀·사람들은)", en: "says", pron: "**디**세"}
+  "dinero": {lemma: "dinero", ko: "돈", en: "money", pron: "디**네**로"}
+  "días": {lemma: "día", ko: "날들(buenos días 아침 인사)", en: "days", pron: "**디**아스"}
+  "efectivo": {lemma: "efectivo", ko: "현금", en: "cash", pron: "에펙**띠**보"}
+  "eh": {lemma: "eh", ko: "응?, 알았지?", en: "eh?", pron: "**에**"}
+  "en": {lemma: "en", ko: "~에, ~에서", en: "in, at", pron: "엔"}
+  "enero": {lemma: "enero", ko: "1월", en: "January", pron: "에**네**로"}
+  "envolver": {lemma: "envolver", ko: "포장하다, 싸다", en: "to wrap", pron: "엔볼**베르**"}
+  "envuelve": {lemma: "envolver", ko: "포장하다(그·그녀는)", en: "wraps", pron: "엔**부엘**베"}
+  "envuelves": {lemma: "envolver", ko: "포장하다(너는)", en: "you wrap", pron: "엔**부엘**베스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "is", pron: "**에스**"}
+  "ese": {lemma: "ese", ko: "그, 저(남성)", en: "that", pron: "**에**세"}
+  "españa": {lemma: "España", ko: "스페인", en: "Spain", pron: "에스**빠**냐"}
+  "espejo": {lemma: "espejo", ko: "거울", en: "mirror", pron: "에스**뻬**호"}
+  "esta": {lemma: "este", ko: "이(여성)", en: "this", pron: "**에스**따"}
+  "estaba": {lemma: "estar", ko: "~였다(그것은, 과거), estaba a… 값이 …였다", en: "it was", pron: "에스**따**바"}
+  "este": {lemma: "este", ko: "이(남성); 이것", en: "this; this one", pron: "**에스**떼"}
+  "estos": {lemma: "este", ko: "이(남성 복수)", en: "these", pron: "**에스**또스"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "euros": {lemma: "euro", ko: "유로(복수)", en: "euros", pron: "**에우**로스"}
+  "familia": {lemma: "familia", ko: "가족", en: "family", pron: "파**밀**리아"}
+  "favor": {lemma: "favor", ko: "부탁, 호의", en: "favour", pron: "파**보르**"}
+  "gente": {lemma: "gente", ko: "사람들", en: "people", pron: "**헨**떼"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thanks", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "grandes": {lemma: "grande", ko: "큰(복수)", en: "big", pron: "**그란**데스"}
+  "gusta": {lemma: "gustar", ko: "마음에 들다(그것이 당신에게)", en: "it pleases (you)", pron: "**구스**따"}
+  "hace": {lemma: "hacer", ko: "하다, 해 주다(당신은)", en: "you do, you make (formal)", pron: "**아**세"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is, there are", pron: "**아이**"}
+  "hecho": {lemma: "hacer", ko: "된, 이루어진(trato hecho 거래 성사)", en: "done (deal)", pron: "**에**초"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "imposible": {lemma: "imposible", ko: "불가능한, 안 돼요", en: "impossible", pron: "임뽀**시**블레"}
+  "julio": {lemma: "julio", ko: "7월", en: "July", pron: "**훌**리오"}
+  "le": {lemma: "le", ko: "당신에게", en: "(to) you (formal)", pron: "레"}
+  "libros": {lemma: "libro", ko: "책(복수)", en: "books", pron: "**리**브로스"}
+  "llama": {lemma: "llamar", ko: "불리다 (se llama: 이름이 ~이다)", en: "is called", pron: "**야**마"}
+  "llevas": {lemma: "llevar", ko: "가져가다(너는)", en: "you take", pron: "**예**바스"}
+  "llevo": {lemma: "llevar", ko: "가져가다, 사다; 메다, 들다(나는)", en: "I take; I carry", pron: "**예**보"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "madre": {lemma: "madre", ko: "어머니", en: "mother", pron: "**마**드레"}
+  "madrid": {lemma: "Madrid", ko: "마드리드", en: "Madrid", pron: "마**드리드**"}
+  "maleta": {lemma: "maleta", ko: "여행 가방", en: "suitcase", pron: "말**레**따"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침, 오전 / 내일(pasado mañana 모레)", en: "morning / tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나에게", en: "me, to me", pron: "메"}
+  "meto": {lemma: "meter", ko: "넣다(나는)", en: "I put in", pron: "**메**또"}
+  "mi": {lemma: "mi", ko: "나의", en: "my", pron: "미"}
+  "mira": {lemma: "mirar", ko: "봐요(tú에게)", en: "look", pron: "**미**라"}
+  "mochila": {lemma: "mochila", ko: "배낭", en: "backpack", pron: "모**칠**라"}
+  "monedas": {lemma: "moneda", ko: "동전(복수)", en: "coins", pron: "모**네**다스"}
+  "mucha": {lemma: "mucho", ko: "많은(여성 단수)", en: "a lot of", pron: "**무**차"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada 천만에요)", en: "nothing", pron: "**나**다"}
+  "no": {lemma: "no", ko: "아니요", en: "no", pron: "**노**"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "ofertas": {lemma: "oferta", ko: "특가 상품(복수)", en: "special offers", pron: "오**페르**따스"}
+  "oiga": {lemma: "oír", ko: "저기요(usted에게 말 걸 때)", en: "excuse me (formal)", pron: "**오이**가"}
+  "paga": {lemma: "pagar", ko: "내다, 계산하다(당신은)", en: "you pay (formal)", pron: "**빠**가"}
+  "pagar": {lemma: "pagar", ko: "계산하다, 내다", en: "to pay", pron: "빠**가르**"}
+  "pago": {lemma: "pagar", ko: "내다, 지불하다(나는)", en: "I pay", pron: "**빠**고"}
+  "para": {lemma: "para", ko: "~을 위해, ~에게는", en: "for", pron: "빠라"}
+  "pasa": {lemma: "pasar", ko: "일어나다(무슨 일이)", en: "happens", pron: "**빠**사"}
+  "pañuelo": {lemma: "pañuelo", ko: "스카프", en: "scarf", pron: "빠**뉴엘**로"}
+  "pañuelos": {lemma: "pañuelo", ko: "스카프(복수)", en: "scarves", pron: "빠**뉴엘**로스"}
+  "perfecto": {lemma: "perfecto", ko: "좋아요, 완벽한", en: "perfect", pron: "뻬르**펙**또"}
+  "pero": {lemma: "pero", ko: "하지만, 그런데", en: "but", pron: "뻬로"}
+  "pocas": {lemma: "poco", ko: "적은(여성 복수)", en: "few", pron: "**뽀**까스"}
+  "poco": {lemma: "poco", ko: "조금", en: "a little", pron: "**뽀**꼬"}
+  "por": {lemma: "por", ko: "~으로, ~에(por favor, por la noche)", en: "by, for, in", pron: "뽀르"}
+  "porfa": {lemma: "por favor", ko: "부탁해요(줄임말)", en: "please (casual)", pron: "**뽀르**파"}
+  "porque": {lemma: "porque", ko: "~ 때문에", en: "because", pron: "뽀르께"}
+  "principal": {lemma: "principal", ko: "주된, 가장 중요한", en: "main", pron: "쁘린시**빨**"}
+  "puede": {lemma: "poder", ko: "할 수 있다(당신은)", en: "you can (formal)", pron: "**뿌에**데"}
+  "puedes": {lemma: "poder", ko: "할 수 있다(너는)", en: "you can", pron: "**뿌에**데스"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "puestos": {lemma: "puesto", ko: "노점(복수)", en: "stalls", pron: "**뿌에스**또스"}
+  "que": {lemma: "que", ko: "~라고, ~거든요, (que vaya bien) ~하기를", en: "that, because", pron: "께"}
+  "quieres": {lemma: "querer", ko: "원하다(너는)", en: "you want", pron: "**끼에**레스"}
+  "quince": {lemma: "quince", ko: "15, 열다섯", en: "fifteen", pron: "**낀**세"}
+  "qué": {lemma: "qué", ko: "무엇, 얼마나(감탄)", en: "what, how", pron: "**께**"}
+  "rastro": {lemma: "Rastro", ko: "라스트로(마드리드의 벼룩시장)", en: "the Rastro (flea market)", pron: "**라스**뜨로"}
+  "regalos": {lemma: "regalo", ko: "선물(복수)", en: "presents", pron: "레**갈**로스"}
+  "ribera": {lemma: "ribera", ko: "강가(Ribera de Curtidores 거리 이름)", en: "riverside", pron: "리**베**라"}
+  "ropa": {lemma: "ropa", ko: "옷", en: "clothes", pron: "**로**빠"}
+  "sale": {lemma: "salir", ko: "(값이) ~이다; 나오다(그것은)", en: "it costs; it comes out", pron: "**살**레"}
+  "se": {lemma: "se", ko: "자기를(재귀 대명사)", en: "itself", pron: "세"}
+  "semana": {lemma: "semana", ko: "주, 일주일", en: "week", pron: "세**마**나"}
+  "ser": {lemma: "ser", ko: "~이다", en: "to be", pron: "**세르**"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "siento": {lemma: "sentir", ko: "느끼다(lo siento: 죄송해요)", en: "I feel (sorry)", pron: "**시엔**또"}
+  "sin": {lemma: "sin", ko: "~없이", en: "without", pron: "신"}
+  "solo": {lemma: "solo", ko: "~만", en: "only", pron: "**솔**로"}
+  "suelen": {lemma: "soler", ko: "보통 ~하다(그것들은)", en: "they usually", pron: "**수엘**렌"}
+  "sé": {lemma: "saber", ko: "알다(나는)", en: "I know", pron: "**세**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tenemos": {lemma: "tener", ko: "가지다 (우리는)", en: "we have", pron: "떼**네**모스"}
+  "tengo": {lemma: "tener", ko: "가지고 있다(나는)", en: "I have", pron: "**뗑**고"}
+  "ticket": {lemma: "ticket", ko: "영수증(구어)", en: "receipt", pron: "**띠**께뜨"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "toledo": {lemma: "Toledo", ko: "톨레도", en: "Toledo", pron: "똘**레**도"}
+  "toma": {lemma: "tomar", ko: "여기요(받아)", en: "here you are", pron: "**또**마"}
+  "trato": {lemma: "trato", ko: "거래(trato hecho 거래 성사)", en: "deal", pron: "**뜨라**또"}
+  "treinta": {lemma: "treinta", ko: "30, 서른", en: "thirty", pron: "**뜨레인**따"}
+  "uf": {lemma: "uf", ko: "음, 휴(난감할 때)", en: "phew", pron: "**우프**"}
+  "un": {lemma: "uno", ko: "하나의(남성)", en: "a, one", pron: "운"}
+  "una": {lemma: "uno", ko: "하나의(여성)", en: "a, one", pron: "우나"}
+  "uy": {lemma: "uy", ko: "아이고, 이런", en: "oops", pron: "**우이**"}
+  "vale": {lemma: "valer", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "vaya": {lemma: "ir", ko: "가다(접속법), que vaya bien 잘 다녀와요", en: "go", pron: "**바**야"}
+  "veinte": {lemma: "veinte", ko: "20", en: "twenty", pron: "**베인**떼"}
+  "veinticinco": {lemma: "veinticinco", ko: "25, 스물다섯", en: "twenty-five", pron: "베인띠**신**꼬"}
+  "venga": {lemma: "venga", ko: "그래, 자(재촉)", en: "come on, OK", pron: "**벵**가"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I see", pron: "**베**오"}
+  "verdad": {lemma: "verdad", ko: "정말(de verdad)", en: "truth (really)", pron: "베르**다드**"}
+  "viejos": {lemma: "viejo", ko: "오래된, 헌(남성 복수)", en: "old", pron: "**비에**호스"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "vuelta": {lemma: "vuelta", ko: "거스름돈(de vuelta 거스름돈으로)", en: "change", pron: "**부엘**따"}
+  "y": {lemma: "y", ko: "그리고, ~와", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이미, 벌써", en: "already", pron: "**야**"}

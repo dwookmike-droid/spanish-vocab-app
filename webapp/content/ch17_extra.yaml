@@ -1,0 +1,411 @@
+schema_version: 1
+chapter: 17
+dialogues:
+  - id: d1
+    title_es: Un partido en el bar
+    title_ko: 바에서 축구 보기
+    setting_ko: 팜플로나 구시가의 바. 텔레비전으로 축구 경기를 하고 있어요.
+    roles:
+      A: {es: Aficionado, ko: 축구 팬}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, ¿cómo va el partido?
+          ko: 실례합니다, 경기 어떻게 돼 가요?
+        native:
+          es: Perdone, ¿cómo van?
+          ko: 저기요, 몇 대 몇이에요?
+          note_ko: ¿cómo van?은 ‘(두 팀이) 어떻게 돼 가요?’라는 뜻으로, 점수를 짧게 묻는 말이에요.
+      - who: A
+        textbook:
+          es: Vamos uno a cero. Nuestro equipo gana.
+          ko: 1 대 0이에요. 우리 팀이 이기고 있어요.
+        native:
+          es: Uno a cero, ganamos. ¡Y el gol ha sido una maravilla!
+          ko: 1 대 0, 우리가 이기고 있어요. 그 골 정말 끝내줬어요!
+          note_ko: 응원하는 팀 이야기를 할 때는 ganamos(우리가 이긴다)처럼 ‘우리’로 말해요.
+      - who: B
+        textbook:
+          es: ¿Quién ha marcado el gol?
+          ko: 누가 골을 넣었어요?
+        native:
+          es: ¿Y quién lo ha metido?
+          ko: 누가 넣었어요?
+          note_ko: meter un gol은 marcar un gol과 같은 뜻으로, 말할 때 더 흔해요.
+      - who: A
+        textbook:
+          es: El número nueve. Es el mejor jugador del equipo.
+          ko: 9번이요. 팀에서 제일 잘하는 선수예요.
+        native:
+          es: El nueve, de cabeza. Ese chaval es lo mejor que tenemos.
+          ko: 9번이 헤딩으로요. 저 친구가 우리 팀 최고예요.
+          note_ko: chaval은 ‘젊은 친구, 녀석’이라는 스페인 구어예요.
+      - who: B
+        textbook:
+          es: ¿Qué pasa? ¿Por qué pita el árbitro?
+          ko: 무슨 일이에요? 심판이 왜 휘슬을 불어요?
+        native:
+          es: ¡Uy! ¿Qué ha pitado el árbitro?
+          ko: 앗! 심판이 뭘 분 거예요?
+          note_ko: pitar는 ‘휘슬을 불다’예요. 반칙이나 페널티킥을 선언한다는 뜻으로도 써요.
+      - who: A
+        textbook:
+          es: Es un penalti para el otro equipo. ¡No es justo!
+          ko: 상대 팀 페널티킥이에요. 이건 불공평해요!
+        native:
+          es: ¡Penalti! ¡Pero si no le ha tocado! ¡Árbitro, que estás ciego!
+          ko: 페널티킥이래요! 건드리지도 않았는데! 심판, 눈은 어디 뒀어!
+          note_ko: pero si…는 ‘~했는데도’ 하고 억울함을 터뜨리는 말이에요. 경기장에서 심판에게 흔히 외쳐요.
+      - who: B
+        textbook:
+          es: ¿Usted va al estadio a ver los partidos?
+          ko: 경기장에 가서 경기를 보세요?
+        native:
+          es: ¿Y usted suele ir al estadio?
+          ko: 경기장에는 자주 가세요?
+          note_ko: soler + 동사원형은 ‘보통 ~하다, 자주 ~하다’예요.
+      - who: A
+        textbook:
+          es: Sí, casi siempre. Nunca me pierdo un partido en casa.
+          ko: 네, 거의 늘 가요. 홈경기는 절대 안 놓쳐요.
+        native:
+          es: Claro, no me pierdo ni uno en casa. Si quieres, te digo dónde comprar las entradas.
+          ko: 그럼요, 홈경기는 하나도 안 놓쳐요. 원하면 입장권 어디서 사는지 알려 줄게요.
+          note_ko: nunca를 쓰지 않고 no … ni uno(하나도 안)로도 말해요. en casa는 ‘홈경기에서’예요.
+      - who: B
+        textbook:
+          es: Muchas gracias. Ahora vamos a ver el penalti.
+          ko: 고맙습니다. 이제 페널티킥 봐요.
+        native:
+          es: ¡Genial, gracias! Y ojalá lo pare el portero.
+          ko: 좋아요, 고마워요! 골키퍼가 막으면 좋겠네요.
+          note_ko: ojalá는 ‘~하면 좋겠다’는 바람이에요. 뒤에 접속법(pare)이 와요.
+  - id: d2
+    title_es: En la oficina de turismo
+    title_ko: 관광 안내소에서
+    setting_ko: 팜플로나 관광 안내소. 7월 축제와 자전거 대여에 대해 물어봐요.
+    roles:
+      A: {es: Empleada, ko: 안내소 직원}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: B
+        textbook:
+          es: Hola. ¿Cuándo es la fiesta de San Fermín?
+          ko: 안녕하세요. 산 페르민 축제는 언제예요?
+        native:
+          es: Hola, buenas. Una pregunta, ¿los Sanfermines cuándo son?
+          ko: 안녕하세요, 하나 물어볼게요. 산 페르민 축제는 언제 해요?
+          note_ko: 이 축제는 흔히 los Sanfermines라고 복수로 불러요.
+      - who: A
+        textbook:
+          es: Es en julio, del seis al catorce. Ahora, en mayo, no hay fiesta.
+          ko: 7월 6일부터 14일까지예요. 지금 5월에는 축제가 없어요.
+        native:
+          es: Del seis al catorce de julio. Ahora está todo muy tranquilo, ya ves.
+          ko: 7월 6일부터 14일까지예요. 보시다시피 지금은 아주 조용하죠.
+          note_ko: ya ves는 ‘보다시피’예요.
+      - who: B
+        textbook:
+          es: ¿Qué hay en la fiesta?
+          ko: 축제 때는 뭐가 있어요?
+        native:
+          es: ¿Y qué se hace en las fiestas?
+          ko: 축제 때는 다들 뭘 해요?
+          note_ko: se hace는 ‘(사람들이) 한다’는 일반적인 말이에요.
+      - who: A
+        textbook:
+          es: Hay desfiles, bandas de música y fuegos artificiales por la noche. La gente lleva ropa blanca y un pañuelo rojo.
+          ko: 행진도 있고, 악단도 있고, 밤에는 불꽃놀이도 해요. 사람들은 흰 옷을 입고 빨간 스카프를 둘러요.
+        native:
+          es: De todo, desfiles, bandas por la calle, fuegos artificiales por la noche… Y todo el mundo de blanco, con su pañuelo rojo.
+          ko: 다 있어요. 행진, 거리 악단, 밤 불꽃놀이… 그리고 다들 흰 옷에 빨간 스카프를 둘러요.
+          note_ko: todo el mundo는 ‘온 세상’이 아니라 ‘모두, 다들’이에요. de blanco는 ‘흰 옷을 입고’예요.
+      - who: B
+        textbook:
+          es: ¿Dónde puedo comprar un pañuelo?
+          ko: 스카프는 어디서 살 수 있어요?
+        native:
+          es: ¡Qué bonito! ¿Y el pañuelo dónde lo compro?
+          ko: 멋지네요! 스카프는 어디서 사요?
+          note_ko: 목적어를 앞으로 빼면 lo를 다시 붙여요. el pañuelo… lo compro처럼요.
+      - who: A
+        textbook:
+          es: En muchas tiendas del casco antiguo. Venden pañuelos todo el año.
+          ko: 구시가의 여러 가게에서 팔아요. 스카프는 일 년 내내 팔아요.
+        native:
+          es: En cualquier tienda del casco antiguo. Los tienen todo el año.
+          ko: 구시가 가게면 어디든 있어요. 일 년 내내 팔아요.
+          note_ko: cualquier는 ‘어느 ~든’이에요.
+      - who: B
+        textbook:
+          es: Gracias. También quiero alquilar una bicicleta. ¿Dónde puedo alquilar una?
+          ko: 고마워요. 자전거도 빌리고 싶어요. 어디서 빌릴 수 있어요?
+        native:
+          es: Genial. Otra cosa, ¿dónde puedo alquilar una bici?
+          ko: 좋네요. 하나 더요, 자전거는 어디서 빌릴 수 있어요?
+          note_ko: bici는 bicicleta를 줄인 말이에요. 말할 때는 거의 이렇게 해요.
+      - who: A
+        textbook:
+          es: Hay una tienda de alquiler cerca de aquí. Tome este mapa con los carriles bici.
+          ko: 이 근처에 자전거 대여점이 있어요. 자전거 도로가 나온 이 지도를 가져가세요.
+        native:
+          es: Mira, aquí al lado tienes una. Y toma el mapa, que viene el carril bici.
+          ko: 봐요, 바로 옆에 하나 있어요. 이 지도도 가져가요. 자전거 도로가 나와 있거든요.
+          note_ko: 여기서 viene는 ‘(지도에) 나와 있다’는 뜻이에요.
+      - who: B
+        textbook:
+          es: Muchas gracias. Esta tarde voy en bicicleta por el parque.
+          ko: 정말 고마워요. 오늘 오후에 자전거 타고 공원에 갈게요.
+        native:
+          es: ¡Mil gracias! Pues esta tarde, bici por el parque.
+          ko: 정말 고마워요! 그럼 오늘 오후엔 공원에서 자전거 타야겠어요.
+          note_ko: 동사를 빼고 bici por el parque처럼 계획만 짧게 말하기도 해요.
+      - who: A
+        textbook:
+          es: De nada. ¡Y vuelva en julio para la fiesta!
+          ko: 천만에요. 7월에 축제 보러 또 오세요!
+        native:
+          es: ¡A disfrutar! Y en julio, ¡a vivir los Sanfermines!
+          ko: 즐겁게 보내요! 7월엔 산 페르민 축제도 즐기러 오고요!
+          note_ko: a + 동사원형은 ‘자, ~하자’라는 들뜬 말투예요.
+readings:
+  - id: r1
+    title_es: Un día con deporte en Pamplona
+    title_ko: 팜플로나에서 운동하는 하루
+    level: A1
+    paragraphs:
+      - es: Hoy es 19 de mayo y estoy en Pamplona. Siempre corro por la mañana. Hoy corro por el casco antiguo. No es una carrera, y corro despacio. Las calles están tranquilas.
+        ko: 오늘은 5월 19일, 저는 팜플로나에 있어요. 저는 늘 아침에 달려요. 오늘은 구시가를 달려요. 경주가 아니니까 천천히 달려요. 거리가 조용해요.
+      - es: Después voy a un gimnasio cerca del hotel. Tiene piscina, y nado un poco. Por la tarde alquilo una bicicleta y voy por el parque. Allí unos niños juegan con un balón.
+        ko: 그다음 호텔 근처 체육관에 가요. 수영장이 있어서 조금 헤엄쳐요. 오후에는 자전거를 빌려 공원을 달려요. 공원에서는 아이들이 축구공을 차며 놀아요.
+      - es: Por la noche veo un partido de fútbol en un bar. Hay mucha gente. Cuando hay un gol, ¡todo el bar grita!
+        ko: 밤에는 바에서 축구 경기를 봐요. 사람이 아주 많아요. 골이 들어가면 바 안의 모두가 소리를 질러요!
+    questions:
+      - q_ko: 글쓴이는 아침에 무엇을 했나요?
+        choices_ko: [구시가를 달렸다, 수영했다, 축구를 했다]
+        answer: 0
+      - q_ko: 글쓴이는 밤에 어디에서 축구를 봤나요?
+        choices_ko: [경기장, 바, 호텔 방]
+        answer: 1
+  - id: r2
+    title_es: San Fermín, en julio
+    title_ko: 산 페르민은 7월에
+    level: A2
+    paragraphs:
+      - es: Pamplona es famosa por San Fermín. Pero la fiesta no es en mayo, es en julio, del 6 al 14. Hoy, 19 de mayo, las calles están tranquilas y no hay fiesta.
+        ko: 팜플로나는 산 페르민 축제로 유명해요. 하지만 축제는 5월이 아니라 7월 6일부터 14일까지 열려요. 5월 19일인 오늘은 거리가 조용하고 축제도 없어요.
+      - es: En julio, la ciudad se llena de gente. Casi todos van de blanco, con un pañuelo rojo al cuello. Por la mañana hay encierros, y los corredores corren delante de los toros por las calles. Por la noche hay fuegos artificiales.
+        ko: 7월이 되면 도시가 사람들로 가득 차요. 거의 모두 흰 옷을 입고 목에 빨간 스카프를 둘러요. 아침에는 엔시에로가 열려요. 사람들이 거리에서 소 떼 앞을 달리는 행사예요. 밤에는 불꽃놀이가 있어요.
+      - es: En la oficina de turismo me dicen que en julio los hoteles están muy llenos. Si quieres venir, es mejor reservar pronto.
+        ko: 관광 안내소에서는 7월에는 호텔이 꽉 찬다고 해요. 그때 오고 싶다면 일찍 예약하는 게 좋아요.
+    questions:
+      - q_ko: 산 페르민 축제는 언제 열리나요?
+        choices_ko: [5월, 7월 6일~14일, 9월]
+        answer: 1
+      - q_ko: 축제 때 사람들은 어떻게 입나요?
+        choices_ko: [흰 옷에 빨간 스카프, 검은 옷에 흰 스카프, 빨간 옷에 모자]
+        answer: 0
+      - q_ko: 엔시에로는 무엇인가요?
+        choices_ko: [소 떼 앞을 달리는 행사, 밤 불꽃놀이, 축구 경기]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "al": {lemma: "a + el", ko: "~에(a+el)", en: "to the", pron: "알"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "alquilar": {lemma: "alquilar", ko: "빌리다, 대여하다", en: "to rent", pron: "알낄**라르**"}
+  "alquiler": {lemma: "alquiler", ko: "대여", en: "rental", pron: "알낄**레르**"}
+  "alquilo": {lemma: "alquilar", ko: "빌리다(나는)", en: "I rent", pron: "알**낄**로"}
+  "antiguo": {lemma: "antiguo", ko: "오래된", en: "old", pron: "안**띠**구오"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "año": {lemma: "año", ko: "해, 년", en: "year", pron: "**아**뇨"}
+  "bandas": {lemma: "banda", ko: "악단들", en: "bands", pron: "**반**다스"}
+  "bar": {lemma: "bar", ko: "바", en: "bar", pron: "**바르**"}
+  "bici": {lemma: "bici", ko: "자전거(bicicleta의 줄임말)", en: "bike", pron: "**비**시"}
+  "blanca": {lemma: "blanco", ko: "하얀(여성)", en: "white", pron: "**블랑**까"}
+  "blanco": {lemma: "blanco", ko: "하얀", en: "white", pron: "**블랑**꼬"}
+  "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
+  "buenas": {lemma: "bueno", ko: "안녕하세요(buenas 인사)", en: "hi (short greeting)", pron: "**부에**나스"}
+  "cabeza": {lemma: "cabeza", ko: "머리(de cabeza 헤딩으로)", en: "head (header)", pron: "까**베**사"}
+  "calle": {lemma: "calle", ko: "거리, 골목", en: "street", pron: "**까**예"}
+  "calles": {lemma: "calle", ko: "거리들, 골목들", en: "streets", pron: "**까**예스"}
+  "carril": {lemma: "carril", ko: "차로(carril bici 자전거 도로)", en: "lane", pron: "까**릴**"}
+  "carriles": {lemma: "carril", ko: "차로들(carriles bici 자전거 도로)", en: "lanes", pron: "까**릴**레스"}
+  "casa": {lemma: "casa", ko: "집", en: "home, house", pron: "**까**사"}
+  "casco": {lemma: "casco", ko: "구역(casco antiguo 구시가)", en: "quarter (old town)", pron: "**까스**꼬"}
+  "casi": {lemma: "casi", ko: "거의", en: "almost", pron: "**까**시"}
+  "catorce": {lemma: "catorce", ko: "14", en: "fourteen", pron: "까**또르**세"}
+  "cerca": {lemma: "cerca", ko: "가까이", en: "near", pron: "**세르**까"}
+  "cero": {lemma: "cero", ko: "0", en: "zero", pron: "**세**로"}
+  "chaval": {lemma: "chaval", ko: "젊은 친구, 녀석", en: "lad", pron: "차**발**"}
+  "ciego": {lemma: "ciego", ko: "눈먼", en: "blind", pron: "**시에**고"}
+  "ciudad": {lemma: "ciudad", ko: "도시", en: "city", pron: "시우**다드**"}
+  "claro": {lemma: "claro", ko: "물론", en: "of course", pron: "**끌라**로"}
+  "comprar": {lemma: "comprar", ko: "사다", en: "to buy", pron: "꼼**쁘라르**"}
+  "compro": {lemma: "comprar", ko: "사다(나는)", en: "I buy", pron: "**꼼**쁘로"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "corredores": {lemma: "corredor", ko: "달리는 사람들", en: "runners", pron: "꼬레**도**레스"}
+  "corren": {lemma: "correr", ko: "달리다(그들은)", en: "they run", pron: "**꼬**렌"}
+  "corro": {lemma: "correr", ko: "달리다(나는)", en: "I run", pron: "**꼬**로"}
+  "cosa": {lemma: "cosa", ko: "것, 일", en: "thing", pron: "**꼬**사"}
+  "cualquier": {lemma: "cualquiera", ko: "어느 ~든", en: "any", pron: "꾸알**끼에르**"}
+  "cuando": {lemma: "cuando", ko: "~할 때", en: "when", pron: "꾸안도"}
+  "cuello": {lemma: "cuello", ko: "목", en: "neck", pron: "**꾸에**요"}
+  "cuándo": {lemma: "cuándo", ko: "언제", en: "when", pron: "**꾸안**도"}
+  "cómo": {lemma: "cómo", ko: "어떻게", en: "how", pron: "**꼬**모"}
+  "de": {lemma: "de", ko: "~의, ~에서", en: "of, from", pron: "데"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "delante": {lemma: "delante", ko: "앞에", en: "in front", pron: "델**란**떼"}
+  "desfiles": {lemma: "desfile", ko: "행진들", en: "parades", pron: "데스**필**레스"}
+  "despacio": {lemma: "despacio", ko: "천천히", en: "slowly", pron: "데스**빠**시오"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "dicen": {lemma: "decir", ko: "말하다(그들은)", en: "they say", pron: "**디**센"}
+  "digo": {lemma: "decir", ko: "말하다(나는)", en: "I say", pron: "**디**고"}
+  "disfrutar": {lemma: "disfrutar", ko: "즐기다", en: "to enjoy", pron: "디스프루**따르**"}
+  "dónde": {lemma: "dónde", ko: "어디", en: "where", pron: "**돈**데"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "encierros": {lemma: "encierro", ko: "엔시에로(소 떼 앞을 달리는 행사)", en: "bull runs", pron: "엔**시에**로스"}
+  "entradas": {lemma: "entrada", ko: "입장권들", en: "tickets", pron: "엔**뜨라**다스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "ese": {lemma: "ese", ko: "그, 저(남성)", en: "that", pron: "**에**세"}
+  "esta": {lemma: "este", ko: "이(것)(여성)", en: "this", pron: "**에스**따"}
+  "este": {lemma: "este", ko: "이(것)(남성)", en: "this", pron: "**에스**떼"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "estás": {lemma: "estar", ko: "있다(너는)", en: "you are", pron: "에스**따스**"}
+  "famosa": {lemma: "famoso", ko: "유명한(여성)", en: "famous", pron: "파**모**사"}
+  "fermín": {lemma: "Fermín", ko: "페르민(San Fermín 산 페르민)", en: "Fermín", pron: "페르**민**"}
+  "fiestas": {lemma: "fiesta", ko: "축제(복수)", en: "festivities", pron: "**피에스**따스"}
+  "gana": {lemma: "ganar", ko: "이기다(그것은)", en: "wins", pron: "**가**나"}
+  "ganamos": {lemma: "ganar", ko: "이기다(우리는)", en: "we win", pron: "가**나**모스"}
+  "genial": {lemma: "genial", ko: "아주 좋은", en: "great", pron: "헤**니알**"}
+  "gente": {lemma: "gente", ko: "사람들", en: "people", pron: "**헨**떼"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grita": {lemma: "gritar", ko: "소리치다(그것은)", en: "shouts", pron: "**그리**따"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "hace": {lemma: "hacer", ko: "(날씨가) ~하다", en: "it makes (weather)", pron: "**아**세"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hotel": {lemma: "hotel", ko: "호텔", en: "hotel", pron: "오**뗄**"}
+  "hoteles": {lemma: "hotel", ko: "호텔들", en: "hotels", pron: "오**뗄**레스"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "ir": {lemma: "ir", ko: "가다", en: "to go", pron: "**이르**"}
+  "juegan": {lemma: "jugar", ko: "놀다(그들은)", en: "they play", pron: "**후에**간"}
+  "jugador": {lemma: "jugador", ko: "선수", en: "player", pron: "후가**도르**"}
+  "julio": {lemma: "julio", ko: "7월", en: "July", pron: "**훌**리오"}
+  "justo": {lemma: "justo", ko: "공정한", en: "fair", pron: "**후스**또"}
+  "lado": {lemma: "lado", ko: "옆(al lado: 옆에)", en: "side", pron: "**라**도"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "le": {lemma: "le", ko: "당신에게", en: "you (formal), to you", pron: "레"}
+  "llena": {lemma: "llenar", ko: "채우다(se llena 가득 차다)", en: "fills", pron: "**예**나"}
+  "llenos": {lemma: "lleno", ko: "가득 찬(남성 복수)", en: "full", pron: "**예**노스"}
+  "lleva": {lemma: "llevar", ko: "입다, 두르다(사람들은)", en: "wears", pron: "**예**바"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "mapa": {lemma: "mapa", ko: "지도", en: "map", pron: "**마**빠"}
+  "maravilla": {lemma: "maravilla", ko: "멋진 것, 경이", en: "wonder", pron: "마라**비**야"}
+  "marcado": {lemma: "marcar", ko: "(골을) 넣다(ha marcado)", en: "scored", pron: "마르**까**도"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "mejor": {lemma: "mejor", ko: "더 나은, ~하는 게 낫다", en: "better", pron: "메**호르**"}
+  "metido": {lemma: "meter", ko: "넣다(ha metido)", en: "put in, scored", pron: "메**띠**도"}
+  "mil": {lemma: "mil", ko: "천(mil gracias: 정말 고마워요)", en: "thousand", pron: "**밀**"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "mucha": {lemma: "mucho", ko: "많은 (여성)", en: "a lot of", pron: "**무**차"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mundo": {lemma: "mundo", ko: "세상(todo el mundo 모두)", en: "world (everyone)", pron: "**문**도"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "música": {lemma: "música", ko: "음악", en: "music", pron: "**무**시까"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "nado": {lemma: "nadar", ko: "헤엄치다(나는)", en: "I swim", pron: "**나**도"}
+  "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
+  "niños": {lemma: "niño", ko: "아이들", en: "children", pron: "**니**뇨스"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
+  "nuestro": {lemma: "nuestro", ko: "우리의", en: "our", pron: "**누에스**뜨로"}
+  "nueve": {lemma: "nueve", ko: "9, 아홉", en: "nine", pron: "**누에**베"}
+  "nunca": {lemma: "nunca", ko: "절대 ~ 않다", en: "never", pron: "**눈**까"}
+  "número": {lemma: "número", ko: "번호", en: "number", pron: "**누**메로"}
+  "oficina": {lemma: "oficina", ko: "사무소(oficina de turismo 관광 안내소)", en: "office", pron: "오피**시**나"}
+  "ojalá": {lemma: "ojalá", ko: "~하면 좋겠다", en: "hopefully", pron: "오할**라**"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "pamplona": {lemma: "Pamplona", ko: "팜플로나", en: "Pamplona", pron: "빰쁠**로**나"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "pare": {lemma: "parar", ko: "막다(접속법) ojalá lo pare 막으면 좋겠다", en: "stop (subjunctive)", pron: "**빠**레"}
+  "parque": {lemma: "parque", ko: "공원", en: "park", pron: "**빠르**께"}
+  "partidos": {lemma: "partido", ko: "경기들", en: "matches", pron: "빠르**띠**도스"}
+  "pasa": {lemma: "pasar", ko: "일어나다(무슨 일이)", en: "happens", pron: "**빠**사"}
+  "pañuelos": {lemma: "pañuelo", ko: "스카프들", en: "scarves", pron: "빠**뉴엘**로스"}
+  "penalti": {lemma: "penalti", ko: "페널티킥", en: "penalty", pron: "뻬**날**띠"}
+  "perdone": {lemma: "perdonar", ko: "실례합니다 (usted)", en: "excuse me", pron: "뻬르**도**네"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "pierdo": {lemma: "perder", ko: "놓치다(me pierdo, 나는)", en: "I miss", pron: "**삐에르**도"}
+  "pita": {lemma: "pitar", ko: "휘슬을 불다(그는)", en: "whistles", pron: "**삐**따"}
+  "pitado": {lemma: "pitar", ko: "휘슬을 불다(ha pitado)", en: "whistled", pron: "삐**따**도"}
+  "poco": {lemma: "poco", ko: "조금(un poco)", en: "a little", pron: "**뽀**꼬"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "portero": {lemma: "portero", ko: "골키퍼", en: "goalkeeper", pron: "뽀르**떼**로"}
+  "pregunta": {lemma: "pregunta", ko: "질문", en: "question", pron: "쁘레**군**따"}
+  "pronto": {lemma: "pronto", ko: "일찍", en: "early", pron: "**쁘론**또"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "que": {lemma: "que", ko: "~라는, ~하는; ~거든(이유)", en: "that; because", pron: "께"}
+  "quieres": {lemma: "querer", ko: "원하다(너는)", en: "you want", pron: "**끼에**레스"}
+  "quiero": {lemma: "querer", ko: "원하다(나는)", en: "I want", pron: "**끼에**로"}
+  "quién": {lemma: "quién", ko: "누구", en: "who", pron: "**끼엔**"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "reservar": {lemma: "reservar", ko: "예약하다", en: "to book", pron: "레세르**바르**"}
+  "rojo": {lemma: "rojo", ko: "빨간", en: "red", pron: "**로**호"}
+  "ropa": {lemma: "ropa", ko: "옷", en: "clothes", pron: "**로**빠"}
+  "san": {lemma: "san", ko: "성(聖), San Fermín 산 페르민", en: "Saint", pron: "산"}
+  "sanfermines": {lemma: "Sanfermines", ko: "산 페르민 축제", en: "San Fermín festival", pron: "산페르**미**네스"}
+  "se": {lemma: "se", ko: "자기를(재귀); 사람들이 ~하다(무인칭)", en: "oneself; one (impersonal)", pron: "세"}
+  "seis": {lemma: "seis", ko: "여섯", en: "six", pron: "**세이스**"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "sido": {lemma: "ser", ko: "~였다(완료)", en: "been", pron: "**시**도"}
+  "siempre": {lemma: "siempre", ko: "늘, 항상", en: "always", pron: "**시엠**쁘레"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "su": {lemma: "su", ko: "그의, 자기의", en: "his, her, their", pron: "수"}
+  "suele": {lemma: "soler", ko: "보통 ~하다(당신은)", en: "usually (formal you)", pron: "**수엘**레"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tenemos": {lemma: "tener", ko: "가지다 (우리는)", en: "we have", pron: "떼**네**모스"}
+  "tienda": {lemma: "tienda", ko: "가게", en: "shop", pron: "**띠엔**다"}
+  "tiendas": {lemma: "tienda", ko: "가게들", en: "shops", pron: "**띠엔**다스"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienen": {lemma: "tener", ko: "가지고 있다(그것들은)", en: "they have", pron: "**띠에**넨"}
+  "tienes": {lemma: "tener", ko: "가지고 있다(너는)", en: "you have", pron: "**띠에**네스"}
+  "tocado": {lemma: "tocar", ko: "건드리다(ha tocado)", en: "touched", pron: "또**까**도"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "todos": {lemma: "todo", ko: "모두, 모든", en: "all, everyone", pron: "**또**도스"}
+  "toma": {lemma: "tomar", ko: "여기요(받아)", en: "here you are", pron: "**또**마"}
+  "tome": {lemma: "tomar", ko: "받으세요 (usted)", en: "here you are", pron: "**또**메"}
+  "toros": {lemma: "toro", ko: "황소들", en: "bulls", pron: "**또**로스"}
+  "tranquilas": {lemma: "tranquilo", ko: "조용한(여성 복수)", en: "quiet", pron: "뜨란**낄**라스"}
+  "tranquilo": {lemma: "tranquilo", ko: "조용한, 잔잔한", en: "calm", pron: "뜨란**낄**로"}
+  "turismo": {lemma: "turismo", ko: "관광", en: "tourism", pron: "뚜**리스**모"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "uno": {lemma: "uno", ko: "하나, 사람(cada uno: 각자)", en: "one", pron: "**우**노"}
+  "unos": {lemma: "uno", ko: "몇몇의(남성 복수)", en: "some, a few", pron: "우노스"}
+  "usted": {lemma: "usted", ko: "당신", en: "you (formal)", pron: "우스**떼드**"}
+  "uy": {lemma: "uy", ko: "아이고, 이런", en: "oops", pron: "**우이**"}
+  "va": {lemma: "ir", ko: "가다; 작동하다(그것은)", en: "it goes, it works", pron: "**바**"}
+  "vamos": {lemma: "ir", ko: "가자, 가다 (우리는)", en: "let's go", pron: "**바**모스"}
+  "van": {lemma: "ir", ko: "가다, (경기가) 되어 가다; ir de blanco 흰 옷을 입다(그들은)", en: "they go", pron: "**반**"}
+  "venden": {lemma: "vender", ko: "팔다(그들은)", en: "they sell", pron: "**벤**덴"}
+  "venir": {lemma: "venir", ko: "오다", en: "to come", pron: "베**니르**"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I watch", pron: "**베**오"}
+  "ver": {lemma: "ver", ko: "보다(a ver 어디 보자)", en: "to see", pron: "**베르**"}
+  "ves": {lemma: "ver", ko: "보다 (너는)", en: "you see", pron: "**베스**"}
+  "viene": {lemma: "venir", ko: "오다; (지도에) 나와 있다", en: "comes; is shown", pron: "**비에**네"}
+  "vivir": {lemma: "vivir", ko: "살다, 즐기다", en: "to live", pron: "비**비르**"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "vuelva": {lemma: "volver", ko: "돌아오세요(usted 명령)", en: "come back (formal)", pron: "**부엘**바"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이미, 벌써", en: "already", pron: "**야**"}

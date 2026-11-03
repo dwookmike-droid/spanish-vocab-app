@@ -1,0 +1,382 @@
+schema_version: 1
+chapter: 9
+dialogues:
+  - id: d1
+    title_es: Desayunar en una terraza
+    title_ko: 테라스에서 아침 먹기
+    setting_ko: 살라망카 마요르 광장의 카페. 테라스에 앉기 전에 카운터에서 주문해요.
+    roles:
+      A: {es: Camarero, ko: 종업원}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: A
+        textbook:
+          es: Buenos días. ¿Qué desea tomar?
+          ko: 안녕하세요. 뭐 드시겠어요?
+        native:
+          es: ¡Buenos días! ¿Qué va a ser?
+          ko: 안녕하세요! 뭘로 하시겠어요?
+          note_ko: ¿qué va a ser?는 ‘뭘로 하시겠어요?’라는 말로, 바와 카페에서 자주 들어요.
+      - who: B
+        textbook:
+          es: Un café con leche y una tostada, por favor.
+          ko: 밀크커피 한 잔이랑 토스트 하나 주세요.
+        native:
+          es: Ponme un café con leche y una tostada.
+          ko: 밀크커피 한 잔이랑 토스트 하나요.
+          note_ko: 카페에서는 ponme(나한테 줘요)로 주문을 시작하는 일이 많아요.
+      - who: A
+        textbook:
+          es: ¿Quiere la tostada con tomate o con mantequilla?
+          ko: 토스트는 토마토로 드릴까요, 버터로 드릴까요?
+        native:
+          es: ¿Y la tostada? ¿Con tomate, con mantequilla…?
+          ko: 토스트는요? 토마토요, 버터요?
+          note_ko: 스페인 아침에는 토마토와 올리브유를 올린 토스트가 흔해요.
+      - who: B
+        textbook:
+          es: Con tomate y aceite de oliva, por favor. ¿Tiene zumo de naranja?
+          ko: 토마토랑 올리브유로 주세요. 오렌지 주스 있어요?
+        native:
+          es: Con tomate y aceite. Ah, ¿y tenéis zumo de naranja natural?
+          ko: 토마토랑 올리브유요. 아, 생오렌지 주스도 있어요?
+          note_ko: tenéis는 가게 사람들 전체에게 묻는 말이에요. natural이면 바로 짠 주스예요.
+      - who: A
+        textbook:
+          es: Sí, es natural. ¿Lo quiere grande o pequeño?
+          ko: 네, 직접 짠 거예요. 큰 걸로 드릴까요, 작은 걸로 드릴까요?
+        native:
+          es: Sí, te lo exprimo ahora. ¿Grande o pequeño?
+          ko: 네, 지금 짜 드릴게요. 큰 거요, 작은 거요?
+          note_ko: exprimir는 ‘짜다’예요. lo는 앞에서 말한 zumo를 받아요.
+      - who: B
+        textbook:
+          es: Pequeño, por favor. ¿Puedo sentarme en la terraza?
+          ko: 작은 걸로 주세요. 테라스에 앉아도 돼요?
+        native:
+          es: Pequeño. Me siento fuera, en la terraza, ¿vale?
+          ko: 작은 거요. 밖에 테라스에 앉을게요, 괜찮죠?
+          note_ko: 허락을 묻는 대신 ‘앉을게요’ 하고 ¿vale?를 붙여 동의를 구해요.
+      - who: A
+        textbook:
+          es: Sí, claro. Le llevo el café a la mesa.
+          ko: 네, 그럼요. 커피는 자리로 갖다드릴게요.
+        native:
+          es: Sí, sí, siéntate donde quieras. Ahora te lo llevo.
+          ko: 네, 편한 데 앉으세요. 금방 갖다드릴게요.
+          note_ko: 여기서 ahora는 ‘지금’보다 ‘금방, 곧’에 가까워요. te lo는 ‘너에게 그것을’이에요.
+      - who: B
+        textbook:
+          es: Perdone, ¿me trae más azúcar y otra cucharilla, por favor?
+          ko: 저기요, 설탕 좀 더 주시고 찻숟가락도 하나 더 갖다주시겠어요?
+        native:
+          es: Perdona, ¿me traes otro sobre de azúcar? Y una cucharilla, que se me ha caído.
+          ko: 저기요, 설탕 한 봉지 더 주실래요? 찻숟가락도요. 떨어뜨렸거든요.
+          note_ko: sobre는 ‘봉지’예요. se me ha caído는 ‘(실수로) 떨어뜨렸어요’라는 말이에요.
+      - who: A
+        textbook:
+          es: Claro. Aquí tiene.
+          ko: 물론이죠. 여기 있어요.
+        native:
+          es: Aquí tienes. ¿Te traigo algo más?
+          ko: 여기요. 더 갖다드릴 거 있어요?
+          note_ko: 물건을 건넬 때 tú에게는 aquí tienes, usted에게는 aquí tiene라고 해요.
+      - who: B
+        textbook:
+          es: No, gracias. Todo está muy bueno.
+          ko: 아니요, 괜찮아요. 전부 정말 맛있어요.
+        native:
+          es: No, nada más, gracias. ¡Qué rica la tostada!
+          ko: 아니요, 그거면 돼요, 고마워요. 토스트 진짜 맛있네요!
+          note_ko: rico는 음식이 ‘맛있다’라는 뜻으로 스페인에서 아주 흔히 써요.
+  - id: d2
+    title_es: En la panadería
+    title_ko: 빵집에서
+    setting_ko: 살라망카 골목의 작은 빵집. 빵과 간식을 사려고 해요.
+    roles:
+      A: {es: Panadera, ko: 빵집 주인}
+      B: {es: Cliente, ko: 손님}
+    lines:
+      - who: A
+        textbook:
+          es: Buenas tardes. ¿Qué quiere?
+          ko: 안녕하세요. 뭘 드릴까요?
+        native:
+          es: Hola, buenas. Dime.
+          ko: 안녕하세요. 말씀하세요.
+          note_ko: dime(나한테 말해)는 가게에서 ‘뭘 드릴까요?’ 대신 흔히 써요.
+      - who: B
+        textbook:
+          es: Buenas tardes. Una barra de pan, por favor.
+          ko: 안녕하세요. 바게트 하나 주세요.
+        native:
+          es: Buenas. ¿Me pone una barra, por favor?
+          ko: 안녕하세요. 바게트 하나 주시겠어요?
+          note_ko: 빵집에서는 de pan을 빼고 una barra라고만 해도 통해요. ¿me pone…?는 usted에게 하는 주문이에요.
+      - who: A
+        textbook:
+          es: Aquí tiene. ¿Algo más?
+          ko: 여기 있어요. 더 필요한 거 있으세요?
+        native:
+          es: Toma. ¿Qué más?
+          ko: 여기요. 또 뭐 드릴까요?
+          note_ko: ¿qué más?는 ‘또 뭐 드릴까요?’예요. 가게에서 거의 매번 들어요.
+      - who: B
+        textbook:
+          es: ¿Qué es esa tarta?
+          ko: 저 케이크는 뭐예요?
+        native:
+          es: Pues… ¿y esa tarta de ahí, qué es?
+          ko: 음… 저기 저 케이크는 뭐예요?
+          note_ko: 궁금한 물건을 먼저 말하고 qué es를 뒤에 붙였어요. 말할 때 흔한 순서예요.
+      - who: A
+        textbook:
+          es: Es una tarta de almendra. La hacemos aquí.
+          ko: 아몬드 케이크예요. 저희가 여기서 만들어요.
+        native:
+          es: De almendra. Está buenísima, ¿eh? La hacemos nosotros.
+          ko: 아몬드 케이크예요. 진짜 맛있어요. 저희가 직접 만들어요.
+          note_ko: -ísima를 붙이면 ‘아주’라는 뜻이 더해져요. buenísima는 ‘정말 맛있는’이에요.
+      - who: B
+        textbook:
+          es: Entonces, quiero un trozo, por favor.
+          ko: 그럼 한 조각 주세요.
+        native:
+          es: Pues póngame un trozo, que tiene muy buena pinta.
+          ko: 그럼 한 조각 주세요. 정말 맛있어 보여요.
+          note_ko: tener buena pinta는 ‘맛있어 보이다, 좋아 보이다’라는 말이에요.
+      - who: A
+        textbook:
+          es: Muy bien. Las magdalenas también son de hoy.
+          ko: 알겠어요. 마들렌도 오늘 만든 거예요.
+        native:
+          es: Vale. Y las magdalenas están recién hechas, ¿eh?
+          ko: 네. 그리고 마들렌은 방금 구운 거예요.
+          note_ko: recién hecho는 ‘갓 만든’이에요. 손님에게 슬쩍 권할 때 써요.
+      - who: B
+        textbook:
+          es: Entonces, cuatro magdalenas también. ¿Cuánto es?
+          ko: 그럼 마들렌도 네 개 주세요. 얼마예요?
+        native:
+          es: Venga, cuatro magdalenas. ¿Qué le debo?
+          ko: 좋아요, 마들렌 네 개요. 얼마 드리면 돼요?
+          note_ko: ¿qué le debo?는 ‘얼마 드리면 돼요?’예요. 계산할 때 자주 써요.
+      - who: A
+        textbook:
+          es: Son seis euros con veinte.
+          ko: 6유로 20센트예요.
+        native:
+          es: Seis veinte. ¿Te lo pongo todo en una bolsa?
+          ko: 6유로 20이요. 전부 봉투 하나에 넣어 드릴까요?
+          note_ko: 값은 숫자만 짧게 말하기도 해요. 여기서 lo는 산 물건 전부를 받아요.
+      - who: B
+        textbook:
+          es: Sí, por favor. Aquí tiene. Muchas gracias.
+          ko: 네, 그렇게 해 주세요. 여기 있어요. 고맙습니다.
+        native:
+          es: Sí, gracias. Tenga. ¡Hasta luego!
+          ko: 네, 고마워요. 여기요. 안녕히 계세요!
+          note_ko: usted에게 돈을 건넬 때는 tenga라고 해요. hasta luego는 헤어질 때 두루 써요.
+readings:
+  - id: r1
+    title_es: Desayuno en la Plaza Mayor
+    title_ko: 마요르 광장에서 아침을
+    level: A1
+    paragraphs:
+      - es: Hoy es 16 de mayo y estoy en Salamanca. Por la mañana voy a la Plaza Mayor. Es grande y muy bonita. Hay muchas terrazas con mesas al sol.
+        ko: 오늘은 5월 16일, 저는 살라망카에 있어요. 아침에 마요르 광장에 가요. 넓고 정말 예뻐요. 햇살 아래 탁자를 내놓은 테라스가 많아요.
+      - es: Me siento en una terraza y pido un café con leche y una tostada con tomate. El café llega en una taza grande. Le pongo un poco de azúcar y lo remuevo con la cucharilla.
+        ko: 테라스에 앉아 밀크커피와 토마토 토스트를 시켜요. 커피는 큰 잔에 나와요. 설탕을 조금 넣고 찻숟가락으로 저어요.
+      - es: En la mesa de al lado, una familia come churros con chocolate. ¡Qué buena pinta! Mañana los pruebo yo también. Al final pido la cuenta. Son tres euros con ochenta.
+        ko: 옆 탁자에서는 한 가족이 추로스를 초콜릿에 찍어 먹어요. 정말 맛있어 보여요! 내일은 저도 먹어 볼래요. 마지막으로 계산서를 달라고 해요. 3유로 80센트예요.
+    questions:
+      - q_ko: 글쓴이는 무엇을 시켰나요?
+        choices_ko: [추로스와 초콜릿, 밀크커피와 토마토 토스트, 오렌지 주스와 크루아상]
+        answer: 1
+      - q_ko: 커피에 무엇을 넣었나요?
+        choices_ko: [아무것도 안 넣었다, 설탕 조금, 우유 조금]
+        answer: 1
+      - q_ko: 모두 얼마였나요?
+        choices_ko: [4유로, 3유로 80센트, 2유로 50센트]
+        answer: 1
+  - id: r2
+    title_es: ¿Solo, cortado o con leche?
+    title_ko: 솔로, 코르타도, 콘 레체는 어떻게 달라요?
+    level: A2
+    paragraphs:
+      - es: En España, si pides «un café», normalmente te ponen un café solo. Es un café pequeño y fuerte, sin leche.
+        ko: 스페인에서 «un café»를 시키면 보통 카페 솔로가 나와요. 우유를 넣지 않은 작고 진한 커피예요.
+      - es: El cortado es un café solo con un poco de leche. El café con leche lleva más leche y se sirve en una taza más grande. Mucha gente lo toma por la mañana, con una tostada o un cruasán.
+        ko: 코르타도는 카페 솔로에 우유를 조금 넣은 커피예요. 카페 콘 레체는 우유가 더 많이 들어가고 더 큰 잔에 나와요. 많은 사람이 아침에 토스트나 크루아상과 함께 마셔요.
+      - es: Los churros se toman con chocolate caliente. Este chocolate es muy espeso. Se puede beber, pero sobre todo es para mojar los churros. Para la merienda, también hay magdalenas, tartas y bocadillos en muchas cafeterías.
+        ko: 추로스는 따뜻한 초콜릿과 함께 먹어요. 이 초콜릿은 아주 걸쭉해요. 마실 수도 있지만 주로 추로스를 찍어 먹어요. 많은 카페에는 오후 간식으로 먹을 마들렌, 케이크, 보카디요도 있어요.
+    questions:
+      - q_ko: 우유를 넣지 않은 작고 진한 커피는 무엇인가요?
+        choices_ko: [café solo, cortado, café con leche]
+        answer: 0
+      - q_ko: 스페인식 따뜻한 초콜릿은 주로 어떻게 먹나요?
+        choices_ko: [차갑게 식혀 마신다, 추로스를 찍어 먹는다, 케이크에 바른다]
+        answer: 1
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "aceite": {lemma: "aceite", ko: "기름", en: "oil", pron: "아**세이**떼"}
+  "ah": {lemma: "ah", ko: "아(감탄)", en: "ah", pron: "**아**"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "ahí": {lemma: "ahí", ko: "거기", en: "there", pron: "아**이**"}
+  "al": {lemma: "a + el", ko: "~에, ~(으)로(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "almendra": {lemma: "almendra", ko: "아몬드", en: "almond", pron: "알**멘**드라"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "beber": {lemma: "beber", ko: "마시다", en: "to drink", pron: "베**베르**"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "bocadillos": {lemma: "bocadillo", ko: "보카디요(바게트 샌드위치)들", en: "sandwiches", pron: "보까**디**요스"}
+  "bolsa": {lemma: "bolsa", ko: "봉투", en: "bag", pron: "**볼**사"}
+  "bonita": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**따"}
+  "buena": {lemma: "bueno", ko: "좋은(여성)", en: "good", pron: "**부에**나"}
+  "buenas": {lemma: "bueno", ko: "좋은(여성 복수), 인사말 buenas", en: "good; hi", pron: "**부에**나스"}
+  "bueno": {lemma: "bueno", ko: "좋은, 맛있는(남성)", en: "good", pron: "**부에**노"}
+  "buenos": {lemma: "bueno", ko: "좋은(남성 복수)", en: "good", pron: "**부에**노스"}
+  "buenísima": {lemma: "bueno", ko: "정말 맛있는(여성)", en: "really good", pron: "부에**니**시마"}
+  "cafeterías": {lemma: "cafetería", ko: "카페들", en: "cafés", pron: "까페떼**리**아스"}
+  "caliente": {lemma: "caliente", ko: "뜨거운, 따뜻한", en: "hot", pron: "깔**리엔**떼"}
+  "caído": {lemma: "caer", ko: "떨어진(완료)", en: "fallen", pron: "까**이**도"}
+  "claro": {lemma: "claro", ko: "물론", en: "of course", pron: "**끌라**로"}
+  "come": {lemma: "comer", ko: "먹다(그 사람은)", en: "eats", pron: "**꼬**메"}
+  "cuatro": {lemma: "cuatro", ko: "넷", en: "four", pron: "**꾸아**뜨로"}
+  "cuánto": {lemma: "cuánto", ko: "얼마", en: "how much", pron: "**꾸안**또"}
+  "debo": {lemma: "deber", ko: "빚지다(¿qué le debo? 얼마예요?)", en: "I owe", pron: "**데**보"}
+  "desea": {lemma: "desear", ko: "원하다(당신은)", en: "you (formal) wish", pron: "데**세**아"}
+  "dime": {lemma: "decir", ko: "나에게 말해", en: "tell me", pron: "**디**메"}
+  "donde": {lemma: "donde", ko: "~하는 곳", en: "where", pron: "돈데"}
+  "días": {lemma: "día", ko: "날들(buenos días: 아침 인사)", en: "days", pron: "**디**아스"}
+  "eh": {lemma: "eh", ko: "응?, 알았지?", en: "eh?", pron: "**에**"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "entonces": {lemma: "entonces", ko: "그럼", en: "then", pron: "엔**똔**세스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "esa": {lemma: "ese", ko: "그, 저 (여성)", en: "that", pron: "**에**사"}
+  "españa": {lemma: "España", ko: "스페인", en: "Spain", pron: "에스**빠**냐"}
+  "espeso": {lemma: "espeso", ko: "걸쭉한", en: "thick", pron: "에스**뻬**소"}
+  "este": {lemma: "este", ko: "이(남성)", en: "this", pron: "**에스**떼"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "están": {lemma: "estar", ko: "있다(그것들은)", en: "they are", pron: "에스**딴**"}
+  "euros": {lemma: "euro", ko: "유로(복수)", en: "euros", pron: "**에우**로스"}
+  "exprimo": {lemma: "exprimir", ko: "짜다(나는)", en: "I squeeze", pron: "엑스**쁘리**모"}
+  "familia": {lemma: "familia", ko: "가족", en: "family", pron: "파**밀**리아"}
+  "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
+  "final": {lemma: "final", ko: "끝", en: "end", pron: "피**날**"}
+  "fuera": {lemma: "fuera", ko: "밖에", en: "outside", pron: "**푸에**라"}
+  "fuerte": {lemma: "fuerte", ko: "진한, 강한", en: "strong", pron: "**푸에르**떼"}
+  "gente": {lemma: "gente", ko: "사람들", en: "people", pron: "**헨**떼"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "hacemos": {lemma: "hacer", ko: "만들다 (우리는)", en: "we make", pron: "아**세**모스"}
+  "hasta": {lemma: "hasta", ko: "~까지(hasta luego 또 봐요)", en: "until", pron: "**아스**따"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hechas": {lemma: "hacer", ko: "만든(여성 복수)", en: "made", pron: "**에**차스"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "lado": {lemma: "lado", ko: "옆(al lado: 옆에)", en: "side", pron: "**라**도"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "le": {lemma: "le", ko: "당신에게", en: "you (formal), to you", pron: "레"}
+  "llega": {lemma: "llegar", ko: "도착하다(그것은); 와(tú 명령)", en: "arrives; arrive", pron: "**예**가"}
+  "lleva": {lemma: "llevar", ko: "들어가다(재료로)", en: "contains", pron: "**예**바"}
+  "llevo": {lemma: "llevar", ko: "가져가다, 갖다주다(나는)", en: "I take, I bring", pron: "**예**보"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "luego": {lemma: "luego", ko: "나중에", en: "later", pron: "**루에**고"}
+  "magdalenas": {lemma: "magdalena", ko: "마들렌들", en: "madeleines", pron: "막달**레**나스"}
+  "mantequilla": {lemma: "mantequilla", ko: "버터", en: "butter", pron: "만떼**끼**야"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mayor": {lemma: "mayor", ko: "큰, 주된(Plaza Mayor 마요르 광장)", en: "main", pron: "마**요르**"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "merienda": {lemma: "merienda", ko: "오후 간식", en: "afternoon snack", pron: "메**리엔**다"}
+  "mesas": {lemma: "mesa", ko: "탁자들", en: "tables", pron: "**메**사스"}
+  "mojar": {lemma: "mojar", ko: "적시다, 찍어 먹다", en: "to dip", pron: "모**하르**"}
+  "mucha": {lemma: "mucho", ko: "많은 (여성)", en: "a lot of", pron: "**무**차"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "naranja": {lemma: "naranja", ko: "오렌지", en: "orange", pron: "나**란**하"}
+  "natural": {lemma: "natural", ko: "생(바로 짠)", en: "fresh(-squeezed)", pron: "나뚜**랄**"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "normalmente": {lemma: "normalmente", ko: "보통", en: "usually", pron: "노르말**멘**떼"}
+  "nosotros": {lemma: "nosotros", ko: "우리(가)", en: "we", pron: "노**소**뜨로스"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "ochenta": {lemma: "ochenta", ko: "80", en: "eighty", pron: "오**첸**따"}
+  "oliva": {lemma: "oliva", ko: "올리브", en: "olive", pron: "올**리**바"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "otro": {lemma: "otro", ko: "다른, 하나 더", en: "another", pron: "**오**뜨로"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "pequeño": {lemma: "pequeño", ko: "작은", en: "small", pron: "뻬**께**뇨"}
+  "perdona": {lemma: "perdonar", ko: "저기요, 미안해요(tú에게)", en: "excuse me, sorry", pron: "뻬르**도**나"}
+  "perdone": {lemma: "perdonar", ko: "실례합니다 (usted)", en: "excuse me", pron: "뻬르**도**네"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "pides": {lemma: "pedir", ko: "주문하다, 달라고 하다(너는)", en: "you ask for", pron: "**삐**데스"}
+  "pido": {lemma: "pedir", ko: "주문하다, 달라고 하다(나는)", en: "I order, I ask for", pron: "**삐**도"}
+  "pinta": {lemma: "pinta", ko: "겉모습(tener buena pinta 맛있어 보이다)", en: "look, appearance", pron: "**삔**따"}
+  "plaza": {lemma: "plaza", ko: "광장", en: "square", pron: "**쁠라**사"}
+  "poco": {lemma: "poco", ko: "조금(un poco)", en: "a little", pron: "**뽀**꼬"}
+  "pone": {lemma: "poner", ko: "주다, 내 주다(당신은)", en: "you give (formal)", pron: "**뽀**네"}
+  "ponen": {lemma: "poner", ko: "내 주다(그들은)", en: "they serve", pron: "**뽀**넨"}
+  "pongo": {lemma: "poner", ko: "놓다, 올리다(나는)", en: "I put", pron: "**뽕**고"}
+  "ponme": {lemma: "poner", ko: "나한테 줘(명령)", en: "give me", pron: "**뽐**메"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "pruebo": {lemma: "probar", ko: "해 보다, 먹어 보다(나는)", en: "I try", pron: "**쁘루에**보"}
+  "puede": {lemma: "poder", ko: "~할 수 있다 (당신은)", en: "you can", pron: "**뿌에**데"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "póngame": {lemma: "poner", ko: "주세요(usted 명령)", en: "give me (formal)", pron: "**뽕**가메"}
+  "que": {lemma: "que", ko: "~하는; ~거든요(이유)", en: "that; because", pron: "께"}
+  "quieras": {lemma: "querer", ko: "원하다(너는, 접속법)", en: "you want", pron: "**끼에**라스"}
+  "quiere": {lemma: "querer", ko: "원하다(당신은)", en: "you (formal) want", pron: "**끼에**레"}
+  "quiero": {lemma: "querer", ko: "원하다(나는)", en: "I want", pron: "**끼에**로"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "recién": {lemma: "recién", ko: "방금, 갓", en: "just, freshly", pron: "레**시엔**"}
+  "remuevo": {lemma: "remover", ko: "젓다(나는)", en: "I stir", pron: "레**무에**보"}
+  "rica": {lemma: "rico", ko: "맛있는(여성)", en: "tasty", pron: "**리**까"}
+  "salamanca": {lemma: "Salamanca", ko: "살라망카 (도시)", en: "Salamanca", pron: "살라**망**까"}
+  "se": {lemma: "se", ko: "재귀·수동을 나타내는 말(se sirve 나오다)", en: "itself; (passive)", pron: "세"}
+  "seis": {lemma: "seis", ko: "여섯", en: "six", pron: "**세이스**"}
+  "sentarme": {lemma: "sentarse", ko: "앉다(나는)", en: "to sit (myself) down", pron: "센**따르**메"}
+  "ser": {lemma: "ser", ko: "~이다", en: "to be", pron: "**세르**"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "siento": {lemma: "sentarse", ko: "앉다(me siento 나는 앉아요)", en: "I sit (down)", pron: "**시엔**또"}
+  "sin": {lemma: "sin", ko: "~없이", en: "without", pron: "신"}
+  "sirve": {lemma: "servir", ko: "내다(se sirve 나오다)", en: "is served", pron: "**시르**베"}
+  "siéntate": {lemma: "sentarse", ko: "앉아(명령)", en: "sit down", pron: "**시엔**따떼"}
+  "sobre": {lemma: "sobre", ko: "봉지; sobre todo 주로", en: "sachet; sobre todo = above all", pron: "**소**브레"}
+  "sol": {lemma: "sol", ko: "해, 햇볕", en: "sun", pron: "**솔**"}
+  "solo": {lemma: "solo", ko: "~만; café solo 블랙커피", en: "only; black (coffee)", pron: "**솔**로"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tardes": {lemma: "tarde", ko: "오후(buenas tardes: 오후 인사)", en: "afternoons", pron: "**따르**데스"}
+  "tartas": {lemma: "tarta", ko: "케이크들", en: "cakes", pron: "**따르**따스"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tenga": {lemma: "tener", ko: "여기요, 받으세요(usted 명령)", en: "here you are (formal)", pron: "**뗑**가"}
+  "tenéis": {lemma: "tener", ko: "가지고 있다(너희는)", en: "you (pl.) have", pron: "떼**네이스**"}
+  "terrazas": {lemma: "terraza", ko: "테라스들", en: "terraces", pron: "떼**라**사스"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "tienes": {lemma: "tener", ko: "가지고 있다(너는)", en: "you have", pron: "**띠에**네스"}
+  "todo": {lemma: "todo", ko: "전부(del todo: 완전히)", en: "all", pron: "**또**도"}
+  "toma": {lemma: "tomar", ko: "여기요(받아)", en: "here you are", pron: "**또**마"}
+  "toman": {lemma: "tomar", ko: "먹다, 마시다(se toman 먹는다)", en: "are had, are eaten", pron: "**또**만"}
+  "tomar": {lemma: "tomar", ko: "먹다, 마시다", en: "to have (eat or drink)", pron: "또**마르**"}
+  "tomate": {lemma: "tomate", ko: "토마토", en: "tomato", pron: "또**마**떼"}
+  "trae": {lemma: "traer", ko: "가져오다(당신은)", en: "you bring (formal)", pron: "**뜨라**에"}
+  "traes": {lemma: "traer", ko: "가져오다(너는)", en: "you bring", pron: "**뜨라**에스"}
+  "traigo": {lemma: "traer", ko: "가져오다(나는)", en: "I bring", pron: "**뜨라이**고"}
+  "tres": {lemma: "tres", ko: "셋", en: "three", pron: "**뜨레스**"}
+  "trozo": {lemma: "trozo", ko: "조각", en: "piece", pron: "**뜨로**소"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "va": {lemma: "ir", ko: "가다(va a ~할 것이다)", en: "goes; is going to", pron: "**바**"}
+  "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "veinte": {lemma: "veinte", ko: "스물", en: "twenty", pron: "**베인**떼"}
+  "venga": {lemma: "venga", ko: "그래, 자(재촉)", en: "come on, OK", pron: "**벵**가"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "yo": {lemma: "yo", ko: "나", en: "I", pron: "**요**"}
