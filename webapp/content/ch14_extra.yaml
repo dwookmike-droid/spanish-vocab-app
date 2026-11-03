@@ -1,0 +1,380 @@
+schema_version: 1
+chapter: 14
+dialogues:
+  - id: d1
+    title_es: Mi maleta no ha salido
+    title_ko: 제 가방이 안 나왔어요
+    setting_ko: 팔마 공항 수하물 찾는 곳. 다른 짐은 다 나왔는데 내 가방만 안 보여요.
+    roles:
+      A: {es: Empleado, ko: 공항 직원}
+      B: {es: Pasajero, ko: 승객}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, mi maleta no ha salido.
+          ko: 실례합니다, 제 가방이 안 나왔어요.
+        native:
+          es: Perdone, mi maleta no ha salido y en la cinta ya no queda nada.
+          ko: 저기요, 제 가방이 안 나왔는데 벨트에 이제 아무것도 없어요.
+          note_ko: la cinta는 수하물 벨트예요. no queda nada는 ‘남은 게 하나도 없다’예요.
+      - who: A
+        textbook:
+          es: ¿Puedo ver su tarjeta de embarque, por favor?
+          ko: 탑승권 좀 볼 수 있을까요?
+        native:
+          es: A ver, ¿me enseña la tarjeta de embarque y la etiqueta de la maleta?
+          ko: 어디 보자, 탑승권이랑 가방 태그 좀 보여 주시겠어요?
+          note_ko: la etiqueta는 짐을 부칠 때 받는 수하물 태그예요.
+      - who: B
+        textbook:
+          es: Sí, aquí tiene. Es una maleta roja y grande.
+          ko: 네, 여기 있어요. 크고 빨간 가방이에요.
+        native:
+          es: Tenga. Es una roja, grandota, con ruedas.
+          ko: 여기요. 빨간색에 큼직하고 바퀴 달린 거예요.
+          note_ko: grandote, grandota는 ‘큼직한’이에요. 말할 때 흔히 써요.
+      - who: A
+        textbook:
+          es: Un momento, por favor… Su maleta viene en el próximo vuelo.
+          ko: 잠시만요… 가방은 다음 항공편으로 와요.
+        native:
+          es: Un segundito… Vale, la tengo localizada. Viene en el próximo vuelo.
+          ko: 잠깐만요… 네, 찾았어요. 다음 항공편으로 와요.
+          note_ko: la tengo localizada는 ‘(그 가방) 위치를 확인했어요’예요. un segundito는 ‘잠깐만요’예요.
+      - who: B
+        textbook:
+          es: ¿Cuándo llega el próximo vuelo?
+          ko: 다음 항공편은 언제 도착해요?
+        native:
+          es: Vaya… ¿Y eso para cuándo?
+          ko: 이런… 그럼 언제쯤 와요?
+          note_ko: vaya는 ‘이런, 아이고’ 하고 아쉬움을 나타내요.
+      - who: A
+        textbook:
+          es: Llega esta noche. Le llevamos la maleta al hotel.
+          ko: 오늘 밤에 도착해요. 가방은 호텔로 갖다드릴게요.
+        native:
+          es: Llega esta noche, y se la llevamos al hotel. No se preocupe.
+          ko: 오늘 밤에 도착해요. 호텔로 갖다드릴게요. 걱정 마세요.
+          note_ko: se la llevamos는 ‘당신에게 그것(가방)을 갖다드려요’예요. no se preocupe는 ‘걱정 마세요’예요.
+      - who: B
+        textbook:
+          es: Muy bien. ¿Qué tengo que hacer?
+          ko: 알겠어요. 제가 뭘 해야 해요?
+        native:
+          es: Vale. ¿Y tengo que rellenar algo?
+          ko: 네. 뭐 작성해야 하는 거 있어요?
+          note_ko: rellenar는 서류를 ‘채우다, 작성하다’예요.
+      - who: A
+        textbook:
+          es: Sí. Escriba aquí la dirección del hotel y su teléfono.
+          ko: 네. 여기에 호텔 주소랑 전화번호를 적어 주세요.
+        native:
+          es: Sí, este papel. Póngame aquí la dirección del hotel y un teléfono.
+          ko: 네, 이 종이요. 여기 호텔 주소랑 연락처 하나 적어 주세요.
+          note_ko: poner는 서류에 ‘적다’라는 뜻으로도 써요.
+      - who: B
+        textbook:
+          es: Aquí está. Muchas gracias.
+          ko: 여기 있어요. 정말 고맙습니다.
+        native:
+          es: Ya está. Muchas gracias por todo.
+          ko: 다 썼어요. 여러 가지로 고마워요.
+          note_ko: ya está는 ‘다 됐어요’예요. gracias por todo는 ‘여러 가지로 고마워요’예요.
+      - who: A
+        textbook:
+          es: De nada. Disfrute de Palma.
+          ko: 천만에요. 팔마에서 즐거운 시간 보내세요.
+        native:
+          es: A usted. Y perdone las molestias.
+          ko: 제가 고맙죠. 불편을 드려 죄송해요.
+          note_ko: perdone las molestias는 ‘불편을 드려 죄송해요’라는 정해진 사과 말이에요.
+  - id: d2
+    title_es: Facturar la maleta para Sevilla
+    title_ko: 세비야행 짐 부치기
+    setting_ko: 이틀 뒤 팔마 공항 체크인 카운터. 세비야행 비행기를 타요.
+    roles:
+      A: {es: Empleada, ko: 항공사 직원}
+      B: {es: Pasajero, ko: 승객}
+    lines:
+      - who: A
+        textbook:
+          es: Buenos días. ¿Viaja a Sevilla?
+          ko: 안녕하세요. 세비야 가세요?
+        native:
+          es: Hola, buenos días. ¿Para Sevilla?
+          ko: 안녕하세요. 세비야 가세요?
+          note_ko: para Sevilla만으로 ‘세비야 가세요?’라는 뜻이 돼요. 동사를 빼고 짧게 물어요.
+      - who: B
+        textbook:
+          es: Sí. Aquí tiene mi pasaporte y mi billete.
+          ko: 네. 여권이랑 표 여기 있어요.
+        native:
+          es: Sí. Tenga, el pasaporte, y el billete lo tengo en el móvil.
+          ko: 네. 여기요, 여권이요. 표는 휴대폰에 있어요.
+          note_ko: 휴대폰은 스페인에서 el móvil이에요. el billete를 먼저 꺼내고 lo로 다시 받았어요.
+      - who: A
+        textbook:
+          es: Gracias. ¿Factura equipaje?
+          ko: 고맙습니다. 짐 부치세요?
+        native:
+          es: Gracias. ¿Factura la maleta o la lleva en cabina?
+          ko: 고마워요. 가방 부치세요, 아니면 기내에 들고 타세요?
+          note_ko: facturar는 공항에서 ‘짐을 부치다’예요. en cabina는 ‘기내에’예요.
+      - who: B
+        textbook:
+          es: Sí, esta maleta. ¿Puedo tener un asiento de ventanilla?
+          ko: 네, 이 가방이요. 창가 자리로 할 수 있어요?
+        native:
+          es: La facturo, sí. ¿Y me puede dar ventanilla?
+          ko: 네, 부칠게요. 그리고 창가 자리로 주실 수 있어요?
+          note_ko: asiento de를 빼고 ventanilla, pasillo라고만 해도 돼요.
+      - who: A
+        textbook:
+          es: Sí. Tiene el asiento catorce A, de ventanilla.
+          ko: 네. 14A, 창가 자리예요.
+        native:
+          es: Sí, me queda una. El catorce A, ¿le va bien?
+          ko: 네, 하나 남았어요. 14A 괜찮으세요?
+          note_ko: me queda una는 ‘(창가 자리가) 하나 남았어요’예요. ¿le va bien?은 ‘괜찮으세요?’예요.
+      - who: B
+        textbook:
+          es: Perfecto, gracias. ¿El vuelo sale a su hora?
+          ko: 좋아요, 고마워요. 비행기는 제시간에 떠나요?
+        native:
+          es: Perfecto. ¿Y el vuelo va con retraso?
+          ko: 좋아요. 그런데 비행기 늦어요?
+          note_ko: ir con retraso는 ‘지연되다, 늦어지다’예요.
+      - who: A
+        textbook:
+          es: No, de momento no hay retraso. El embarque es a las diez y media, en la puerta B7.
+          ko: 아니요, 지금은 지연이 없어요. 탑승은 10시 반, B7 탑승구예요.
+        native:
+          es: De momento, todo en hora. Embarque a las diez y media por la puerta B7.
+          ko: 지금은 다 제시간이에요. 탑승은 10시 반, B7 탑승구예요.
+          note_ko: de momento는 ‘지금으로선’, en hora는 ‘제시간에’예요.
+      - who: B
+        textbook:
+          es: ¿Dónde está el control de seguridad?
+          ko: 보안 검색대는 어디 있어요?
+        native:
+          es: Genial. ¿Y el control, por dónde queda?
+          ko: 좋네요. 보안 검색대는 어느 쪽이에요?
+          note_ko: 공항에서는 control이라고만 해도 보안 검색대를 뜻해요.
+      - who: A
+        textbook:
+          es: Siga las señales, por favor. Aquí tiene su tarjeta de embarque. ¡Buen viaje!
+          ko: 표지판을 따라가세요. 탑승권 여기 있어요. 즐거운 여행 되세요!
+        native:
+          es: Siga los carteles, no tiene pérdida. Tenga la tarjeta, ¡y buen vuelo!
+          ko: 안내판 따라가시면 바로 찾아요. 탑승권 받으세요. 좋은 비행 되세요!
+          note_ko: buen vuelo는 비행기 타는 사람에게 하는 ‘좋은 여행 되세요’예요.
+      - who: B
+        textbook:
+          es: Muchas gracias. Adiós.
+          ko: 정말 고맙습니다. 안녕히 계세요.
+        native:
+          es: ¡Gracias! ¡Hasta luego!
+          ko: 고마워요! 안녕히 계세요!
+          note_ko: hasta luego는 다시 안 볼 사람에게도 쓰는 작별 인사예요.
+readings:
+  - id: r1
+    title_es: Llegada a Palma
+    title_ko: 팔마에 도착하다
+    level: A1
+    paragraphs:
+      - es: Hoy es 21 de mayo y llego a Palma en avión. El vuelo es corto, pero sale con una hora de retraso. Desde la ventanilla veo el mar, muy azul.
+        ko: 오늘은 5월 21일, 비행기를 타고 팔마에 도착해요. 비행은 짧지만 한 시간 늦게 출발해요. 창가 자리에서 아주 파란 바다가 보여요.
+      - es: En el aeropuerto sigo las señales de «Llegadas» y voy a recoger el equipaje. Cojo un carrito y espero mucho tiempo, pero mi maleta no sale.
+        ko: 공항에서 «Llegadas»(도착) 표지판을 따라 짐을 찾으러 가요. 카트를 하나 가져와서 한참 기다리지만 제 가방은 안 나와요.
+      - es: Un empleado me ayuda. Mi maleta viene en el próximo vuelo y me la llevan al hotel por la noche. No paso por la aduana, porque vengo de otra ciudad de España. Al final, salgo con la mochila y nada más.
+        ko: 공항 직원이 도와줘요. 제 가방은 다음 항공편으로 오고, 밤에 호텔로 갖다줘요. 스페인의 다른 도시에서 와서 세관은 지나지 않아요. 결국 배낭 하나만 메고 나가요.
+    questions:
+      - q_ko: 비행기는 어땠나요?
+        choices_ko: [제시간에 도착했다, 한 시간 늦게 출발했다, 취소됐다]
+        answer: 1
+      - q_ko: 글쓴이는 왜 세관을 지나지 않았나요?
+        choices_ko: [짐이 없어서, 스페인 국내선을 타고 와서, 세관이 닫혀서]
+        answer: 1
+      - q_ko: 가방은 어떻게 받게 되나요?
+        choices_ko: [다음 날 공항에서 찾는다, 밤에 호텔로 갖다준다, 세비야로 보낸다]
+        answer: 1
+  - id: r2
+    title_es: Antes de volar a Sevilla
+    title_ko: 세비야로 날아가기 전에
+    level: A2
+    paragraphs:
+      - es: El 23 de mayo vuelo de Palma a Sevilla. Llego al aeropuerto dos horas antes. Primero miro la pantalla de salidas. Allí veo la hora del vuelo y el número del mostrador.
+        ko: 5월 23일에는 팔마에서 세비야로 가는 비행기를 타요. 공항에는 두 시간 일찍 도착해요. 먼저 출발 안내 화면을 봐요. 거기서 비행기 시간과 카운터 번호를 확인해요.
+      - es: En el mostrador facturo la maleta y me dan la tarjeta de embarque. Tengo un asiento de ventanilla. Después paso el control de seguridad. Pongo la mochila en una bandeja y paso sin problemas.
+        ko: 카운터에서 가방을 부치고 탑승권을 받아요. 자리는 창가예요. 그다음 보안 검색대를 지나요. 배낭을 바구니에 올리고 문제없이 통과해요.
+      - es: Luego espero en la puerta de embarque. Cuando abren la puerta, enseño la tarjeta de embarque y el pasaporte, y subo al avión. ¡Adiós, Palma!
+        ko: 그다음 탑승구에서 기다려요. 탑승구가 열리면 탑승권과 여권을 보여 주고 비행기에 올라요. 안녕, 팔마!
+    questions:
+      - q_ko: 글쓴이는 공항에 언제 도착했나요?
+        choices_ko: [한 시간 전, 두 시간 전, 30분 전]
+        answer: 1
+      - q_ko: 글쓴이는 가방을 어떻게 했나요?
+        choices_ko: [기내에 들고 탔다, 카운터에서 부쳤다, 호텔에 두고 왔다]
+        answer: 1
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "abren": {lemma: "abrir", ko: "열다 (그들은)", en: "they open", pron: "**아**브렌"}
+  "adiós": {lemma: "adiós", ko: "안녕히 계세요", en: "goodbye", pron: "아**디오스**"}
+  "al": {lemma: "a + el", ko: "~에, ~(으)로(a+el)", en: "to the", pron: "알"}
+  "algo": {lemma: "algo", ko: "무언가", en: "something", pron: "**알**고"}
+  "allí": {lemma: "allí", ko: "거기, 저기", en: "there", pron: "아**이**"}
+  "antes": {lemma: "antes", ko: "전에", en: "before", pron: "**안**떼스"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "ayuda": {lemma: "ayuda", ko: "도움", en: "help", pron: "아**유**다"}
+  "azul": {lemma: "azul", ko: "파란", en: "blue", pron: "아**술**"}
+  "b7": {lemma: "B7", ko: "B7(탑승구 번호)", en: "B7", pron: "**베** **시에**떼"}
+  "bandeja": {lemma: "bandeja", ko: "바구니, 쟁반", en: "tray", pron: "반**데**하"}
+  "bien": {lemma: "bien", ko: "잘, 제대로", en: "well, properly", pron: "**비엔**"}
+  "buen": {lemma: "bueno", ko: "좋은(명사 앞)", en: "good", pron: "**부엔**"}
+  "buenos": {lemma: "bueno", ko: "좋은(남성 복수)", en: "good", pron: "**부에**노스"}
+  "cabina": {lemma: "cabina", ko: "기내(en cabina 기내에)", en: "cabin", pron: "까**비**나"}
+  "carteles": {lemma: "cartel", ko: "안내판들", en: "signs", pron: "까르**뗄**레스"}
+  "catorce": {lemma: "catorce", ko: "14", en: "fourteen", pron: "까**또르**세"}
+  "cinta": {lemma: "cinta", ko: "수하물 벨트", en: "belt", pron: "**신**따"}
+  "ciudad": {lemma: "ciudad", ko: "도시", en: "city", pron: "시우**다드**"}
+  "cojo": {lemma: "coger", ko: "집다, 가져오다(나는)", en: "I take", pron: "**꼬**호"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "corto": {lemma: "corto", ko: "짧은", en: "short", pron: "**꼬르**또"}
+  "cuando": {lemma: "cuando", ko: "~할 때", en: "when", pron: "꾸안도"}
+  "cuándo": {lemma: "cuándo", ko: "언제", en: "when", pron: "**꾸안**도"}
+  "dan": {lemma: "dar", ko: "주다(그들은)", en: "they give", pron: "**단**"}
+  "dar": {lemma: "dar", ko: "주다", en: "to give", pron: "**다르**"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "desde": {lemma: "desde", ko: "~에서(부터)", en: "from", pron: "데스데"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "diez": {lemma: "diez", ko: "10", en: "ten", pron: "**디에스**"}
+  "dirección": {lemma: "dirección", ko: "주소", en: "address", pron: "디렉**시온**"}
+  "disfrute": {lemma: "disfrutar", ko: "즐기세요(usted 명령)", en: "enjoy (formal)", pron: "디스**프루**떼"}
+  "dos": {lemma: "dos", ko: "둘", en: "two", pron: "**도스**"}
+  "días": {lemma: "día", ko: "날들(buenos días: 아침 인사)", en: "days", pron: "**디**아스"}
+  "dónde": {lemma: "dónde", ko: "어디", en: "where", pron: "**돈**데"}
+  "empleado": {lemma: "empleado", ko: "직원", en: "employee", pron: "엠쁠레**아**도"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "enseña": {lemma: "enseñar", ko: "보여 주다(당신은)", en: "you show (formal)", pron: "엔**세**냐"}
+  "enseño": {lemma: "enseñar", ko: "보여 주다(나는)", en: "I show", pron: "엔**세**뇨"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "escriba": {lemma: "escribir", ko: "쓰세요(usted 명령)", en: "write (formal)", pron: "에스**끄리**바"}
+  "eso": {lemma: "eso", ko: "그것", en: "that", pron: "**에**소"}
+  "españa": {lemma: "España", ko: "스페인", en: "Spain", pron: "에스**빠**냐"}
+  "espero": {lemma: "esperar", ko: "기다리다(나는)", en: "I wait", pron: "에스**뻬**로"}
+  "esta": {lemma: "este", ko: "이(여성)", en: "this", pron: "**에스**따"}
+  "este": {lemma: "este", ko: "이(남성)", en: "this", pron: "**에스**떼"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "etiqueta": {lemma: "etiqueta", ko: "(수하물) 태그", en: "tag", pron: "에띠**께**따"}
+  "factura": {lemma: "facturar", ko: "(짐을) 부치다(당신은)", en: "you check in (formal)", pron: "팍**뚜**라"}
+  "facturo": {lemma: "facturar", ko: "(짐을) 부치다(나는)", en: "I check in", pron: "팍**뚜**로"}
+  "favor": {lemma: "favor", ko: "부탁(por favor: 부디)", en: "favour", pron: "파**보르**"}
+  "final": {lemma: "final", ko: "끝", en: "end", pron: "피**날**"}
+  "genial": {lemma: "genial", ko: "아주 좋은", en: "great", pron: "헤**니알**"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grande": {lemma: "grande", ko: "큰", en: "big", pron: "**그란**데"}
+  "grandota": {lemma: "grandote", ko: "큼직한(여성)", en: "biggish", pron: "그란**도**따"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "hacer": {lemma: "hacer", ko: "하다, 찍다", en: "to do, to take", pron: "아**세르**"}
+  "hasta": {lemma: "hasta", ko: "~까지(hasta luego 또 봐요)", en: "until", pron: "**아스**따"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hola": {lemma: "hola", ko: "안녕하세요", en: "hello", pron: "**올**라"}
+  "hora": {lemma: "hora", ko: "시간, 시각", en: "hour, time", pron: "**오**라"}
+  "horas": {lemma: "hora", ko: "시간(복수)", en: "hours", pron: "**오**라스"}
+  "hotel": {lemma: "hotel", ko: "호텔", en: "hotel", pron: "오**뗄**"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "le": {lemma: "le", ko: "당신에게", en: "you (formal), to you", pron: "레"}
+  "llega": {lemma: "llegar", ko: "도착하다(그것은); 와(tú 명령)", en: "arrives; arrive", pron: "**예**가"}
+  "llegadas": {lemma: "llegada", ko: "도착(안내판의 Llegadas)", en: "arrivals", pron: "예**가**다스"}
+  "llego": {lemma: "llegar", ko: "도착하다(나는)", en: "I arrive", pron: "**예**고"}
+  "lleva": {lemma: "llevar", ko: "가지고 타다(당신은)", en: "you take (formal)", pron: "**예**바"}
+  "llevamos": {lemma: "llevar", ko: "갖다주다(우리는)", en: "we take", pron: "예**바**모스"}
+  "llevan": {lemma: "llevar", ko: "갖다주다(그들은)", en: "they take", pron: "**예**반"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "localizada": {lemma: "localizar", ko: "위치를 찾은(여성)", en: "located", pron: "로깔리**사**다"}
+  "los": {lemma: "el", ko: "그(남성 복수 관사)", en: "the", pron: "로스"}
+  "luego": {lemma: "luego", ko: "나중에", en: "later", pron: "**루에**고"}
+  "mar": {lemma: "mar", ko: "바다", en: "sea", pron: "**마르**"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "media": {lemma: "medio", ko: "반(y media ~시 반)", en: "half", pron: "**메**디아"}
+  "mi": {lemma: "mi", ko: "나의", en: "my", pron: "미"}
+  "miro": {lemma: "mirar", ko: "보다(나는)", en: "I look at", pron: "**미**로"}
+  "mochila": {lemma: "mochila", ko: "배낭", en: "backpack", pron: "모**칠**라"}
+  "molestias": {lemma: "molestia", ko: "불편(perdone las molestias)", en: "inconvenience", pron: "몰**레스**띠아스"}
+  "momento": {lemma: "momento", ko: "잠깐, 순간", en: "moment", pron: "모**멘**또"}
+  "mostrador": {lemma: "mostrador", ko: "카운터", en: "counter", pron: "모스뜨라**도르**"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mucho": {lemma: "mucho", ko: "많이", en: "a lot", pron: "**무**초"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "móvil": {lemma: "móvil", ko: "휴대폰", en: "mobile phone", pron: "**모**빌"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "noche": {lemma: "noche", ko: "밤", en: "night", pron: "**노**체"}
+  "número": {lemma: "número", ko: "번호", en: "number", pron: "**누**메로"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "palma": {lemma: "Palma", ko: "팔마(마요르카섬의 도시)", en: "Palma", pron: "**빨**마"}
+  "papel": {lemma: "papel", ko: "종이", en: "paper", pron: "빠**뻴**"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "paso": {lemma: "pasar", ko: "지나가다, 통과하다(나는)", en: "I go through", pron: "**빠**소"}
+  "perdone": {lemma: "perdonar", ko: "실례합니다 (usted)", en: "excuse me", pron: "뻬르**도**네"}
+  "perfecto": {lemma: "perfecto", ko: "좋아요, 완벽한", en: "perfect", pron: "뻬르**펙**또"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "pongo": {lemma: "poner", ko: "놓다, 올리다(나는)", en: "I put", pron: "**뽕**고"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "porque": {lemma: "porque", ko: "왜냐하면", en: "because", pron: "뽀르께"}
+  "preocupe": {lemma: "preocuparse", ko: "걱정하다(no se preocupe 걱정 마세요)", en: "worry (formal)", pron: "쁘레오**꾸**뻬"}
+  "primero": {lemma: "primero", ko: "첫 번째(로)", en: "first", pron: "쁘리**메**로"}
+  "problemas": {lemma: "problema", ko: "문제들(sin problemas 문제없이)", en: "problems", pron: "쁘로**블레**마스"}
+  "próximo": {lemma: "próximo", ko: "다음", en: "next", pron: "**쁘록**시모"}
+  "puede": {lemma: "poder", ko: "~할 수 있다 (당신은)", en: "you can", pron: "**뿌에**데"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "pérdida": {lemma: "pérdida", ko: "잃음(no tiene pérdida 바로 찾아요)", en: "loss", pron: "**뻬르**디다"}
+  "póngame": {lemma: "poner", ko: "적어 주세요(usted 명령)", en: "put down (formal)", pron: "**뽕**가메"}
+  "que": {lemma: "que", ko: "~하는; ~거든요(이유)", en: "that; because", pron: "께"}
+  "queda": {lemma: "quedar", ko: "(어디에) 있다, 떨어져 있다", en: "is (located)", pron: "**께**다"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "recoger": {lemma: "recoger", ko: "(짐을) 찾다", en: "to collect", pron: "레꼬**헤르**"}
+  "rellenar": {lemma: "rellenar", ko: "(서류를) 작성하다", en: "to fill in", pron: "레예**나르**"}
+  "roja": {lemma: "rojo", ko: "빨간(여성)", en: "red", pron: "**로**하"}
+  "ruedas": {lemma: "rueda", ko: "바퀴들", en: "wheels", pron: "**루에**다스"}
+  "sale": {lemma: "salir", ko: "떠나다, 나오다(그것은)", en: "leaves, comes out", pron: "**살**레"}
+  "salgo": {lemma: "salir", ko: "나가다(나는)", en: "I go out", pron: "**살**고"}
+  "salidas": {lemma: "salida", ko: "출발(안내판의 Salidas)", en: "departures", pron: "살**리**다스"}
+  "salido": {lemma: "salir", ko: "나온(완료)", en: "come out", pron: "살**리**도"}
+  "se": {lemma: "se", ko: "재귀·수동을 나타내는 말(se sirve 나오다)", en: "itself; (passive)", pron: "세"}
+  "segundito": {lemma: "segundo", ko: "잠깐(1초)", en: "a sec", pron: "세군**디**또"}
+  "sevilla": {lemma: "Sevilla", ko: "세비야(도시)", en: "Seville", pron: "세**비**야"}
+  "señales": {lemma: "señal", ko: "표지판들", en: "signs", pron: "세**냘**레스"}
+  "siga": {lemma: "seguir", ko: "따라가세요, 계속 가세요(usted 명령)", en: "follow, keep going (formal)", pron: "**시**가"}
+  "sigo": {lemma: "seguir", ko: "따라가다(나는)", en: "I follow", pron: "**시**고"}
+  "sin": {lemma: "sin", ko: "~없이", en: "without", pron: "신"}
+  "su": {lemma: "su", ko: "당신의", en: "your (formal)", pron: "수"}
+  "subo": {lemma: "subir", ko: "올라타다(나는)", en: "I get on", pron: "**수**보"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "teléfono": {lemma: "teléfono", ko: "전화번호", en: "phone (number)", pron: "뗄**레**포노"}
+  "tener": {lemma: "tener", ko: "가지다, 받다", en: "to have", pron: "떼**네르**"}
+  "tenga": {lemma: "tener", ko: "여기요, 받으세요(usted 명령)", en: "here you are (formal)", pron: "**뗑**가"}
+  "tengo": {lemma: "tener", ko: "가지고 있다(나는)", en: "I have", pron: "**뗑**고"}
+  "tiempo": {lemma: "tiempo", ko: "시간(mucho tiempo 오래)", en: "time", pron: "**띠엠**뽀"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "todo": {lemma: "todo", ko: "전부(por todo 여러 가지로)", en: "everything", pron: "**또**도"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "usted": {lemma: "usted", ko: "당신(a usted 제가 고맙죠)", en: "you (formal)", pron: "우스**떼드**"}
+  "va": {lemma: "ir", ko: "가다(va a ~할 것이다)", en: "goes; is going to", pron: "**바**"}
+  "vale": {lemma: "vale", ko: "알겠어요, 좋아요", en: "OK", pron: "**발**레"}
+  "vaya": {lemma: "vaya", ko: "이런, 아이고(감탄)", en: "oh dear", pron: "**바**야"}
+  "vengo": {lemma: "venir", ko: "오다(나는)", en: "I come", pron: "**벵**고"}
+  "veo": {lemma: "ver", ko: "보다(나는)", en: "I see", pron: "**베**오"}
+  "ver": {lemma: "ver", ko: "보다(a ver 어디 보자)", en: "to see", pron: "**베르**"}
+  "viaja": {lemma: "viajar", ko: "여행하다, 가다(당신은)", en: "you travel (formal)", pron: "비**아**하"}
+  "viaje": {lemma: "viaje", ko: "여행", en: "trip", pron: "비**아**헤"}
+  "viene": {lemma: "venir", ko: "오다, 나와 있다(그것은)", en: "comes", pron: "**비에**네"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이제, 벌써", en: "now, already", pron: "**야**"}
