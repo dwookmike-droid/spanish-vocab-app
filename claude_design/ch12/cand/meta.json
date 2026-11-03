@@ -1,73 +1,6 @@
 {
- "right": [
-  {
-   "title": "Stupid Sign in DC",
-   "lic": "CC BY 2.0",
-   "artist": "andryone",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/45/120278573_4bc94173fa_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/00fd41a0-de32-4f5d-a114-399c2c9c4ad5/thumb/",
-   "page": "https://www.flickr.com/photos/73855354@N00/120278573",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_5.jpg"
-  },
-  {
-   "title": "Traffic Crawl In Kota Kinabalu City",
-   "lic": "CC BY 2.0",
-   "artist": "thienzieyung",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/8300/8011547534_92142e8e41_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/fd1826cb-c707-4988-8d22-205eb44dadc2/thumb/",
-   "page": "https://www.flickr.com/photos/26978304@N08/8011547534",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_6.jpg"
-  },
-  {
-   "title": "Worker rights",
-   "lic": "CC BY 2.0",
-   "artist": "kevin dooley",
-   "w": 1024,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/7256/7427151508_9ea4636093_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/5827044c-79f7-4b51-aaa6-62f601ae55a8/thumb/",
-   "page": "https://www.flickr.com/photos/12836528@N00/7427151508",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_7.jpg"
-  }
- ],
- "left": [
-  {
-   "title": "Stupid Sign in DC",
-   "lic": "CC BY 2.0",
-   "artist": "andryone",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/45/120278573_4bc94173fa_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/00fd41a0-de32-4f5d-a114-399c2c9c4ad5/thumb/",
-   "page": "https://www.flickr.com/photos/73855354@N00/120278573",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_1.jpg"
-  },
-  {
-   "title": "Selly Oak Park - sign - Shared paths - Please Slow Down & Keep Left",
-   "lic": "CC BY 2.0",
-   "artist": "ell brown",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/7104/7183461393_b691046a82_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/ea114de0-d57d-4057-ab09-eb626fe77f2b/thumb/",
-   "page": "https://www.flickr.com/photos/39415781@N06/7183461393",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_2.jpg"
-  }
- ],
+ "right": [],
+ "left": [],
  "straight": [
   {
    "title": "Straight ahead for Drama (Δράμα)",
@@ -96,47 +29,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/straight_1.jpg"
   }
  ],
- "corner": [
-  {
-   "title": "Panoramic view of Los Angeles, looking north from a building on the corner of Hill Street from 6th Street, 1913 (CHS-5827)",
-   "lic": "CC BY 2.0",
-   "artist": "Fæ",
-   "w": 1024,
-   "h": 826,
-   "url": "https://live.staticflickr.com/8561/16630554786_55c28a2f71_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e03f66bf-52ee-4083-acbb-5ddfb1362e0f/thumb/",
-   "page": "https://www.flickr.com/photos/50398299@N08/16630554786",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_0.jpg"
-  },
-  {
-   "title": "Panoramic view of Los Angeles, looking north from a building on the corner of Hill Street from 6th Street, 1913 (CHS-5822)",
-   "lic": "CC BY 2.0",
-   "artist": "Fæ",
-   "w": 1024,
-   "h": 826,
-   "url": "https://live.staticflickr.com/8596/16468888308_96ae61bd47_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/954089da-3ff3-4c42-9d75-d066fe020feb/thumb/",
-   "page": "https://www.flickr.com/photos/50398299@N08/16468888308",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_1.jpg"
-  },
-  {
-   "title": "Panoramic view of Los Angeles, looking north from a building on the corner of Hill Street from 6th Street, 1913 (CHS-5823)",
-   "lic": "CC BY 2.0",
-   "artist": "Fæ",
-   "w": 1024,
-   "h": 829,
-   "url": "https://live.staticflickr.com/8662/16469074010_b53154475f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/7b03d1f7-1cc9-4193-882b-95059d552a3c/thumb/",
-   "page": "https://www.flickr.com/photos/50398299@N08/16469074010",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_2.jpg"
-  }
- ],
+ "corner": [],
  "street": [
   {
    "title": "Spain-36 - Toledo",
@@ -430,47 +323,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/far_2.jpg"
   }
  ],
- "nextto": [
-  {
-   "title": "coldplay:white shadows",
-   "lic": "CC BY 2.0",
-   "artist": "visualpanic",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/92/222770622_5dac01518f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/8f0fbed0-1cc8-4e1d-9987-46583c2293f8/thumb/",
-   "page": "https://www.flickr.com/photos/41754875@N00/222770622",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_0.jpg"
-  },
-  {
-   "title": "Tudor Grange House - off Blossomfield Road, Solihull",
-   "lic": "CC BY 2.0",
-   "artist": "ell brown",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/2213/5721918824_089b46b8fc_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e689e763-8674-428e-8053-6035720c8fa2/thumb/",
-   "page": "https://www.flickr.com/photos/39415781@N06/5721918824",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_1.jpg"
-  },
-  {
-   "title": "38-46 Grove Street, Leamington Spa - terrace of Georgian houses",
-   "lic": "CC BY 2.0",
-   "artist": "ell brown",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/6057/6292083300_6bf5d86caa_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a59cccb7-630f-400f-ba14-ebdef94136d6/thumb/",
-   "page": "https://www.flickr.com/photos/39415781@N06/6292083300",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_2.jpg"
-  }
- ],
+ "nextto": [],
  "opposite": [
   {
    "title": "Fountain of the Great Lakes, Art Institute of Chicago Building",
@@ -594,47 +447,6 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/infront_2.jpg"
   }
  ],
- "sign": [
-  {
-   "title": "View of Fifth Street looking west from Hill Street to its dead-end into the State Normal School grounds, Los Angeles, ca.1910 (CHS-5387)",
-   "lic": "Public Domain",
-   "artist": "Fæ",
-   "w": 825,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/8601/16493375338_39aea8b580_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/08678a4b-8cd5-4c16-adc6-92a072b8734e/thumb/",
-   "page": "https://www.flickr.com/photos/50398299@N08/16493375338",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_0.jpg"
-  },
-  {
-   "title": "Interstate 475, Toledo, Ohio",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Ken Lund",
-   "w": 1024,
-   "h": 448,
-   "url": "https://live.staticflickr.com/5705/21729930101_27a7f6543e_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/27dc8300-d6c4-47a2-9ebe-338556c7f64e/thumb/",
-   "page": "https://www.flickr.com/photos/75683070@N00/21729930101",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_1.jpg"
-  }
- ],
- "alley": [
-  {
-   "title": "Callejón",
-   "lic": "CC BY 2.0",
-   "artist": "Daquella manera",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/5224/5582192190_c8eda5ed65_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/ba948fea-d5ce-43d2-a159-e22f02165adf/thumb/",
-   "page": "https://www.flickr.com/photos/62518311@N00/5582192190",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/alley_0.jpg"
-  }
- ]
+ "sign": [],
+ "alley": []
 }

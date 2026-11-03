@@ -1,19 +1,5 @@
 {
- "mountain": [
-  {
-   "title": "Serranía de Ronda. Málaga.",
-   "lic": "CC BY 2.0",
-   "artist": "danielgarciadgb",
-   "w": 1024,
-   "h": 575,
-   "url": "https://live.staticflickr.com/1671/25549671653_2c3854a6a9_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/fe86afd2-68af-4743-ac1b-3e738f43a4ea/thumb/",
-   "page": "https://www.flickr.com/photos/140729143@N08/25549671653",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/mountain_0.jpg"
-  }
- ],
+ "mountain": [],
  "river": [
   {
    "title": "River Seridó",
@@ -370,47 +356,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/waterfall_2.jpg"
   }
  ],
- "sky": [
-  {
-   "title": "Sky, Cloud and Road",
-   "lic": "CC BY 2.0",
-   "artist": "Yoshikazu TAKADA",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/3941/14913755534_3df8bd3d50_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/621b6c10-e30e-4231-81ee-30e13036ad2e/thumb/",
-   "page": "https://www.flickr.com/photos/34530295@N06/14913755534",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_0.jpg"
-  },
-  {
-   "title": "Sky, Cloud and Mt. Fuji",
-   "lic": "CC BY 2.0",
-   "artist": "Yoshikazu TAKADA",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/3844/14933845455_160bbda146_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3db1c60b-39a7-47f1-910c-b71c1e5c83e3/thumb/",
-   "page": "https://www.flickr.com/photos/34530295@N06/14933845455",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_1.jpg"
-  },
-  {
-   "title": "Torc waterfall, co. Kerry, Ireland #photo #photography #iphone #iphone5s #iphoneography #ireland #landscape #travel #outdoor #nature #sky #clouds #lake",
-   "lic": "CC BY 2.0",
-   "artist": "Giuseppe Milo (www.pixael.com)",
-   "w": 1024,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/2929/14133418959_a97f0ac513_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/be717343-73d9-497a-beb5-ef33478ac103/thumb/",
-   "page": "https://www.flickr.com/photos/87690240@N03/14133418959",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_2.jpg"
-  }
- ],
+ "sky": [],
  "stone": [
   {
    "title": "stone, wall, textura",
@@ -698,47 +644,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/viewpoint_2.jpg"
   }
  ],
- "hill": [
-  {
-   "title": "Daffodil Hill",
-   "lic": "CC BY 2.0",
-   "artist": "enneafive",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/811/40981585952_bfccd6c788_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/89be319c-f59f-4b94-b26e-5c7371ef71d5/thumb/",
-   "page": "https://www.flickr.com/photos/75612671@N03/40981585952",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_0.jpg"
-  },
-  {
-   "title": "Clouds, Sea and Hills",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Jocey K",
-   "w": 1000,
-   "h": 669,
-   "url": "https://live.staticflickr.com/2855/10785409434_1ce192cf73_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/280b52b4-769e-4563-93cb-92bbc4dfa6ae/thumb/",
-   "page": "https://www.flickr.com/photos/48627921@N05/10785409434",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_1.jpg"
-  },
-  {
-   "title": "Drunk Cat lying down in Lucchio Hill Top village",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Glen Bowman",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/6077/6150711380_58a52c9488_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/185f8dca-064c-49d0-89e1-efc44b30d141/thumb/",
-   "page": "https://www.flickr.com/photos/10978503@N00/6150711380",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_2.jpg"
-  }
- ],
+ "hill": [],
  "olivetree": [
   {
    "title": "Close up of an Olive Tree",

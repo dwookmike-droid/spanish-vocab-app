@@ -55,47 +55,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/eye_0.jpg"
   }
  ],
- "ear": [
-  {
-   "title": "Mara ears closeup",
-   "lic": "CC0",
-   "artist": "D Coetzee",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/3358/3506128604_3a3e5a91ee_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/cdcbcb22-4ecf-4a68-b1ff-000d5cc1bc7e/thumb/",
-   "page": "https://www.flickr.com/photos/29507259@N02/3506128604",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_0.jpg"
-  },
-  {
-   "title": "Elephant Ear Closeup",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Eric Kilby",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/754/22803611542_92eefaf713_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/25869529-3a76-41dc-b8a6-b330e7be685a/thumb/",
-   "page": "https://www.flickr.com/photos/8749778@N06/22803611542",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_1.jpg"
-  },
-  {
-   "title": "earring closeup side 1",
-   "lic": "CC BY 2.0",
-   "artist": "Different Seasons Jewelry",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/3307/4581222253_044ba76c20_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/df3de538-7dbe-4be5-b540-b0a01d750715/thumb/",
-   "page": "https://www.flickr.com/photos/58902192@N00/4581222253",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_3.jpg"
-  }
- ],
+ "ear": [],
  "nose": [
   {
    "title": "inside a human nose",
@@ -137,88 +97,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/nose_2.jpg"
   }
  ],
- "mouth": [
-  {
-   "title": "and then more",
-   "lic": "CC BY-SA 2.0",
-   "artist": "craigCloutier",
-   "w": 1024,
-   "h": 685,
-   "url": "https://live.staticflickr.com/4065/4227897952_340aa81d2f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a4609f3a-7aed-4e6f-becb-c39b1f7f0041/thumb/",
-   "page": "https://www.flickr.com/photos/23656277@N00/4227897952",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_0.jpg"
-  },
-  {
-   "title": "hooikoorts / hayfever",
-   "lic": "CC BY 2.0",
-   "artist": "Marco Raaphorst",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/252/525191643_e7e6ed54a8_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/5a80ef09-d5d1-4387-bc6b-2f83bb070b8d/thumb/",
-   "page": "https://www.flickr.com/photos/49766127@N00/525191643",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_1.jpg"
-  },
-  {
-   "title": "Smile for the Camera",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Furryscaly",
-   "w": 1024,
-   "h": 709,
-   "url": "https://live.staticflickr.com/1350/673915993_eabef33055_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/39a83fb2-9538-4453-bd09-441e1ac1c89d/thumb/",
-   "page": "https://www.flickr.com/photos/98528214@N00/673915993",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_2.jpg"
-  }
- ],
- "tooth": [
-  {
-   "title": "tooth fairy",
-   "lic": "CC BY 2.0",
-   "artist": "wakefielddavid",
-   "w": 500,
-   "h": 468,
-   "url": "https://live.staticflickr.com/3030/3058972390_01ab6f28c3.jpg",
-   "thumb": "https://api.openverse.org/v1/images/c351a121-1d6f-4326-b73e-a482958747d9/thumb/",
-   "page": "https://www.flickr.com/photos/31733144@N04/3058972390",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_0.jpg"
-  },
-  {
-   "title": "Temple of the Tooth, Kandy",
-   "lic": "CC BY 2.0",
-   "artist": "Koshyk",
-   "w": 1024,
-   "h": 663,
-   "url": "https://live.staticflickr.com/3846/14872300601_0c7966e2e2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e2842b27-76f5-4383-a1af-55a526eeafe4/thumb/",
-   "page": "https://www.flickr.com/photos/97235261@N00/14872300601",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_1.jpg"
-  },
-  {
-   "title": "wobbly tooth",
-   "lic": "CC BY 2.0",
-   "artist": "Jon Bunting",
-   "w": 1024,
-   "h": 693,
-   "url": "https://live.staticflickr.com/8116/8654881691_6fb1610230_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/b48db7e5-5577-495b-91ba-02aa628744ac/thumb/",
-   "page": "https://www.flickr.com/photos/84744710@N06/8654881691",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_2.jpg"
-  }
- ],
+ "mouth": [],
+ "tooth": [],
  "neck": [
   {
    "title": "The neck",
@@ -260,62 +140,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/neck_2.jpg"
   }
  ],
- "arm": [
-  {
-   "title": "Fly on human arm",
-   "lic": "CC BY 2.0",
-   "artist": "MarkC333",
-   "w": 1024,
-   "h": 646,
-   "url": "https://live.staticflickr.com/7360/10410830726_e9b0255b7d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3a0f811e-307d-4d7e-be80-358dff966e3b/thumb/",
-   "page": "https://www.flickr.com/photos/49303401@N07/10410830726",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_0.jpg"
-  },
-  {
-   "title": "kiyomi chose this spot--she likes her paws on human arms.",
-   "lic": "CC BY 2.0",
-   "artist": "_tar0_",
-   "w": 680,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/7272/7557055694_13a6a2ae6a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/03312889-a145-4286-82c1-5a670da11c6f/thumb/",
-   "page": "https://www.flickr.com/photos/49946687@N05/7557055694",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_1.jpg"
-  }
- ],
- "hand": [
-  {
-   "title": "Close-up of human hands being washed under faucet in bathroom, isolated on white",
-   "lic": "CC BY 2.0",
-   "artist": "aqua.mech",
-   "w": 1024,
-   "h": 752,
-   "url": "https://live.staticflickr.com/1498/24704455709_bd5a0fdbe1_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/da9dd0a0-4c09-4fff-8e8c-2e9c52bb064b/thumb/",
-   "page": "https://www.flickr.com/photos/137169575@N04/24704455709",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_1.jpg"
-  },
-  {
-   "title": "Robot and human hands",
-   "lic": "CC BY 2.0",
-   "artist": "smith",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/32/55487598_157dee92c3_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/b71974c3-8c2a-4860-bf0b-ccbee60d0b7c/thumb/",
-   "page": "https://www.flickr.com/photos/37996612193@N01/55487598",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_2.jpg"
-  }
- ],
+ "arm": [],
+ "hand": [],
  "finger": [
   {
    "title": "Finger, pointing",
@@ -439,21 +265,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_5.jpg"
   }
  ],
- "back": [
-  {
-   "title": "Anatomy: écorché human back, showing",
-   "lic": "CC0",
-   "artist": "",
-   "w": 3544,
-   "h": 2026,
-   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL3djYjd3emJwZnYtaW1hZ2UuanBn.jpg",
-   "thumb": "https://api.openverse.org/v1/images/786fbce6-c0fd-418f-9364-a1941ade79db/thumb/",
-   "page": "https://www.rawpixel.com/image/13975019/photo-image-face-person-black-background",
-   "src": "openverse",
-   "provider": "rawpixel",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_2.jpg"
-  }
- ],
+ "back": [],
  "stomach": [
   {
    "title": "Pierced outie belly button",
@@ -577,34 +389,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pill_2.jpg"
   }
  ],
- "prescription": [
-  {
-   "title": "Clay Tablet Medical Prescription & Cylinder Seal Depicting Assyrian Goddesses",
-   "lic": "CC0",
-   "artist": "Gary Lee Todd, Ph.D.",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/1810/28350066267_3c14e979d6_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e9e93896-2010-4d5d-8966-2cf64a7da451/thumb/",
-   "page": "https://www.flickr.com/photos/101561334@N08/28350066267",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_1.jpg"
-  },
-  {
-   "title": "Longmen Grottoes: Guyang Cave & Medical Prescription Cave",
-   "lic": "CC0",
-   "artist": "Gary Lee Todd, Ph.D.",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/3829/10242078053_c41a67fe2c_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/da1289dc-325d-4e94-a92a-3c9a03cf2f89/thumb/",
-   "page": "https://www.flickr.com/photos/101561334@N08/10242078053",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_2.jpg"
-  }
- ],
+ "prescription": [],
  "plaster": [
   {
    "title": "Young girl with band-aid on her upper arm",
@@ -687,19 +472,5 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/syrup_2.jpg"
   }
  ],
- "thermometer": [
-  {
-   "title": "Clinical Thermometers",
-   "lic": "CC BY 2.0",
-   "artist": "Ephemeral Scraps",
-   "w": 500,
-   "h": 419,
-   "url": "https://live.staticflickr.com/7002/6832809581_ab4f99388c.jpg",
-   "thumb": "https://api.openverse.org/v1/images/61af1e6e-6872-4322-9d6c-f434215b58ea/thumb/",
-   "page": "https://www.flickr.com/photos/73025637@N02/6832809581",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_1.jpg"
-  }
- ]
+ "thermometer": []
 }

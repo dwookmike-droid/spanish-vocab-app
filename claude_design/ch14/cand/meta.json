@@ -383,62 +383,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/terminal_2.jpg"
   }
  ],
- "arrival": [
-  {
-   "title": "1931 Hawkes Bay Earthquake - Town Hall, Napier",
-   "lic": "CC BY 2.0",
-   "artist": "Archives New Zealand",
-   "w": 1024,
-   "h": 604,
-   "url": "https://live.staticflickr.com/1500/24529620482_070e2209b0_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/aefb8b0d-c617-4af0-a9f9-3432a1e6e127/thumb/",
-   "page": "https://www.flickr.com/photos/35759981@N08/24529620482",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_1.jpg"
-  },
-  {
-   "title": "Evergreen Aviation & Space Museum",
-   "lic": "CC BY 2.0",
-   "artist": "Eric Friedebach",
-   "w": 1024,
-   "h": 576,
-   "url": "https://live.staticflickr.com/65535/51334557061_c990972c86_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/78c53965-47c4-4b7e-b487-3bf2e80f5e17/thumb/",
-   "page": "https://www.flickr.com/photos/146295701@N02/51334557061",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_2.jpg"
-  }
- ],
- "exit": [
-  {
-   "title": "Houston Airport exit signs",
-   "lic": "CC BY-SA 2.0",
-   "artist": "US 89",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/923/42586398904_1548f05cdf_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a621cbb1-f28a-4746-be61-05fe6ce9aa63/thumb/",
-   "page": "https://www.flickr.com/photos/155771219@N08/42586398904",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_0.jpg"
-  },
-  {
-   "title": "Into the light",
-   "lic": "CC BY 2.0",
-   "artist": "kevin dooley",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/3380/3643203649_f94a40fb3d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/c167a90b-8499-4c47-9765-c06f60d798f0/thumb/",
-   "page": "https://www.flickr.com/photos/12836528@N00/3643203649",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_2.jpg"
-  }
- ],
+ "arrival": [],
+ "exit": [],
  "delay": [
   {
    "title": "Southwest Arrival Departure Board Airport Sign",
@@ -480,47 +426,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/delay_2.jpg"
   }
  ],
- "seat": [
-  {
-   "title": "New Lufthansa cabin",
-   "lic": "CC BY 2.0",
-   "artist": "airbusky",
-   "w": 1024,
-   "h": 737,
-   "url": "https://live.staticflickr.com/166/337687403_ae855bfecc_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/04fd771d-7390-4a00-90ce-176daf6d8052/thumb/",
-   "page": "https://www.flickr.com/photos/19383997@N00/337687403",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_0.jpg"
-  },
-  {
-   "title": "Airplane seating",
-   "lic": "CC BY-SA 2.0",
-   "artist": "MattHurst",
-   "w": 1024,
-   "h": 765,
-   "url": "https://live.staticflickr.com/6212/6327493213_2db19a6023_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e61a8394-e5ca-46ea-83a2-a1347b1d254a/thumb/",
-   "page": "https://www.flickr.com/photos/22937701@N00/6327493213",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_1.jpg"
-  },
-  {
-   "title": "Air New Zealand Beech 1900D cabin",
-   "lic": "CC BY 2.0",
-   "artist": "In Memoriam: PhillipC",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/55/147493822_5385221247_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/1e9b6988-47ef-4461-ad2b-9fc1e1cb91d1/thumb/",
-   "page": "https://www.flickr.com/photos/42033648@N00/147493822",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_2.jpg"
-  }
- ],
+ "seat": [],
  "planewindow": [
   {
    "title": "Airplane Window View (left)",
@@ -590,88 +496,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/aisle_2.jpg"
   }
  ],
- "ticket": [
-  {
-   "title": "Brand Application on Flight Ticket",
-   "lic": "CC BY 2.0",
-   "artist": "VFS Digital Design",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/5176/5436274249_ed978ededb_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/4800a866-d74b-4a94-a7d8-16a83d9bf778/thumb/",
-   "page": "https://www.flickr.com/photos/58816914@N05/5436274249",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_0.jpg"
-  },
-  {
-   "title": "Flight Tickets",
-   "lic": "CC BY 2.0",
-   "artist": "triplefivechina",
-   "w": 1024,
-   "h": 593,
-   "url": "https://live.staticflickr.com/4132/5206092112_cb4d29a076_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/60e0b844-f49d-42bb-a672-5b0e468463a2/thumb/",
-   "page": "https://www.flickr.com/photos/41134793@N05/5206092112",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_1.jpg"
-  },
-  {
-   "title": "Flight ticket",
-   "lic": "CC BY 2.0",
-   "artist": "nicolasnova",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/3255/2821344976_790b944503_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/12665dbc-d727-4fbc-8fa9-b60b64f6ec2a/thumb/",
-   "page": "https://www.flickr.com/photos/20056291@N00/2821344976",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_2.jpg"
-  }
- ],
- "customs": [
-  {
-   "title": "Walmart Reinforces Every Day Low Prices with New In-Store Feature Signage",
-   "lic": "CC BY 2.0",
-   "artist": "Walmart Corporate",
-   "w": 659,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/5108/5684850240_f1bdd1a97d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/7a85bc25-6ab8-42c2-bd4f-81056bfdbcc2/thumb/",
-   "page": "https://www.flickr.com/photos/50128414@N05/5684850240",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_0.jpg"
-  },
-  {
-   "title": "'Our Customer Service -- Not Ramp Area, Not a Sleeping Area for Outstation Non-Revs, EWR Employees Only' Sign (Newark Liberty International Airport, NJ)",
-   "lic": "CC0",
-   "artist": "takomabibelot",
-   "w": 1023,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/105/260200474_182ef37b48_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/0ab0554b-ce72-447a-97dc-cbebcabfa7fe/thumb/",
-   "page": "https://www.flickr.com/photos/38782010@N00/260200474",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_1.jpg"
-  },
-  {
-   "title": "Emigration Control at CDG",
-   "lic": "CC BY-SA 2.0",
-   "artist": "bobbsled",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/3623/3403257234_e1bc8b0a9d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/d6cc68ae-5532-4924-a4d6-2ab796839842/thumb/",
-   "page": "https://www.flickr.com/photos/22121135@N00/3403257234",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_2.jpg"
-  }
- ],
+ "ticket": [],
+ "customs": [],
  "trolley": [
   {
    "title": "Where's your luggage?",
@@ -713,45 +539,5 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/trolley_2.jpg"
   }
  ],
- "screen": [
-  {
-   "title": "The Accenture Interactive Network",
-   "lic": "CC BY 2.0",
-   "artist": "luisvilla",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/97/242597408_91e3df85fd_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/cea001c0-413e-4f61-8173-02604628e917/thumb/",
-   "page": "https://www.flickr.com/photos/37996573467@N01/242597408",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_0.jpg"
-  },
-  {
-   "title": "NASA Visualization Explorer Now Available For All iOS Devices",
-   "lic": "CC BY 2.0",
-   "artist": "NASA Goddard Photo and Video",
-   "w": 1024,
-   "h": 820,
-   "url": "https://live.staticflickr.com/2861/13083620475_9204aa998e_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a4e3d78e-44aa-4df4-b144-97854e4eb72b/thumb/",
-   "page": "https://www.flickr.com/photos/24662369@N07/13083620475",
-   "src": "openverse",
-   "provider": "nasa",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_1.jpg"
-  },
-  {
-   "title": "NASAViz 1.6.1 (iPad app)",
-   "lic": "CC BY 2.0",
-   "artist": "NASA Goddard Photo and Video",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/7269/8170123490_3c4c18c679_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/9f9f6b5e-faa8-4d16-aab0-fb88821f222c/thumb/",
-   "page": "https://www.flickr.com/photos/24662369@N07/8170123490",
-   "src": "openverse",
-   "provider": "nasa",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_2.jpg"
-  }
- ]
+ "screen": []
 }

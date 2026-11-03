@@ -122,47 +122,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/ninot_2.jpg"
   }
  ],
- "firecracker": [
-  {
-   "title": "Firecracker Mountain Bike Race - Juniors 4",
-   "lic": "CC BY 2.0",
-   "artist": "Citizen 4474",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/2919/14361391439_c68b0b6885_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3878650f-c1e3-48c0-9382-004faa5bcacd/thumb/",
-   "page": "https://www.flickr.com/photos/8590349@N05/14361391439",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_0.jpg"
-  },
-  {
-   "title": "Firecracker Mountain Bike Race - Juniors 1",
-   "lic": "CC BY 2.0",
-   "artist": "Citizen 4474",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/2904/14524917156_7c73b73f04_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e4ed5f4c-8f44-4fb6-8059-63c60e54fff0/thumb/",
-   "page": "https://www.flickr.com/photos/8590349@N05/14524917156",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_1.jpg"
-  },
-  {
-   "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
-   "lic": "CC BY 2.0",
-   "artist": "mckaysavage",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/2358/1980340953_afe8b79843_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3e972aa2-e63c-453d-81bc-8350e29a0a54/thumb/",
-   "page": "https://www.flickr.com/photos/56796376@N00/1980340953",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_2.jpg"
-  }
- ],
+ "firecracker": [],
  "traca": [
   {
    "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
@@ -204,21 +164,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/traca_2.jpg"
   }
  ],
- "mascleta": [
-  {
-   "title": "Bomberos en la mascletà de Fallas",
-   "lic": "CC BY 2.0",
-   "artist": "Víctor Gutiérrez Navarro",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/7381/13058366913_c4b96c25fb_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/0d8d0b7c-62f3-47ce-b969-6e99c129cbed/thumb/",
-   "page": "https://www.flickr.com/photos/40955708@N04/13058366913",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/mascleta_2.jpg"
-  }
- ],
+ "mascleta": [],
  "bonfire": [
   {
    "title": "Bonfire",
@@ -342,47 +288,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/music_2.jpg"
   }
  ],
- "band": [
-  {
-   "title": "66136 Daventry to Dollands Moor 6O67",
-   "lic": "CC BY-SA 2.0",
-   "artist": "train_photos",
-   "w": 1024,
-   "h": 758,
-   "url": "https://live.staticflickr.com/8643/16284829069_ffdbcbed99_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6142796c-3bd4-4e91-a4c7-6962a041c145/thumb/",
-   "page": "https://www.flickr.com/photos/99279135@N05/16284829069",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_0.jpg"
-  },
-  {
-   "title": "Fat Tuesday SF Mission 2016 99",
-   "lic": "CC BY 2.0",
-   "artist": "sfmission.com",
-   "w": 500,
-   "h": 500,
-   "url": "https://live.staticflickr.com/1547/25495823871_4c9df2ebba.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6ddcca1c-d07b-4e5a-ae59-c3136e757182/thumb/",
-   "page": "https://www.flickr.com/photos/17281186@N00/25495823871",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_1.jpg"
-  },
-  {
-   "title": "Trombone player",
-   "lic": "CC BY 2.0",
-   "artist": "keith ellwood",
-   "w": 1024,
-   "h": 680,
-   "url": "https://live.staticflickr.com/8245/8545856805_e1af8bd7bf_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e7820dea-b72e-4bd1-a33c-5b2988a69f72/thumb/",
-   "page": "https://www.flickr.com/photos/76377775@N05/8545856805",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_2.jpg"
-  }
- ],
+ "band": [],
  "costume": [
   {
    "title": "Verónica G.",
@@ -575,47 +481,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fair_2.jpg"
   }
  ],
- "lantern": [
-  {
-   "title": "LANTERNS OF EVERY COLOR IN YOKOHAMA OF 1960S",
-   "lic": "CC BY 2.0",
-   "artist": "roberthuffstutter",
-   "w": 1024,
-   "h": 752,
-   "url": "https://live.staticflickr.com/7054/6950206251_26fdf3ae2b_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/1e26307f-2d01-4556-b09c-bbe8b22d63ad/thumb/",
-   "page": "https://www.flickr.com/photos/29528454@N04/6950206251",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_5.jpg"
-  },
-  {
-   "title": "Paper lanterns",
-   "lic": "CC BY 2.0",
-   "artist": "David Barrie",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/223/507335655_b3cac271ea_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/cd2f7eea-71f8-4d44-b706-e1d5d97fca06/thumb/",
-   "page": "https://www.flickr.com/photos/69639562@N00/507335655",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_6.jpg"
-  },
-  {
-   "title": "YOKOHAMA'S CHINATOWN & PEANUT CLUB 1960S: a watercolor by R.L. Huffstutter",
-   "lic": "CC BY 2.0",
-   "artist": "roberthuffstutter",
-   "w": 1024,
-   "h": 743,
-   "url": "https://live.staticflickr.com/4046/4668701179_50f3b8f598_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/5a464a96-dba4-4307-9c39-bd291c73e46e/thumb/",
-   "page": "https://www.flickr.com/photos/29528454@N04/4668701179",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_7.jpg"
-  }
- ],
+ "lantern": [],
  "confetti": [
   {
    "title": "Confetti",
@@ -657,21 +523,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/confetti_2.jpg"
   }
  ],
- "verbena": [
-  {
-   "title": "Beer in Red Lights Verbena Style",
-   "lic": "CC BY 2.0",
-   "artist": "uncafelitoalasonce",
-   "w": 500,
-   "h": 500,
-   "url": "https://live.staticflickr.com/7379/9530585369_f423b67880.jpg",
-   "thumb": "https://api.openverse.org/v1/images/75df2cdc-583c-4113-992c-e6a6312369b5/thumb/",
-   "page": "https://www.flickr.com/photos/42684882@N04/9530585369",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/verbena_0.jpg"
-  }
- ],
+ "verbena": [],
  "dinner": [
   {
    "title": "Indian food",
@@ -713,45 +565,5 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/dinner_2.jpg"
   }
  ],
- "parade": [
-  {
-   "title": "Costa Calida Carnaval 2017 Spain 23",
-   "lic": "CC BY 2.0",
-   "artist": "sfmission.com",
-   "w": 1024,
-   "h": 819,
-   "url": "https://live.staticflickr.com/3893/33432223076_587a199b14_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/dec68c9f-784e-4abb-83a7-37daa2e536e8/thumb/",
-   "page": "https://www.flickr.com/photos/17281186@N00/33432223076",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_0.jpg"
-  },
-  {
-   "title": "Pride day 125",
-   "lic": "CC BY-SA 2.0",
-   "artist": "dorieo21",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/65535/48190987461_885103b41d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/9fadc141-5ca2-4863-9038-38e570662935/thumb/",
-   "page": "https://www.flickr.com/photos/50901644@N00/48190987461",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_1.jpg"
-  },
-  {
-   "title": "Pride day 116",
-   "lic": "CC BY-SA 2.0",
-   "artist": "dorieo21",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/65535/48190439011_d45fd2fc28_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/f1c0edf8-fa21-4172-9413-34f81fa75385/thumb/",
-   "page": "https://www.flickr.com/photos/50901644@N00/48190439011",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_2.jpg"
-  }
- ]
+ "parade": []
 }

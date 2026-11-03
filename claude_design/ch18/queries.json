@@ -1,5 +1,5 @@
 {
-"mountain": "Serranía de Ronda mountain",
+"mountain": "mountain peak",
 "river": "river",
 "bridge": "Puente Nuevo Ronda",
 "valley": "valley landscape Andalusia",
@@ -9,7 +9,7 @@
 "path": "countryside path",
 "lake": "lake",
 "waterfall": "waterfall",
-"sky": "sky clouds",
+"sky": "blue sky clouds",
 "stone": "stone",
 "cave": "cave",
 "bird": "bird",
@@ -17,6 +17,6 @@
 "flower": "wild flower",
 "trail": "hiking trail",
 "viewpoint": "viewpoint mirador Ronda",
-"hill": "hill",
+"hill": "green hills",
 "olivetree": "olive tree"
 }

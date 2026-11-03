@@ -68,88 +68,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/square_2.jpg"
   }
  ],
- "avenue": [
-  {
-   "title": "Miami Drive In Restaurant, Albany Avenue Boulevard, West Atlantic City, N. J.",
-   "lic": "CC BY 2.0",
-   "artist": "Boston Public Library",
-   "w": 1024,
-   "h": 664,
-   "url": "https://live.staticflickr.com/8376/8575704544_692dd908c4_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/dec66649-d431-40f2-8618-14bbc9d40664/thumb/",
-   "page": "https://www.flickr.com/photos/24029425@N06/8575704544",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_0.jpg"
-  },
-  {
-   "title": "Hi-Ho Silver Motel, 3 miles from Atlantic City, entrance on Albany Avenue Boulevard",
-   "lic": "CC BY 2.0",
-   "artist": "Boston Public Library",
-   "w": 1024,
-   "h": 651,
-   "url": "https://live.staticflickr.com/8519/8574610005_17b118c754_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/5c4d97c7-f05a-4ba7-a269-18fd8c655a0a/thumb/",
-   "page": "https://www.flickr.com/photos/24029425@N06/8574610005",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_1.jpg"
-  },
-  {
-   "title": "2nd Avenue Boulevard looking north, Stone Harbor, N. J.",
-   "lic": "CC BY 2.0",
-   "artist": "Boston Public Library",
-   "w": 1024,
-   "h": 653,
-   "url": "https://live.staticflickr.com/8243/8531102601_e58a593b55_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/92f97bec-b5f0-4693-bfbb-750465bea6d2/thumb/",
-   "page": "https://www.flickr.com/photos/24029425@N06/8531102601",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_2.jpg"
-  }
- ],
- "building": [
-  {
-   "title": "A classical oriel, Barcelona",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Spencer Means",
-   "w": 1024,
-   "h": 976,
-   "url": "https://live.staticflickr.com/4574/38389049461_f94b52858d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e88b1989-4ca4-4098-9548-3bd08d7e9aae/thumb/",
-   "page": "https://www.flickr.com/photos/28643687@N08/38389049461",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_0.jpg"
-  },
-  {
-   "title": "Sagrada Familia",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Jocey K",
-   "w": 1000,
-   "h": 666,
-   "url": "https://live.staticflickr.com/2898/14467276101_fc95bc336f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/52f1d319-2022-41d3-bee8-1dc77e7f7dce/thumb/",
-   "page": "https://www.flickr.com/photos/48627921@N05/14467276101",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_1.jpg"
-  },
-  {
-   "title": "Orange Glow",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Jocey K",
-   "w": 1000,
-   "h": 666,
-   "url": "https://live.staticflickr.com/3854/14284170330_1af90986b2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/ff5cb083-511f-45fc-ac8a-30415fceadf9/thumb/",
-   "page": "https://www.flickr.com/photos/48627921@N05/14284170330",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_2.jpg"
-  }
- ],
+ "avenue": [],
+ "building": [],
  "church": [
   {
    "title": "Toledo Cathedral",
@@ -191,34 +111,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/church_2.jpg"
   }
  ],
- "townhall": [
-  {
-   "title": "J. M. Subirachs, Fris de l’edifici novíssim, Ajuntament de Barcelona.",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Catalan Art & Architecture Gallery (Josep Bracons)",
-   "w": 1024,
-   "h": 680,
-   "url": "https://live.staticflickr.com/7172/6824329707_9d93525d81_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/947c40aa-efab-4160-b304-a37265d16c3f/thumb/",
-   "page": "https://www.flickr.com/photos/47267169@N05/6824329707",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_1.jpg"
-  },
-  {
-   "title": "J. M. Subirachs, Fris de l’edifici novíssim, Ajuntament de Barcelona.",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Catalan Art & Architecture Gallery (Josep Bracons)",
-   "w": 1024,
-   "h": 680,
-   "url": "https://live.staticflickr.com/7152/6824315129_d201126cfe_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/43e1f972-d31b-4d52-98a8-81b39eb911a5/thumb/",
-   "page": "https://www.flickr.com/photos/47267169@N05/6824315129",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_2.jpg"
-  }
- ],
+ "townhall": [],
  "market": [
   {
    "title": "2006-0920 Barcelona panorama 01 - Mercat Santa Caterina by Enric Miralles",
@@ -370,21 +263,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/corner_2.jpg"
   }
  ],
- "lights": [
-  {
-   "title": "A crossroads",
-   "lic": "CC BY 2.0",
-   "artist": "16:9clue",
-   "w": 1024,
-   "h": 576,
-   "url": "https://live.staticflickr.com/7023/6751494937_7812e1949c_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/ab8c5c62-cf02-4399-987c-93174677e666/thumb/",
-   "page": "https://www.flickr.com/photos/53255320@N07/6751494937",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_0.jpg"
-  }
- ],
+ "lights": [],
  "crosswalk": [
   {
    "title": "Heat",
@@ -590,75 +469,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/neighborhood_2.jpg"
   }
  ],
- "shop": [
-  {
-   "title": "Lovely Light",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Jocey K",
-   "w": 1000,
-   "h": 666,
-   "url": "https://live.staticflickr.com/3905/14374208799_a985d2c63e_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/93da5888-d320-487c-9e64-6dce107bd70f/thumb/",
-   "page": "https://www.flickr.com/photos/48627921@N05/14374208799",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_0.jpg"
-  },
-  {
-   "title": "Beautiful Front Shop",
-   "lic": "CC BY 2.0",
-   "artist": "Shadowgate",
-   "w": 769,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/88/223691104_10c92faebd_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/c4cd0f77-07a3-48a3-a034-64a381dcac4f/thumb/",
-   "page": "https://www.flickr.com/photos/79586279@N00/223691104",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_1.jpg"
-  }
- ],
- "bank": [
-  {
-   "title": "New York City, Lower Manhattan, Marine Midland Building ( HSBC Bank Building ), 1967 : Noguchi's Red Cube",
-   "lic": "CC BY 2.0",
-   "artist": "(vincent desjardins)",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/5140/5421866932_eea52f8c9f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/433ca0d4-9a80-4a39-8f10-9dc884af2652/thumb/",
-   "page": "https://www.flickr.com/photos/44613506@N07/5421866932",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_0.jpg"
-  },
-  {
-   "title": "New bank building, Noranda townsite, Rouyn, Quebec / Nouveau bâtiment pour une banque dans le quartier Noranda Townsite, Rouyn (Québec)",
-   "lic": "CC BY 2.0",
-   "artist": "BiblioArchives / LibraryArchives",
-   "w": 1000,
-   "h": 589,
-   "url": "https://live.staticflickr.com/65535/52376896525_e962967953_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a15ce687-1416-4554-8bdd-b830b346db81/thumb/",
-   "page": "https://www.flickr.com/photos/28853433@N02/52376896525",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_1.jpg"
-  },
-  {
-   "title": "1909 Commerical Bank building in Mannum",
-   "lic": "CC BY-SA 2.0",
-   "artist": "denisbin",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/5495/9156260353_ecd8a72710_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/449b72ad-810b-48bf-a2ed-cd042264b975/thumb/",
-   "page": "https://www.flickr.com/photos/82134796@N03/9156260353",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_2.jpg"
-  }
- ],
+ "shop": [],
+ "bank": [],
  "pharmacy": [
   {
    "title": "Farmacia - Calle Pedro Antonio de Alarcon, Granada - green cross",

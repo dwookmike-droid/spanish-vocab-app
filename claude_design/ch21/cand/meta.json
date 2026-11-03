@@ -327,34 +327,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/coin_2.jpg"
   }
  ],
- "banknote": [
-  {
-   "title": "New 50 Euro banknotes",
-   "lic": "CC BY-SA 2.0",
-   "artist": "driver Photographer",
-   "w": 1024,
-   "h": 557,
-   "url": "https://live.staticflickr.com/4173/34400380096_09b875d6f0_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/1d81dfb7-c353-43f2-bb31-94165514de82/thumb/",
-   "page": "https://www.flickr.com/photos/72334647@N03/34400380096",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_1.jpg"
-  },
-  {
-   "title": "New 50 Euro banknotes",
-   "lic": "CC BY-SA 2.0",
-   "artist": "driver Photographer",
-   "w": 1024,
-   "h": 554,
-   "url": "https://live.staticflickr.com/4158/34442709025_ec1092de6c_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/10eb6af3-470d-481d-b139-f7f379e1ad7c/thumb/",
-   "page": "https://www.flickr.com/photos/72334647@N03/34442709025",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_2.jpg"
-  }
- ],
+ "banknote": [],
  "card": [
   {
    "title": "Minimum Credit Card Payment £1.00",
@@ -547,47 +520,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fittingroom_2.jpg"
   }
  ],
- "size": [
-  {
-   "title": "What’s your Digits? A Micro Blog",
-   "lic": "CC BY 2.0",
-   "artist": "Breezy.Luik",
-   "w": 1024,
-   "h": 804,
-   "url": "https://live.staticflickr.com/8785/16955401168_6d526e9703_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/fbca444c-6d01-4141-93af-88337cd3df39/thumb/",
-   "page": "https://www.flickr.com/photos/93834118@N03/16955401168",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_0.jpg"
-  },
-  {
-   "title": "Haute nouveaute, Mme. Demorest's reliable patterns. In sizes, illustrated & described. 'What to wear,' 15 cts. 7 1/2 stg. Portfolio of fashions. 15 cts. 7 1/2 stg. Paris, Vienna, New York, London, agencies everywhere. Demorest's Monthly Magazine. 1879. [b",
-   "lic": "CC BY 2.0",
-   "artist": "Boston Public Library",
-   "w": 670,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/5458/9670250381_15c44a2b1f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/b453400b-297c-4530-a9aa-b4f8d2205e79/thumb/",
-   "page": "https://www.flickr.com/photos/24029425@N06/9670250381",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_1.jpg"
-  },
-  {
-   "title": "Haute nouveaute, Mme. Demorest's reliable patterns. In sizes, illustrated & described. 'What to wear,' 15 cts. 7 1/2 stg. Portfolio of fashions. 15 cts. 7 1/2 stg. Paris, Vienna, New York, London, agencies everywhere. Demorest's Monthly Magazine. 1879. [f",
-   "lic": "CC BY 2.0",
-   "artist": "Boston Public Library",
-   "w": 1024,
-   "h": 676,
-   "url": "https://live.staticflickr.com/3793/9670250341_a6fc66630a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/f57712ce-aed0-48b0-a13a-1bc9a68eaf2c/thumb/",
-   "page": "https://www.flickr.com/photos/24029425@N06/9670250341",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_2.jpg"
-  }
- ],
+ "size": [],
  "discount": [
   {
    "title": "Everything is 80s Percent Off",

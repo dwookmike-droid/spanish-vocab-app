@@ -1,45 +1,5 @@
 {
- "guitar": [
-  {
-   "title": "Flamenco guitar",
-   "lic": "CC BY-SA 2.0",
-   "artist": "matsuyuki",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/207/500728651_f214824a69_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3bbabd2f-6739-4863-acee-dfdc93cedbfe/thumb/",
-   "page": "https://www.flickr.com/photos/12173213@N00/500728651",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/guitar_0.jpg"
-  },
-  {
-   "title": "Flamenco guitar",
-   "lic": "CC BY-SA 2.0",
-   "artist": "matsuyuki",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/224/500683172_27954db6ba_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/8b9960cb-c808-4387-aa81-7aa59d88ea58/thumb/",
-   "page": "https://www.flickr.com/photos/12173213@N00/500683172",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/guitar_1.jpg"
-  },
-  {
-   "title": "Flamenco guitar",
-   "lic": "CC BY-SA 2.0",
-   "artist": "matsuyuki",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/217/500732507_5581e83ad6_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/1b234d65-5392-438a-a932-64f97ee50bd0/thumb/",
-   "page": "https://www.flickr.com/photos/12173213@N00/500732507",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/guitar_2.jpg"
-  }
- ],
+ "guitar": [],
  "cante": [
   {
    "title": "Sonia Delaunay (1885-1979) - Chanteurs Flamenco (dit Frand Flamenco) - Flamenco Singers (known as Larghe Flamenco) (1915-1916)",
@@ -122,47 +82,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/dance_2.jpg"
   }
  ],
- "bailaor": [
-  {
-   "title": "Flamenco",
-   "lic": "CC BY 2.0",
-   "artist": "OmarOBorO",
-   "w": 1024,
-   "h": 833,
-   "url": "https://live.staticflickr.com/8422/7537980082_3faea0b9a6_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/db002c55-8f62-40c2-9fab-21da7df104c9/thumb/",
-   "page": "https://www.flickr.com/photos/23338415@N04/7537980082",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/bailaor_0.jpg"
-  },
-  {
-   "title": "Flamenco Dancers",
-   "lic": "CC BY 2.0",
-   "artist": "Prayitno / Thank you for (12 millions +) view",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/5018/5424663830_735d13504a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/aa0c805d-485b-4921-a726-d0a52718cceb/thumb/",
-   "page": "https://www.flickr.com/photos/34128007@N04/5424663830",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/bailaor_1.jpg"
-  },
-  {
-   "title": "Casa Flamenca",
-   "lic": "CC BY 2.0",
-   "artist": "ABQ Old Town",
-   "w": 942,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/3912/15065000660_6ae357931d_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/bdccd569-67c5-4400-9d8c-2f7b83dd4198/thumb/",
-   "page": "https://www.flickr.com/photos/69855884@N02/15065000660",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/bailaor_2.jpg"
-  }
- ],
+ "bailaor": [],
  "bailaora": [
   {
    "title": "Flamenco summer",
@@ -275,47 +195,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/fan_0.jpg"
   }
  ],
- "castanets": [
-  {
-   "title": "'Rustic girls of Sorrento with castanets and tambourine' (1872) by Maria Spanò (Naples 1843-notices until 1880) - Detail - Neapolitan painters of 19th century' - Exhibition at friary of San Domenico Maggiore in Naples, until February 28, 2016",
-   "lic": "Public Domain",
-   "artist": "Carlo Raso",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/1697/25238180631_f4df30ed90_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/d0d86791-3c02-45c4-a36e-7803820338d3/thumb/",
-   "page": "https://www.flickr.com/photos/70125105@N06/25238180631",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/castanets_4.jpg"
-  },
-  {
-   "title": "'Rustic girls of Sorrento with castanets and tambourine' (1872) by Maria Spanò (Naples 1843-notices until 1880) - Neapolitan painters of 19th century' - Exhibition at friary of San Domenico Maggiore in Naples, until February 28, 2016",
-   "lic": "Public Domain",
-   "artist": "Carlo Raso",
-   "w": 791,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/1502/23858011669_097a3f43f2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/888a80ee-ed46-4375-bd83-45bd44fff46f/thumb/",
-   "page": "https://www.flickr.com/photos/70125105@N06/23858011669",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/castanets_6.jpg"
-  },
-  {
-   "title": "Castanets (Detail) - 'Rustic girls of Sorrento with castanets and tambourine' (1872) by Maria Spanò (Naples 1843-notices until 1880) - Neapolitan painters of 19th century' - Exhibition at friary of San Domenico Maggiore in Naples, until February 28, 2016",
-   "lic": "Public Domain",
-   "artist": "Carlo Raso",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/1694/24476019722_c7cea8c6ea_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6e219950-5e85-467e-a6db-8a2ff3d41925/thumb/",
-   "page": "https://www.flickr.com/photos/70125105@N06/24476019722",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/castanets_7.jpg"
-  }
- ],
+ "castanets": [],
  "flamencodress": [
   {
    "title": "Flamenco dress",
@@ -357,21 +237,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/flamencodress_2.jpg"
   }
  ],
- "stage": [
-  {
-   "title": "Building Decoration on the Second Stage Theatre",
-   "lic": "CC BY 2.0",
-   "artist": "ahisgett",
-   "w": 1024,
-   "h": 714,
-   "url": "https://live.staticflickr.com/1266/4683348276_8228902c00_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/2e1d6fee-cb35-4085-83c9-03b36b5ae3ec/thumb/",
-   "page": "https://www.flickr.com/photos/37804979@N00/4683348276",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/stage_2.jpg"
-  }
- ],
+ "stage": [],
  "song": [
   {
    "title": "iPad Sheet Music",
@@ -441,47 +307,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/rhythm_2.jpg"
   }
  ],
- "concert": [
-  {
-   "title": "Concert audience",
-   "lic": "CC BY 2.0",
-   "artist": "blondinrikard",
-   "w": 1024,
-   "h": 672,
-   "url": "https://live.staticflickr.com/3899/14758170370_43441834c2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/0275d002-27c9-406a-87c3-43784a59e1ed/thumb/",
-   "page": "https://www.flickr.com/photos/44093058@N06/14758170370",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/concert_0.jpg"
-  },
-  {
-   "title": "Concert audience",
-   "lic": "CC BY 2.0",
-   "artist": "blondinrikard",
-   "w": 1024,
-   "h": 881,
-   "url": "https://live.staticflickr.com/3910/14941774541_033907b7d5_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/1e3a40e1-9e53-45ff-917e-6a13c95e642b/thumb/",
-   "page": "https://www.flickr.com/photos/44093058@N06/14941774541",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/concert_1.jpg"
-  },
-  {
-   "title": "Thåström concert audience",
-   "lic": "CC BY 2.0",
-   "artist": "blondinrikard",
-   "w": 1024,
-   "h": 576,
-   "url": "https://live.staticflickr.com/5691/20958205470_3b70066373_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/af0e40bb-8488-4410-a5a3-ea9ca75a22f7/thumb/",
-   "page": "https://www.flickr.com/photos/44093058@N06/20958205470",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/concert_2.jpg"
-  }
- ],
+ "concert": [],
  "musician": [
   {
    "title": "Street Musician",

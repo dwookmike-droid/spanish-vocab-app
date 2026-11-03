@@ -40,21 +40,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_2.jpg"
   }
  ],
- "football_ball": [
-  {
-   "title": "Football (Soccer ball)",
-   "lic": "CC BY-SA 2.0",
-   "artist": "luisar",
-   "w": 1024,
-   "h": 685,
-   "url": "https://live.staticflickr.com/3080/2708137032_66e87f488c_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/1765c06e-bde0-46e7-ab5e-11bd6ad0fa88/thumb/",
-   "page": "https://www.flickr.com/photos/15051366@N00/2708137032",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_ball_1.jpg"
-  }
- ],
+ "football_ball": [],
  "stadium": [
   {
    "title": "Wembley Football Stadium 00068",
@@ -96,21 +82,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/stadium_2.jpg"
   }
  ],
- "team": [
-  {
-   "title": "Football Team Photo-2",
-   "lic": "CC BY 2.0",
-   "artist": "jasonvance282",
-   "w": 1024,
-   "h": 719,
-   "url": "https://live.staticflickr.com/5655/21510306212_ef91e02416_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/68452cd0-5d83-4018-9029-bfe9f2a42fa3/thumb/",
-   "page": "https://www.flickr.com/photos/135646856@N03/21510306212",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/team_1.jpg"
-  }
- ],
+ "team": [],
  "match": [
   {
    "title": "Christiano Ronaldo",
@@ -344,129 +316,9 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/runner_2.jpg"
   }
  ],
- "party": [
-  {
-   "title": "San Fermín - Pamplona",
-   "lic": "CC BY 2.0",
-   "artist": "Pablo Matamoros",
-   "w": 1024,
-   "h": 766,
-   "url": "https://live.staticflickr.com/3542/3476465062_727f61ae45_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/87200594-4a9d-4d75-b538-9f9801c59cd8/thumb/",
-   "page": "https://www.flickr.com/photos/27899690@N05/3476465062",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/party_0.jpg"
-  },
-  {
-   "title": "San Fermín - Pamplona",
-   "lic": "CC BY 2.0",
-   "artist": "Pablo Matamoros",
-   "w": 1024,
-   "h": 766,
-   "url": "https://live.staticflickr.com/3355/3475655835_afffe194e0_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/4c3911c2-5ddb-4c56-9f8b-c37225ca2a82/thumb/",
-   "page": "https://www.flickr.com/photos/27899690@N05/3475655835",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/party_1.jpg"
-  },
-  {
-   "title": "San Fermín - Pamplona",
-   "lic": "CC BY 2.0",
-   "artist": "Pablo Matamoros",
-   "w": 1024,
-   "h": 766,
-   "url": "https://live.staticflickr.com/3413/3476463056_8343753627_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e8237092-d965-4fd3-81cb-1fe1b8318f21/thumb/",
-   "page": "https://www.flickr.com/photos/27899690@N05/3476463056",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/party_2.jpg"
-  }
- ],
- "neckerchief": [
-  {
-   "title": "Pañuelo negro San Fermín 2014",
-   "lic": "CC BY-SA 2.0",
-   "artist": "PACMA fotos",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/3839/14591822091_aab54d0120_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e2a20ad1-44a9-4800-bfa2-800be5ca3548/thumb/",
-   "page": "https://www.flickr.com/photos/42510780@N04/14591822091",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/neckerchief_0.jpg"
-  },
-  {
-   "title": "San Fermín",
-   "lic": "CC BY 2.0",
-   "artist": "Roberto Latxaga",
-   "w": 1024,
-   "h": 773,
-   "url": "https://live.staticflickr.com/1048/783346313_f1fe058250_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/846302b2-7482-4189-833d-bc6b6b3027fe/thumb/",
-   "page": "https://www.flickr.com/photos/73864070@N00/783346313",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/neckerchief_1.jpg"
-  },
-  {
-   "title": "Pañuelo negro en San Fermín: ¡Por unas fiestas sin maltrato!",
-   "lic": "CC BY-SA 2.0",
-   "artist": "PACMA fotos",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/7319/9235658089_be372240b6_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/afbd196f-aab3-4f39-a54f-d9f948c68e15/thumb/",
-   "page": "https://www.flickr.com/photos/42510780@N04/9235658089",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/neckerchief_2.jpg"
-  }
- ],
- "band": [
-  {
-   "title": "Shatrunjaya, Gujurat, India",
-   "lic": "CC BY 2.0",
-   "artist": "Mark Hodson Photos",
-   "w": 1024,
-   "h": 664,
-   "url": "https://live.staticflickr.com/52/130236821_ebe6610545_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a8882864-ac9e-4142-8936-a70211aacb19/thumb/",
-   "page": "https://www.flickr.com/photos/20538653@N00/130236821",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/band_0.jpg"
-  },
-  {
-   "title": "Domestic Science Rural School float, Australia Day Procession, January 1953",
-   "lic": "Public Domain",
-   "artist": "Queensland State Archives",
-   "w": 1024,
-   "h": 752,
-   "url": "https://live.staticflickr.com/7324/27236284680_60d2ec7f55_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/29a06c75-ee99-4ebd-b63e-118fcc5d573a/thumb/",
-   "page": "https://www.flickr.com/photos/60455048@N02/27236284680",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/band_1.jpg"
-  },
-  {
-   "title": "Dodo & Osmar transformed Bahian Carnaval with their Trio Electrico",
-   "lic": "CC BY 2.0",
-   "artist": "sfmission.com",
-   "w": 1024,
-   "h": 819,
-   "url": "https://live.staticflickr.com/4049/4397830881_8abc91ba84_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/b048de46-fc6a-464d-adc5-05d2b6f74293/thumb/",
-   "page": "https://www.flickr.com/photos/17281186@N00/4397830881",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/band_2.jpg"
-  }
- ],
+ "party": [],
+ "neckerchief": [],
+ "band": [],
  "fireworks": [
   {
    "title": "Fireworks",
@@ -508,47 +360,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/fireworks_2.jpg"
   }
  ],
- "parade": [
-  {
-   "title": "Jack in the Green Festival Hastings",
-   "lic": "CC BY-SA 2.0",
-   "artist": "dcanprice",
-   "w": 1024,
-   "h": 617,
-   "url": "https://live.staticflickr.com/7733/16739194433_9b61ffeaa6_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/fcfc6616-4aa7-4672-9c2a-047303f41f33/thumb/",
-   "page": "https://www.flickr.com/photos/132952433@N02/16739194433",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/parade_0.jpg"
-  },
-  {
-   "title": "The Fortune Cats 招き猫 - Brighton Japan Festival and Matsuri ブライ卜ン曰本フェステイバル祭",
-   "lic": "CC BY 2.0",
-   "artist": "Dominic's pics",
-   "w": 822,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/3833/10321570353_42fa88b96f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6be42a82-9c6b-4633-afd8-8fc5d8dd3d52/thumb/",
-   "page": "https://www.flickr.com/photos/64097751@N00/10321570353",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/parade_1.jpg"
-  },
-  {
-   "title": "Jack in the Green Festival Hastings",
-   "lic": "CC BY-SA 2.0",
-   "artist": "dcanprice",
-   "w": 723,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/8858/17173650989_4d1fbe221e_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/cab58fed-72c1-457e-ad1c-d0292d6925b0/thumb/",
-   "page": "https://www.flickr.com/photos/132952433@N02/17173650989",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/parade_2.jpg"
-  }
- ],
+ "parade": [],
  "entryticket": [
   {
    "title": "Entry ticket to Dracula's Castle, Bran, Romania 1996",
@@ -631,47 +443,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/champion_2.jpg"
   }
  ],
- "referee": [
-  {
-   "title": "With football referee Howard Webb",
-   "lic": "CC BY 2.0",
-   "artist": "EdMiliband",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/5298/5428095346_e03eb426a9_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/cdf2e9a6-155e-4575-aab4-536706a4f8d8/thumb/",
-   "page": "https://www.flickr.com/photos/50386890@N02/5428095346",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_3.jpg"
-  },
-  {
-   "title": "Gaelic Football, Referee and players in the distance",
-   "lic": "CC BY 2.0",
-   "artist": "Nams82",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/1738/28518221878_651466ee4a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/5561d5ea-2f6b-4ab2-9df5-991527a61098/thumb/",
-   "page": "https://www.flickr.com/photos/63870766@N05/28518221878",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_6.jpg"
-  },
-  {
-   "title": "Football Referee Super Bowl Display",
-   "lic": "CC BY 2.0",
-   "artist": "JeepersMedia",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/65535/49431258612_ca6990765b_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/78264c00-f5de-42ca-ae95-e31e4aeaddd3/thumb/",
-   "page": "https://www.flickr.com/photos/39160147@N03/49431258612",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_7.jpg"
-  }
- ],
+ "referee": [],
  "pool": [
   {
    "title": "Swimming Pool",
@@ -713,45 +485,5 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/pool_2.jpg"
   }
  ],
- "gym": [
-  {
-   "title": "Legs & Abs day today. #Gym #Fitness #MakeItCount",
-   "lic": "CC BY-SA 2.0",
-   "artist": "roblawton",
-   "w": 500,
-   "h": 500,
-   "url": "https://live.staticflickr.com/8420/8704340135_6b4e445b4b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/d406cf56-d012-4472-9a88-514e03b2190a/thumb/",
-   "page": "https://www.flickr.com/photos/27519207@N00/8704340135",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/gym_0.jpg"
-  },
-  {
-   "title": "At the gym #gym #fitness #qatar #doha #qgym #hoist #cardio #machine #aerobic #sport #instasport #instagym #instaqatar #instadoha #instagram #instacool #workout #diet",
-   "lic": "CC BY 2.0",
-   "artist": "D@LY3D",
-   "w": 500,
-   "h": 500,
-   "url": "https://live.staticflickr.com/8580/16376755698_473f652d30.jpg",
-   "thumb": "https://api.openverse.org/v1/images/f35d8fad-f497-46b0-89a0-26fca2504a84/thumb/",
-   "page": "https://www.flickr.com/photos/11912988@N02/16376755698",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/gym_1.jpg"
-  },
-  {
-   "title": "In the gym ... Next level @time_sport #time_sport #sport #gym #fitness #crossfit #gymlife #weight #kg #poid #instagym #instagram #sfax #sfax2021 #tunis #tunisia #tunisie",
-   "lic": "CC BY 2.0",
-   "artist": "D@LY3D",
-   "w": 1024,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/401/19300048124_ced318dc53_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3f7b0404-461c-419c-a826-34de8e949ce4/thumb/",
-   "page": "https://www.flickr.com/photos/11912988@N02/19300048124",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/gym_2.jpg"
-  }
- ]
+ "gym": []
 }

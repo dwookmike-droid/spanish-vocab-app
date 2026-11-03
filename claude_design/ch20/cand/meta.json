@@ -234,101 +234,47 @@
  ],
  "entryticket": [
   {
-   "title": "Tissot Clock of the Wax Museum Ticket Stand, La Rambla, Barcelona Spain",
-   "lic": "CC BY 2.0",
-   "artist": "Arjan Richter",
-   "w": 576,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/1597/26154666442_b6fc0768bd_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/aed73492-45c7-4864-97a3-11c6de03ce35/thumb/",
-   "page": "https://www.flickr.com/photos/42102924@N02/26154666442",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_0.jpg"
-  }
- ],
- "ticketoffice": [
-  {
-   "title": "The Making of Harry Potter 29-05-2012",
-   "lic": "CC BY 2.0",
-   "artist": "Karen Roe",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/8286/7544311982_11cce988fa_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/f5ebb113-8a46-417c-a706-0df85667ed3c/thumb/",
-   "page": "https://www.flickr.com/photos/28752865@N08/7544311982",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_0.jpg"
-  },
-  {
-   "title": "The Making of Harry Potter 29-05-2012",
-   "lic": "CC BY 2.0",
-   "artist": "Karen Roe",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/8151/7544313238_a130b05c36_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6288cafb-b6a9-4437-b4af-e189c89cd538/thumb/",
-   "page": "https://www.flickr.com/photos/28752865@N08/7544313238",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_1.jpg"
-  },
-  {
-   "title": "Unlawful Yellow Boxes - Tottenham Bus Garage #2",
+   "title": "Admission tickets ANIMAX MUSIX 2012",
    "lic": "CC BY-SA 2.0",
-   "artist": "Alan Stanton",
+   "artist": "matsuyuki",
    "w": 1024,
    "h": 768,
-   "url": "https://live.staticflickr.com/2404/2333537668_8984b39fd1_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/f39096c0-a423-41ab-bd21-0cadd4ce25f8/thumb/",
-   "page": "https://www.flickr.com/photos/53921762@N00/2333537668",
+   "url": "https://live.staticflickr.com/8064/8215972387_b3d07f026b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/048e1ad1-63b9-4611-915c-a3f2da95f6ca/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/8215972387",
    "src": "openverse",
    "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_2.jpg"
-  }
- ],
- "exhibition": [
-  {
-   "title": "Dublin Contemporary 2011 is a contemporary art exhibition taking place in Dublin",
-   "lic": "CC BY-SA 2.0",
-   "artist": "infomatique",
-   "w": 1024,
-   "h": 681,
-   "url": "https://live.staticflickr.com/6161/6150186350_16ffa824b6_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/5c1ee53e-cdf2-433b-b364-eed930b0bd05/thumb/",
-   "page": "https://www.flickr.com/photos/80824546@N00/6150186350",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_0.jpg"
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_1.jpg"
   },
   {
-   "title": "Community art exhibition and event",
+   "title": "Admission tickets ANIMAX MUSIX 2012",
    "lic": "CC BY-SA 2.0",
-   "artist": "Ck Cheang",
+   "artist": "matsuyuki",
    "w": 1024,
-   "h": 775,
-   "url": "https://live.staticflickr.com/7167/6559045267_dc0af46ec9_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/d0af3513-d86d-4a12-8e27-e556d1c1d34c/thumb/",
-   "page": "https://www.flickr.com/photos/14095779@N05/6559045267",
+   "h": 768,
+   "url": "https://live.staticflickr.com/8344/8217055624_4c26071e1b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2efe3546-f6f8-4cdf-bd21-a9a6dc60bcfb/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/8217055624",
    "src": "openverse",
    "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_1.jpg"
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_2.jpg"
   },
   {
-   "title": "Dublin Contemporary 2011 is a contemporary art exhibition taking place in Dublin",
+   "title": "Admission tickets ANIMAX MUSIX 2012",
    "lic": "CC BY-SA 2.0",
-   "artist": "infomatique",
+   "artist": "matsuyuki",
    "w": 1024,
-   "h": 681,
-   "url": "https://live.staticflickr.com/6177/6150209124_87dd7312b1_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e1d3d542-633c-4bd1-a08e-510f71f57cdc/thumb/",
-   "page": "https://www.flickr.com/photos/80824546@N00/6150209124",
+   "h": 768,
+   "url": "https://live.staticflickr.com/8059/8217055290_e3e25f2707_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9ee50faa-a875-40e3-ab79-243b741225f1/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/8217055290",
    "src": "openverse",
    "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_2.jpg"
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_3.jpg"
   }
  ],
+ "ticketoffice": [],
+ "exhibition": [],
  "frame": [
   {
    "title": "Angel Playing a Flageolet (drawing after Sir Edward Burne-Jones) and Pre-Raphaelite Angels: #Flickr12Days(poem)",
@@ -370,47 +316,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_2.jpg"
   }
  ],
- "portrait": [
-  {
-   "title": "A photograph is a portrait painted by the sun",
-   "lic": "CC BY 2.0",
-   "artist": "Dee'lite",
-   "w": 1024,
-   "h": 681,
-   "url": "https://live.staticflickr.com/3651/3355461701_364bd65e0b_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6a5813e9-5b90-473c-a12e-40de5faa7b6e/thumb/",
-   "page": "https://www.flickr.com/photos/15750089@N06/3355461701",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_0.jpg"
-  },
-  {
-   "title": "Realistic Portrait Painting",
-   "lic": "CC BY 2.0",
-   "artist": "Tucia",
-   "w": 940,
-   "h": 695,
-   "url": "https://live.staticflickr.com/5190/5563845301_769fb881b2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/970f1630-d8a4-42a0-b632-7b65e9290c86/thumb/",
-   "page": "https://www.flickr.com/photos/38861831@N07/5563845301",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_1.jpg"
-  },
-  {
-   "title": "girl on bed with books self portrait painting study",
-   "lic": "CC BY 2.0",
-   "artist": "{studiobeerhorst}-bbmarie",
-   "w": 1024,
-   "h": 876,
-   "url": "https://live.staticflickr.com/8392/8473544028_d5d4e7d829_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/92289ec2-07fe-4923-8690-6f37fb3e68ad/thumb/",
-   "page": "https://www.flickr.com/photos/74782490@N00/8473544028",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_2.jpg"
-  }
- ],
+ "portrait": [],
  "landscape": [
   {
    "title": "Macaw in the Mist Landscape Painting",
@@ -452,88 +358,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_2.jpg"
   }
  ],
- "guide": [
-  {
-   "title": "Pentagon Tour Guide Group Photo",
-   "lic": "Public Domain",
-   "artist": "18thSMMC",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/7541/28146757472_2268c1ec6f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/80e5e631-8c35-4c85-90d7-66a42f9c828b/thumb/",
-   "page": "https://www.flickr.com/photos/134325759@N02/28146757472",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_0.jpg"
-  },
-  {
-   "title": "Pentagon Tour Guide Group Photo",
-   "lic": "Public Domain",
-   "artist": "18thSMMC",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/8668/28250777595_1e3ab9263a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/3498d183-6c52-4f97-9b08-54f6c20202e0/thumb/",
-   "page": "https://www.flickr.com/photos/134325759@N02/28250777595",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_1.jpg"
-  },
-  {
-   "title": "Pentagon Tour Guide Group Photo",
-   "lic": "Public Domain",
-   "artist": "18thSMMC",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/7379/28172960761_7f39e31791_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/edf23fdf-51d7-4fbb-a28f-205d9d93424a/thumb/",
-   "page": "https://www.flickr.com/photos/134325759@N02/28172960761",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_2.jpg"
-  }
- ],
- "audioguide": [
-  {
-   "title": "Misty Marie Blouse Keyboardist",
-   "lic": "CC BY 2.0",
-   "artist": "Incase.",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/7099/7177191274_d79d260d55_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/535cf609-d514-4cea-ad80-d9166d61df70/thumb/",
-   "page": "https://www.flickr.com/photos/62021300@N00/7177191274",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_0.jpg"
-  },
-  {
-   "title": "Black Country Living Museum - Underground Mine - Mine Entrance",
-   "lic": "CC BY 2.0",
-   "artist": "ell brown",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/6202/6054250374_c52ec72de4_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/7ee3a191-b282-4f28-b477-553677496aec/thumb/",
-   "page": "https://www.flickr.com/photos/39415781@N06/6054250374",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_1.jpg"
-  },
-  {
-   "title": "Black Country Living Museum - Underground Mine",
-   "lic": "CC BY 2.0",
-   "artist": "ell brown",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/6206/6053697315_cbcfc9d0cd_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/b038b827-3fd9-4133-b4c0-b072e88f8dd0/thumb/",
-   "page": "https://www.flickr.com/photos/39415781@N06/6053697315",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_2.jpg"
-  }
- ],
+ "guide": [],
+ "audioguide": [],
  "guard": [
   {
    "title": "Museum Guard",
@@ -603,47 +429,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/shop_2.jpg"
   }
  ],
- "floorplan": [
-  {
-   "title": "Grand Canyon National Park Visitor Center 4016",
-   "lic": "CC BY 2.0",
-   "artist": "Grand Canyon NPS",
-   "w": 1024,
-   "h": 717,
-   "url": "https://live.staticflickr.com/7140/6971295030_8f8a440020_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e7825241-1edd-45a9-9376-5446d0716478/thumb/",
-   "page": "https://www.flickr.com/photos/50693818@N08/6971295030",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_0.jpg"
-  },
-  {
-   "title": "Grand Canyon National Park Visitor Center 3977",
-   "lic": "CC BY 2.0",
-   "artist": "Grand Canyon NPS",
-   "w": 1024,
-   "h": 717,
-   "url": "https://live.staticflickr.com/7197/6971294010_70b811a138_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/259f1aa3-7070-41c1-8d84-b4ed0bcaa4e7/thumb/",
-   "page": "https://www.flickr.com/photos/50693818@N08/6971294010",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_1.jpg"
-  },
-  {
-   "title": "Here island panorama",
-   "lic": "CC BY-SA 2.0",
-   "artist": "▓▒░ TORLEY ░▒▓",
-   "w": 1024,
-   "h": 512,
-   "url": "https://live.staticflickr.com/2635/3776122867_6facd72f4c_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/02be587e-a249-45c7-bbd2-c93eaa9c66c6/thumb/",
-   "page": "https://www.flickr.com/photos/70285332@N00/3776122867",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_2.jpg"
-  }
- ],
+ "floorplan": [],
  "poster": [
   {
    "title": "Pour l'Art, exhibition poster",

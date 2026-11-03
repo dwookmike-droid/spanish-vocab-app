@@ -1,60 +1,6 @@
 {
- "hotel": [
-  {
-   "title": "Salamanca House, Wrenbury",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Mike Harris",
-   "w": 640,
-   "h": 433,
-   "url": "https://s0.geograph.org.uk/photos/18/30/183057_12afa0a8.jpg",
-   "thumb": "https://api.openverse.org/v1/images/81a6687c-0130-4424-8ce2-1474faeb5730/thumb/",
-   "page": "https://www.geograph.org.uk/photo/183057",
-   "src": "openverse",
-   "provider": "geographorguk",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_0.jpg"
-  }
- ],
- "reception": [
-  {
-   "title": "Crosshairs of the Transparent Society: the hotel reception desk runs a live cam of my house!",
-   "lic": "CC BY 2.0",
-   "artist": "jurvetson",
-   "w": 1024,
-   "h": 901,
-   "url": "https://live.staticflickr.com/7420/11059593346_7f3c1fb233_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/0a5e9215-7391-446f-99da-5e2d66a82f15/thumb/",
-   "page": "https://www.flickr.com/photos/44124348109@N01/11059593346",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_0.jpg"
-  },
-  {
-   "title": "Scandic hotel reception desk",
-   "lic": "CC BY 2.0",
-   "artist": "Simbe90",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/3424/3969698530_dbf9eedf3c_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/16e18e46-91f6-40c8-85e8-8278b59aa459/thumb/",
-   "page": "https://www.flickr.com/photos/7904465@N06/3969698530",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_1.jpg"
-  },
-  {
-   "title": "Scandic hotel reception desk",
-   "lic": "CC BY 2.0",
-   "artist": "Simbe90",
-   "w": 1024,
-   "h": 683,
-   "url": "https://live.staticflickr.com/2504/3968928467_db87a771a4_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/903ca5ea-6139-4366-9e87-2e704679c150/thumb/",
-   "page": "https://www.flickr.com/photos/7904465@N06/3968928467",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_2.jpg"
-  }
- ],
+ "hotel": [],
+ "reception": [],
  "room": [
   {
    "title": "Las Vegas Wynn Hotel Room Bed",
@@ -577,47 +523,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/shower_2.jpg"
   }
  ],
- "wifi": [
-  {
-   "title": "Free Wifi Sign KFC",
-   "lic": "CC BY 2.0",
-   "artist": "JeepersMedia",
-   "w": 1024,
-   "h": 765,
-   "url": "https://live.staticflickr.com/8674/15929654760_eecd53b47a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/509657ad-538e-4a4f-99b2-8101c3d95830/thumb/",
-   "page": "https://www.flickr.com/photos/39160147@N03/15929654760",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_0.jpg"
-  },
-  {
-   "title": "Free Wifi Sign KFC",
-   "lic": "CC BY 2.0",
-   "artist": "JeepersMedia",
-   "w": 1024,
-   "h": 765,
-   "url": "https://live.staticflickr.com/8580/15497247723_1fb88e97b2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/a20c33e7-aec8-4d8e-a1b9-2b321f3174c3/thumb/",
-   "page": "https://www.flickr.com/photos/39160147@N03/15497247723",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_1.jpg"
-  },
-  {
-   "title": "Free Wifi Sign KFC",
-   "lic": "CC BY 2.0",
-   "artist": "JeepersMedia",
-   "w": 1024,
-   "h": 765,
-   "url": "https://live.staticflickr.com/7491/16116213362_021a93b04a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/7e6715f7-beeb-4d52-b76f-f154d43ef20c/thumb/",
-   "page": "https://www.flickr.com/photos/39160147@N03/16116213362",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_2.jpg"
-  }
- ],
+ "wifi": [],
  "exit": [
   {
    "title": "Emergency exit sign",

@@ -1,45 +1,5 @@
 {
- "shirt": [
-  {
-   "title": "iPod Hacks t-shirt",
-   "lic": "CC BY 2.0",
-   "artist": "blakespot",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/3089/2368786173_97102a6653_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/69fae9ba-e782-48c7-a742-654940de38e6/thumb/",
-   "page": "https://www.flickr.com/photos/35448539@N00/2368786173",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_0.jpg"
-  },
-  {
-   "title": "Money Shirt",
-   "lic": "CC BY 2.0",
-   "artist": "Rob Lee",
-   "w": 1024,
-   "h": 768,
-   "url": "https://live.staticflickr.com/47/133498854_2f3bd5ee90_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/425b451a-c081-4582-861b-26f268c8bee2/thumb/",
-   "page": "https://www.flickr.com/photos/55761924@N00/133498854",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_1.jpg"
-  },
-  {
-   "title": "Funeral Home wet t shirt contest",
-   "lic": "CC BY-SA 2.0",
-   "artist": "ashi",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/1074/1003037750_dbab30c27a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/79350844-cea4-42e1-a69c-f8f5b31474bf/thumb/",
-   "page": "https://www.flickr.com/photos/15948105@N00/1003037750",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_2.jpg"
-  }
- ],
+ "shirt": [],
  "tshirt": [
   {
    "title": "Funeral Home wet t shirt contest",
@@ -81,47 +41,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tshirt_2.jpg"
   }
  ],
- "trousers": [
-  {
-   "title": "Norwich City Centre - June 2013 - Tight Trousers Candid",
-   "lic": "CC BY 2.0",
-   "artist": "Gareth1953 All Right Now",
-   "w": 1024,
-   "h": 730,
-   "url": "https://live.staticflickr.com/7302/9200235067_ede930d1b2_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/ba61b0f4-e4df-4cb6-838b-51c3ba77b5fb/thumb/",
-   "page": "https://www.flickr.com/photos/40837632@N05/9200235067",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_0.jpg"
-  },
-  {
-   "title": "Detail of Victorian gentleman's trousers",
-   "lic": "Public Domain",
-   "artist": "whatsthatpicture",
-   "w": 1024,
-   "h": 658,
-   "url": "https://live.staticflickr.com/7472/15637796200_84e3ea839f_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/8c6cfac1-3acd-4cf7-ae22-fb5bef2fce8a/thumb/",
-   "page": "https://www.flickr.com/photos/24469639@N00/15637796200",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_1.jpg"
-  },
-  {
-   "title": "Gatton Hall 10K Run - July 2011 - I'm More of a Baggy Trousers Man Myself",
-   "lic": "CC BY 2.0",
-   "artist": "Gareth1953 All Right Now",
-   "w": 959,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/6004/6012291905_0403290de3_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/d9fff823-25aa-4607-8a71-e3e7f6a25a43/thumb/",
-   "page": "https://www.flickr.com/photos/40837632@N05/6012291905",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_2.jpg"
-  }
- ],
+ "trousers": [],
  "skirt": [
   {
    "title": "skirt and shirt",
@@ -163,88 +83,8 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/skirt_2.jpg"
   }
  ],
- "dress": [
-  {
-   "title": "Wedding Dress",
-   "lic": "CC BY 2.0",
-   "artist": "Tokuriki",
-   "w": 768,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/30/52859916_44d9f9fa68_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/7dbf0ea2-006a-4f7c-92c9-7e51550ca3b7/thumb/",
-   "page": "https://www.flickr.com/photos/59722994@N00/52859916",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_0.jpg"
-  },
-  {
-   "title": "New dress (IMG_3024)",
-   "lic": "CC BY 2.0",
-   "artist": "cindy richardson",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/8663/28366108820_87c78c8a5b_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/160d55a6-8c2a-43b0-9be2-5c11b966fba4/thumb/",
-   "page": "https://www.flickr.com/photos/99275457@N00/28366108820",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_1.jpg"
-  },
-  {
-   "title": "New dress (IMG_3039)",
-   "lic": "CC BY 2.0",
-   "artist": "cindy richardson",
-   "w": 688,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/7522/27822986904_6cb3b66cc9_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/f0f84295-c909-4844-81a6-606bab0d88fd/thumb/",
-   "page": "https://www.flickr.com/photos/99275457@N00/27822986904",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_2.jpg"
-  }
- ],
- "jacket": [
-  {
-   "title": "The Little Black Jacket",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Eva Rinaldi Celebrity Photographer",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/8331/8121856507_3e614c6ab4_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/384d943e-0319-42c6-b408-7a444a123083/thumb/",
-   "page": "https://www.flickr.com/photos/58820009@N05/8121856507",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_0.jpg"
-  },
-  {
-   "title": "The Little Black Jacket",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Eva Rinaldi Celebrity Photographer",
-   "w": 683,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/8476/8121867512_ca01562dec_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/13c1dfde-8af0-428d-858b-b6f7b6383362/thumb/",
-   "page": "https://www.flickr.com/photos/58820009@N05/8121867512",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_1.jpg"
-  },
-  {
-   "title": "Satin blouse under jacket",
-   "lic": "CC BY 2.0",
-   "artist": "Rikky_Satin",
-   "w": 682,
-   "h": 1024,
-   "url": "https://live.staticflickr.com/1965/45859242041_586de4297a_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/b16f2ee5-8647-4218-8b12-b0494714d1e4/thumb/",
-   "page": "https://www.flickr.com/photos/95163690@N07/45859242041",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_2.jpg"
-  }
- ],
+ "dress": [],
+ "jacket": [],
  "coat": [
   {
    "title": "new coat stand",
@@ -450,47 +290,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/socks_2.jpg"
   }
  ],
- "hat": [
-  {
-   "title": "Unknown men in top hats (groom and ushers?) by Wakefield, 1 High Street, Ealing",
-   "lic": "Public Domain",
-   "artist": "whatsthatpicture",
-   "w": 1024,
-   "h": 678,
-   "url": "https://live.staticflickr.com/7011/6649802661_9fa91c7840_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/e237bb4a-0551-4df4-9717-e61e07ff367c/thumb/",
-   "page": "https://www.flickr.com/photos/24469639@N00/6649802661",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_0.jpg"
-  },
-  {
-   "title": "leave the hat on",
-   "lic": "CC BY-SA 2.0",
-   "artist": "Mario A. P.",
-   "w": 1024,
-   "h": 574,
-   "url": "https://live.staticflickr.com/7182/6838530986_e959321b5e_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/7fabfbe5-c284-490b-b134-31c1e9668506/thumb/",
-   "page": "https://www.flickr.com/photos/99058495@N00/6838530986",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_1.jpg"
-  },
-  {
-   "title": "Peace Hat and Little Girl",
-   "lic": "CC BY 2.0",
-   "artist": "Tony Fischer Photography",
-   "w": 1024,
-   "h": 735,
-   "url": "https://live.staticflickr.com/3198/2360241678_139770f679_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/0eeabdb4-c02e-4f0f-b3b8-03bf96f6f8ca/thumb/",
-   "page": "https://www.flickr.com/photos/22714323@N06/2360241678",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_2.jpg"
-  }
- ],
+ "hat": [],
  "scarf": [
   {
    "title": "silk scarf",
@@ -573,47 +373,7 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/gloves_2.jpg"
   }
  ],
- "belt": [
-  {
-   "title": "Red- belted Clearwing. Synanthedon myopaeformis",
-   "lic": "CC BY 2.0",
-   "artist": "gailhampshire",
-   "w": 1024,
-   "h": 892,
-   "url": "https://live.staticflickr.com/65535/48114126792_aa5ab4d042_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/721761fb-780f-4265-b89f-a4c0f0fccbcc/thumb/",
-   "page": "https://www.flickr.com/photos/43272765@N04/48114126792",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_0.jpg"
-  },
-  {
-   "title": "Chastity Belt",
-   "lic": "CC BY 2.0",
-   "artist": "mark6mauno",
-   "w": 1024,
-   "h": 682,
-   "url": "https://live.staticflickr.com/2189/2362474745_d1f1488cc5_b.jpg",
-   "thumb": "https://api.openverse.org/v1/images/6b839741-6981-4fdb-9bad-d2e5981a4814/thumb/",
-   "page": "https://www.flickr.com/photos/98147195@N00/2362474745",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_1.jpg"
-  },
-  {
-   "title": "It's Bike To Work Day. Check out this beauty from one of our developers. Has a belt drive!",
-   "lic": "CC BY 2.0",
-   "artist": "Incase.",
-   "w": 500,
-   "h": 500,
-   "url": "https://live.staticflickr.com/2117/5714375272_367763aab2.jpg",
-   "thumb": "https://api.openverse.org/v1/images/23b4ef3c-15f5-46d6-bb31-7d90fc36457f/thumb/",
-   "page": "https://www.flickr.com/photos/62021300@N00/5714375272",
-   "src": "openverse",
-   "provider": "flickr",
-   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_2.jpg"
-  }
- ],
+ "belt": [],
  "tie": [
   {
    "title": "5.6k ohm resistor necktie",
