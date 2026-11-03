@@ -1,0 +1,215 @@
+schema_version: 1
+chapter: 20
+dialogues:
+  - id: d1
+    title_es: Dos entradas para el Prado
+    title_ko: 프라도 입장권 두 장 사기
+    setting_ko: 마드리드 프라도 미술관 매표소. 5월 13일 아침, 친구와 함께 입장권을 사요.
+    roles:
+      A: {es: Taquillera, ko: 매표소 직원}
+      B: {es: Visitante, ko: 관람객}
+    lines:
+      - who: B
+        textbook:
+          es: Buenos días. Dos entradas, por favor.
+          ko: 안녕하세요. 입장권 두 장 주세요.
+        native:
+          es: Hola, buenas. ¿Me das dos entradas?
+          ko: 안녕하세요. 입장권 두 장 주실래요?
+          note_ko: ¿me das…?는 창구나 가게에서 아주 흔하게 하는 부탁이에요. 직원에게도 tú를 써요.
+      - who: A
+        textbook:
+          es: Muy bien, dos entradas generales. ¿Quieren también la audioguía?
+          ko: 네, 일반 입장권 두 장이요. 오디오 가이드도 필요하세요?
+        native:
+          es: Vale, dos generales. ¿Queréis audioguía?
+          ko: 네, 일반 두 장이요. 오디오 가이드 하실래요?
+          note_ko: queréis는 vosotros(너희)에게 하는 말이에요. 두 사람에게 한꺼번에 물어요.
+      - who: B
+        textbook:
+          es: No, gracias. ¿Hay un plano del museo?
+          ko: 아니요, 괜찮아요. 미술관 안내도 있어요?
+        native:
+          es: No, gracias. ¿Tienes un plano?
+          ko: 아니요, 됐어요. 안내도 있어요?
+          note_ko: ¿hay…?(있어요?) 대신 ¿tienes…?(갖고 있어요?)로도 자주 물어요.
+      - who: A
+        textbook:
+          es: Sí, aquí tiene. El cuadro de Las meninas está en la sala doce.
+          ko: 네, 여기 있어요. 「시녀들」은 12번 전시실에 있어요.
+        native:
+          es: Toma. Y si buscáis Las meninas, sala doce.
+          ko: 여기요. 「시녀들」 찾으시면 12번 전시실이에요.
+          note_ko: toma는 물건을 건넬 때 하는 ‘여기요’예요. 동사를 빼고 sala doce만 말해도 돼요.
+      - who: B
+        textbook:
+          es: ¿Se pueden hacer fotos en las salas?
+          ko: 전시실에서 사진 찍어도 돼요?
+        native:
+          es: Oye, ¿y fotos se pueden hacer?
+          ko: 저기, 사진은 찍어도 돼요?
+          note_ko: 궁금한 말(fotos)을 문장 앞으로 빼서 강조했어요. oye는 tú에게 쓰는 ‘저기요’예요.
+      - who: A
+        textbook:
+          es: No, en las salas no se pueden hacer fotos.
+          ko: 아니요, 전시실에서는 사진을 찍으면 안 돼요.
+        native:
+          es: Dentro no, ¿eh? El guarda te lo dice enseguida.
+          ko: 안에서는 안 돼요. 경비원이 바로 말할 거예요.
+          note_ko: 말끝의 ¿eh?는 ‘알겠죠?’ 하고 다짐을 받는 말이에요.
+      - who: B
+        textbook:
+          es: ¿Cuál es el horario del museo?
+          ko: 미술관 운영 시간이 어떻게 돼요?
+        native:
+          es: Vale. ¿Y hasta qué hora abrís?
+          ko: 알겠어요. 그럼 몇 시까지 열어요?
+          note_ko: abrís는 vosotros 형태예요. 여기서는 ‘미술관 사람들’을 가리켜요.
+      - who: A
+        textbook:
+          es: Mire, el horario está en ese cartel, al lado de la puerta.
+          ko: 보세요, 운영 시간은 문 옆 저 포스터에 있어요.
+        native:
+          es: Lo tienes ahí, en el cartel de la puerta.
+          ko: 저기 문에 붙은 포스터에 나와 있어요.
+          note_ko: lo tienes ahí는 ‘거기 있어요’ 하고 가리키는 말이에요.
+      - who: B
+        textbook:
+          es: Muchas gracias.
+          ko: 고맙습니다.
+        native:
+          es: Genial, ¡gracias!
+          ko: 좋아요, 고마워요!
+          note_ko: genial은 ‘좋아요, 잘됐네요’ 정도로 아주 자주 쓰는 맞장구예요.
+  - id: d2
+    title_es: Preguntar al guarda
+    title_ko: 경비원에게 길 묻기
+    setting_ko: 프라도 미술관 전시실 안. 나이 지긋한 경비원에게 그림 위치를 물어요.
+    roles:
+      A: {es: Guarda, ko: 경비원}
+      B: {es: Visitante, ko: 관람객}
+    lines:
+      - who: B
+        textbook:
+          es: Perdone, ¿dónde están los cuadros de Goya?
+          ko: 실례합니다, 고야 그림은 어디 있어요?
+        native:
+          es: Perdone, ¿Goya por dónde cae?
+          ko: 실례지만, 고야는 어디쯤이에요?
+          note_ko: por dónde cae는 ‘어디쯤이에요?’라는 구어예요. 화가 이름만 말해도 그 그림을 뜻해요.
+      - who: A
+        textbook:
+          es: Hay cuadros de Goya en varias salas. Mire el plano, por favor.
+          ko: 고야 그림은 여러 전시실에 있어요. 안내도를 보세요.
+        native:
+          es: Uy, Goya está por todo el museo. ¿Tiene usted el plano?
+          ko: 아, 고야는 미술관 곳곳에 있어요. 안내도 갖고 계세요?
+          note_ko: por todo el museo는 ‘미술관 여기저기에’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: Sí, aquí está. ¿Dónde estamos ahora?
+          ko: 네, 여기 있어요. 저희는 지금 어디에 있어요?
+        native:
+          es: Sí, mire. ¿Y nosotros dónde estamos?
+          ko: 네, 여기요. 그럼 저희는 지금 어디예요?
+          note_ko: nosotros를 앞에 두면 ‘그럼 저희는요?’ 하고 묻는 말투가 돼요.
+      - who: A
+        textbook:
+          es: Estamos aquí. Siga recto y después gire a la derecha.
+          ko: 여기예요. 쭉 가다가 오른쪽으로 도세요.
+        native:
+          es: Aquí, mire. Todo recto y luego a la derecha.
+          ko: 여기요, 보세요. 쭉 가서 오른쪽이에요.
+          note_ko: 동사를 빼고 todo recto(쭉 직진), a la derecha(오른쪽)만 말해도 돼요.
+      - who: B
+        textbook:
+          es: Gracias. ¿Hay un banco para descansar un poco?
+          ko: 고마워요. 잠깐 쉴 벤치가 있어요?
+        native:
+          es: Gracias. Oiga, ¿hay algún banco por aquí? Necesito sentarme un rato.
+          ko: 고마워요. 저기요, 이 근처에 벤치 있어요? 좀 앉아야겠어요.
+          note_ko: oiga는 usted에게 쓰는 ‘저기요’예요. tú에게는 oye라고 해요.
+      - who: A
+        textbook:
+          es: Sí, en la sala de al lado hay un banco delante de un retrato grande.
+          ko: 네, 옆 전시실 큰 초상화 앞에 벤치가 있어요.
+        native:
+          es: Sí, aquí al lado tiene uno, justo delante de un retrato enorme.
+          ko: 네, 바로 옆방에 하나 있어요. 커다란 초상화 바로 앞에요.
+          note_ko: tiene uno는 ‘하나 있어요’예요. justo는 ‘바로’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: ¿Y dónde está la tienda del museo?
+          ko: 그리고 미술관 기념품 가게는 어디 있어요?
+        native:
+          es: ¿Y la tienda? Quiero llevarme un cartel.
+          ko: 가게는요? 포스터 하나 사 가고 싶어서요.
+          note_ko: llevarme는 ‘(사서) 가져가다’예요. 가게에서 아주 자주 써요.
+      - who: A
+        textbook:
+          es: La tienda está cerca de la salida. Hay carteles y postales.
+          ko: 가게는 출구 근처에 있어요. 포스터와 엽서가 있어요.
+        native:
+          es: Al salir la va a ver. Tiene carteles, postales... de todo.
+          ko: 나가실 때 보일 거예요. 포스터, 엽서… 이것저것 다 있어요.
+          note_ko: al salir는 ‘나갈 때’예요. de todo는 ‘이것저것 다’라는 뜻이에요.
+      - who: B
+        textbook:
+          es: Muchas gracias, es usted muy amable.
+          ko: 정말 고마워요. 친절하시네요.
+        native:
+          es: Muy amable, gracias.
+          ko: 친절하시네요, 고마워요.
+          note_ko: muy amable만 말해도 ‘친절하시네요’라는 감사 인사가 돼요.
+      - who: A
+        textbook:
+          es: De nada. Disfrute del museo.
+          ko: 천만에요. 관람 잘 하세요.
+        native:
+          es: Nada, a disfrutar.
+          ko: 별말씀을요. 즐겁게 보세요.
+          note_ko: a disfrutar는 ‘즐기세요’ 하고 가볍게 건네는 말이에요.
+readings:
+  - id: r1
+    title_es: Una mañana en el Prado
+    title_ko: 프라도에서 보낸 오전
+    level: A1
+    paragraphs:
+      - es: Hoy es 13 de mayo y estoy en Madrid. Por la mañana voy al Museo del Prado. En la taquilla compro una entrada y cojo un plano.
+        ko: 오늘은 5월 13일, 저는 마드리드에 있어요. 오전에 프라도 미술관에 가요. 매표소에서 입장권을 사고 안내도를 하나 챙겨요.
+      - es: El museo es muy grande. Hay muchas salas con cuadros, retratos y paisajes. También hay esculturas. En una sala veo Las meninas, de Velázquez. ¡Qué cuadro!
+        ko: 미술관은 정말 커요. 전시실이 많고 그림, 초상화, 풍경화가 걸려 있어요. 조각상도 있어요. 한 전시실에서 벨라스케스의 「시녀들」을 봐요. 대단한 그림이에요!
+      - es: Después de dos horas, descanso un poco en un banco. Al final voy a la tienda y compro un cartel pequeño para mi habitación.
+        ko: 두 시간 뒤에 벤치에 앉아 잠깐 쉬어요. 마지막으로 가게에 가서 제 방에 붙일 작은 포스터를 하나 사요.
+    questions:
+      - q_ko: 글쓴이는 매표소에서 입장권 말고 무엇을 챙겼나요?
+        choices_ko: [오디오 가이드, 안내도, 엽서]
+        answer: 1
+      - q_ko: 「시녀들」은 누구의 그림인가요?
+        choices_ko: [벨라스케스, 고야, 엘 그레코]
+        answer: 0
+      - q_ko: 글쓴이는 가게에서 무엇을 샀나요?
+        choices_ko: [책, 엽서, 작은 포스터]
+        answer: 2
+  - id: r2
+    title_es: El pintor dentro del cuadro
+    title_ko: 그림 속에 있는 화가
+    level: A2
+    paragraphs:
+      - es: Por la tarde hago una visita con una guía. Somos doce personas. La guía habla despacio y entiendo casi todo.
+        ko: 오후에는 가이드와 함께 관람해요. 모두 열두 명이에요. 가이드가 천천히 말해서 거의 다 알아들어요.
+      - es: Delante de Las meninas, la guía explica que el pintor también está en el cuadro. Velázquez se pintó a sí mismo con un pincel en la mano. Al fondo, en un espejo, se ven el rey y la reina.
+        ko: 「시녀들」 앞에서 가이드는 화가도 그림 속에 있다고 설명해요. 벨라스케스는 붓을 손에 든 자기 모습을 그렸어요. 안쪽 거울에는 왕과 왕비가 비쳐요.
+      - es: Luego vamos a otra sala con retratos y paisajes. En las salas no se pueden hacer fotos, así que en la tienda compro unas postales. Otro día quiero volver con la audioguía.
+        ko: 그다음에는 초상화와 풍경화가 있는 다른 전시실로 가요. 전시실에서는 사진을 찍을 수 없어서 가게에서 엽서를 몇 장 사요. 다음에는 오디오 가이드를 들고 다시 오고 싶어요.
+    questions:
+      - q_ko: 그림 속 거울에는 누가 비치나요?
+        choices_ko: [가이드, 왕과 왕비, 화가의 친구]
+        answer: 1
+      - q_ko: 글쓴이는 왜 엽서를 샀나요?
+        choices_ko: [선물하려고, 값이 싸서, 전시실에서 사진을 찍을 수 없어서]
+        answer: 2
+      - q_ko: 가이드와 함께 관람한 사람은 모두 몇 명인가요?
+        choices_ko: [열두 명, 열 명, 스무 명]
+        answer: 0
+glossary: {}

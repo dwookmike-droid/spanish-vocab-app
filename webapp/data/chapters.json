@@ -97,6 +97,30 @@
    "n_readings": 2
   },
   {
+   "num": 9,
+   "es": "Café y panadería",
+   "en": "Café and bakery",
+   "ko": "카페와 빵집",
+   "city": "Salamanca",
+   "date": "16 MAY",
+   "cover": "ch09_coffee",
+   "has_media": true,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 10,
+   "es": "La ciudad",
+   "en": "The city",
+   "ko": "도시",
+   "city": "Barcelona",
+   "date": "8 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
    "num": 11,
    "es": "El transporte",
    "en": "Getting around",
@@ -107,6 +131,162 @@
    "has_media": true,
    "n_dialogues": 2,
    "n_readings": 2
+  },
+  {
+   "num": 12,
+   "es": "Direcciones",
+   "en": "Directions",
+   "ko": "길 찾기",
+   "city": "Toledo",
+   "date": "14 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 13,
+   "es": "El hotel",
+   "en": "The hotel",
+   "ko": "호텔",
+   "city": "Salamanca",
+   "date": "17 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 14,
+   "es": "El aeropuerto",
+   "en": "The airport",
+   "ko": "공항",
+   "city": "Palma",
+   "date": "21 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 15,
+   "es": "La playa",
+   "en": "The beach",
+   "ko": "해변",
+   "city": "Cádiz",
+   "date": "26 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 16,
+   "es": "El tiempo",
+   "en": "The weather",
+   "ko": "날씨",
+   "city": "Donostia",
+   "date": "11 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 17,
+   "es": "Deporte y fiesta",
+   "en": "Sport and festivals",
+   "ko": "스포츠",
+   "city": "Pamplona",
+   "date": "19 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 18,
+   "es": "La naturaleza",
+   "en": "Nature",
+   "ko": "자연",
+   "city": "Ronda",
+   "date": "25 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 19,
+   "es": "La música y el baile",
+   "en": "Music and dance",
+   "ko": "음악과 춤",
+   "city": "Sevilla",
+   "date": "24 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 20,
+   "es": "El museo",
+   "en": "The museum",
+   "ko": "박물관",
+   "city": "Madrid",
+   "date": "13 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 21,
+   "es": "Las compras",
+   "en": "Shopping",
+   "ko": "쇼핑",
+   "city": "Madrid",
+   "date": "13 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 22,
+   "es": "El cuerpo y la farmacia",
+   "en": "The body and the pharmacy",
+   "ko": "몸과 약국",
+   "city": "Bilbao",
+   "date": "18 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 23,
+   "es": "La ropa",
+   "en": "Clothes",
+   "ko": "옷",
+   "city": "Barcelona",
+   "date": "9 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
+  },
+  {
+   "num": 24,
+   "es": "Las fiestas",
+   "en": "Festivals",
+   "ko": "축제",
+   "city": "València",
+   "date": "28 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 0,
+   "n_readings": 0
   }
  ],
  "credits": [
@@ -116,6 +296,7 @@
   "CREDITS_ch04_v6.md",
   "CREDITS_ch05_v6.md",
   "CREDITS_ch06_v6.md",
-  "CREDITS_ch07_v6.md"
+  "CREDITS_ch07_v6.md",
+  "CREDITS_ch09_web.md"
  ]
 }
