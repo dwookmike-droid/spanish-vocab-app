@@ -335,7 +335,10 @@ function updateReviewBadge() {
 function renderHome() {
   const all = srs.all();
   const due = srs.dueIds().length;
-  const cards = index.chapters.map((c) => {
+  const order = store.get("homeOrder", "num");
+  const day = (c) => parseInt(c.date, 10) * 100 + c.num; // "12 MAY" -> trip order (all dates are in May)
+  const list = order === "trip" ? index.chapters.slice().sort((a, b) => day(a) - day(b)) : index.chapters;
+  const cards = list.map((c) => {
     const known = Object.entries(all).filter(([id, v]) => id.startsWith(nn(c.num) + ":") && v.box >= 3).length;
     return `<a class="chcard" href="#/ch/${nn(c.num)}">
       <div class="pic">${c.cover ? img(c.cover, "", "") : `<span class="num">${nn(c.num)}</span>`}</div>
@@ -358,7 +361,7 @@ function renderHome() {
   $app.innerHTML = `
     <section class="hero">
       <h1>사진으로 배우는 여행 스페인어</h1>
-      <p>그라나다에서 마드리드까지, 장소마다 20단어. 듣고, 말하고, 쓰고, 읽으면서 익혀요.</p>
+      <p>그라나다에서 발렌시아까지 스페인 한 바퀴, 장소마다 20단어. 듣고, 말하고, 쓰고, 읽으면서 익혀요.</p>
     </section>
     <section class="dash">
       <div class="stat"><b>${activity.streak()}</b><span>연속 학습일</span></div>
@@ -377,9 +380,14 @@ function renderHome() {
       <input id="q" type="search" placeholder="단어 찾기 (스·한·영)" autocomplete="off" aria-label="단어 찾기">
       <button class="btn" type="submit">찾기</button>
     </form>
+    <div class="toolbar"><div class="seg" role="group" aria-label="정렬">
+      <button data-order="num" aria-pressed="${order === "num"}">장 순서</button>
+      <button data-order="trip" aria-pressed="${order === "trip"}">여행 순서</button></div>
+      <span class="muted small">${index.chapters.length}개 장 · ${index.chapters.length * 20}단어</span></div>
     <div class="chgrid">${cards}</div>
     <p class="muted small" style="margin-top:20px">▶ 버튼은 스페인 표준 발음이에요. 테두리가 옅은 ▶는 기기에 내장된 음성으로 읽어 줘요. 진도는 이 브라우저에만 저장돼요. <a href="#/settings">설정</a>에서 백업할 수 있어요.</p>`;
   document.getElementById("searchForm").onsubmit = (e) => { e.preventDefault(); const q = document.getElementById("q").value.trim(); if (q) location.hash = "#/search/" + encodeURIComponent(q); };
+  $app.querySelectorAll("[data-order]").forEach((b) => b.onclick = () => { store.set("homeOrder", b.dataset.order); renderHome(); });
 }
 
 /* ---------- chapter shell ---------- */
