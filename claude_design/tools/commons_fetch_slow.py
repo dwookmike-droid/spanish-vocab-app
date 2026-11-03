@@ -1,6 +1,6 @@
 """Gentle Commons candidate fetcher for many chapters (shared IPs get rate-limited hard).
 
-Usage: python3 claude_design/tools/commons_fetch_slow.py 08 10 12 ...   (N candidates per word = 4)
+Usage: python3 claude_design/tools/commons_fetch_slow.py 08 10 12 ...   (N candidates per word = 2)
 For each chapter reads claude_design/chNN/queries.json and writes cand/<key>_<i>.jpg + cand/meta.json,
 saving after every word so it can be stopped and resumed. One request every PACE seconds; on HTTP 429 it waits
 (Retry-After or 60 s, growing) and tries again. Thumbnails use a standard Wikimedia width (330 px).
@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 UA = {"User-Agent": "VocabularioVisual/1.0 (https://github.com/dwookmike-droid/spanish-vocab-app; educational app)"}
 OK = re.compile(r"^(cc0|cc[- ]by(-sa)?[- ]?[1-4]\.0|public domain|pd)", re.I)
-PACE, N, THUMB = 6, 4, 330
+PACE, N, THUMB = 6, 2, 330
 _last = [0.0]
 
 
