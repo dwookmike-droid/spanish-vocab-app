@@ -1,0 +1,22 @@
+{
+ "guitar": 1,
+ "cante": 2,
+ "dance": 2,
+ "bailaor": null,
+ "bailaora": 2,
+ "tablao": 2,
+ "palmas": 0,
+ "fan": 0,
+ "castanets": 0,
+ "flamencodress": 1,
+ "stage": 2,
+ "song": 1,
+ "rhythm": 1,
+ "concert": 0,
+ "musician": 1,
+ "drum": 1,
+ "piano": 1,
+ "violin": 1,
+ "entryticket": 0,
+ "audience": 1
+}

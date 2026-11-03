@@ -1,0 +1,22 @@
+{
+ "table": 2,
+ "menu": 1,
+ "setmenu": 2,
+ "firstcourse": 0,
+ "maincourse": 1,
+ "dessert": 2,
+ "water": 0,
+ "bottle": 0,
+ "wineglass": 2,
+ "glass": 0,
+ "bill": 0,
+ "tip": 0,
+ "reservation": 0,
+ "cook": 0,
+ "soup": 0,
+ "meat": 1,
+ "fish": 2,
+ "rice": 2,
+ "salad": 1,
+ "oil": 1
+}

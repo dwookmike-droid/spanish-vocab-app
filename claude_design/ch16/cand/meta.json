@@ -40,7 +40,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/weather_2.jpg"
   }
  ],
- "sun": [],
+ "sun": [
+  {
+   "title": "Sunshine in Greece",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Guillaume Cattiaux",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3263/2646205320_84357a37d1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0b15cf4f-3228-4f99-9cb5-55d49f7ee0c3/thumb/",
+   "page": "https://www.flickr.com/photos/20879422@N05/2646205320",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sun_0.jpg"
+  },
+  {
+   "title": "Sunshine Skyway Bridge Tampa Bay Florida",
+   "lic": "CC BY 2.0",
+   "artist": "Dhaval Jani",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1303/1307550077_0e63848369_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/045b6738-0e52-4758-863e-b6f998a9428f/thumb/",
+   "page": "https://www.flickr.com/photos/95709708@N00/1307550077",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sun_1.jpg"
+  },
+  {
+   "title": "Sunshine!",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Bev Goodwin",
+   "w": 1024,
+   "h": 731,
+   "url": "https://live.staticflickr.com/7399/12562551455_103f662aaa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/94fc68e9-8220-4934-b2fb-c6343e009eab/thumb/",
+   "page": "https://www.flickr.com/photos/37390607@N02/12562551455",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sun_2.jpg"
+  }
+ ],
  "rain": [
   {
    "title": "rain over street lights",
@@ -123,7 +163,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cloud_2.jpg"
   }
  ],
- "wind": [],
+ "wind": [
+  {
+   "title": "Windsock",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Wajahat Mahmood",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/7024/6613272897_27ebb03116_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/623ecec2-f9f2-4305-ad1d-90cf7ea26b47/thumb/",
+   "page": "https://www.flickr.com/photos/26116471@N03/6613272897",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/wind_0.jpg"
+  },
+  {
+   "title": "Carp (Koi) Windsocks",
+   "lic": "CC BY 2.0",
+   "artist": "rumpleteaser",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/6191/6088097917_bb66d3662e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/44769104-0892-44dd-8802-3c935104b8a3/thumb/",
+   "page": "https://www.flickr.com/photos/45958245@N00/6088097917",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/wind_1.jpg"
+  },
+  {
+   "title": "Carp (Koi) Windsocks",
+   "lic": "CC BY 2.0",
+   "artist": "rumpleteaser",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/4148/5026278342_9e38089a54_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/61eae844-a4dc-4ee3-82c4-287d7f17cd01/thumb/",
+   "page": "https://www.flickr.com/photos/45958245@N00/5026278342",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/wind_2.jpg"
+  }
+ ],
  "fog": [
   {
    "title": "Worship of the Great Pacific Ocean through wetsuit levitation, or something like that, surfboard, sandy waves, fog, mist, Asilomar state beach, Pacific Grove, California, USA",
@@ -247,7 +327,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/storm_2.jpg"
   }
  ],
- "thunder": [],
+ "thunder": [
+  {
+   "title": "Thunderstorm Lightning Koh Tao",
+   "lic": "CC BY 2.0",
+   "artist": "matze_ott",
+   "w": 1024,
+   "h": 569,
+   "url": "https://live.staticflickr.com/1288/768271242_4aa9e3690a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/724cd29a-b952-4a88-b108-dd8f10d0429a/thumb/",
+   "page": "https://www.flickr.com/photos/9853727@N05/768271242",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/thunder_0.jpg"
+  },
+  {
+   "title": "#fiu #floridainternationaluniversity #miami #rain #thunderStorm #lightning #raining #rainyday #storm",
+   "lic": "CC BY 2.0",
+   "artist": "Vrysxy",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8440/7977246438_5421486d4e.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c5f77647-9d93-4217-9fc6-60faddd2f7dc/thumb/",
+   "page": "https://www.flickr.com/photos/9013832@N03/7977246438",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/thunder_1.jpg"
+  },
+  {
+   "title": "During the thunderstorm #thunderstorm #lightning #rain #shanghai #gloomy",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mtan14",
+   "w": 867,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4259/35047790132_85aa494a08_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ca9a0d82-d12d-474d-b0ec-cd800a752ecb/thumb/",
+   "page": "https://www.flickr.com/photos/82497860@N00/35047790132",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/thunder_2.jpg"
+  }
+ ],
  "lightning": [
   {
    "title": "Hipsta Lightning Bolt",
@@ -371,7 +491,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/heat_2.jpg"
   }
  ],
- "cold": [],
+ "cold": [
+  {
+   "title": "Icicles",
+   "lic": "CC BY 2.0",
+   "artist": "Me in ME",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3809/11689528523_678531eb1c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/efddb1b2-47c2-4fdd-9f97-ee47903e3d0a/thumb/",
+   "page": "https://www.flickr.com/photos/12357841@N02/11689528523",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cold_0.jpg"
+  },
+  {
+   "title": "Leggy icicle 7-tych",
+   "lic": "CC BY 2.0",
+   "artist": "stephen w morris",
+   "w": 1024,
+   "h": 931,
+   "url": "https://live.staticflickr.com/7426/15862964333_bf08a18729_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c3d1e235-5438-4263-b4c9-535e98635193/thumb/",
+   "page": "https://www.flickr.com/photos/38779915@N06/15862964333",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cold_1.jpg"
+  },
+  {
+   "title": "Icicle",
+   "lic": "CC BY 2.0",
+   "artist": "Me in ME",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7343/11645605533_5022c16370_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/71a9632e-d6ba-4833-93c7-9d4f4011703e/thumb/",
+   "page": "https://www.flickr.com/photos/12357841@N02/11645605533",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cold_2.jpg"
+  }
+ ],
  "temperature": [
   {
    "title": "Thermometer",

@@ -1,6 +1,86 @@
 {
- "hotel": [],
- "reception": [],
+ "hotel": [
+  {
+   "title": "Farglory Hotel facade – Hualien, Taiwan",
+   "lic": "CC BY-SA 2.0",
+   "artist": "williamcho",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/2574/3982439259_e7fc5572eb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ebfc9600-f77c-45d0-9c41-839668278128/thumb/",
+   "page": "https://www.flickr.com/photos/84493444@N00/3982439259",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_0.jpg"
+  },
+  {
+   "title": "Cosmopolitan Hotel ( facade )",
+   "lic": "CC BY 2.0",
+   "artist": "Prayitno / Thank you for (12 millions +) view",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6190/6059149022_233ba20b60_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ce4877c8-d561-4dc2-b512-a2e791f921b9/thumb/",
+   "page": "https://www.flickr.com/photos/34128007@N04/6059149022",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_2.jpg"
+  },
+  {
+   "title": "Four Seasons Gresham Palace Hotel - Facade - Pest Side - Budapest - Hungary",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Adam Jones, Ph.D. - Global Photo Archive",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2637/4110576964_a4f532e8a9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6a146efe-13f3-452d-b4ea-69e17a721133/thumb/",
+   "page": "https://www.flickr.com/photos/41000732@N04/4110576964",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/hotel_3.jpg"
+  }
+ ],
+ "reception": [
+  {
+   "title": "Reception desk",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jepoirrier",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3241/3026154262_c46a281f5f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dd42f7ab-8007-46d2-9902-b43c9e9cb6f3/thumb/",
+   "page": "https://www.flickr.com/photos/57519914@N00/3026154262",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_0.jpg"
+  },
+  {
+   "title": "Crosshairs of the Transparent Society: the hotel reception desk runs a live cam of my house!",
+   "lic": "CC BY 2.0",
+   "artist": "jurvetson",
+   "w": 1024,
+   "h": 901,
+   "url": "https://live.staticflickr.com/7420/11059593346_7f3c1fb233_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0a5e9215-7391-446f-99da-5e2d66a82f15/thumb/",
+   "page": "https://www.flickr.com/photos/44124348109@N01/11059593346",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_1.jpg"
+  },
+  {
+   "title": "BostonArt Reception Desk by Phil Manker",
+   "lic": "CC BY 2.0",
+   "artist": "Phil Manker",
+   "w": 1024,
+   "h": 562,
+   "url": "https://live.staticflickr.com/3263/3148589951_13b2a73758_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9577d298-259e-404e-8d04-cb075664c0fd/thumb/",
+   "page": "https://www.flickr.com/photos/33820070@N04/3148589951",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/reception_2.jpg"
+  }
+ ],
  "room": [
   {
    "title": "Las Vegas Wynn Hotel Room Bed",
@@ -523,7 +603,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/shower_2.jpg"
   }
  ],
- "wifi": [],
+ "wifi": [
+  {
+   "title": "WiFi symbol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christiaan Colen",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/596/21123084082_3e8e0c670c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b3a4e981-cb96-4045-b38e-fd50d72c609c/thumb/",
+   "page": "https://www.flickr.com/photos/132889348@N07/21123084082",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_0.jpg"
+  },
+  {
+   "title": "WiFi symbol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christiaan Colen",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/5779/20510597554_18c9a2150a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bb3fd2e3-1776-4a93-9d0b-508e29a28d7c/thumb/",
+   "page": "https://www.flickr.com/photos/132889348@N07/20510597554",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_1.jpg"
+  },
+  {
+   "title": "WiFi symbol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christiaan Colen",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/618/20510597184_45bd31da2a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/793221e5-ab7d-4a6e-966a-181ff5ff7d3b/thumb/",
+   "page": "https://www.flickr.com/photos/132889348@N07/20510597184",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch13/cand/wifi_2.jpg"
+  }
+ ],
  "exit": [
   {
    "title": "Emergency exit sign",

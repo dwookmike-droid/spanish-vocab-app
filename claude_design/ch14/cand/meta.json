@@ -383,8 +383,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/terminal_2.jpg"
   }
  ],
- "arrival": [],
- "exit": [],
+ "arrival": [
+  {
+   "title": "Lowlight arrival hall",
+   "lic": "CC BY 2.0",
+   "artist": "Henry Söderlund",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8760/16468871204_7622a309f8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40566675-c256-4189-bf3f-0031ff3bff00/thumb/",
+   "page": "https://www.flickr.com/photos/46563758@N04/16468871204",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_0.jpg"
+  },
+  {
+   "title": "Arrival Hall, Pokhara Airport",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Debarshi Ray",
+   "w": 1024,
+   "h": 633,
+   "url": "https://live.staticflickr.com/3732/9029881897_1eca5ee28a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/39733590-ef01-468e-b3a6-eaa000f3154e/thumb/",
+   "page": "https://www.flickr.com/photos/39423133@N04/9029881897",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_1.jpg"
+  },
+  {
+   "title": "Sukhothai Airport Arrival Hall",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mikecogh",
+   "w": 915,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8472/8375170914_5af0b5f511_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4d44ef69-bcaa-44d4-8d66-d8000856c833/thumb/",
+   "page": "https://www.flickr.com/photos/89165847@N00/8375170914",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/arrival_2.jpg"
+  }
+ ],
+ "exit": [
+  {
+   "title": "Roosevelt Lodge, exit sign",
+   "lic": "Public Domain",
+   "artist": "YellowstoneNPS",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2863/9411460132_ae98c43e91_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4d9f8119-d7e8-4c24-a550-066e849df381/thumb/",
+   "page": "https://www.flickr.com/photos/80223459@N05/9411460132",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_1.jpg"
+  },
+  {
+   "title": "Exit sign, London Zoo, London, UK.JPG",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/2132/2281254371_b0e0b2783f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dcca10d9-1c68-4f14-a21c-d31ba2b9092e/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/2281254371",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_2.jpg"
+  },
+  {
+   "title": "Pink & purple emergency lights - Seattle police at work in the thick of traffic, Highway 5 headed north, truck, suv, car lights, traffic signs, exit signs, commute, North Seattle, Washington, USA",
+   "lic": "CC BY 2.0",
+   "artist": "Wonderlane",
+   "w": 1024,
+   "h": 528,
+   "url": "https://live.staticflickr.com/5219/5511581092_1a5b096736_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a5428c29-7bee-4611-a737-7ceff27b9035/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/5511581092",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/exit_3.jpg"
+  }
+ ],
  "delay": [
   {
    "title": "Southwest Arrival Departure Board Airport Sign",
@@ -426,7 +506,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/delay_2.jpg"
   }
  ],
- "seat": [],
+ "seat": [
+  {
+   "title": "Airplane seating",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MattHurst",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/6212/6327493213_2db19a6023_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e61a8394-e5ca-46ea-83a2-a1347b1d254a/thumb/",
+   "page": "https://www.flickr.com/photos/22937701@N00/6327493213",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_0.jpg"
+  },
+  {
+   "title": "Airplane Seats",
+   "lic": "CC BY 2.0",
+   "artist": "momentcaptured1",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2704/4171177670_9cc4173f5e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2b8302c0-810b-4954-a860-c948b1564a39/thumb/",
+   "page": "https://www.flickr.com/photos/42391519@N02/4171177670",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_1.jpg"
+  },
+  {
+   "title": "Blue Sun Glasses on Airplane Seats",
+   "lic": "CC BY 2.0",
+   "artist": "Michael Nukular",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/2850/13333554235_324d2025ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c165319e-bd84-4f4b-bb4b-abcd89a9141d/thumb/",
+   "page": "https://www.flickr.com/photos/105261405@N04/13333554235",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/seat_2.jpg"
+  }
+ ],
  "planewindow": [
   {
    "title": "Airplane Window View (left)",
@@ -496,8 +616,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/aisle_2.jpg"
   }
  ],
- "ticket": [],
- "customs": [],
+ "ticket": [
+  {
+   "title": "My plane ticket was a failure",
+   "lic": "CC BY 2.0",
+   "artist": "kalleboo",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2106/2314892520_e0fb6ea911_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/115f9a31-8746-41ae-8dfa-8d2995d1669b/thumb/",
+   "page": "https://www.flickr.com/photos/82365211@N00/2314892520",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_0.jpg"
+  },
+  {
+   "title": "Paid for my plane ticket at FamilyMart",
+   "lic": "CC BY 2.0",
+   "artist": "kalleboo",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2682/4522924463_d5646147cb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/21d664e6-a664-4702-9c3a-4c199765bfd0/thumb/",
+   "page": "https://www.flickr.com/photos/82365211@N00/4522924463",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_1.jpg"
+  },
+  {
+   "title": "Why is there a creepy man on my plane ticket?",
+   "lic": "CC BY-SA 2.0",
+   "artist": "quinn.anya",
+   "w": 612,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4134/4935476536_6229c95e78_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/df30bcd3-8ed0-48f5-b7b4-f2c025ac179e/thumb/",
+   "page": "https://www.flickr.com/photos/53326337@N00/4935476536",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/ticket_2.jpg"
+  }
+ ],
+ "customs": [
+  {
+   "title": "Dear customers sign, shuttered Vietnamese convenience store, sign, Parkdale, Toronto, ON, Canada.jpg",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5190/5822050751_6d8e7f2317_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b81fed8-01fe-4eba-bb90-ab2c7d94aea5/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/5822050751",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_0.jpg"
+  },
+  {
+   "title": "A Proclamation for the Suppression of Coffee Houses — See Nikki Davis @SignsNDesign for your custom sign. :)",
+   "lic": "CC BY 2.0",
+   "artist": "SpunkyGidget",
+   "w": 685,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5515/10565306705_668d232a3d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ac1e4780-d8cc-40f2-b08d-1a3f62039a93/thumb/",
+   "page": "https://www.flickr.com/photos/60621749@N00/10565306705",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_1.jpg"
+  },
+  {
+   "title": "This notice has been issued for the benefit of our customer sign, till, Marks and Spencer, Liverpool Street Station, London, UK.JPG",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/2019/2373300033_12e2d317c2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b441c2e-0147-4bcf-be98-e0e2d024cb60/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/2373300033",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/customs_2.jpg"
+  }
+ ],
  "trolley": [
   {
    "title": "Where's your luggage?",
@@ -539,5 +739,45 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/trolley_2.jpg"
   }
  ],
- "screen": []
+ "screen": [
+  {
+   "title": "Mobile Edge ScanFast Onyx Briefcase opened for airport screening",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Mobile Edge Laptop Cases",
+   "w": 1024,
+   "h": 818,
+   "url": "https://live.staticflickr.com/3377/3421760930_ed295ce4fe_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9de4fa49-a228-4712-81dc-374c7355cd7f/thumb/",
+   "page": "https://www.flickr.com/photos/32168913@N02/3421760930",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_0.jpg"
+  },
+  {
+   "title": "Mobile Edge ScanFast Onyx Briefcase oped for airport screening",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Mobile Edge Laptop Cases",
+   "w": 1024,
+   "h": 818,
+   "url": "https://live.staticflickr.com/3159/3402395830_f9f4858b98_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7ead3ba8-0f5b-431b-8f90-e68862ce73eb/thumb/",
+   "page": "https://www.flickr.com/photos/32168913@N02/3402395830",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_1.jpg"
+  },
+  {
+   "title": "Miami Airport Screen",
+   "lic": "CC BY-SA 2.0",
+   "artist": "bobbsled",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4094/4936284705_6a27d10034_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b50b32c9-16a9-4985-858f-63a68f14488c/thumb/",
+   "page": "https://www.flickr.com/photos/22121135@N00/4936284705",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/screen_2.jpg"
+  }
+ ]
 }

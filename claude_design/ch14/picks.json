@@ -1,0 +1,22 @@
+{
+ "airport": 1,
+ "plane": 2,
+ "flight": 0,
+ "gate": 0,
+ "boardingpass": 2,
+ "passport": 1,
+ "luggage": 2,
+ "suitcase": 0,
+ "security": 0,
+ "terminal": 2,
+ "arrival": 2,
+ "exit": 1,
+ "delay": 2,
+ "seat": 1,
+ "planewindow": 1,
+ "aisle": 0,
+ "ticket": 0,
+ "customs": null,
+ "trolley": 1,
+ "screen": 2
+}

@@ -286,10 +286,170 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/towel_2.jpg"
   }
  ],
- "swimsuit": [],
- "sunscreen": [],
- "sunglasses": [],
- "beachbar": [],
+ "swimsuit": [
+  {
+   "title": "Swimming Costume Protest",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 1000,
+   "h": 669,
+   "url": "https://live.staticflickr.com/5565/14597791494_5e505c5ab2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e385150e-ed04-4290-b919-719af0f1c2c9/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/14597791494",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/swimsuit_0.jpg"
+  },
+  {
+   "title": "Mermaid swimming costume",
+   "lic": "CC BY 2.0",
+   "artist": "1lenore",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2944/15343188622_bc52e1a6b5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4299ee6d-7cec-4028-8ff9-04a0a3f21696/thumb/",
+   "page": "https://www.flickr.com/photos/80522246@N00/15343188622",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/swimsuit_2.jpg"
+  },
+  {
+   "title": "Mermaid swimming costume",
+   "lic": "CC BY 2.0",
+   "artist": "1lenore",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3897/15343492515_99cd3d3127_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/68878813-41f1-4db5-aa86-ce006dbef589/thumb/",
+   "page": "https://www.flickr.com/photos/80522246@N00/15343492515",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/swimsuit_3.jpg"
+  }
+ ],
+ "sunscreen": [
+  {
+   "title": "johnson's sun cream qr code",
+   "lic": "CC BY-SA 2.0",
+   "artist": "fsse8info",
+   "w": 1024,
+   "h": 654,
+   "url": "https://live.staticflickr.com/3374/3578752719_6043584a78_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/74142db4-3e59-4d9c-a93e-5cfbbbed7b95/thumb/",
+   "page": "https://www.flickr.com/photos/37031529@N00/3578752719",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_0.jpg"
+  },
+  {
+   "title": "My face when I realise the spray on sun cream was actually empty...",
+   "lic": "CC BY-SA 2.0",
+   "artist": "remysharp",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/522/19553962776_b50202a62b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f9469833-e4b6-4ee4-878a-78634378f071/thumb/",
+   "page": "https://www.flickr.com/photos/38257258@N00/19553962776",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_1.jpg"
+  },
+  {
+   "title": "Sun cream by Elsie of Helmshore. Because you're worth it.",
+   "lic": "CC BY 2.0",
+   "artist": "Dave Haygarth",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6135/6008789386_af1636e0d2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f81741ed-6d86-41ef-9d15-bf77eb7d40be/thumb/",
+   "page": "https://www.flickr.com/photos/25633870@N00/6008789386",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_3.jpg"
+  }
+ ],
+ "sunglasses": [
+  {
+   "title": "Garbage Sunglasses Beach Monument",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Kurayba",
+   "w": 701,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8655/15635568113_fcca42d165_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/deda2c18-bc53-4ec9-93e9-d6aed31f5acf/thumb/",
+   "page": "https://www.flickr.com/photos/48503330@N08/15635568113",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunglasses_0.jpg"
+  },
+  {
+   "title": "Free sunglasses beach photo",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4928,
+   "h": 3264,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMzMDI0LWltYWdlLWt3dndwdDZ4LmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6c58979f-55dc-4682-b6fb-793ec1399d88/thumb/",
+   "page": "https://www.rawpixel.com/image/5916259/image-public-domain-beach-summer",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunglasses_1.jpg"
+  },
+  {
+   "title": "Sunglasses beach sand sunset",
+   "lic": "CC0",
+   "artist": "",
+   "w": 5184,
+   "h": 3456,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJzdW5zZXRfYmVhY2hfc3VuZ2xhc3Nlc19zYW5kLWltYWdlLWt5YmNsbWFjLmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0ecdcc1a-8a3a-453b-986e-5fde35d0d6e2/thumb/",
+   "page": "https://www.rawpixel.com/image/6031139/photo-image-public-domain-beach-summer",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunglasses_2.jpg"
+  }
+ ],
+ "beachbar": [
+  {
+   "title": "The Beach Bar",
+   "lic": "CC BY 2.0",
+   "artist": "Fields of View",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7724/17217821736_67e894ff93_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7398d240-e165-43b5-a149-eba18f74d256/thumb/",
+   "page": "https://www.flickr.com/photos/24327829@N04/17217821736",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beachbar_0.jpg"
+  },
+  {
+   "title": "BEACH BAR IN GOLDEN BEACH. THASSOS GREECE.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ronsaunders47",
+   "w": 1024,
+   "h": 753,
+   "url": "https://live.staticflickr.com/3530/3794863997_fb95229ec7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a78434c2-fbd6-4a83-a917-9fb5837be637/thumb/",
+   "page": "https://www.flickr.com/photos/46781500@N00/3794863997",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beachbar_1.jpg"
+  },
+  {
+   "title": "Beach Bar Blue Lamp",
+   "lic": "CC BY 2.0",
+   "artist": "DeusXFlorida (11,059,330 views) - thanks guys!",
+   "w": 1024,
+   "h": 890,
+   "url": "https://live.staticflickr.com/3605/3502242645_4e2974bc96_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c816b7fa-9767-4fe6-a393-5e72c8a16de7/thumb/",
+   "page": "https://www.flickr.com/photos/8363028@N08/3502242645",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beachbar_2.jpg"
+  }
+ ],
  "boat": [
   {
    "title": "Small boat sea",
@@ -454,7 +614,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/lifeguard_2.jpg"
   }
  ],
- "sunlounger": [],
+ "sunlounger": [
+  {
+   "title": "Samos Sunbed - Sept 2009 - Wife Checking To See I'm Not Enjoying Myself Too Much",
+   "lic": "CC BY 2.0",
+   "artist": "Gareth1953 All Right Now",
+   "w": 1024,
+   "h": 821,
+   "url": "https://live.staticflickr.com/2590/4029663769_95a4d73bf8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cc79433f-9b42-430a-844d-0476b68e19cb/thumb/",
+   "page": "https://www.flickr.com/photos/40837632@N05/4029663769",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunlounger_0.jpg"
+  },
+  {
+   "title": "sunB",
+   "lic": "CC BY-SA 2.0",
+   "artist": "lebribri",
+   "w": 1024,
+   "h": 654,
+   "url": "https://live.staticflickr.com/3807/10020906814_ed0e9cbac5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cb1c7bc6-307c-4f4c-8439-3b1164fa1fd7/thumb/",
+   "page": "https://www.flickr.com/photos/77035235@N04/10020906814",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunlounger_1.jpg"
+  },
+  {
+   "title": "a bench at a sunny place is better than a place on the sunbed :)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "glasseyes view",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2923/14289230227_b428879294_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c0f13c6c-54d4-4106-88f8-1cec9fb15d24/thumb/",
+   "page": "https://www.flickr.com/photos/74708580@N00/14289230227",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunlounger_2.jpg"
+  }
+ ],
  "icecream": [
   {
    "title": "Strawberry Ice Cream Cone",

@@ -1,5 +1,45 @@
 {
- "shirt": [],
+ "shirt": [
+  {
+   "title": "T-shirts hanger",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4459,
+   "h": 2977,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvYnMzMzItaW1hZ2Uta3d2eW43eGkuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/22d3dcca-88c7-4d8b-9abc-4d7ca7bc2cca/thumb/",
+   "page": "https://www.rawpixel.com/image/5928381/photo-image-public-domain-t-shirt-free",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_0.jpg"
+  },
+  {
+   "title": "T-shirts hanger",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4460,
+   "h": 2974,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2JzMzEyLWltYWdlLWt3dnltdWN4LmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4894ca07-f2d0-4130-98aa-4f020cc06577/thumb/",
+   "page": "https://www.rawpixel.com/image/5928263/photo-image-public-domain-t-shirt-free",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_1.jpg"
+  },
+  {
+   "title": "T-shirts hanger",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4460,
+   "h": 2973,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2JzMzgwLWltYWdlLWt3dnluYWRoLmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/65de6cce-4132-426f-91ef-2bf74a77c471/thumb/",
+   "page": "https://www.rawpixel.com/image/5928389/photo-image-public-domain-t-shirt-free",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/shirt_2.jpg"
+  }
+ ],
  "tshirt": [
   {
    "title": "Funeral Home wet t shirt contest",
@@ -41,7 +81,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/tshirt_2.jpg"
   }
  ],
- "trousers": [],
+ "trousers": [
+  {
+   "title": "Jeans",
+   "lic": "CC BY 2.0",
+   "artist": "elements_of_this_world",
+   "w": 1024,
+   "h": 810,
+   "url": "https://live.staticflickr.com/8680/28315217710_0d1df386af_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0e0e8b17-e39c-4c32-815a-5a68554683c8/thumb/",
+   "page": "https://www.flickr.com/photos/135717563@N05/28315217710",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_0.jpg"
+  },
+  {
+   "title": "Jeans Butt",
+   "lic": "CC BY 2.0",
+   "artist": "Alex-501",
+   "w": 454,
+   "h": 500,
+   "url": "https://live.staticflickr.com/3837/14562773151_8e596f91f8.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7c388b2e-2a4a-436a-a93f-ba09e073b700/thumb/",
+   "page": "https://www.flickr.com/photos/60705975@N08/14562773151",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_1.jpg"
+  },
+  {
+   "title": "Girl Jeans on my tight Butt",
+   "lic": "CC BY 2.0",
+   "artist": "Alex-501",
+   "w": 459,
+   "h": 500,
+   "url": "https://live.staticflickr.com/2930/14241015214_c85e996d77.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d19db624-36bb-4052-9444-89f895e2b456/thumb/",
+   "page": "https://www.flickr.com/photos/60705975@N08/14241015214",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/trousers_2.jpg"
+  }
+ ],
  "skirt": [
   {
    "title": "skirt and shirt",
@@ -83,8 +163,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/skirt_2.jpg"
   }
  ],
- "dress": [],
- "jacket": [],
+ "dress": [
+  {
+   "title": "Chinese ethnic dress mannequin in the Dian Bar at the Crowne Plaza",
+   "lic": "CC BY 2.0",
+   "artist": "ToGa Wanderings",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8519/8561171238_725cf93cf6.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d60f5a4f-6ba8-4dea-82e5-30ae19333ba8/thumb/",
+   "page": "https://www.flickr.com/photos/69031678@N00/8561171238",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_0.jpg"
+  },
+  {
+   "title": "Well Dressed Mannequin, Cliff's Variety, Castro Street",
+   "lic": "CC BY 2.0",
+   "artist": "Stephen Kelly Photography",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7374/27711572590_c24e017c5e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/86af3232-72a5-458f-9417-ccd87f0ef1ab/thumb/",
+   "page": "https://www.flickr.com/photos/67056263@N04/27711572590",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_1.jpg"
+  },
+  {
+   "title": "Vintage dresses - mannequins look real...Chantelle's, Southsea #vintage #bnw_society #bnw_captures #blackmwhite #blacknwhite_perfection #mannequins #oldschool",
+   "lic": "CC BY 2.0",
+   "artist": "kilted01",
+   "w": 918,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8122/29285147435_d810d8ca92_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f11529b0-8e46-463a-8fbf-cb03505007a3/thumb/",
+   "page": "https://www.flickr.com/photos/61751628@N05/29285147435",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/dress_2.jpg"
+  }
+ ],
+ "jacket": [
+  {
+   "title": "Leather Jacket Outfit Idea",
+   "lic": "CC BY 2.0",
+   "artist": "FreePeopleFlickr",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/7097/14002995881_19d90bc8af.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6f2e8ff1-8947-47de-b06b-110b32116b10/thumb/",
+   "page": "https://www.flickr.com/photos/43714106@N03/14002995881",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_0.jpg"
+  },
+  {
+   "title": "Paris Woman with Leather Jacket",
+   "lic": "CC BY 2.0",
+   "artist": "Stephan Rosger",
+   "w": 859,
+   "h": 1022,
+   "url": "https://live.staticflickr.com/5047/5260657018_898a69624c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f8280ea9-9a8d-4b52-86bc-85da166b338a/thumb/",
+   "page": "https://www.flickr.com/photos/56183874@N08/5260657018",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_1.jpg"
+  },
+  {
+   "title": "Leather Jacket by Brioni",
+   "lic": "CC BY 2.0",
+   "artist": "Menswear Market",
+   "w": 1024,
+   "h": 789,
+   "url": "https://live.staticflickr.com/5473/10062428925_81bac218f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/015932fa-e9b9-4e91-98a6-e73590050083/thumb/",
+   "page": "https://www.flickr.com/photos/85546319@N04/10062428925",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/jacket_2.jpg"
+  }
+ ],
  "coat": [
   {
    "title": "new coat stand",
@@ -290,7 +450,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/socks_2.jpg"
   }
  ],
- "hat": [],
+ "hat": [
+  {
+   "title": "Woman Street Vendor in Straw Hat",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Chris Hunkeler",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/7101/7288419104_9335b8a2e2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e34e066a-2afb-48b8-ae72-b387601db13a/thumb/",
+   "page": "https://www.flickr.com/photos/14913305@N00/7288419104",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_0.jpg"
+  },
+  {
+   "title": "Straw Hat Pirates: Nico Robin",
+   "lic": "CC BY 2.0",
+   "artist": "Brian Rinker Creative",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3697/13130676485_517ef3ae13_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/38891a04-3b45-48f5-ae13-94f81c4bab48/thumb/",
+   "page": "https://www.flickr.com/photos/44242222@N07/13130676485",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_1.jpg"
+  },
+  {
+   "title": "Straw Hat Pirates",
+   "lic": "CC BY 2.0",
+   "artist": "Brian Rinker Creative",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2864/13225649935_02ca0724aa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bf222ad4-e094-489d-8950-748dffaff881/thumb/",
+   "page": "https://www.flickr.com/photos/44242222@N07/13225649935",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/hat_2.jpg"
+  }
+ ],
  "scarf": [
   {
    "title": "silk scarf",
@@ -373,7 +573,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/gloves_2.jpg"
   }
  ],
- "belt": [],
+ "belt": [
+  {
+   "title": "leather belt",
+   "lic": "CC BY 2.0",
+   "artist": "Sean MacEntee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5492/12205374334_2e464e51a5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d6419982-6a3e-4547-880e-31ba646db2a2/thumb/",
+   "page": "https://www.flickr.com/photos/18090920@N07/12205374334",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_0.jpg"
+  },
+  {
+   "title": "Leather Belt, Metal Buckle",
+   "lic": "CC BY-SA 2.0",
+   "artist": "blmurch",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/143/428349468_321a88eed5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f7fc8073-0503-4b72-bb53-b3c6128ebe80/thumb/",
+   "page": "https://www.flickr.com/photos/82439748@N00/428349468",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_1.jpg"
+  },
+  {
+   "title": "leather belt",
+   "lic": "CC BY-SA 2.0",
+   "artist": "wagnerkari",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5589/14841090661_a123e4f464_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/867a8a38-b8cd-446e-bfc9-3ba97f3a83b3/thumb/",
+   "page": "https://www.flickr.com/photos/34952213@N07/14841090661",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch23/cand/belt_2.jpg"
+  }
+ ],
  "tie": [
   {
    "title": "5.6k ohm resistor necktie",

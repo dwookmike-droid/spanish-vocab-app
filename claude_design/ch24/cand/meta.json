@@ -122,7 +122,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/ninot_2.jpg"
   }
  ],
- "firecracker": [],
+ "firecracker": [
+  {
+   "title": "Firecracker Mountain Bike Race - Juniors 4",
+   "lic": "CC BY 2.0",
+   "artist": "Citizen 4474",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2919/14361391439_c68b0b6885_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3878650f-c1e3-48c0-9382-004faa5bcacd/thumb/",
+   "page": "https://www.flickr.com/photos/8590349@N05/14361391439",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_0.jpg"
+  },
+  {
+   "title": "Firecracker Mountain Bike Race - Juniors 1",
+   "lic": "CC BY 2.0",
+   "artist": "Citizen 4474",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2904/14524917156_7c73b73f04_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e4ed5f4c-8f44-4fb6-8059-63c60e54fff0/thumb/",
+   "page": "https://www.flickr.com/photos/8590349@N05/14524917156",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_1.jpg"
+  },
+  {
+   "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
+   "lic": "CC BY 2.0",
+   "artist": "mckaysavage",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2358/1980340953_afe8b79843_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3e972aa2-e63c-453d-81bc-8350e29a0a54/thumb/",
+   "page": "https://www.flickr.com/photos/56796376@N00/1980340953",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_2.jpg"
+  }
+ ],
  "traca": [
   {
    "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
@@ -164,7 +204,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/traca_2.jpg"
   }
  ],
- "mascleta": [],
+ "mascleta": [
+  {
+   "title": "La Mascleta Valencia",
+   "lic": "CC BY 2.0",
+   "artist": "keith ellwood",
+   "w": 1024,
+   "h": 700,
+   "url": "https://live.staticflickr.com/8507/8523953579_dcfc366e4a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6c98c268-6b15-46eb-a2ee-972c515f7aed/thumb/",
+   "page": "https://www.flickr.com/photos/76377775@N05/8523953579",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/mascleta_0.jpg"
+  },
+  {
+   "title": "La Mascleta,bravo",
+   "lic": "CC BY 2.0",
+   "artist": "keith ellwood",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/8085/8523961477_a3a6c8c933_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9674ee9e-8b59-416e-96e2-455b6952ba03/thumb/",
+   "page": "https://www.flickr.com/photos/76377775@N05/8523961477",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/mascleta_1.jpg"
+  },
+  {
+   "title": "Orchestrating the mascleta, L'eliana",
+   "lic": "CC BY 2.0",
+   "artist": "keith ellwood",
+   "w": 1024,
+   "h": 949,
+   "url": "https://live.staticflickr.com/8108/8565539350_27abbebbaf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cd7bf403-feb2-46ec-8e30-f8e57ce39352/thumb/",
+   "page": "https://www.flickr.com/photos/76377775@N05/8565539350",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/mascleta_2.jpg"
+  }
+ ],
  "bonfire": [
   {
    "title": "Bonfire",
@@ -288,7 +368,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/music_2.jpg"
   }
  ],
- "band": [],
+ "band": [
+  {
+   "title": "Haworth Brass Band",
+   "lic": "CC BY 2.0",
+   "artist": "Tim Green aka atoach",
+   "w": 1024,
+   "h": 880,
+   "url": "https://live.staticflickr.com/2883/10367594486_5e3cecff81_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b3ed6af-ac09-409b-90ab-f9066b809d05/thumb/",
+   "page": "https://www.flickr.com/photos/93416311@N00/10367594486",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_0.jpg"
+  },
+  {
+   "title": "Big Brass Band!",
+   "lic": "CC BY 2.0",
+   "artist": "peasap",
+   "w": 1024,
+   "h": 739,
+   "url": "https://live.staticflickr.com/2085/1576839129_d62a4743be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c133bc6a-e5ea-401c-b6f1-8d06ffa7d48e/thumb/",
+   "page": "https://www.flickr.com/photos/21314760@N00/1576839129",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_1.jpg"
+  },
+  {
+   "title": "Rose, Brass Band, バラ, ブラス バンド,",
+   "lic": "CC BY-SA 2.0",
+   "artist": "T.Kiya",
+   "w": 769,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7582/15648499099_1f32ebca1b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c2a40865-a974-4a9a-901b-b08d1c192e3e/thumb/",
+   "page": "https://www.flickr.com/photos/38217580@N05/15648499099",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_2.jpg"
+  }
+ ],
  "costume": [
   {
    "title": "Verónica G.",
@@ -481,7 +601,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fair_2.jpg"
   }
  ],
- "lantern": [],
+ "lantern": [
+  {
+   "title": "'árbol de los farolillos' Frutos",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jacilluch",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/772/23266922472_f846c214bb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/871653e0-10f9-408f-9f7d-5db151d6a0ea/thumb/",
+   "page": "https://www.flickr.com/photos/70626035@N00/23266922472",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_0.jpg"
+  },
+  {
+   "title": "Farolillos y basura",
+   "lic": "CC BY 2.0",
+   "artist": "palomoduarte",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/3544/5731288953_f94f38f6cc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/357ab18a-75df-41a8-b904-486494f2540a/thumb/",
+   "page": "https://www.flickr.com/photos/31044991@N04/5731288953",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_1.jpg"
+  },
+  {
+   "title": "Farolillos",
+   "lic": "CC BY 2.0",
+   "artist": "edans",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/30/89118047_4a98cd8e61_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/93b55412-0059-4f57-8e42-77f09c8c4207/thumb/",
+   "page": "https://www.flickr.com/photos/16189770@N00/89118047",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_2.jpg"
+  }
+ ],
  "confetti": [
   {
    "title": "Confetti",
@@ -523,7 +683,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/confetti_2.jpg"
   }
  ],
- "verbena": [],
+ "verbena": [
+  {
+   "title": "String Light",
+   "lic": "CC BY 2.0",
+   "artist": "felixtsao",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7178/6860634857_5ed8549b2c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/404347af-a0b6-449c-b988-3bdb479c3fe9/thumb/",
+   "page": "https://www.flickr.com/photos/43163345@N06/6860634857",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/verbena_0.jpg"
+  },
+  {
+   "title": "Stringing Lights Both Near And Far",
+   "lic": "CC BY 2.0",
+   "artist": "Ian Sane",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7452/15738415444_27419bc325_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5960f05c-55c9-4be9-b73c-a7f97797b53e/thumb/",
+   "page": "https://www.flickr.com/photos/31246066@N04/15738415444",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/verbena_1.jpg"
+  },
+  {
+   "title": "String & Light, Glam 5, Designed by Haldane Martin, Photo Micky Hoyle",
+   "lic": "CC BY 2.0",
+   "artist": "HALDANE MARTIN",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7325/16340512797_4687918a44_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ab2a994e-6aef-4c9b-aa9b-cd9c0a1867d0/thumb/",
+   "page": "https://www.flickr.com/photos/52634191@N08/16340512797",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/verbena_2.jpg"
+  }
+ ],
  "dinner": [
   {
    "title": "Indian food",

@@ -1,6 +1,86 @@
 {
- "right": [],
- "left": [],
+ "right": [
+  {
+   "title": "NH43 North - Turn Right Sign",
+   "lic": "CC BY-SA 2.0",
+   "artist": "formulanone",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/52213172301_462f2a65b1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/429fe7fa-f778-4f04-933a-c44306354caf/thumb/",
+   "page": "https://www.flickr.com/photos/30552029@N00/52213172301",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_0.jpg"
+  },
+  {
+   "title": "Turn right sign illustration",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4000,
+   "h": 2666,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL2pvYjk2Mi0wMjlhLXguanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/397d4792-7e32-43d6-b3da-97861f249951/thumb/",
+   "page": "https://www.rawpixel.com/image/9071432/image-arrow-illustrations-public-domain",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_1.jpg"
+  },
+  {
+   "title": "Turn right sign illustration vector",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4000,
+   "h": 2666,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL2pvYjk2Mi0wMjlhLmpwZw.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0416f04c-0c58-478c-9a63-81e357fd5e2b/thumb/",
+   "page": "https://www.rawpixel.com/image/9071433/vector-arrow-illustrations-public-domain",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_2.jpg"
+  }
+ ],
+ "left": [
+  {
+   "title": "Turn left sign png illustration",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4000,
+   "h": 4000,
+   "url": "https://images.rawpixel.com/image_png_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL2pvYjk2Mi0xMTgucG5n.png",
+   "thumb": "https://api.openverse.org/v1/images/66724927-1f75-484b-b883-1becfc0f9b92/thumb/",
+   "page": "https://www.rawpixel.com/image/9069375/png-people-logo",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_0.jpg"
+  },
+  {
+   "title": "Turn left sign illustration",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4000,
+   "h": 4000,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL2pvYjk2Mi0xMTgteC5qcGc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e268d336-cdc2-455a-bf2b-d2a3a154dfa3/thumb/",
+   "page": "https://www.rawpixel.com/image/9069379/image-logo-road-illustrations",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_1.jpg"
+  },
+  {
+   "title": "Turn left sign clipart illustration",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4000,
+   "h": 4000,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL2pvYjk2Mi0xMTgtbGNoMHJ3eHkuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ca479ec0-6eda-438a-903c-8493f4c38b66/thumb/",
+   "page": "https://www.rawpixel.com/image/9069372/vector-logo-road-illustrations",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_2.jpg"
+  }
+ ],
  "straight": [
   {
    "title": "Straight ahead for Drama (Δράμα)",
@@ -29,7 +109,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/straight_1.jpg"
   }
  ],
- "corner": [],
+ "corner": [
+  {
+   "title": "Street corner, Mane, Provence, France",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Spencer Means",
+   "w": 1024,
+   "h": 741,
+   "url": "https://live.staticflickr.com/7426/26951589485_a7cf94ae24_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7c604e69-f3fd-4682-ba02-1653d57cc73b/thumb/",
+   "page": "https://www.flickr.com/photos/28643687@N08/26951589485",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_0.jpg"
+  },
+  {
+   "title": "The Brolly Works, 78 Allison Street - corner of Well Lane and Allison Street - former factory",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3493/4012785788_7c54643132_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b72260e9-ca09-4efc-9ba9-996ca69fd7d7/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/4012785788",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_1.jpg"
+  },
+  {
+   "title": "Elderly Women on Street Corner - Biertan - Romania",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Adam Jones, Ph.D. - Global Photo Archive",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2543/3774610340_5c10c68257_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3a831dc1-52c5-4f20-9c36-5254429f43df/thumb/",
+   "page": "https://www.flickr.com/photos/41000732@N04/3774610340",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_2.jpg"
+  }
+ ],
  "street": [
   {
    "title": "Spain-36 - Toledo",
@@ -323,7 +443,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/far_2.jpg"
   }
  ],
- "nextto": [],
+ "nextto": [
+  {
+   "title": "The Roundhouse - St Vincent Street - two houses",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8090/8503879970_150ac058eb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a5b1f007-d4d6-42f5-9ac4-dd2cedae4052/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/8503879970",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_0.jpg"
+  },
+  {
+   "title": "CHURCH STREET MEMORIAL [TWO HOUSES COLLAPSED ON TUESDAY 2 SEPTEMBER 1913]-126570",
+   "lic": "CC BY-SA 2.0",
+   "artist": "infomatique",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2912/33899661475_8a84b08e7e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5ab08178-38f9-4804-b45b-fda1f4ab0004/thumb/",
+   "page": "https://www.flickr.com/photos/80824546@N00/33899661475",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_1.jpg"
+  },
+  {
+   "title": "CHURCH STREET MEMORIAL [TWO HOUSES COLLAPSED ON TUESDAY 2 SEPTEMBER 1913]-126571",
+   "lic": "CC BY-SA 2.0",
+   "artist": "infomatique",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2886/33858754306_e976fc14c8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/454bee9d-39ef-4d83-8498-2a854b708327/thumb/",
+   "page": "https://www.flickr.com/photos/80824546@N00/33858754306",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_2.jpg"
+  }
+ ],
  "opposite": [
   {
    "title": "Fountain of the Great Lakes, Art Institute of Chicago Building",
@@ -447,6 +607,86 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/infront_2.jpg"
   }
  ],
- "sign": [],
- "alley": []
+ "sign": [
+  {
+   "title": "Some Words to Live by - Street Sign, Capital Hill, Seattle",
+   "lic": "CC BY-SA 2.0",
+   "artist": "brewbooks",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3458/3234136680_78e815a752_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5771a1ca-9c37-46d5-9af2-637ba5b09c84/thumb/",
+   "page": "https://www.flickr.com/photos/93452909@N00/3234136680",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_0.jpg"
+  },
+  {
+   "title": "Street Sign: Watch for Senior Citizens",
+   "lic": "CC BY 2.0",
+   "artist": "Ethan Prater",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3204/3158244799_1c8ba341f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f4754158-5df9-4df3-bc25-5b76a96c17fa/thumb/",
+   "page": "https://www.flickr.com/photos/21729155@N00/3158244799",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_1.jpg"
+  },
+  {
+   "title": "Street Sign: Watch for Senior Citizens",
+   "lic": "CC BY 2.0",
+   "artist": "Ethan Prater",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3118/3158242905_afc5f5ce46_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/632ad448-cd2a-44c4-adc6-6f31a37cc320/thumb/",
+   "page": "https://www.flickr.com/photos/21729155@N00/3158242905",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_2.jpg"
+  }
+ ],
+ "alley": [
+  {
+   "title": "Narrow Alley",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Franco Folini",
+   "w": 678,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3770/19424544286_6683964112_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2d06d407-257f-4cc1-b13c-e7b2b97be2e1/thumb/",
+   "page": "https://www.flickr.com/photos/78425154@N00/19424544286",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/alley_0.jpg"
+  },
+  {
+   "title": "narrow alley in barcelona spain",
+   "lic": "CC BY-SA 2.0",
+   "artist": "theseanster93",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3206/2394189212_d80e1209c4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9af50d02-7b3f-418e-83cd-25c1c9d59a63/thumb/",
+   "page": "https://www.flickr.com/photos/7912605@N08/2394189212",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/alley_1.jpg"
+  },
+  {
+   "title": "Narrow alley in Palma de Mallorca",
+   "lic": "CC BY 2.0",
+   "artist": "Tommie Hansen",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/5718/23977210666_7baaa53fdc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2185fa78-cfb1-459d-bde6-fc6687499092/thumb/",
+   "page": "https://www.flickr.com/photos/43830692@N04/23977210666",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/alley_2.jpg"
+  }
+ ]
 }

@@ -273,8 +273,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/entryticket_3.jpg"
   }
  ],
- "ticketoffice": [],
- "exhibition": [],
+ "ticketoffice": [
+  {
+   "title": "Olympia Theater Ticket Booth Downtown Miami",
+   "lic": "CC BY 2.0",
+   "artist": "Phillip Pessar",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/897/40592644904_3597a87568_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e5c0e8f3-5bc2-4b52-ba91-6409aab6e8cf/thumb/",
+   "page": "https://www.flickr.com/photos/25955895@N03/40592644904",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_0.jpg"
+  },
+  {
+   "title": "carlo scarpa, biennale ticket booth, venice 1952",
+   "lic": "CC BY 2.0",
+   "artist": "seier+seier",
+   "w": 762,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3199/2982890199_b968a48a5f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0415a764-ddb2-4c6f-b73e-d69f916af064/thumb/",
+   "page": "https://www.flickr.com/photos/94852245@N00/2982890199",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_1.jpg"
+  },
+  {
+   "title": "Fantasyland ticket booth, Disneyland, 1960s",
+   "lic": "CC BY 2.0",
+   "artist": "Orange County Archives",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7223/7097158893_d8f923d6c1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e0a90d4f-94cf-479a-87d1-0379a569c9cc/thumb/",
+   "page": "https://www.flickr.com/photos/30346812@N07/7097158893",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/ticketoffice_2.jpg"
+  }
+ ],
+ "exhibition": [
+  {
+   "title": "Perth Art Gallery visitors 2008",
+   "lic": "CC BY-SA 2.0",
+   "artist": "davidmallett33",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3746/12218981553_083588e8f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64ec0f94-6be2-4b71-a6e2-3f999bbe4b27/thumb/",
+   "page": "https://www.flickr.com/photos/115530434@N02/12218981553",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_0.jpg"
+  },
+  {
+   "title": "Albany - New York - United States - The Albany Institute and Historical and Art Society",
+   "lic": "Public Domain",
+   "artist": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/51548142410_8d7ec63a8d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c0a9a24a-0f3c-4b15-9bf5-78f6de415a93/thumb/",
+   "page": "https://www.flickr.com/photos/7156765@N05/51548142410",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_5.jpg"
+  },
+  {
+   "title": "The dinosaur meet and greet",
+   "lic": "CC BY-SA 2.0",
+   "artist": "e³°°°",
+   "w": 1024,
+   "h": 874,
+   "url": "https://live.staticflickr.com/2099/2066371508_67a6a5ba61_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a5d0af07-d163-4da7-8db3-21f45482c601/thumb/",
+   "page": "https://www.flickr.com/photos/23566085@N00/2066371508",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/exhibition_6.jpg"
+  }
+ ],
  "frame": [
   {
    "title": "Angel Playing a Flageolet (drawing after Sir Edward Burne-Jones) and Pre-Raphaelite Angels: #Flickr12Days(poem)",
@@ -316,7 +396,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_2.jpg"
   }
  ],
- "portrait": [],
+ "portrait": [
+  {
+   "title": "Oil Portrait of Ben Heine (2014)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ben Heine",
+   "w": 866,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/15597434368_904425e7ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f28d6d47-a8d5-4fa6-ae0e-f99fd6812127/thumb/",
+   "page": "https://www.flickr.com/photos/43335486@N00/15597434368",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_0.jpg"
+  },
+  {
+   "title": "Oil Portrait",
+   "lic": "CC BY 2.0",
+   "artist": "DeeAshley",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/5127/5246280631_cbd2709502.jpg",
+   "thumb": "https://api.openverse.org/v1/images/16d31af3-aaf9-4034-a806-56dc4598acff/thumb/",
+   "page": "https://www.flickr.com/photos/43559902@N07/5246280631",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_1.jpg"
+  },
+  {
+   "title": "Oil Portrait of a Broken Red Handle Champion Blade Rusted Crosscut Saw",
+   "lic": "CC BY-SA 2.0",
+   "artist": "cdsessums",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3676/9888586763_fd53820fcb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aa3546e6-b030-4e5c-ae05-967bf1f2e0ad/thumb/",
+   "page": "https://www.flickr.com/photos/53313745@N00/9888586763",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_4.jpg"
+  }
+ ],
  "landscape": [
   {
    "title": "Macaw in the Mist Landscape Painting",
@@ -358,8 +478,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_2.jpg"
   }
  ],
- "guide": [],
- "audioguide": [],
+ "guide": [
+  {
+   "title": "Lords Cricket Ground - Aug 2011 - The Pavilion, The Tour Guide and the Legs",
+   "lic": "CC BY 2.0",
+   "artist": "Gareth1953 All Right Now",
+   "w": 864,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6081/6082692165_07337991fb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/91035d78-8ee4-499b-8dc1-7e3f11de8f4c/thumb/",
+   "page": "https://www.flickr.com/photos/40837632@N05/6082692165",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_0.jpg"
+  },
+  {
+   "title": "NY Tour Guide",
+   "lic": "CC BY 2.0",
+   "artist": "spaztacular",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6019/6291929903_451cdebef1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ffe5022a-b141-4dcd-a51b-25f912c4740c/thumb/",
+   "page": "https://www.flickr.com/photos/47178427@N00/6291929903",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_1.jpg"
+  },
+  {
+   "title": "Disneyland tour guide, 1961",
+   "lic": "CC BY 2.0",
+   "artist": "Orange County Archives",
+   "w": 696,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1656/24782597655_f403a02c22_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b293ed4-29fa-44c5-8026-865cf75dd4da/thumb/",
+   "page": "https://www.flickr.com/photos/30346812@N07/24782597655",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_2.jpg"
+  }
+ ],
+ "audioguide": [
+  {
+   "title": "Audioguide sur smartphone 3G au MAMAC (Nice)",
+   "lic": "CC BY 2.0",
+   "artist": "dalbera",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6013/5946931324_dc992dee7c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b87b82d-c7dd-4490-940a-2ab3cf34b368/thumb/",
+   "page": "https://www.flickr.com/photos/72746018@N00/5946931324",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_0.jpg"
+  },
+  {
+   "title": "discarded italian audioguide receipt",
+   "lic": "CC BY 2.0",
+   "artist": "austinevan",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1285/1226077012_5872f806c2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/02f1d10b-4c92-4185-8f25-726be7d32804/thumb/",
+   "page": "https://www.flickr.com/photos/19762676@N00/1226077012",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_1.jpg"
+  },
+  {
+   "title": "théâtre antique, audioguide et bronzage (ORANGE,FR84)",
+   "lic": "CC BY 2.0",
+   "artist": "jean-louis zimmermann",
+   "w": 744,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2145/2508017865_9a2c992f92_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/09d3a8da-deaf-410d-823e-07df41f0a3a7/thumb/",
+   "page": "https://www.flickr.com/photos/40911451@N00/2508017865",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_3.jpg"
+  }
+ ],
  "guard": [
   {
    "title": "Museum Guard",
@@ -429,7 +629,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/shop_2.jpg"
   }
  ],
- "floorplan": [],
+ "floorplan": [
+  {
+   "title": "Black Country Living Museum - map",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6080/6059660513_97c5a0537c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11f73e52-443c-40c1-bc22-f85b9288200b/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/6059660513",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_1.jpg"
+  },
+  {
+   "title": "Vatican Museum Map Room",
+   "lic": "CC BY 2.0",
+   "artist": "cfwee",
+   "w": 446,
+   "h": 500,
+   "url": "https://live.staticflickr.com/82/217159731_f21ed1d847.jpg",
+   "thumb": "https://api.openverse.org/v1/images/42ab252b-47cd-498c-af4d-095cdb5958f3/thumb/",
+   "page": "https://www.flickr.com/photos/11206448@N00/217159731",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_3.jpg"
+  },
+  {
+   "title": "Historiska Museum Map of Sweden",
+   "lic": "CC BY 2.0",
+   "artist": "Jodimu",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8018/7182161444_8cba58347a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bf81b8df-38f3-4218-9bba-2e9402bf5a65/thumb/",
+   "page": "https://www.flickr.com/photos/30305102@N04/7182161444",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_6.jpg"
+  }
+ ],
  "poster": [
   {
    "title": "Pour l'Art, exhibition poster",

@@ -68,8 +68,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/square_2.jpg"
   }
  ],
- "avenue": [],
- "building": [],
+ "avenue": [
+  {
+   "title": "Palm tree lined avenue in Copiapo",
+   "lic": "CC BY-SA 2.0",
+   "artist": "sergejf",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4034/4320370343_471acd11ab_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/412f1de5-9fa4-4317-bdb2-7f4375b5b6ea/thumb/",
+   "page": "https://www.flickr.com/photos/7942389@N04/4320370343",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_0.jpg"
+  },
+  {
+   "title": "Beautiful tree lined avenue",
+   "lic": "CC BY 2.0",
+   "artist": "shankar s.",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8027/7637763242_9181d28d36_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/673466fc-80fd-4c6b-89ba-3d12e02da733/thumb/",
+   "page": "https://www.flickr.com/photos/77742560@N06/7637763242",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_1.jpg"
+  },
+  {
+   "title": "Tree-lined Avenue at Badminton",
+   "lic": "CC BY 2.0",
+   "artist": "shirokazan",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4118/4826569070_7fb5c83849_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/042f7eb0-476c-478c-98f5-1931485d07c6/thumb/",
+   "page": "https://www.flickr.com/photos/11302107@N05/4826569070",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/avenue_2.jpg"
+  }
+ ],
+ "building": [
+  {
+   "title": "auguste perret, architect: 25 bis rue franklin apartment building, paris 1903-1904",
+   "lic": "CC BY 2.0",
+   "artist": "seier+seier",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/7038/6941331593_f90e01120a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8499ec92-3613-423a-8ddb-03d9bf342878/thumb/",
+   "page": "https://www.flickr.com/photos/94852245@N00/6941331593",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_0.jpg"
+  },
+  {
+   "title": "集合住宅 apartment buildings",
+   "lic": "CC BY 2.0",
+   "artist": "Yuya Tamai",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2487/3820595970_4ccf0d7ec1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2a0ce09a-9bf0-4678-ba35-c78f93957fc4/thumb/",
+   "page": "https://www.flickr.com/photos/76758469@N00/3820595970",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_1.jpg"
+  },
+  {
+   "title": "auguste perret, architect: 25 bis rue franklin apartment building, paris 1903-1904",
+   "lic": "CC BY 2.0",
+   "artist": "seier+seier",
+   "w": 757,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7194/6999220803_c1fa83422c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0789344b-5aa8-4815-b933-bb556d9fa924/thumb/",
+   "page": "https://www.flickr.com/photos/94852245@N00/6999220803",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/building_2.jpg"
+  }
+ ],
  "church": [
   {
    "title": "Toledo Cathedral",
@@ -111,7 +191,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/church_2.jpg"
   }
  ],
- "townhall": [],
+ "townhall": [
+  {
+   "title": "Ayuntamiento en Navidad (Valencia)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "alcebal2002",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3285/3135342854_60d1a2f208_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/acf07192-334c-4eef-8e5f-d43085e57ae1/thumb/",
+   "page": "https://www.flickr.com/photos/16161296@N00/3135342854",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_0.jpg"
+  },
+  {
+   "title": "Belén ayuntamiento de Madrid",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jacilluch",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8602/15934447086_ff7d75e05e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8e1261d0-b37f-4998-8297-feded998ddfd/thumb/",
+   "page": "https://www.flickr.com/photos/70626035@N00/15934447086",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_2.jpg"
+  },
+  {
+   "title": "Ayuntamiento de Tel Aviv en la Semana del Orgullo Gay 2015",
+   "lic": "CC BY 2.0",
+   "artist": "Edgardo W. Olivera",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/1650/26150354576_48fee0837d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1f7db70e-aca2-467e-9aaa-28c634300ea5/thumb/",
+   "page": "https://www.flickr.com/photos/124137421@N04/26150354576",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/townhall_3.jpg"
+  }
+ ],
  "market": [
   {
    "title": "2006-0920 Barcelona panorama 01 - Mercat Santa Caterina by Enric Miralles",
@@ -263,7 +383,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/corner_2.jpg"
   }
  ],
- "lights": [],
+ "lights": [
+  {
+   "title": "Traffic Light",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Luis Rodero-Merino",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2395/2495333756_de52dbd092_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0c3ef68c-bcb2-40fd-a0c8-92ce860bac64/thumb/",
+   "page": "https://www.flickr.com/photos/49865627@N00/2495333756",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_0.jpg"
+  },
+  {
+   "title": "Traffic Lights",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ullrich.c",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2367/2079746671_5a4ae9e957_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a935c9e1-67ba-4e0c-8d34-5012ffecb2e3/thumb/",
+   "page": "https://www.flickr.com/photos/7926008@N08/2079746671",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_1.jpg"
+  },
+  {
+   "title": "Strange traffic lights",
+   "lic": "CC BY 2.0",
+   "artist": "Tilemahos Efthimiadis",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3212/2788591239_4dd01c01f5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/36375c97-3843-4de5-a5d7-d6d02d15a818/thumb/",
+   "page": "https://www.flickr.com/photos/64379474@N00/2788591239",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/lights_2.jpg"
+  }
+ ],
  "crosswalk": [
   {
    "title": "Heat",
@@ -469,8 +629,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/neighborhood_2.jpg"
   }
  ],
- "shop": [],
- "bank": [],
+ "shop": [
+  {
+   "title": "Love triangle in a shop window",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Photocapy",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/24/95840884_a8c2f3b93f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d01778a1-81d4-42fa-8bd3-848dbbf5cbc4/thumb/",
+   "page": "https://www.flickr.com/photos/81635051@N00/95840884",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_0.jpg"
+  },
+  {
+   "title": "Shop Window for corpus christi",
+   "lic": "CC BY 2.0",
+   "artist": "mozzercork",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/34/71720111_5109e94b1c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64360701-add2-47f3-83fe-c4179732f278/thumb/",
+   "page": "https://www.flickr.com/photos/98382796@N00/71720111",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_1.jpg"
+  },
+  {
+   "title": "shop window",
+   "lic": "CC BY 2.0",
+   "artist": "zoetnet",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4116/4857210053_bc6eab5ceb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/696ecb1f-3050-4819-bb89-c453c71dee53/thumb/",
+   "page": "https://www.flickr.com/photos/13286453@N00/4857210053",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_2.jpg"
+  }
+ ],
+ "bank": [
+  {
+   "title": "Market Street National Bank Facade",
+   "lic": "CC BY 2.0",
+   "artist": "Jim, the Photographer",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3830/11357543333_f903d622d6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40e4491c-4947-44e0-812f-0398701d591a/thumb/",
+   "page": "https://www.flickr.com/photos/72744295@N00/11357543333",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_0.jpg"
+  },
+  {
+   "title": "Former Bank Facade, Milwaukee Ave. south of Logan Blvd.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "artistmac",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8889/17658992264_5828e9ddb0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7290ea66-3773-42af-a464-549f4e2369b3/thumb/",
+   "page": "https://www.flickr.com/photos/26329029@N06/17658992264",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_1.jpg"
+  },
+  {
+   "title": "BANK FACADE",
+   "lic": "CC BY 2.0",
+   "artist": "tombabich24",
+   "w": 678,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2808/10427279393_afe5abdaae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/92a8a19b-0cb3-4b3e-8008-f436831a01f7/thumb/",
+   "page": "https://www.flickr.com/photos/100308777@N07/10427279393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_3.jpg"
+  }
+ ],
  "pharmacy": [
   {
    "title": "Farmacia - Calle Pedro Antonio de Alarcon, Granada - green cross",

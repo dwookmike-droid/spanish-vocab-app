@@ -1,0 +1,22 @@
+{
+ "right": 1,
+ "left": 1,
+ "straight": 0,
+ "corner": 1,
+ "street": 1,
+ "crossroads": 0,
+ "slope": 0,
+ "map": 0,
+ "north": 0,
+ "south": 0,
+ "east": 0,
+ "west": 2,
+ "near": 1,
+ "far": 0,
+ "nextto": 0,
+ "opposite": null,
+ "behind": 0,
+ "infront": 2,
+ "sign": 1,
+ "alley": 2
+}

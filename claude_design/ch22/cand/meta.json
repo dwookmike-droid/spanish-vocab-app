@@ -97,8 +97,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/nose_2.jpg"
   }
  ],
- "mouth": [],
- "tooth": [],
+ "mouth": [
+  {
+   "title": "Sexy lips",
+   "lic": "CC BY 2.0",
+   "artist": "ePi.Longo",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/3070/2706139249_60e85e5346_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9d7d10a3-48b4-453e-a485-c841c8f9fd6d/thumb/",
+   "page": "https://www.flickr.com/photos/56278354@N00/2706139249",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_0.jpg"
+  },
+  {
+   "title": "Sugar Lips",
+   "lic": "CC BY 2.0",
+   "artist": "Jeanny Schmidt",
+   "w": 1024,
+   "h": 731,
+   "url": "https://live.staticflickr.com/2317/5716365533_b44f6975ff_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/10bcb1d9-71e0-4c8a-9652-fd7e37695a49/thumb/",
+   "page": "https://www.flickr.com/photos/48776556@N04/5716365533",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_1.jpg"
+  },
+  {
+   "title": "Mercedes-Benz CL [W216] PD-Black Edition Black Series Widebody PRIOR-DESIGN Aerodynamic-Kit, Front bumper, vented hood, rear bumper and rear diffuser, front lip, trunk spoiler and exhaust tips. CL63 CL65 AMG. Like SL65 Black Series",
+   "lic": "CC BY 2.0",
+   "artist": "Prior Design NA (priordesignusa.com)",
+   "w": 1024,
+   "h": 640,
+   "url": "https://live.staticflickr.com/7053/6939709693_174788f29e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9b5b076b-e6e0-45a2-a725-a99b745597f0/thumb/",
+   "page": "https://www.flickr.com/photos/49500824@N02/6939709693",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/mouth_2.jpg"
+  }
+ ],
+ "tooth": [
+  {
+   "title": "Cat teeth",
+   "lic": "CC BY-SA 2.0",
+   "artist": "barbourians",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/8035/8063956956_dd44aaf3bc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/30356372-d61a-497a-871d-021a96728b77/thumb/",
+   "page": "https://www.flickr.com/photos/51607907@N03/8063956956",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_0.jpg"
+  },
+  {
+   "title": "Those are rawfed teeth, baby.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "This Year's Love",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2230/2311374241_f0fc474d8a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/90585d07-1461-410c-b141-d3f00698514f/thumb/",
+   "page": "https://www.flickr.com/photos/82328600@N00/2311374241",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_1.jpg"
+  },
+  {
+   "title": "Teeth",
+   "lic": "CC BY 2.0",
+   "artist": "Zawezome",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2262/2276185684_cc7d8d3b39_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cb9edcc3-c4f4-40a9-a7ed-f253b72fdf3e/thumb/",
+   "page": "https://www.flickr.com/photos/8699239@N04/2276185684",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/tooth_2.jpg"
+  }
+ ],
  "neck": [
   {
    "title": "The neck",
@@ -140,8 +220,88 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/neck_2.jpg"
   }
  ],
- "arm": [],
- "hand": [],
+ "arm": [
+  {
+   "title": "measuring forearm",
+   "lic": "CC BY 2.0",
+   "artist": "USFWS Headquarters",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7019/6643313051_803093f69e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/16ddd644-e5c2-40ae-a2e7-c134d193e6e9/thumb/",
+   "page": "https://www.flickr.com/photos/50838842@N06/6643313051",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_0.jpg"
+  },
+  {
+   "title": "Pincha Mayurasana - Forearm Stand",
+   "lic": "CC BY-SA 2.0",
+   "artist": "a4gpa",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/3016/2793988454_7d9204169c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c24374ec-e100-42e6-8fc7-f6a53149b140/thumb/",
+   "page": "https://www.flickr.com/photos/94833286@N00/2793988454",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_1.jpg"
+  },
+  {
+   "title": "Pincha Mayurasana - Forearm Stand",
+   "lic": "CC BY-SA 2.0",
+   "artist": "a4gpa",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3030/2681445482_0915e7b97e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/df7a5efe-e8eb-4ab2-b1e8-91d29c9029ea/thumb/",
+   "page": "https://www.flickr.com/photos/94833286@N00/2681445482",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/arm_2.jpg"
+  }
+ ],
+ "hand": [
+  {
+   "title": "Concrete statue of Samantabhadra riding on a elepant, top knot hair style, halo, one hand raised, open palm, silks, jewels, Dario's Statuary, Lake City Way, Seattle, Washington, USA",
+   "lic": "CC BY 2.0",
+   "artist": "Wonderlane",
+   "w": 600,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3903/14607141461_5e9b942ab6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/94c59200-9abb-4549-9e76-5ba2ff094837/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/14607141461",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_0.jpg"
+  },
+  {
+   "title": "Standing Buddha with open palms mudra, giving, fearlessness, flaming aura on top of his head, detail of torso, metal, Art Institute of Chicago, Illinois, USA",
+   "lic": "CC0",
+   "artist": "Wonderlane",
+   "w": 621,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8157/7521884070_e10df940cb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d299df8a-143a-496c-aa04-ba50bfd1df7b/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/7521884070",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_1.jpg"
+  },
+  {
+   "title": "Open palms",
+   "lic": "CC BY 2.0",
+   "artist": "Fencreative",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5141/5681232600_a98017b7b2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cfb7d8f9-dd6c-4104-91a7-1f6e65c9019e/thumb/",
+   "page": "https://www.flickr.com/photos/39841908@N05/5681232600",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/hand_2.jpg"
+  }
+ ],
  "finger": [
   {
    "title": "Finger, pointing",
@@ -265,7 +425,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_5.jpg"
   }
  ],
- "back": [],
+ "back": [
+  {
+   "title": "Back Pain",
+   "lic": "CC BY 2.0",
+   "artist": "PracticalCures",
+   "w": 1024,
+   "h": 602,
+   "url": "https://live.staticflickr.com/5683/22784724783_95ef17af67_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/49197e24-b494-4edd-8568-2dae6f82a308/thumb/",
+   "page": "https://www.flickr.com/photos/133128892@N02/22784724783",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_0.jpg"
+  },
+  {
+   "title": "DGJ_3542 - Back Pain Creator",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5126/5333025364_d9cd6da3b9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eb9c1e2d-0ce3-4e4f-ba52-3752a8531fc6/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/5333025364",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_1.jpg"
+  },
+  {
+   "title": "A young woman having back pain while sitting at the desk in her office",
+   "lic": "CC BY 2.0",
+   "artist": "Ivan Radic",
+   "w": 684,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/49496167428_068696a14f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7a85da03-c3d0-4798-98f5-215568afe1ae/thumb/",
+   "page": "https://www.flickr.com/photos/26344495@N05/49496167428",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/back_2.jpg"
+  }
+ ],
  "stomach": [
   {
    "title": "Pierced outie belly button",
@@ -389,7 +589,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/pill_2.jpg"
   }
  ],
- "prescription": [],
+ "prescription": [
+  {
+   "title": "OTC Professional Appliances, circa 1965 - Advertising Postcard",
+   "lic": "CC BY 2.0",
+   "artist": "Shook Photos",
+   "w": 1024,
+   "h": 652,
+   "url": "https://live.staticflickr.com/65535/4767205949_baf837e6a4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/65710317-8463-4990-b39b-e2241ae4cfca/thumb/",
+   "page": "https://www.flickr.com/photos/24724221@N07/4767205949",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_0.jpg"
+  },
+  {
+   "title": "Me and DirecTV booth babes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "nickgraywfu",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/135/351205431_1afb3de4a3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4e97c93c-0075-4928-88d9-8b42f844acb0/thumb/",
+   "page": "https://www.flickr.com/photos/35034365374@N01/351205431",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_1.jpg"
+  },
+  {
+   "title": "White prescription bag held by hand stock photo",
+   "lic": "CC BY 2.0",
+   "artist": "Chemist 4 U",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7801/47486288271_37791b0abc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5f60a37b-0975-4538-b0d3-84938e45910f/thumb/",
+   "page": "https://www.flickr.com/photos/170378439@N03/47486288271",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_2.jpg"
+  }
+ ],
  "plaster": [
   {
    "title": "Young girl with band-aid on her upper arm",
@@ -472,5 +712,45 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/syrup_2.jpg"
   }
  ],
- "thermometer": []
+ "thermometer": [
+  {
+   "title": "Digital thermometer",
+   "lic": "CC BY 2.0",
+   "artist": "Wheeler Cowperthwaite",
+   "w": 883,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6097/6212530282_b896d50b35_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ff06a1bc-ba01-4ee1-8301-a603fda4c4ab/thumb/",
+   "page": "https://www.flickr.com/photos/60756254@N07/6212530282",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_1.jpg"
+  },
+  {
+   "title": "Wall mounted digital thermometer, Gigaset basestation & TP-LINK TL-WR1043ND",
+   "lic": "CC BY 2.0",
+   "artist": "Kai Hendry",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7319/8728994145_49065a69b2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e6a4f627-075f-42ac-b6e2-72231dc46d6c/thumb/",
+   "page": "https://www.flickr.com/photos/16105436@N00/8728994145",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_2.jpg"
+  },
+  {
+   "title": "Labor-Sehr genaues Digital-Thermometer......",
+   "lic": "CC BY-SA 2.0",
+   "artist": "labormikro",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1364/1018240852_3c184a61be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c115e91f-d8d3-42cc-96a4-89be2d5a2a65/thumb/",
+   "page": "https://www.flickr.com/photos/10974451@N05/1018240852",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/thermometer_3.jpg"
+  }
+ ]
 }

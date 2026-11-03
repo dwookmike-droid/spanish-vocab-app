@@ -40,7 +40,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_2.jpg"
   }
  ],
- "football_ball": [],
+ "football_ball": [
+  {
+   "title": "Soccer Ball Cake",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mags20_eb",
+   "w": 685,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4129/5083814042_c784885c0a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cf984f1d-34b9-4a4c-acca-cb59d0e79008/thumb/",
+   "page": "https://www.flickr.com/photos/16937950@N05/5083814042",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_ball_0.jpg"
+  },
+  {
+   "title": "Soccer Ball Blue",
+   "lic": "Public Domain",
+   "artist": "HolgerLi",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/690/20952200446_5b79dece96_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/603da40d-9622-491f-bf63-d0bccb879123/thumb/",
+   "page": "https://www.flickr.com/photos/75927009@N05/20952200446",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_ball_1.jpg"
+  },
+  {
+   "title": "Soccer Ball",
+   "lic": "CC BY 2.0",
+   "artist": "Howard O. Young",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/4025/4271559215_650ce30cd8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7dad89e3-3cf8-453c-b692-ac0ed63783cc/thumb/",
+   "page": "https://www.flickr.com/photos/16947083@N06/4271559215",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_ball_2.jpg"
+  }
+ ],
  "stadium": [
   {
    "title": "Wembley Football Stadium 00068",
@@ -82,7 +122,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/stadium_2.jpg"
   }
  ],
- "team": [],
+ "team": [
+  {
+   "title": "Soccer team",
+   "lic": "CC BY 2.0",
+   "artist": "phlubdr",
+   "w": 1024,
+   "h": 749,
+   "url": "https://live.staticflickr.com/5179/5502066059_c3e4fdf528_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/010abd23-2005-441e-a6ea-e23260c28bb3/thumb/",
+   "page": "https://www.flickr.com/photos/34128018@N04/5502066059",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/team_0.jpg"
+  },
+  {
+   "title": "Emmanuel Presbyterian Church Junior Soccer Team.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Toronto Public Library Special Collections",
+   "w": 1024,
+   "h": 827,
+   "url": "https://live.staticflickr.com/5348/30521971142_3f9452ddd1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/978dddef-54e0-4419-95fd-acc3ebf14701/thumb/",
+   "page": "https://www.flickr.com/photos/43021516@N06/30521971142",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/team_1.jpg"
+  },
+  {
+   "title": "Aidan's soccer team",
+   "lic": "CC BY 2.0",
+   "artist": "JustyCinMD",
+   "w": 1024,
+   "h": 689,
+   "url": "https://live.staticflickr.com/6031/6261784735_20cdc15923_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/776da55f-6aad-415a-ae95-624bb0bdf757/thumb/",
+   "page": "https://www.flickr.com/photos/58926154@N04/6261784735",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/team_2.jpg"
+  }
+ ],
  "match": [
   {
    "title": "Christiano Ronaldo",
@@ -316,9 +396,129 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/runner_2.jpg"
   }
  ],
- "party": [],
- "neckerchief": [],
- "band": [],
+ "party": [
+  {
+   "title": "Copenhagen Street Festival 2011",
+   "lic": "CC BY 2.0",
+   "artist": "Tiws",
+   "w": 1024,
+   "h": 714,
+   "url": "https://live.staticflickr.com/7018/6387922477_ce2de70f60_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d8988399-c45d-4e64-8201-3c5dad9c7b69/thumb/",
+   "page": "https://www.flickr.com/photos/43164453@N08/6387922477",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/party_0.jpg"
+  },
+  {
+   "title": "Street Festival",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ian Muttoo",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/3008/2802205608_2a6df5bc00_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/459834b7-e5c7-4125-b6b8-04c843df6e9d/thumb/",
+   "page": "https://www.flickr.com/photos/20741443@N00/2802205608",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/party_1.jpg"
+  },
+  {
+   "title": "Scorpio Rising and Sheer Khan and the Space Case at Cedar Street Festival",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MarkScottAustinTX",
+   "w": 685,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8186/8123596764_bfdabe898e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cc926065-64e9-4ff5-b7f7-4ff8f2165d07/thumb/",
+   "page": "https://www.flickr.com/photos/57185608@N00/8123596764",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/party_2.jpg"
+  }
+ ],
+ "neckerchief": [
+  {
+   "title": "Wearing the Red Neckerchief",
+   "lic": "CC BY 2.0",
+   "artist": "crudmucosa",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7865/46501004654_90bb8d47ed_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4c0d66f7-eab4-4fa0-94e8-ea28babb8ea0/thumb/",
+   "page": "https://www.flickr.com/photos/51434786@N06/46501004654",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/neckerchief_0.jpg"
+  },
+  {
+   "title": "Red Neckerchief",
+   "lic": "CC BY 2.0",
+   "artist": "crudmucosa",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1726/41789448504_b2144e6924_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cacdd804-3a07-4a3d-9628-7a43c35788ef/thumb/",
+   "page": "https://www.flickr.com/photos/51434786@N06/41789448504",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/neckerchief_1.jpg"
+  },
+  {
+   "title": "Holding the Arrow And Ready for His New Red Neckerchief",
+   "lic": "CC BY 2.0",
+   "artist": "crudmucosa",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/4678/26681809588_332348890e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7e382eae-6b9a-4987-a2d8-ee8f1d874ee8/thumb/",
+   "page": "https://www.flickr.com/photos/51434786@N06/26681809588",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/neckerchief_2.jpg"
+  }
+ ],
+ "band": [
+  {
+   "title": "Haworth Brass Band",
+   "lic": "CC BY 2.0",
+   "artist": "Tim Green aka atoach",
+   "w": 1024,
+   "h": 880,
+   "url": "https://live.staticflickr.com/2883/10367594486_5e3cecff81_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b3ed6af-ac09-409b-90ab-f9066b809d05/thumb/",
+   "page": "https://www.flickr.com/photos/93416311@N00/10367594486",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/band_0.jpg"
+  },
+  {
+   "title": "Big Brass Band!",
+   "lic": "CC BY 2.0",
+   "artist": "peasap",
+   "w": 1024,
+   "h": 739,
+   "url": "https://live.staticflickr.com/2085/1576839129_d62a4743be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c133bc6a-e5ea-401c-b6f1-8d06ffa7d48e/thumb/",
+   "page": "https://www.flickr.com/photos/21314760@N00/1576839129",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/band_1.jpg"
+  },
+  {
+   "title": "Rose, Brass Band, バラ, ブラス バンド,",
+   "lic": "CC BY-SA 2.0",
+   "artist": "T.Kiya",
+   "w": 769,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7582/15648499099_1f32ebca1b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c2a40865-a974-4a9a-901b-b08d1c192e3e/thumb/",
+   "page": "https://www.flickr.com/photos/38217580@N05/15648499099",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/band_2.jpg"
+  }
+ ],
  "fireworks": [
   {
    "title": "Fireworks",
@@ -360,7 +560,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/fireworks_2.jpg"
   }
  ],
- "parade": [],
+ "parade": [
+  {
+   "title": "Carnivale-Carnival parade : The handshake.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "My name's axel",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2158/2288581082_b443d5b4e3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d21a79b7-0edf-424d-84ff-617e312a27b3/thumb/",
+   "page": "https://www.flickr.com/photos/37611179@N00/2288581082",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/parade_0.jpg"
+  },
+  {
+   "title": "Carnival Parade in Aachen 2007",
+   "lic": "CC BY 2.0",
+   "artist": "Franz & P",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/163/396737617_a17850848d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9ca19f16-16bf-4fcd-8f73-e3869729422a/thumb/",
+   "page": "https://www.flickr.com/photos/51834351@N00/396737617",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/parade_1.jpg"
+  },
+  {
+   "title": "Brooklyn Carnival Parade 2010 269",
+   "lic": "CC BY 2.0",
+   "artist": "sfmission.com",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/4145/4971937012_4f6f006267_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dfea767e-1ce0-4b5d-b760-5b207462d5b6/thumb/",
+   "page": "https://www.flickr.com/photos/17281186@N00/4971937012",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/parade_2.jpg"
+  }
+ ],
  "entryticket": [
   {
    "title": "Entry ticket to Dracula's Castle, Bran, Romania 1996",
@@ -443,7 +683,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/champion_2.jpg"
   }
  ],
- "referee": [],
+ "referee": [
+  {
+   "title": "Referee And Friend",
+   "lic": "CC BY 2.0",
+   "artist": "Joe Shlabotnik",
+   "w": 770,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/104/288619405_da113b82e1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5d395086-58ea-4ea6-9783-44f46add0cd1/thumb/",
+   "page": "https://www.flickr.com/photos/40646519@N00/288619405",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_0.jpg"
+  },
+  {
+   "title": "Referee Max Battimo",
+   "lic": "CC BY 2.0",
+   "artist": "mark6mauno",
+   "w": 686,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2179/1511226497_09f0fbe739_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/579c0d57-3900-4dec-8315-15a95f3991aa/thumb/",
+   "page": "https://www.flickr.com/photos/98147195@N00/1511226497",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_1.jpg"
+  },
+  {
+   "title": "Obey the referee rule",
+   "lic": "CC BY 2.0",
+   "artist": "daveynin",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3797/12918024913_8e8f78533f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9e26818c-47d7-48df-922c-191bfa25eaca/thumb/",
+   "page": "https://www.flickr.com/photos/44124370018@N01/12918024913",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_2.jpg"
+  }
+ ],
  "pool": [
   {
    "title": "Swimming Pool",
@@ -485,5 +765,45 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/pool_2.jpg"
   }
  ],
- "gym": []
+ "gym": [
+  {
+   "title": "Dumbbells",
+   "lic": "CC BY-SA 2.0",
+   "artist": "bepositivelyfit",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3639/3401138347_bff2964e7a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/704be09c-6ec9-4502-abda-825d0c5a4fe8/thumb/",
+   "page": "https://www.flickr.com/photos/32749811@N08/3401138347",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/gym_0.jpg"
+  },
+  {
+   "title": "Dumbbells",
+   "lic": "CC BY-SA 2.0",
+   "artist": "WilsonB",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3270/2849545766_2b560d9b65_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/38a7ca44-0795-4390-88cc-0288ad4cfaf1/thumb/",
+   "page": "https://www.flickr.com/photos/27504933@N00/2849545766",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/gym_1.jpg"
+  },
+  {
+   "title": "dumbbells",
+   "lic": "CC BY 2.0",
+   "artist": "o0bsessed",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2207/2393321524_58bf2a6f7a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2bcf1cec-c0d0-469f-a7bd-782e94943519/thumb/",
+   "page": "https://www.flickr.com/photos/25330908@N05/2393321524",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/gym_2.jpg"
+  }
+ ]
 }

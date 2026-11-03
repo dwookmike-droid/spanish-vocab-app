@@ -327,7 +327,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/coin_2.jpg"
   }
  ],
- "banknote": [],
+ "banknote": [
+  {
+   "title": "New 50 Euro banknotes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "driver Photographer",
+   "w": 1024,
+   "h": 557,
+   "url": "https://live.staticflickr.com/4173/34400380096_09b875d6f0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1d81dfb7-c353-43f2-bb31-94165514de82/thumb/",
+   "page": "https://www.flickr.com/photos/72334647@N03/34400380096",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_1.jpg"
+  },
+  {
+   "title": "New 50 Euro banknotes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "driver Photographer",
+   "w": 1024,
+   "h": 554,
+   "url": "https://live.staticflickr.com/4158/34442709025_ec1092de6c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/10eb6af3-470d-481d-b139-f7f379e1ad7c/thumb/",
+   "page": "https://www.flickr.com/photos/72334647@N03/34442709025",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_2.jpg"
+  },
+  {
+   "title": "New 100 EURO banknotes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "driver Photographer",
+   "w": 1024,
+   "h": 563,
+   "url": "https://live.staticflickr.com/65535/47957571978_8e646575cb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ef0e5c69-a6b5-4a7e-a975-cebf0497b17e/thumb/",
+   "page": "https://www.flickr.com/photos/72334647@N03/47957571978",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_4.jpg"
+  }
+ ],
  "card": [
   {
    "title": "Minimum Credit Card Payment £1.00",
@@ -520,7 +560,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fittingroom_2.jpg"
   }
  ],
- "size": [],
+ "size": [
+  {
+   "title": "Shamask Navy Blue Coat Size Label",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Flyinace2000",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/6211/6369442759_b655d464f3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/92c1e6dc-99df-4780-80d9-0be4ae41f430/thumb/",
+   "page": "https://www.flickr.com/photos/92455828@N00/6369442759",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_0.jpg"
+  },
+  {
+   "title": "Amazon-New-Detail-Page",
+   "lic": "CC BY 2.0",
+   "artist": "kokogiak",
+   "w": 500,
+   "h": 448,
+   "url": "https://live.staticflickr.com/4/8626470_742209799f.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3ce1c135-2cf5-4287-adfc-731ede06944c/thumb/",
+   "page": "https://www.flickr.com/photos/35034351119@N01/8626470",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_4.jpg"
+  },
+  {
+   "title": "Ruler - INCOMPETENT MANUFACTURERS",
+   "lic": "CC BY 2.0",
+   "artist": "B/Hiking Nikon Oregon",
+   "w": 1024,
+   "h": 924,
+   "url": "https://live.staticflickr.com/165/408971482_c87bc0325f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/893560f4-e0c2-4650-87d5-d5ed5884b9dc/thumb/",
+   "page": "https://www.flickr.com/photos/67395061@N00/408971482",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_5.jpg"
+  }
+ ],
  "discount": [
   {
    "title": "Everything is 80s Percent Off",

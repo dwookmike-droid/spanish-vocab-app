@@ -1,5 +1,45 @@
 {
- "mountain": [],
+ "mountain": [
+  {
+   "title": "Massive cloud formation between two mountain peaks",
+   "lic": "CC BY 2.0",
+   "artist": "Horia Varlan",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/5122/5285236596_da2cd3fdec_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/17976f18-0947-4139-ab75-a90b741478bc/thumb/",
+   "page": "https://www.flickr.com/photos/10361931@N06/5285236596",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/mountain_0.jpg"
+  },
+  {
+   "title": "Green mountain peaks seen from camp site",
+   "lic": "CC BY 2.0",
+   "artist": "Horia Varlan",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/4118/4896426357_9d910fe75a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e767aaff-d6de-494f-a0fc-09664bc31adf/thumb/",
+   "page": "https://www.flickr.com/photos/10361931@N06/4896426357",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/mountain_1.jpg"
+  },
+  {
+   "title": "Silvermines Mountain Peak",
+   "lic": "CC BY 2.0",
+   "artist": "IrishFireside",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/1189/1407160769_3a2d16fa84_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5d24acb5-3906-4a95-85d8-05a796830f4f/thumb/",
+   "page": "https://www.flickr.com/photos/43762537@N00/1407160769",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/mountain_2.jpg"
+  }
+ ],
  "river": [
   {
    "title": "River Seridó",
@@ -356,7 +396,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/waterfall_2.jpg"
   }
  ],
- "sky": [],
+ "sky": [
+  {
+   "title": "Blue Sky clouds 2",
+   "lic": "CC BY 2.0",
+   "artist": "Cindy Funk",
+   "w": 1024,
+   "h": 692,
+   "url": "https://live.staticflickr.com/2028/2514854823_a7147486ae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/730fb523-adeb-40dc-bd75-71719e535e7e/thumb/",
+   "page": "https://www.flickr.com/photos/84858864@N00/2514854823",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_0.jpg"
+  },
+  {
+   "title": "Blue sky clouds",
+   "lic": "CC BY 2.0",
+   "artist": "Cindy Funk",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3009/2515679680_3e50c78b78_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f10b3fd3-97c5-42d5-ac58-ba51cf407db7/thumb/",
+   "page": "https://www.flickr.com/photos/84858864@N00/2515679680",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_1.jpg"
+  },
+  {
+   "title": "Technology, the sky is the limit, blue sky, clouds, reflection, Bellevue, Washington, USA",
+   "lic": "CC BY 2.0",
+   "artist": "Wonderlane",
+   "w": 1024,
+   "h": 662,
+   "url": "https://live.staticflickr.com/7249/7046360465_783996a2f7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/67bdf20c-6f41-4009-9622-40f64f87632d/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/7046360465",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_2.jpg"
+  }
+ ],
  "stone": [
   {
    "title": "stone, wall, textura",
@@ -644,7 +724,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/viewpoint_2.jpg"
   }
  ],
- "hill": [],
+ "hill": [
+  {
+   "title": "Hiking trail sign on green hill",
+   "lic": "CC BY 2.0",
+   "artist": "Horia Varlan",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/4121/4900705092_7555fbee07_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bb9d91b3-664a-446b-b1b2-aa96b6267338/thumb/",
+   "page": "https://www.flickr.com/photos/10361931@N06/4900705092",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_0.jpg"
+  },
+  {
+   "title": "Green Green Hills of Home",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 1000,
+   "h": 669,
+   "url": "https://live.staticflickr.com/8113/10219727024_cb0d5945d6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f4aba71d-00ba-407f-8b55-652e4b04e22a/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/10219727024",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_1.jpg"
+  },
+  {
+   "title": "Hay stacking, Green Hills Farm near Warwick, 16 November 1894",
+   "lic": "Public Domain",
+   "artist": "Queensland State Archives",
+   "w": 500,
+   "h": 411,
+   "url": "https://live.staticflickr.com/8502/8278649753_47759caffa.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b63a5e2-1977-43fc-a462-aed433b25480/thumb/",
+   "page": "https://www.flickr.com/photos/60455048@N02/8278649753",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_2.jpg"
+  }
+ ],
  "olivetree": [
   {
    "title": "Close up of an Olive Tree",
