@@ -40,9 +40,12 @@ def main(d):
         c = meta[key][idx]
         dst = d / "img" / f"{key}.jpg"
         if not dst.exists():
-            url = re.sub(r"/\d+px-", "/500px-", c["thumb"])
-            dst.write_bytes(get(url))
-        credits[key] = {k: c[k] for k in ("title", "lic", "artist", "w", "h", "url", "thumb", "page")}
+            if c.get("src") == "openverse":  # the 600 px Openverse thumbnail is already big enough
+                dst.write_bytes((d / "cand" / Path(c["file"]).name).read_bytes())
+            else:
+                url = re.sub(r"/\d+px-", "/500px-", c["thumb"])
+                dst.write_bytes(get(url))
+        credits[key] = {k: c[k] for k in ("title", "lic", "artist", "w", "h", "url", "thumb", "page", "src", "provider") if k in c}
     (d / "credits.json").write_text(json.dumps(credits, ensure_ascii=False, indent=1), encoding="utf-8")
     print(d.name, len(credits), "photos")
 
