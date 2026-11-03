@@ -55,7 +55,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/eye_0.jpg"
   }
  ],
- "ear": [],
+ "ear": [
+  {
+   "title": "Mara ears closeup",
+   "lic": "CC0",
+   "artist": "D Coetzee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3358/3506128604_3a3e5a91ee_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cdcbcb22-4ecf-4a68-b1ff-000d5cc1bc7e/thumb/",
+   "page": "https://www.flickr.com/photos/29507259@N02/3506128604",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_0.jpg"
+  },
+  {
+   "title": "Elephant Ear Closeup",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Eric Kilby",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/754/22803611542_92eefaf713_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/25869529-3a76-41dc-b8a6-b330e7be685a/thumb/",
+   "page": "https://www.flickr.com/photos/8749778@N06/22803611542",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_1.jpg"
+  },
+  {
+   "title": "earring closeup side 1",
+   "lic": "CC BY 2.0",
+   "artist": "Different Seasons Jewelry",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3307/4581222253_044ba76c20_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/df3de538-7dbe-4be5-b540-b0a01d750715/thumb/",
+   "page": "https://www.flickr.com/photos/58902192@N00/4581222253",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/ear_3.jpg"
+  }
+ ],
  "nose": [
   {
    "title": "inside a human nose",
@@ -358,7 +398,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/leg_2.jpg"
   }
  ],
- "foot": [],
+ "foot": [
+  {
+   "title": "“The human foot is a masterpiece of engineering and a work of art.”",
+   "lic": "CC BY 2.0",
+   "artist": "katerha",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4017/4661338656_1ef920f55a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/21275b71-9f12-4dac-aaf9-7541dda9f1eb/thumb/",
+   "page": "https://www.flickr.com/photos/8489692@N03/4661338656",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_3.jpg"
+  },
+  {
+   "title": "Common Leopard (Phalanta phalanta) sipping sweat from a human foot",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gbohne",
+   "w": 1024,
+   "h": 721,
+   "url": "https://live.staticflickr.com/5007/5338281677_4a73a65eeb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/551deee5-3fa7-416f-9d4d-59ec225ab403/thumb/",
+   "page": "https://www.flickr.com/photos/51216897@N07/5338281677",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_4.jpg"
+  },
+  {
+   "title": "Pussy cat foot prints and human foot prints in the snow",
+   "lic": "CC BY 2.0",
+   "artist": "Abi Skipp",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5213/5384083089_742328b25b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d7221683-a6ea-4abf-a99a-2538b37a03c8/thumb/",
+   "page": "https://www.flickr.com/photos/9557815@N05/5384083089",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/foot_5.jpg"
+  }
+ ],
  "back": [
   {
    "title": "Anatomy: écorché human back, showing",
@@ -525,7 +605,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/prescription_2.jpg"
   }
  ],
- "plaster": [],
+ "plaster": [
+  {
+   "title": "Young girl with band-aid on her upper arm",
+   "lic": "CC BY 2.0",
+   "artist": "SELF Magazine",
+   "w": 705,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/48545942051_0ba7b4e8d4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11f306aa-5d35-472a-8f3f-49e8a2a361cd/thumb/",
+   "page": "https://www.flickr.com/photos/183469667@N05/48545942051",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/plaster_0.jpg"
+  },
+  {
+   "title": "Young girl holding stuffed animal having band-aid applied",
+   "lic": "CC BY 2.0",
+   "artist": "SELF Magazine",
+   "w": 763,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/48546119217_0300ed8be5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/34996c61-f7f5-4206-b455-f82a872b0f93/thumb/",
+   "page": "https://www.flickr.com/photos/183469667@N05/48546119217",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/plaster_1.jpg"
+  },
+  {
+   "title": "Woman with band-aid on her upper arm",
+   "lic": "CC BY 2.0",
+   "artist": "SELF Magazine",
+   "w": 706,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/48546110352_28f57363be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f5799864-d9b2-43ba-9f13-2abc3fb5544a/thumb/",
+   "page": "https://www.flickr.com/photos/183469667@N05/48546110352",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch22/cand/plaster_2.jpg"
+  }
+ ],
  "syrup": [
   {
    "title": "Tis' the season ... for Cough Syrup",

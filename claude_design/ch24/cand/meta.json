@@ -163,7 +163,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_2.jpg"
   }
  ],
- "traca": [],
+ "traca": [
+  {
+   "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
+   "lic": "CC BY 2.0",
+   "artist": "mckaysavage",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2358/1980340953_afe8b79843_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3e972aa2-e63c-453d-81bc-8350e29a0a54/thumb/",
+   "page": "https://www.flickr.com/photos/56796376@N00/1980340953",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/traca_0.jpg"
+  },
+  {
+   "title": "Phuket Vegetarian Festival 2019 - Everything is in smoke after constant explosions of firecrackers and fireworks during a street procession",
+   "lic": "CC BY 2.0",
+   "artist": "Phuketian.S",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48850518848_ef12f5e9b1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5b30f1b1-9bba-4b6e-b541-a57e1a1a0691/thumb/",
+   "page": "https://www.flickr.com/photos/124790945@N06/48850518848",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/traca_1.jpg"
+  },
+  {
+   "title": "Phuket Vegetarian Festival 2019 - Everything is in smoke after constant explosions of firecrackers and fireworks during a street procession",
+   "lic": "CC BY 2.0",
+   "artist": "Phuketian.S",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48850518633_20802f6f48_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6d3a8269-a0ee-4296-bc49-8dbd00a68075/thumb/",
+   "page": "https://www.flickr.com/photos/124790945@N06/48850518633",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/traca_2.jpg"
+  }
+ ],
  "mascleta": [
   {
    "title": "Bomberos en la mascletà de Fallas",
@@ -535,7 +575,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fair_2.jpg"
   }
  ],
- "lantern": [],
+ "lantern": [
+  {
+   "title": "LANTERNS OF EVERY COLOR IN YOKOHAMA OF 1960S",
+   "lic": "CC BY 2.0",
+   "artist": "roberthuffstutter",
+   "w": 1024,
+   "h": 752,
+   "url": "https://live.staticflickr.com/7054/6950206251_26fdf3ae2b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1e26307f-2d01-4556-b09c-bbe8b22d63ad/thumb/",
+   "page": "https://www.flickr.com/photos/29528454@N04/6950206251",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_5.jpg"
+  },
+  {
+   "title": "Paper lanterns",
+   "lic": "CC BY 2.0",
+   "artist": "David Barrie",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/223/507335655_b3cac271ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cd2f7eea-71f8-4d44-b706-e1d5d97fca06/thumb/",
+   "page": "https://www.flickr.com/photos/69639562@N00/507335655",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_6.jpg"
+  },
+  {
+   "title": "YOKOHAMA'S CHINATOWN & PEANUT CLUB 1960S: a watercolor by R.L. Huffstutter",
+   "lic": "CC BY 2.0",
+   "artist": "roberthuffstutter",
+   "w": 1024,
+   "h": 743,
+   "url": "https://live.staticflickr.com/4046/4668701179_50f3b8f598_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5a464a96-dba4-4307-9c39-bd291c73e46e/thumb/",
+   "page": "https://www.flickr.com/photos/29528454@N04/4668701179",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/lantern_7.jpg"
+  }
+ ],
  "confetti": [
   {
    "title": "Confetti",

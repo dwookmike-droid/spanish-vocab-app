@@ -1,5 +1,45 @@
 {
- "airport": [],
+ "airport": [
+  {
+   "title": "Harrisburg Airport Terminal Drawing",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mchart929",
+   "w": 1024,
+   "h": 771,
+   "url": "https://live.staticflickr.com/3208/2811821241_92d9f78182_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0e1f903a-74d5-4c99-ab54-9449dd544288/thumb/",
+   "page": "https://www.flickr.com/photos/29958866@N07/2811821241",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/airport_0.jpg"
+  },
+  {
+   "title": "Delhi Airport Terminals 1A, 1B",
+   "lic": "CC BY-SA 2.0",
+   "artist": "seaview99",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/49/178035022_9a4fc549c1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/10c2a994-41a1-495e-a329-ea0a5f5e2aa3/thumb/",
+   "page": "https://www.flickr.com/photos/85296574@N00/178035022",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/airport_1.jpg"
+  },
+  {
+   "title": "Neo-socialist-realist Aeroflot ad, Heathrow Airport Terminal 2, Hounslow, London, UK",
+   "lic": "CC BY-SA 2.0",
+   "artist": "gruntzooki",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7465/15819530641_90df339dc0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d690210f-4ced-48c8-bee2-277ee1d0c1f4/thumb/",
+   "page": "https://www.flickr.com/photos/37996580417@N01/15819530641",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/airport_2.jpg"
+  }
+ ],
  "plane": [
   {
    "title": "#airplane #runway #fly #airport #photooftheday #instagramhub #instagramers #instamood #picoftheday #editoftheday #igersfollow #instanods #bestoftheday #instagold #webstagram #photoaday #photo #instagram #instagroove #picoftheday #iphonesia #wondershots #i",
@@ -82,7 +122,21 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/flight_2.jpg"
   }
  ],
- "gate": [],
+ "gate": [
+  {
+   "title": "026.BAGDOGRA INTERNATIONAL AIRPORT - BOARDING GATE NO. 2",
+   "lic": "Public Domain",
+   "artist": "samarkumarsarkar",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4530/24411324388_346c3a014c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/848b832f-08b1-4566-b4d6-c793398a3c61/thumb/",
+   "page": "https://www.flickr.com/photos/154080581@N07/24411324388",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/gate_5.jpg"
+  }
+ ],
  "boardingpass": [
   {
    "title": "Passport and boarding pass",
@@ -247,7 +301,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/suitcase_2.jpg"
   }
  ],
- "security": [],
+ "security": [
+  {
+   "title": "Security Check",
+   "lic": "CC BY 2.0",
+   "artist": "CarlosPacheco",
+   "w": 765,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6200/6039133718_2403d4c1b6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a3cadc3a-9245-4383-8686-65072f3f8329/thumb/",
+   "page": "https://www.flickr.com/photos/48678427@N06/6039133718",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/security_9.jpg"
+  },
+  {
+   "title": "TSA Far Blue Cell",
+   "lic": "CC BY 2.0",
+   "artist": "jurvetson",
+   "w": 936,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/113/315439026_386f642aaa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6cc0a529-ee8b-4a61-8578-3550cd1b1dd8/thumb/",
+   "page": "https://www.flickr.com/photos/44124348109@N01/315439026",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/security_10.jpg"
+  },
+  {
+   "title": "Burundi peacekeepers prepare for next rotation to Somalia, Bjumbura, Burundi 012210",
+   "lic": "CC BY 2.0",
+   "artist": "US Army Africa",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2705/4324781393_8c714bf140_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f29a4b77-ae4e-4cc1-ad5f-b26ae24b26fc/thumb/",
+   "page": "https://www.flickr.com/photos/36281822@N08/4324781393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch14/cand/security_11.jpg"
+  }
+ ],
  "terminal": [
   {
    "title": "Paris - Charles de Gaulle - Terminal 2 - Hall F - IMG_4757",

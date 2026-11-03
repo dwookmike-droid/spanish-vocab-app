@@ -1,7 +1,7 @@
 {
 "head": "human head profile",
 "eye": "human eye",
-"ear": "human ear",
+"ear": "ear closeup",
 "nose": "human nose",
 "mouth": "human mouth smile",
 "tooth": "tooth",
@@ -16,7 +16,7 @@
 "pharmacy": "farmacia Spain green cross",
 "pill": "pills tablets",
 "prescription": "medical prescription",
-"plaster": "adhesive bandage plaster",
+"plaster": "band-aid",
 "syrup": "cough syrup bottle spoon",
 "thermometer": "clinical thermometer"
 }

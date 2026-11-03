@@ -1,5 +1,45 @@
 {
- "right": [],
+ "right": [
+  {
+   "title": "Stupid Sign in DC",
+   "lic": "CC BY 2.0",
+   "artist": "andryone",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/45/120278573_4bc94173fa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/00fd41a0-de32-4f5d-a114-399c2c9c4ad5/thumb/",
+   "page": "https://www.flickr.com/photos/73855354@N00/120278573",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_5.jpg"
+  },
+  {
+   "title": "Traffic Crawl In Kota Kinabalu City",
+   "lic": "CC BY 2.0",
+   "artist": "thienzieyung",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8300/8011547534_92142e8e41_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fd1826cb-c707-4988-8d22-205eb44dadc2/thumb/",
+   "page": "https://www.flickr.com/photos/26978304@N08/8011547534",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_6.jpg"
+  },
+  {
+   "title": "Worker rights",
+   "lic": "CC BY 2.0",
+   "artist": "kevin dooley",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7256/7427151508_9ea4636093_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5827044c-79f7-4b51-aaa6-62f601ae55a8/thumb/",
+   "page": "https://www.flickr.com/photos/12836528@N00/7427151508",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/right_7.jpg"
+  }
+ ],
  "left": [
   {
    "title": "Stupid Sign in DC",

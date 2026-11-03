@@ -76,16 +76,15 @@ def chapter(nn):
             results = json.loads(body).get("results", [])
             if results:
                 break
-        picked = []
+        cands = []
         for r in results:
             if (r.get("width") or 0) and min(r.get("width") or 0, r.get("height") or 0) < 400:
                 continue
             lic = LIC[r["license"]] + (f" {r['license_version']}" if r["license"] not in ("cc0", "pdm") and r.get("license_version") else "")
-            picked.append(dict(title=r.get("title") or "", lic=lic, artist=r.get("creator") or "", w=r.get("width"), h=r.get("height"),
-                               url=r.get("url"), thumb=r["thumbnail"], page=r.get("foreign_landing_url") or "",
-                               src="openverse", provider=r.get("source") or ""))
-            if len(picked) >= N:
-                break
+            cands.append(dict(title=r.get("title") or "", lic=lic, artist=r.get("creator") or "", w=r.get("width"), h=r.get("height"),
+                              url=r.get("url"), thumb=r["thumbnail"], page=r.get("foreign_landing_url") or "",
+                              src="openverse", provider=r.get("source") or ""))
+
         def fetch(ic):
             i, c = ic
             fn = out / f"{key}_{i}.jpg"
@@ -94,11 +93,16 @@ def chapter(nn):
                 c["file"] = str(fn)
             except OutOfBudget:
                 raise
-            except Exception as e:
+            except Exception as e:  # 424: the original host is gone; try the next result instead
                 print("   thumb failed:", key, i, e, flush=True)
+
+        picked, pos = [], 0
         with ThreadPoolExecutor(N) as ex:
-            list(ex.map(fetch, enumerate(picked)))
-        picked = [c for c in picked if c.get("file")]
+            while len(picked) < N and pos < len(cands):
+                batch = list(enumerate(cands[pos:pos + N - len(picked)], start=pos))
+                pos += len(batch)
+                list(ex.map(fetch, batch))
+                picked += [c for _, c in batch if c.get("file")]
         meta[key] = picked
         mp.write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"ch{nn} {key}: {len(picked)}  (search left today: {hdr.get('x-ratelimit-available-anon_sustained')})", flush=True)

@@ -618,7 +618,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/shop_1.jpg"
   }
  ],
- "bank": [],
+ "bank": [
+  {
+   "title": "New York City, Lower Manhattan, Marine Midland Building ( HSBC Bank Building ), 1967 : Noguchi's Red Cube",
+   "lic": "CC BY 2.0",
+   "artist": "(vincent desjardins)",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5140/5421866932_eea52f8c9f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/433ca0d4-9a80-4a39-8f10-9dc884af2652/thumb/",
+   "page": "https://www.flickr.com/photos/44613506@N07/5421866932",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_0.jpg"
+  },
+  {
+   "title": "New bank building, Noranda townsite, Rouyn, Quebec / Nouveau bâtiment pour une banque dans le quartier Noranda Townsite, Rouyn (Québec)",
+   "lic": "CC BY 2.0",
+   "artist": "BiblioArchives / LibraryArchives",
+   "w": 1000,
+   "h": 589,
+   "url": "https://live.staticflickr.com/65535/52376896525_e962967953_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a15ce687-1416-4554-8bdd-b830b346db81/thumb/",
+   "page": "https://www.flickr.com/photos/28853433@N02/52376896525",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_1.jpg"
+  },
+  {
+   "title": "1909 Commerical Bank building in Mannum",
+   "lic": "CC BY-SA 2.0",
+   "artist": "denisbin",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5495/9156260353_ecd8a72710_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/449b72ad-810b-48bf-a2ed-cd042264b975/thumb/",
+   "page": "https://www.flickr.com/photos/82134796@N03/9156260353",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch10/cand/bank_2.jpg"
+  }
+ ],
  "pharmacy": [
   {
    "title": "Farmacia - Calle Pedro Antonio de Alarcon, Granada - green cross",

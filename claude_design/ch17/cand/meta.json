@@ -55,7 +55,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/football_ball_1.jpg"
   }
  ],
- "stadium": [],
+ "stadium": [
+  {
+   "title": "Wembley Football Stadium 00068",
+   "lic": "CC BY 2.0",
+   "artist": "Lawrie Cate",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2076/2487740918_0a39e271e2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/90501d1a-473e-44a5-80f6-f609612e0b8b/thumb/",
+   "page": "https://www.flickr.com/photos/24298372@N04/2487740918",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/stadium_0.jpg"
+  },
+  {
+   "title": "Millburn - High School Football Stadium",
+   "lic": "CC BY-SA 2.0",
+   "artist": "roger4336",
+   "w": 960,
+   "h": 638,
+   "url": "https://live.staticflickr.com/4063/4638911351_e06ca46953_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fefb94de-270a-4395-9e87-43fe1d664374/thumb/",
+   "page": "https://www.flickr.com/photos/24736216@N07/4638911351",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/stadium_1.jpg"
+  },
+  {
+   "title": "Uzbekistan, Bukhara, Football Stadium",
+   "lic": "CC BY-SA 2.0",
+   "artist": "MY2200",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/6235/6341042953_d256ccbb0c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3499e4ce-1735-4ec9-b953-349a7dd89672/thumb/",
+   "page": "https://www.flickr.com/photos/54209335@N02/6341042953",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/stadium_2.jpg"
+  }
+ ],
  "team": [
   {
    "title": "Football Team Photo-2",
@@ -591,7 +631,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/champion_2.jpg"
   }
  ],
- "referee": [],
+ "referee": [
+  {
+   "title": "With football referee Howard Webb",
+   "lic": "CC BY 2.0",
+   "artist": "EdMiliband",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5298/5428095346_e03eb426a9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cdf2e9a6-155e-4575-aab4-536706a4f8d8/thumb/",
+   "page": "https://www.flickr.com/photos/50386890@N02/5428095346",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_3.jpg"
+  },
+  {
+   "title": "Gaelic Football, Referee and players in the distance",
+   "lic": "CC BY 2.0",
+   "artist": "Nams82",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/1738/28518221878_651466ee4a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5561d5ea-2f6b-4ab2-9df5-991527a61098/thumb/",
+   "page": "https://www.flickr.com/photos/63870766@N05/28518221878",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_6.jpg"
+  },
+  {
+   "title": "Football Referee Super Bowl Display",
+   "lic": "CC BY 2.0",
+   "artist": "JeepersMedia",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/65535/49431258612_ca6990765b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/78264c00-f5de-42ca-ae95-e31e4aeaddd3/thumb/",
+   "page": "https://www.flickr.com/photos/39160147@N03/49431258612",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch17/cand/referee_7.jpg"
+  }
+ ],
  "pool": [
   {
    "title": "Swimming Pool",

@@ -275,7 +275,47 @@
    "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/fan_0.jpg"
   }
  ],
- "castanets": [],
+ "castanets": [
+  {
+   "title": "'Rustic girls of Sorrento with castanets and tambourine' (1872) by Maria Spanò (Naples 1843-notices until 1880) - Detail - Neapolitan painters of 19th century' - Exhibition at friary of San Domenico Maggiore in Naples, until February 28, 2016",
+   "lic": "Public Domain",
+   "artist": "Carlo Raso",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1697/25238180631_f4df30ed90_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d0d86791-3c02-45c4-a36e-7803820338d3/thumb/",
+   "page": "https://www.flickr.com/photos/70125105@N06/25238180631",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/castanets_4.jpg"
+  },
+  {
+   "title": "'Rustic girls of Sorrento with castanets and tambourine' (1872) by Maria Spanò (Naples 1843-notices until 1880) - Neapolitan painters of 19th century' - Exhibition at friary of San Domenico Maggiore in Naples, until February 28, 2016",
+   "lic": "Public Domain",
+   "artist": "Carlo Raso",
+   "w": 791,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1502/23858011669_097a3f43f2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/888a80ee-ed46-4375-bd83-45bd44fff46f/thumb/",
+   "page": "https://www.flickr.com/photos/70125105@N06/23858011669",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/castanets_6.jpg"
+  },
+  {
+   "title": "Castanets (Detail) - 'Rustic girls of Sorrento with castanets and tambourine' (1872) by Maria Spanò (Naples 1843-notices until 1880) - Neapolitan painters of 19th century' - Exhibition at friary of San Domenico Maggiore in Naples, until February 28, 2016",
+   "lic": "Public Domain",
+   "artist": "Carlo Raso",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1694/24476019722_c7cea8c6ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6e219950-5e85-467e-a6db-8a2ff3d41925/thumb/",
+   "page": "https://www.flickr.com/photos/70125105@N06/24476019722",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch19/cand/castanets_7.jpg"
+  }
+ ],
  "flamencodress": [
   {
    "title": "Flamenco dress",
