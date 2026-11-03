@@ -7,6 +7,7 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | guitar | Spanish guitar | tawalker | CC BY 2.0 | https://www.flickr.com/photos/30139045@N00/532089579 |
 | cante | Passion of a Flamenco singer | keith ellwood | CC BY 2.0 | https://www.flickr.com/photos/76377775@N05/8179977978 |
 | dance | Flamenco Dance | Dance Photographer - Brendan Lally | CC BY 2.0 | https://www.flickr.com/photos/50570552@N05/4947622084 |
+| bailaor | Flamenco | OmarOBorO | CC BY 2.0 | https://www.flickr.com/photos/23338415@N04/7537980082 |
 | bailaora | Flamenco on stage: Ilusiones; By Carmel Natan Sheli | Flavio~ | CC BY 2.0 | https://www.flickr.com/photos/37873897@N06/7829032654 |
 | tablao | Tablao Flamenco - 4 of 10 | Flavio~ | CC BY 2.0 | https://www.flickr.com/photos/37873897@N06/4265316823 |
 | palmas | the sound of two hands clapping | waferboard | CC BY 2.0 | https://www.flickr.com/photos/60944931@N00/3597249341 |
@@ -16,6 +17,7 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | stage | Israel-05684 - Theatre Stage | archer10 (Dennis) | CC BY-SA 2.0 | https://www.flickr.com/photos/22490717@N02/34540653542 |
 | song | Music | Brandon Giesbrecht | CC BY 2.0 | https://www.flickr.com/photos/60872595@N06/5819184201 |
 | rhythm | Metronome | jronaldlee | CC BY 2.0 | https://www.flickr.com/photos/37176760@N06/6066898898 |
+| concert | Concert Crowd | ToGa Wanderings | CC BY 2.0 | https://www.flickr.com/photos/69031678@N00/7622854588 |
 | musician | Street musician | The Wolf | CC BY 2.0 | https://www.flickr.com/photos/56658705@N00/4322239586 |
 | drum | snare drum | Vladimir Morozov | CC BY 2.0 | https://www.flickr.com/photos/27429206@N02/4124370796 |
 | piano | Piano | Molly DG | CC BY 2.0 | https://www.flickr.com/photos/54400117@N03/5068517177 |

@@ -1,4 +1,16 @@
 {
+ "hotel": {
+  "title": "Hotel entrance",
+  "lic": "CC BY 2.0",
+  "artist": "Scott McLeod",
+  "w": 1024,
+  "h": 401,
+  "url": "https://live.staticflickr.com/6029/5956146469_1ab2428e6c_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/4ff2da9d-9cee-4888-9c0e-d819dbdae2fa/thumb/",
+  "page": "https://www.flickr.com/photos/93393982@N00/5956146469",
+  "src": "openverse",
+  "provider": "flickr"
+ },
  "reception": {
   "title": "Reception desk",
   "lic": "CC BY-SA 2.0",

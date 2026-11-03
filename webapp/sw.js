@@ -1,6 +1,6 @@
 /* Offline support: the app shell and data are cached on install; images and audio are cached the first time
    they are used. Bump VERSION whenever app.js / app.css / data change so phones pick up the new files. */
-const VERSION = "vv-6";
+const VERSION = "vv-7";
 const SHELL = ["./", "index.html", "app.js", "app.css", "data/bundle.js", "manifest.webmanifest", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {

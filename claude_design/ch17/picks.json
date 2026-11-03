@@ -10,13 +10,13 @@
  "race": 0,
  "runner": 1,
  "party": 1,
- "neckerchief": null,
+ "neckerchief": 4,
  "band": 0,
  "fireworks": 2,
  "parade": 1,
  "entryticket": 0,
  "champion": 1,
- "referee": null,
+ "referee": 2,
  "pool": 0,
  "gym": 2
 }

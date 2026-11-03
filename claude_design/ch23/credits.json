@@ -47,6 +47,18 @@
   "src": "openverse",
   "provider": "flickr"
  },
+ "dress": {
+  "title": "Red Dress",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Living in Monrovia",
+  "w": 815,
+  "h": 1024,
+  "url": "https://live.staticflickr.com/3280/3096708178_acf4f87e88_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/ba95c9cd-d4b9-4d10-96b7-58ab08c86d1a/thumb/",
+  "page": "https://www.flickr.com/photos/69166981@N00/3096708178",
+  "src": "openverse",
+  "provider": "flickr"
+ },
  "jacket": {
   "title": "Leather Jacket by Brioni",
   "lic": "CC BY 2.0",
@@ -116,6 +128,18 @@
   "url": "https://live.staticflickr.com/7076/7393632874_529f4ec237_b.jpg",
   "thumb": "https://api.openverse.org/v1/images/7874a4ad-8640-46a9-a4e2-9fd3b64c1034/thumb/",
   "page": "https://www.flickr.com/photos/48744022@N00/7393632874",
+  "src": "openverse",
+  "provider": "flickr"
+ },
+ "hat": {
+  "title": "Hat Shopping",
+  "lic": "CC BY 2.0",
+  "artist": "Jenn Durfey",
+  "w": 638,
+  "h": 1024,
+  "url": "https://live.staticflickr.com/8286/7827484720_0a647fc763_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/fab65977-d63c-4a00-b8ef-86ad729008f5/thumb/",
+  "page": "https://www.flickr.com/photos/52498245@N03/7827484720",
   "src": "openverse",
   "provider": "flickr"
  },

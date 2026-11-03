@@ -83,6 +83,18 @@
   "src": "openverse",
   "provider": "flickr"
  },
+ "hand": {
+  "title": "grabbin hand",
+  "lic": "CC BY-SA 2.0",
+  "artist": "mil.",
+  "w": 1024,
+  "h": 768,
+  "url": "https://live.staticflickr.com/3212/3101249697_81a88a7a00_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/685459e1-7389-42e2-91e0-e56fbd9621c3/thumb/",
+  "page": "https://www.flickr.com/photos/30958722@N05/3101249697",
+  "src": "openverse",
+  "provider": "flickr"
+ },
  "finger": {
   "title": "My finger pointing...",
   "lic": "CC BY-SA 2.0",
@@ -176,6 +188,18 @@
   "url": "https://live.staticflickr.com/7801/47486288271_37791b0abc_b.jpg",
   "thumb": "https://api.openverse.org/v1/images/5f60a37b-0975-4538-b0d3-84938e45910f/thumb/",
   "page": "https://www.flickr.com/photos/170378439@N03/47486288271",
+  "src": "openverse",
+  "provider": "flickr"
+ },
+ "plaster": {
+  "title": "Plasters",
+  "lic": "CC BY 2.0",
+  "artist": "medisave",
+  "w": 412,
+  "h": 500,
+  "url": "https://live.staticflickr.com/5498/10668622806_3cfd657f2e.jpg",
+  "thumb": "https://api.openverse.org/v1/images/b5344f73-6f8f-4595-b98c-0d01eb6a3ba0/thumb/",
+  "page": "https://www.flickr.com/photos/107621760@N03/10668622806",
   "src": "openverse",
   "provider": "flickr"
  },

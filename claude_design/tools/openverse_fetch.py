@@ -7,6 +7,7 @@ Words that already have candidates are skipped, so it resumes. Anonymous limits:
 thumbnails 1000/day; when the daily search budget is used up it stops cleanly (run again tomorrow).
 """
 import json
+import os
 import threading
 from concurrent.futures import ThreadPoolExecutor
 import sys
@@ -20,7 +21,8 @@ ROOT = Path(__file__).resolve().parents[2]
 UA = {"User-Agent": "VocabularioVisual/1.0 (https://github.com/dwookmike-droid/spanish-vocab-app; educational app)"}
 API = "https://api.openverse.org/v1/images/"
 LIC = {"cc0": "CC0", "pdm": "Public Domain", "by": "CC BY", "by-sa": "CC BY-SA"}
-PACE, N = 9, 3  # 9 s between searches: three processes stay under the 20/min burst limit
+PACE = 9  # 9 s between searches: three processes stay under the 20/min burst limit
+N = int(os.environ.get("OV_N", 3))  # candidates per word
 _last = [0.0]
 _lock = threading.Lock()
 

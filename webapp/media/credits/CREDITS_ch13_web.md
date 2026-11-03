@@ -4,6 +4,7 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 
 | 단어 | 파일 | 저자 | 라이선스 | 링크 |
 |---|---|---|---|---|
+| hotel | Hotel entrance | Scott McLeod | CC BY 2.0 | https://www.flickr.com/photos/93393982@N00/5956146469 |
 | reception | Reception desk | jepoirrier | CC BY-SA 2.0 | https://www.flickr.com/photos/57519914@N00/3026154262 |
 | room | Hotel Room Bed Riviera Hotel Las Vegas Strip September 2008 | mrkathika | CC BY-SA 2.0 | https://www.flickr.com/photos/23842402@N07/2896595818 |
 | key | Northern Hotel Room Key | dave_mcmt | CC BY 2.0 | https://www.flickr.com/photos/30512529@N00/19899875571 |

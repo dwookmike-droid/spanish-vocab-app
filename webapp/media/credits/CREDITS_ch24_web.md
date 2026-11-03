@@ -7,6 +7,7 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | party | wooden horse | keith ellwood | CC BY 2.0 | https://www.flickr.com/photos/76377775@N05/8562015974 |
 | falla | Fallas 027 | Fran Ontanaya | CC BY-SA 2.0 | https://www.flickr.com/photos/60668960@N00/6834002 |
 | ninot | Da Vinci | hermenpaca | CC BY-SA 2.0 | https://www.flickr.com/photos/8735589@N07/6928464520 |
+| firecracker | Phuket Vegetarian Festival 2019 - Everything is in smoke after constant explosions of firecrackers and fireworks during a street procession | Phuketian.S | CC BY 2.0 | https://www.flickr.com/photos/124790945@N06/48850518848 |
 | traca | Phuket Vegetarian Festival 2019 - Everything is in smoke after constant explosions of firecrackers and fireworks during a street procession | Phuketian.S | CC BY 2.0 | https://www.flickr.com/photos/124790945@N06/48850518848 |
 | mascleta | Orchestrating the mascleta, L'eliana | keith ellwood | CC BY 2.0 | https://www.flickr.com/photos/76377775@N05/8565539350 |
 | bonfire | Bonfire | sandy.zieba | CC BY-SA 2.0 | https://www.flickr.com/photos/30294384@N07/2838704471 |
@@ -22,3 +23,4 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | confetti | Confetti | ADoseofShipBoy | CC BY 2.0 | https://www.flickr.com/photos/71984448@N00/216516964 |
 | verbena | String Light | felixtsao | CC BY 2.0 | https://www.flickr.com/photos/43163345@N06/6860634857 |
 | dinner | Christmas Eve dinner | Erik Anestad | CC BY 2.0 | https://www.flickr.com/photos/58541536@N00/8306778397 |
+| parade | Boston Tercentenary Parade, Tremont Street, paraders passing through | Boston City Archives | CC BY-SA 2.0 | https://www.flickr.com/photos/48039697@N05/16359901544 |
