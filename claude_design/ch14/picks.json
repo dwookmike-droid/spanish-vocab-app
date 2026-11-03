@@ -16,7 +16,7 @@
  "planewindow": 1,
  "aisle": 0,
  "ticket": 0,
- "customs": null,
+ "customs": 0,
  "trolley": 1,
  "screen": 2
 }

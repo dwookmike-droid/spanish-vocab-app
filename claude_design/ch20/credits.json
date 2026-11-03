@@ -71,6 +71,18 @@
   "src": "openverse",
   "provider": "flickr"
  },
+ "entryticket": {
+  "title": "Siena Museum ticket 1993",
+  "lic": "CC BY 2.0",
+  "artist": "Infrogmation",
+  "w": 1024,
+  "h": 1014,
+  "url": "https://live.staticflickr.com/65535/51328551816_e39c44e1cb_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/9692efed-7c8a-41bf-bf59-42bb7cf6fba1/thumb/",
+  "page": "https://www.flickr.com/photos/29350288@N06/51328551816",
+  "src": "openverse",
+  "provider": "flickr"
+ },
  "ticketoffice": {
   "title": "Olympia Theater Ticket Booth Downtown Miami",
   "lic": "CC BY 2.0",
@@ -128,6 +140,18 @@
   "url": "https://live.staticflickr.com/6222/6290908219_c5bd81e3fa_b.jpg",
   "thumb": "https://api.openverse.org/v1/images/4c1d3c4e-dfb5-45ea-95e4-8f0c25a88f75/thumb/",
   "page": "https://www.flickr.com/photos/30565636@N05/6290908219",
+  "src": "openverse",
+  "provider": "flickr"
+ },
+ "guide": {
+  "title": "Abbie The Tour Guide",
+  "lic": "CC BY 2.0",
+  "artist": "garryknight",
+  "w": 1024,
+  "h": 683,
+  "url": "https://live.staticflickr.com/2720/4538045474_1dba6a4a1f_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/3c451395-1555-41ab-b292-41f52545e26d/thumb/",
+  "page": "https://www.flickr.com/photos/8176740@N05/4538045474",
   "src": "openverse",
   "provider": "flickr"
  },

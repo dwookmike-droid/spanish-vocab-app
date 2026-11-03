@@ -21,5 +21,6 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | planewindow | Airplane Window View (right) | dvanzuijlekom | CC BY-SA 2.0 | https://www.flickr.com/photos/52365139@N05/47857045852 |
 | aisle | New Lufthansa cabin | airbusky | CC BY 2.0 | https://www.flickr.com/photos/19383997@N00/337687403 |
 | ticket | My plane ticket was a failure | kalleboo | CC BY 2.0 | https://www.flickr.com/photos/82365211@N00/2314892520 |
+| customs | North Korea - Customs Declaration | Roman Harak | CC BY-SA 2.0 | https://www.flickr.com/photos/51812388@N02/5382101168 |
 | trolley | Heathrow - luggage trollies | markhillary | CC BY 2.0 | https://www.flickr.com/photos/56087830@N00/2957371909 |
 | screen | Miami Airport Screen | bobbsled | CC BY-SA 2.0 | https://www.flickr.com/photos/22121135@N00/4936284705 |

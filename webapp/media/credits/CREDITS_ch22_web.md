@@ -11,6 +11,7 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | mouth | Sugar Lips | Jeanny Schmidt | CC BY 2.0 | https://www.flickr.com/photos/48776556@N04/5716365533 |
 | tooth | Teeth | Zawezome | CC BY 2.0 | https://www.flickr.com/photos/8699239@N04/2276185684 |
 | neck | Arteries and nerves of the face and neck | liverpoolhls | CC BY-SA 2.0 | https://www.flickr.com/photos/107733654@N04/10818483386 |
+| hand | grabbin hand | mil. | CC BY-SA 2.0 | https://www.flickr.com/photos/30958722@N05/3101249697 |
 | finger | My finger pointing... | Per Corell | CC BY-SA 2.0 | https://www.flickr.com/photos/62811941@N00/9087123731 |
 | leg | Human Legs | Skakerman (Archive) | CC BY 2.0 | https://www.flickr.com/photos/27482959@N08/24326318075 |
 | foot | “The human foot is a masterpiece of engineering and a work of art.” | katerha | CC BY 2.0 | https://www.flickr.com/photos/8489692@N03/4661338656 |
@@ -19,5 +20,6 @@ Wikimedia Commons 또는 Openverse(Flickr 등)에서 받은 CC·퍼블릭 도메
 | pharmacy | Farmacia - Calle Recogidas, Granada - green cross | ell brown | CC BY-SA 2.0 | https://www.flickr.com/photos/39415781@N06/14574182162 |
 | pill | Heal thyself | MatHampson | CC BY-SA 2.0 | https://www.flickr.com/photos/41894164051@N01/5586239731 |
 | prescription | White prescription bag held by hand stock photo | Chemist 4 U | CC BY 2.0 | https://www.flickr.com/photos/170378439@N03/47486288271 |
+| plaster | Plasters | medisave | CC BY 2.0 | https://www.flickr.com/photos/107621760@N03/10668622806 |
 | syrup | Cough syrup | Dvortygirl | CC BY 2.0 | https://www.flickr.com/photos/21093323@N02/8313967466 |
 | thermometer | Digital thermometer | Wheeler Cowperthwaite | CC BY 2.0 | https://www.flickr.com/photos/60756254@N07/6212530282 |

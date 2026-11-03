@@ -6,8 +6,8 @@
 "mouth": "lips",
 "tooth": "teeth",
 "neck": "neck",
-"arm": "forearm",
-"hand": "open palm",
+"arm": "human arm",
+"hand": "hand",
 "finger": "finger pointing",
 "leg": "human legs",
 "foot": "human foot",
@@ -16,7 +16,7 @@
 "pharmacy": "farmacia Spain green cross",
 "pill": "pills tablets",
 "prescription": "prescription pad",
-"plaster": "band-aid",
+"plaster": "plaster finger",
 "syrup": "cough syrup bottle spoon",
 "thermometer": "digital thermometer"
 }

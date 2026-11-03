@@ -7,7 +7,7 @@
  "tooth": 2,
  "neck": 1,
  "arm": null,
- "hand": null,
+ "hand": 2,
  "finger": 2,
  "leg": 0,
  "foot": 0,
@@ -16,7 +16,7 @@
  "pharmacy": 2,
  "pill": 1,
  "prescription": 2,
- "plaster": null,
+ "plaster": 4,
  "syrup": 1,
  "thermometer": 0
 }

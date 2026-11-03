@@ -35,6 +35,18 @@
   "src": "openverse",
   "provider": "flickr"
  },
+ "firecracker": {
+  "title": "Phuket Vegetarian Festival 2019 - Everything is in smoke after constant explosions of firecrackers and fireworks during a street procession",
+  "lic": "CC BY 2.0",
+  "artist": "Phuketian.S",
+  "w": 1024,
+  "h": 683,
+  "url": "https://live.staticflickr.com/65535/48850518848_ef12f5e9b1_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/5b30f1b1-9bba-4b6e-b541-a57e1a1a0691/thumb/",
+  "page": "https://www.flickr.com/photos/124790945@N06/48850518848",
+  "src": "openverse",
+  "provider": "flickr"
+ },
  "traca": {
   "title": "Phuket Vegetarian Festival 2019 - Everything is in smoke after constant explosions of firecrackers and fireworks during a street procession",
   "lic": "CC BY 2.0",
@@ -212,6 +224,18 @@
   "url": "https://live.staticflickr.com/8220/8306778397_36c3fc62b8_b.jpg",
   "thumb": "https://api.openverse.org/v1/images/bc1a3022-365e-462e-8cd1-d96b97c56cfc/thumb/",
   "page": "https://www.flickr.com/photos/58541536@N00/8306778397",
+  "src": "openverse",
+  "provider": "flickr"
+ },
+ "parade": {
+  "title": "Boston Tercentenary Parade, Tremont Street, paraders passing through",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Boston City Archives",
+  "w": 1024,
+  "h": 815,
+  "url": "https://live.staticflickr.com/8704/16359901544_e64a259ba1_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/ffba4eab-866a-4c9b-a638-5038c7058080/thumb/",
+  "page": "https://www.flickr.com/photos/48039697@N05/16359901544",
   "src": "openverse",
   "provider": "flickr"
  }

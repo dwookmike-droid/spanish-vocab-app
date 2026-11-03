@@ -83,6 +83,18 @@
   "src": "openverse",
   "provider": "flickr"
  },
+ "swimsuit": {
+  "title": "Swimsuit Mannequins",
+  "lic": "CC BY 2.0",
+  "artist": "edenpictures",
+  "w": 1024,
+  "h": 768,
+  "url": "https://live.staticflickr.com/911/41714623541_89fe567f9c_b.jpg",
+  "thumb": "https://api.openverse.org/v1/images/4948cb97-8e6d-4a0d-8b9a-a5bf3b628b58/thumb/",
+  "page": "https://www.flickr.com/photos/10485077@N06/41714623541",
+  "src": "openverse",
+  "provider": "flickr"
+ },
  "sunglasses": {
   "title": "Sunglasses beach sand sunset",
   "lic": "CC0",

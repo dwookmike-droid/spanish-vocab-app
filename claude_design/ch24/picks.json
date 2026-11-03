@@ -2,7 +2,7 @@
  "party": 0,
  "falla": 0,
  "ninot": 2,
- "firecracker": null,
+ "firecracker": 5,
  "traca": 1,
  "mascleta": 2,
  "bonfire": 0,
@@ -18,5 +18,5 @@
  "confetti": 0,
  "verbena": 0,
  "dinner": 2,
- "parade": null
+ "parade": 0
 }
