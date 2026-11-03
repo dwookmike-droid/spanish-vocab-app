@@ -1,0 +1,368 @@
+schema_version: 1
+chapter: 16
+dialogues:
+  - id: d1
+    title_es: ¿Qué tiempo va a hacer hoy?
+    title_ko: 오늘 날씨 어때요?
+    setting_ko: 도노스티아의 호텔 프런트. 5월 11일 아침, 나가기 전에 날씨를 물어요.
+    roles:
+      A: {es: Recepcionista, ko: 프런트 직원}
+      B: {es: Huésped, ko: 손님}
+    lines:
+      - who: B
+        textbook:
+          es: Buenos días. ¿Qué tiempo va a hacer hoy?
+          ko: 안녕하세요. 오늘 날씨 어떨까요?
+        native:
+          es: Buenos días. Oye, ¿qué tal el tiempo hoy?
+          ko: 안녕하세요. 저기, 오늘 날씨 어때요?
+          note_ko: 날씨를 물을 때 ¿qué tal el tiempo?처럼 동사 없이 짧게 묻기도 해요.
+      - who: A
+        textbook:
+          es: Según la previsión, por la mañana va a hacer sol. Por la tarde va a llover.
+          ko: 예보를 보면 오전에는 맑대요. 오후에는 비가 온대요.
+        native:
+          es: Pues mira, la previsión dice sol por la mañana, pero esta tarde llueve seguro.
+          ko: 음, 예보로는 오전엔 맑은데, 오늘 오후엔 틀림없이 비 와요.
+          note_ko: 곧 일어날 일도 현재형(llueve)으로 말할 때가 많아요. seguro는 ‘틀림없이’예요.
+      - who: B
+        textbook:
+          es: ¿Necesito un paraguas?
+          ko: 우산이 필요할까요?
+        native:
+          es: ¿Me llevo el paraguas, entonces?
+          ko: 그럼 우산 챙겨 갈까요?
+          note_ko: llevarse는 ‘챙겨 가다’예요.
+      - who: A
+        textbook:
+          es: Sí, lleve el paraguas, por si acaso. Aquí el tiempo cambia mucho.
+          ko: 네, 혹시 모르니 우산을 챙기세요. 여기는 날씨가 자주 바뀌어요.
+        native:
+          es: Sí, sí, llévatelo, por si acaso. Aquí el tiempo cambia en cinco minutos.
+          ko: 네, 챙겨 가세요. 혹시 모르니까요. 여긴 5분 만에 날씨가 바뀌어요.
+          note_ko: por si acaso는 ‘혹시 모르니까’예요. ‘5분 만에’는 농담 섞인 과장이에요.
+      - who: B
+        textbook:
+          es: ¿Qué temperatura hace ahora?
+          ko: 지금 기온이 몇 도예요?
+        native:
+          es: ¿Y a cuántos grados estamos?
+          ko: 지금 몇 도예요?
+          note_ko: 기온은 estar a ~ grados로 말해요. ‘우리가 몇 도에 있어요?’라는 틀이에요.
+      - who: A
+        textbook:
+          es: Ahora hace dieciséis grados. No hace mucho frío, pero hace viento.
+          ko: 지금 16도예요. 많이 춥진 않은데 바람이 불어요.
+        native:
+          es: Estamos a dieciséis, más o menos. Frío no hace, pero sopla bastante viento.
+          ko: 지금 16도쯤이에요. 춥진 않은데 바람이 꽤 불어요.
+          note_ko: frío를 앞에 두면 ‘춥지는 않다’는 느낌이 돼요. soplar는 바람이 ‘불다’예요.
+      - who: B
+        textbook:
+          es: ¿Puedo ir a la playa de La Concha por la tarde?
+          ko: 오후에 라 콘차 해변에 가도 될까요?
+        native:
+          es: ¿Y para ir a La Concha por la tarde?
+          ko: 오후에 라 콘차 가는 건요?
+          note_ko: 문장을 끝맺지 않고 para ir a…? 하고 ‘~가는 건요?’처럼 물어요.
+      - who: A
+        textbook:
+          es: Es mejor ir por la mañana. Por la tarde puede haber tormenta.
+          ko: 오전에 가는 게 나아요. 오후에는 폭풍우가 칠 수도 있어요.
+        native:
+          es: Yo iría ahora, que hace sol. Por la tarde igual hay tormenta.
+          ko: 저라면 지금 가겠어요. 해가 났거든요. 오후엔 폭풍우가 칠지도 몰라요.
+          note_ko: yo iría는 ‘저라면 가겠어요’예요. igual은 ‘어쩌면’이라는 뜻으로 스페인에서 흔해요.
+      - who: B
+        textbook:
+          es: Muchas gracias. Voy ahora.
+          ko: 고맙습니다. 지금 갈게요.
+        native:
+          es: ¡Pues me voy ya! Gracias.
+          ko: 그럼 지금 바로 갈게요! 고마워요.
+          note_ko: 여기서 ya는 ‘지금 바로’예요.
+  - id: d2
+    title_es: Un chaparrón en La Concha
+    title_ko: 라 콘차에서 만난 소나기
+    setting_ko: 라 콘차 해변 산책로. 갑자기 비가 쏟아져 발코니 아래로 피했어요.
+    roles:
+      A: {es: Señora, ko: 아주머니}
+      B: {es: Turista, ko: 여행자}
+    lines:
+      - who: A
+        textbook:
+          es: ¡Qué lluvia! ¿No tiene paraguas?
+          ko: 비가 엄청 오네요! 우산 없어요?
+        native:
+          es: ¡Vaya chaparrón! ¿Te has dejado el paraguas?
+          ko: 소나기가 쏟아지네요! 우산 두고 왔어요?
+          note_ko: chaparrón은 갑자기 쏟아지는 소나기예요. dejarse는 ‘깜빡 두고 오다’예요.
+      - who: B
+        textbook:
+          es: No, el paraguas está en el hotel. Por la mañana hacía sol.
+          ko: 네, 우산은 호텔에 있어요. 아침에는 맑았거든요.
+        native:
+          es: Pues sí, en el hotel. ¡Con el sol que hacía esta mañana!
+          ko: 네, 호텔에요. 아침엔 그렇게 해가 쨍쨍했는데!
+          note_ko: con el sol que hacía는 ‘그렇게 해가 났는데’ 하고 아쉬움을 담는 말이에요.
+      - who: A
+        textbook:
+          es: Aquí llueve mucho. Yo siempre llevo un chubasquero en el bolso.
+          ko: 여기는 비가 자주 와요. 저는 늘 가방에 비옷을 넣고 다녀요.
+        native:
+          es: Aquí es lo normal. Yo siempre llevo el chubasquero en el bolso.
+          ko: 여긴 늘 그래요. 저는 비옷을 항상 가방에 넣고 다녀요.
+          note_ko: es lo normal은 ‘흔한 일이에요, 늘 그래요’라는 말이에요.
+      - who: B
+        textbook:
+          es: ¿Llueve mucho en primavera?
+          ko: 봄에도 비가 많이 와요?
+        native:
+          es: ¿Y en primavera también llueve tanto?
+          ko: 봄에도 이렇게 많이 와요?
+          note_ko: tanto는 ‘그렇게 많이’예요.
+      - who: A
+        textbook:
+          es: Sí, llueve en todas las estaciones. Pero después de la lluvia, el cielo está muy bonito.
+          ko: 네, 계절마다 비가 와요. 그래도 비 온 뒤에는 하늘이 아주 예뻐요.
+        native:
+          es: Aquí llueve en todas las estaciones. Pero luego sale el sol y se queda un cielo precioso.
+          ko: 여긴 사계절 내내 비가 와요. 그래도 그다음엔 해가 나고 하늘이 정말 예뻐져요.
+          note_ko: sale el sol은 ‘해가 나다’예요. se queda는 ‘~한 상태가 되다’예요.
+      - who: B
+        textbook:
+          es: ¿Es un trueno? ¡Hay tormenta!
+          ko: 천둥인가요? 폭풍우가 치네요!
+        native:
+          es: ¡Uy! ¿Eso ha sido un trueno?
+          ko: 아이고! 방금 그거 천둥이에요?
+          note_ko: uy는 깜짝 놀랐을 때 내는 소리예요. ha sido는 ‘방금 ~였다’예요.
+      - who: A
+        textbook:
+          es: Sí, pero no pasa nada. Estas tormentas son cortas.
+          ko: 네, 그래도 괜찮아요. 이런 폭풍우는 금방 끝나요.
+        native:
+          es: Sí, pero esto pasa enseguida. En diez minutos, ni una nube.
+          ko: 네, 근데 금방 지나가요. 10분이면 구름 한 점 없을걸요.
+          note_ko: enseguida는 ‘금방’이에요. ni una nube는 ‘구름 한 점 없이’라는 말이에요.
+      - who: B
+        textbook:
+          es: ¡Mire! Hay un arcoíris sobre el mar.
+          ko: 보세요! 바다 위에 무지개가 떴어요.
+        native:
+          es: ¡Anda, mire! ¡Un arcoíris!
+          ko: 와, 저기 보세요! 무지개예요!
+          note_ko: anda는 뭔가를 보고 놀랄 때 하는 ‘와, 어’ 같은 말이에요.
+      - who: A
+        textbook:
+          es: ¡Qué bonito! ¿Ves? Ahora hace sol otra vez.
+          ko: 정말 예쁘네요! 봐요, 이제 또 해가 나잖아요.
+        native:
+          es: ¿Ves? Lo que te decía, aquí el tiempo es así.
+          ko: 봐요, 내 말 맞죠? 여기 날씨는 원래 이래요.
+          note_ko: lo que te decía는 ‘내가 말했잖아요’예요.
+readings:
+  - id: r1
+    title_es: Sol, lluvia y arcoíris
+    title_ko: 해, 비, 그리고 무지개
+    level: A1
+    paragraphs:
+      - es: Hoy es 11 de mayo y estoy en Donostia. Por la mañana hace sol y el cielo está azul. Voy a la playa de La Concha sin paraguas.
+        ko: 오늘은 5월 11일, 저는 도노스티아에 있어요. 오전에는 해가 나고 하늘이 파래요. 우산 없이 라 콘차 해변에 가요.
+      - es: A las doce llegan las nubes. Hace viento y empieza la lluvia. Luego hay una tormenta corta, con truenos y rayos.
+        ko: 열두 시에 구름이 몰려와요. 바람이 불고 비가 내리기 시작해요. 그다음 천둥 번개가 치는 짧은 폭풍우가 지나가요.
+      - es: Espero debajo de un balcón con una señora. Ella tiene chubasquero, ¡y yo no! Después sale el sol y vemos un arcoíris sobre el mar. La próxima vez, llevo el paraguas.
+        ko: 어떤 아주머니와 함께 발코니 아래에서 비를 피해요. 아주머니는 비옷이 있는데 저는 없어요! 그러다 해가 나고, 바다 위로 뜬 무지개를 함께 봐요. 다음번엔 우산을 챙길 거예요.
+    questions:
+      - q_ko: 오전 날씨는 어땠나요?
+        choices_ko: [맑았다, 비가 왔다, 눈이 왔다]
+        answer: 0
+      - q_ko: 글쓴이는 어디에서 비를 피했나요?
+        choices_ko: [발코니 아래, 호텔 로비, 버스 안]
+        answer: 0
+      - q_ko: 비가 그친 뒤 무엇을 봤나요?
+        choices_ko: [안개, 무지개, 눈]
+        answer: 1
+  - id: r2
+    title_es: La previsión para mañana
+    title_ko: 내일 일기 예보
+    level: A2
+    paragraphs:
+      - es: Esta es la previsión del tiempo para mañana en el norte de España. Por la mañana, niebla en la costa y cielo con nubes. La temperatura máxima va a ser de dieciocho grados, y la mínima, de once.
+        ko: 스페인 북부의 내일 일기 예보예요. 오전에는 해안에 안개가 끼고 구름이 많아요. 최고 기온은 18도, 최저 기온은 11도예요.
+      - es: Por la tarde, lluvia y viento fuerte del noroeste. En las montañas puede haber tormenta, con truenos y rayos.
+        ko: 오후에는 비가 오고 북서쪽에서 센 바람이 불어요. 산간에서는 천둥 번개를 동반한 폭풍우가 칠 수도 있어요.
+      - es: En el País Vasco, a la lluvia fina la llaman «sirimiri». Parece poca agua, pero moja mucho. Por eso, mucha gente sale de casa con paraguas o chubasquero, por si acaso.
+        ko: 바스크 지방에서는 가는 비를 «sirimiri»라고 불러요. 빗줄기는 약해 보여도 옷이 꽤 젖어요. 그래서 혹시 몰라 우산이나 비옷을 챙겨 나가는 사람이 많아요.
+    questions:
+      - q_ko: 내일 최고 기온은 몇 도인가요?
+        choices_ko: [11도, 16도, 18도]
+        answer: 2
+      - q_ko: sirimiri는 무엇인가요?
+        choices_ko: [가는 비, 센 바람, 짙은 안개]
+        answer: 0
+glossary:
+  "a": {lemma: "a", ko: "~에, ~로", en: "to, at", pron: "아"}
+  "acaso": {lemma: "acaso", ko: "혹시(por si acaso 혹시 모르니까)", en: "perhaps (just in case)", pron: "아**까**소"}
+  "agua": {lemma: "agua", ko: "물", en: "water", pron: "**아**구아"}
+  "ahora": {lemma: "ahora", ko: "지금", en: "now", pron: "아**오**라"}
+  "anda": {lemma: "andar", ko: "와, 어(놀랐을 때)", en: "wow, oh", pron: "**안**다"}
+  "aquí": {lemma: "aquí", ko: "여기", en: "here", pron: "아**끼**"}
+  "así": {lemma: "así", ko: "이렇게", en: "like this", pron: "아**시**"}
+  "azul": {lemma: "azul", ko: "파란", en: "blue", pron: "아**술**"}
+  "balcón": {lemma: "balcón", ko: "발코니", en: "balcony", pron: "발**꼰**"}
+  "bastante": {lemma: "bastante", ko: "꽤", en: "quite a lot", pron: "바스**딴**떼"}
+  "bolso": {lemma: "bolso", ko: "가방, 손가방", en: "handbag", pron: "**볼**소"}
+  "bonito": {lemma: "bonito", ko: "예쁜", en: "pretty", pron: "보**니**또"}
+  "buenos": {lemma: "bueno", ko: "좋은(남성 복수)", en: "good", pron: "**부에**노스"}
+  "cambia": {lemma: "cambiar", ko: "바뀌다(그것은)", en: "changes", pron: "**깜**비아"}
+  "casa": {lemma: "casa", ko: "집", en: "home, house", pron: "**까**사"}
+  "chaparrón": {lemma: "chaparrón", ko: "소나기", en: "downpour", pron: "차빠**론**"}
+  "cinco": {lemma: "cinco", ko: "다섯", en: "five", pron: "**신**꼬"}
+  "con": {lemma: "con", ko: "~와 함께, ~로", en: "with", pron: "꼰"}
+  "concha": {lemma: "Concha", ko: "콘차(La Concha, 도노스티아의 해변)", en: "La Concha", pron: "**꼰**차"}
+  "corta": {lemma: "corto", ko: "짧은(여성)", en: "short", pron: "**꼬르**따"}
+  "cortas": {lemma: "corto", ko: "짧은(여성 복수)", en: "short", pron: "**꼬르**따스"}
+  "costa": {lemma: "costa", ko: "해안", en: "coast", pron: "**꼬스**따"}
+  "cuántos": {lemma: "cuánto", ko: "몇(남성 복수)", en: "how many", pron: "**꾸안**또스"}
+  "de": {lemma: "de", ko: "~의, ~에서", en: "of, from", pron: "데"}
+  "debajo": {lemma: "debajo", ko: "밑에", en: "underneath", pron: "데**바**호"}
+  "decía": {lemma: "decir", ko: "말하다(나는, 과거)", en: "I was saying", pron: "데**시**아"}
+  "dejado": {lemma: "dejar", ko: "두다(te has dejado 두고 왔다)", en: "left (behind)", pron: "데**하**도"}
+  "del": {lemma: "de + el", ko: "~의(de+el)", en: "of the", pron: "델"}
+  "después": {lemma: "después", ko: "그다음에", en: "afterwards", pron: "데스**뿌에스**"}
+  "dice": {lemma: "decir", ko: "말하다(그·그녀·사람들은)", en: "says", pron: "**디**세"}
+  "dieciocho": {lemma: "dieciocho", ko: "18", en: "eighteen", pron: "디에시**오**초"}
+  "dieciséis": {lemma: "dieciséis", ko: "16, 열여섯", en: "sixteen", pron: "디에시**세이스**"}
+  "diez": {lemma: "diez", ko: "10", en: "ten", pron: "**디에스**"}
+  "doce": {lemma: "doce", ko: "12", en: "twelve", pron: "**도**세"}
+  "donostia": {lemma: "Donostia", ko: "도노스티아(산세바스티안)", en: "Donostia (San Sebastián)", pron: "도**노스**띠아"}
+  "días": {lemma: "día", ko: "날들(buenos días: 아침 인사)", en: "days", pron: "**디**아스"}
+  "ella": {lemma: "ella", ko: "그녀", en: "she", pron: "**에**야"}
+  "empieza": {lemma: "empezar", ko: "시작하다(그것은)", en: "starts", pron: "엠**삐에**사"}
+  "en": {lemma: "en", ko: "~에, ~안에", en: "in, on", pron: "엔"}
+  "enseguida": {lemma: "enseguida", ko: "금방, 곧", en: "right away", pron: "엔세**기**다"}
+  "entonces": {lemma: "entonces", ko: "그럼", en: "then", pron: "엔**똔**세스"}
+  "es": {lemma: "ser", ko: "~이다(그것은)", en: "it is", pron: "**에스**"}
+  "eso": {lemma: "eso", ko: "그것", en: "that", pron: "**에**소"}
+  "españa": {lemma: "España", ko: "스페인", en: "Spain", pron: "에스**빠**냐"}
+  "espero": {lemma: "esperar", ko: "기다리다(나는)", en: "I wait", pron: "에스**뻬**로"}
+  "esta": {lemma: "este", ko: "이(것)(여성)", en: "this", pron: "**에스**따"}
+  "estaciones": {lemma: "estación", ko: "계절들", en: "seasons", pron: "에스따**시오**네스"}
+  "estamos": {lemma: "estar", ko: "있다(우리는), estamos a 16 grados 지금 16도예요", en: "we are", pron: "에스**따**모스"}
+  "estas": {lemma: "este", ko: "이(여성 복수)", en: "these", pron: "**에스**따스"}
+  "esto": {lemma: "esto", ko: "이것", en: "this", pron: "**에스**또"}
+  "estoy": {lemma: "estar", ko: "있다(나는)", en: "I am", pron: "에스**또이**"}
+  "está": {lemma: "estar", ko: "있다(그것은)", en: "it is", pron: "에스**따**"}
+  "fina": {lemma: "fino", ko: "가는(여성)", en: "fine", pron: "**피**나"}
+  "fuerte": {lemma: "fuerte", ko: "세게, 강한", en: "strong, hard", pron: "**푸에르**떼"}
+  "gente": {lemma: "gente", ko: "사람들", en: "people", pron: "**헨**떼"}
+  "gracias": {lemma: "gracias", ko: "고마워요", en: "thank you", pron: "**그라**시아스"}
+  "grados": {lemma: "grado", ko: "도(온도)", en: "degrees", pron: "**그라**도스"}
+  "ha": {lemma: "haber", ko: "(완료 조동사, 그것은)", en: "has", pron: "**아**"}
+  "haber": {lemma: "haber", ko: "있다(puede haber 있을 수 있다)", en: "to be (there)", pron: "아**베르**"}
+  "hace": {lemma: "hacer", ko: "(날씨가) ~하다", en: "it makes (weather)", pron: "**아**세"}
+  "hacer": {lemma: "hacer", ko: "하다, 찍다", en: "to do, to take", pron: "아**세르**"}
+  "hacía": {lemma: "hacer", ko: "(날씨가) ~했다(과거)", en: "it was (weather)", pron: "아**시**아"}
+  "has": {lemma: "haber", ko: "(완료 조동사, 너는)", en: "you have", pron: "**아스**"}
+  "hay": {lemma: "haber", ko: "있다", en: "there is/are", pron: "**아이**"}
+  "hotel": {lemma: "hotel", ko: "호텔", en: "hotel", pron: "오**뗄**"}
+  "hoy": {lemma: "hoy", ko: "오늘", en: "today", pron: "**오이**"}
+  "igual": {lemma: "igual", ko: "어쩌면(구어)", en: "maybe", pron: "이**구알**"}
+  "ir": {lemma: "ir", ko: "가다", en: "to go", pron: "**이르**"}
+  "iría": {lemma: "ir", ko: "가다(나는, 조건법) yo iría 저라면 가겠어요", en: "I would go", pron: "이**리**아"}
+  "las": {lemma: "la", ko: "그(여성 복수 관사)", en: "the", pron: "라스"}
+  "llaman": {lemma: "llamar", ko: "부르다(그들은)", en: "they call", pron: "**야**만"}
+  "llegan": {lemma: "llegar", ko: "도착하다(그것들은)", en: "they arrive", pron: "**예**간"}
+  "lleve": {lemma: "llevar", ko: "가져가세요(usted 명령)", en: "take (formal)", pron: "**예**베"}
+  "llevo": {lemma: "llevar", ko: "가져가다, 사 가다(나는)", en: "I take", pron: "**예**보"}
+  "llover": {lemma: "llover", ko: "비가 오다", en: "to rain", pron: "요**베르**"}
+  "llueve": {lemma: "llover", ko: "비가 오다", en: "it rains", pron: "**유에**베"}
+  "llévatelo": {lemma: "llevarse", ko: "그걸 챙겨 가(tú 명령)", en: "take it with you", pron: "**예**바뗄로"}
+  "lo": {lemma: "lo", ko: "그것을", en: "it", pron: "로"}
+  "luego": {lemma: "luego", ko: "나중에", en: "later", pron: "**루에**고"}
+  "mar": {lemma: "mar", ko: "바다", en: "sea", pron: "**마르**"}
+  "mayo": {lemma: "mayo", ko: "5월", en: "May", pron: "**마**요"}
+  "mañana": {lemma: "mañana", ko: "아침; 내일", en: "morning; tomorrow", pron: "마**냐**나"}
+  "me": {lemma: "me", ko: "나를, 나에게", en: "me, myself", pron: "메"}
+  "mejor": {lemma: "mejor", ko: "더 나은, ~하는 게 낫다", en: "better", pron: "메**호르**"}
+  "menos": {lemma: "menos", ko: "덜(más o menos: 대충)", en: "less", pron: "**메**노스"}
+  "minutos": {lemma: "minuto", ko: "분(복수)", en: "minutes", pron: "미**누**또스"}
+  "mira": {lemma: "mirar", ko: "봐요(명령)", en: "look", pron: "**미**라"}
+  "mire": {lemma: "mirar", ko: "보세요(usted에게)", en: "look (formal)", pron: "**미**레"}
+  "moja": {lemma: "mojar", ko: "적시다(그것은)", en: "wets", pron: "**모**하"}
+  "montañas": {lemma: "montaña", ko: "산들", en: "mountains", pron: "몬**따**냐스"}
+  "mucha": {lemma: "mucho", ko: "많은 (여성)", en: "a lot of", pron: "**무**차"}
+  "muchas": {lemma: "mucho", ko: "많은(여성 복수)", en: "many", pron: "**무**차스"}
+  "mucho": {lemma: "mucho", ko: "많이", en: "a lot", pron: "**무**초"}
+  "muy": {lemma: "muy", ko: "아주", en: "very", pron: "**무이**"}
+  "más": {lemma: "más", ko: "더", en: "more", pron: "**마스**"}
+  "máxima": {lemma: "máximo", ko: "최고(여성)", en: "maximum", pron: "**막**시마"}
+  "mínima": {lemma: "mínimo", ko: "최저(여성)", en: "minimum", pron: "**미**니마"}
+  "nada": {lemma: "nada", ko: "아무것도(de nada: 천만에요)", en: "nothing", pron: "**나**다"}
+  "necesito": {lemma: "necesitar", ko: "필요하다(나는)", en: "I need", pron: "네세**시**또"}
+  "ni": {lemma: "ni", ko: "~도 아니다", en: "nor", pron: "니"}
+  "no": {lemma: "no", ko: "아니요, ~않다", en: "no, not", pron: "**노**"}
+  "normal": {lemma: "normal", ko: "흔한, 보통의", en: "normal", pron: "노르**말**"}
+  "noroeste": {lemma: "noroeste", ko: "북서쪽", en: "north-west", pron: "노로**에스**떼"}
+  "norte": {lemma: "norte", ko: "북쪽", en: "north", pron: "**노르**떼"}
+  "nubes": {lemma: "nube", ko: "구름들", en: "clouds", pron: "**누**베스"}
+  "o": {lemma: "o", ko: "또는", en: "or", pron: "오"}
+  "once": {lemma: "once", ko: "11", en: "eleven", pron: "**온**세"}
+  "otra": {lemma: "otro", ko: "다른, 또 하나의(여성)", en: "another", pron: "**오**뜨라"}
+  "oye": {lemma: "oír", ko: "저기(말 걸 때)", en: "hey, listen", pron: "**오**예"}
+  "para": {lemma: "para", ko: "~을 위해", en: "for", pron: "빠라"}
+  "parece": {lemma: "parecer", ko: "~해 보이다(그것은)", en: "it seems", pron: "빠**레**세"}
+  "pasa": {lemma: "pasar", ko: "일어나다; 지나가다(그것은)", en: "happens; passes", pron: "**빠**사"}
+  "país": {lemma: "país", ko: "나라, 지방(País Vasco 바스크 지방)", en: "country", pron: "빠**이스**"}
+  "pero": {lemma: "pero", ko: "하지만", en: "but", pron: "뻬로"}
+  "playa": {lemma: "playa", ko: "해변", en: "beach", pron: "**쁠라**야"}
+  "poca": {lemma: "poco", ko: "적은(여성)", en: "little", pron: "**뽀**까"}
+  "por": {lemma: "por", ko: "~로, ~에(por favor)", en: "by, for", pron: "뽀르"}
+  "precioso": {lemma: "precioso", ko: "아주 아름다운", en: "beautiful", pron: "쁘레**시오**소"}
+  "primavera": {lemma: "primavera", ko: "봄", en: "spring", pron: "쁘리마**베**라"}
+  "próxima": {lemma: "próximo", ko: "다음(여성)", en: "next", pron: "**쁘록**시마"}
+  "puede": {lemma: "poder", ko: "~할 수 있다 (당신은)", en: "you can", pron: "**뿌에**데"}
+  "puedo": {lemma: "poder", ko: "할 수 있다(나는)", en: "I can", pron: "**뿌에**도"}
+  "pues": {lemma: "pues", ko: "그게, 그럼", en: "well, then", pron: "뿌에스"}
+  "que": {lemma: "que", ko: "~라는, ~하는; ~거든(이유)", en: "that; because", pron: "께"}
+  "queda": {lemma: "quedar", ko: "남다; (se queda) ~한 상태가 되다", en: "remains; becomes", pron: "**께**다"}
+  "qué": {lemma: "qué", ko: "무엇", en: "what", pron: "**께**"}
+  "rayos": {lemma: "rayo", ko: "번개들", en: "lightning bolts", pron: "**라**요스"}
+  "sale": {lemma: "salir", ko: "떠나다, 나오다(그것은)", en: "leaves, comes out", pron: "**살**레"}
+  "se": {lemma: "se", ko: "자기를(재귀); 사람들이 ~하다(무인칭)", en: "oneself; one (impersonal)", pron: "세"}
+  "seguro": {lemma: "seguro", ko: "확실한; 틀림없이", en: "sure; surely", pron: "세**구**로"}
+  "según": {lemma: "según", ko: "~에 따르면", en: "according to", pron: "세**군**"}
+  "ser": {lemma: "ser", ko: "~이다", en: "to be", pron: "**세르**"}
+  "señora": {lemma: "señora", ko: "아주머니, 부인", en: "madam, lady", pron: "세**뇨**라"}
+  "si": {lemma: "si", ko: "만약", en: "if", pron: "시"}
+  "sido": {lemma: "ser", ko: "~였다(완료)", en: "been", pron: "**시**도"}
+  "siempre": {lemma: "siempre", ko: "늘, 항상", en: "always", pron: "**시엠**쁘레"}
+  "sin": {lemma: "sin", ko: "~없이", en: "without", pron: "신"}
+  "sirimiri": {lemma: "sirimiri", ko: "가랑비(바스크 지방에서 쓰는 말)", en: "drizzle", pron: "시리**미**리"}
+  "sobre": {lemma: "sobre", ko: "~ 위에", en: "over, above", pron: "소브레"}
+  "son": {lemma: "ser", ko: "~이다(그것들은)", en: "they are", pron: "**손**"}
+  "sopla": {lemma: "soplar", ko: "(바람이) 불다", en: "blows", pron: "**소**쁠라"}
+  "sí": {lemma: "sí", ko: "네", en: "yes", pron: "**시**"}
+  "tal": {lemma: "tal", ko: "그런(¿qué tal? 어때요?)", en: "such (how about)", pron: "**딸**"}
+  "también": {lemma: "también", ko: "~도", en: "also", pron: "땀**비엔**"}
+  "tanto": {lemma: "tanto", ko: "그렇게 많이", en: "so much", pron: "**딴**또"}
+  "tarde": {lemma: "tarde", ko: "오후", en: "afternoon", pron: "**따르**데"}
+  "te": {lemma: "te", ko: "너에게", en: "you, to you", pron: "떼"}
+  "tiene": {lemma: "tener", ko: "가지고 있다(그것은, 당신은)", en: "it has, you have", pron: "**띠에**네"}
+  "todas": {lemma: "todo", ko: "모든(여성 복수)", en: "all", pron: "**또**다스"}
+  "tormentas": {lemma: "tormenta", ko: "폭풍우들", en: "storms", pron: "또르**멘**따스"}
+  "truenos": {lemma: "trueno", ko: "천둥들", en: "thunderclaps", pron: "**뜨루에**노스"}
+  "un": {lemma: "un", ko: "하나의(남성)", en: "a, an", pron: "운"}
+  "una": {lemma: "una", ko: "하나의(여성)", en: "a, an", pron: "우나"}
+  "uy": {lemma: "uy", ko: "아이고, 이런", en: "oops", pron: "**우이**"}
+  "va": {lemma: "ir", ko: "가다(va a + 동사원형 ~할 거예요)", en: "goes (going to)", pron: "**바**"}
+  "vasco": {lemma: "vasco", ko: "바스크의", en: "Basque", pron: "**바스**꼬"}
+  "vaya": {lemma: "vaya", ko: "이런, 대단한(감탄)", en: "what a", pron: "**바**야"}
+  "vemos": {lemma: "ver", ko: "보다(우리는)", en: "we see", pron: "**베**모스"}
+  "ves": {lemma: "ver", ko: "보다 (너는)", en: "you see", pron: "**베스**"}
+  "vez": {lemma: "vez", ko: "번(la próxima vez 다음번, otra vez 또)", en: "time (occasion)", pron: "**베스**"}
+  "voy": {lemma: "ir", ko: "가다(나는)", en: "I go", pron: "**보이**"}
+  "y": {lemma: "y", ko: "그리고", en: "and", pron: "이"}
+  "ya": {lemma: "ya", ko: "이미, 벌써", en: "already", pron: "**야**"}
+  "yo": {lemma: "yo", ko: "나", en: "I", pron: "**요**"}
