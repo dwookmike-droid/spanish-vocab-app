@@ -1,0 +1,121 @@
+{
+ "chapters": [
+  {
+   "num": 1,
+   "es": "El baño",
+   "en": "The bathroom",
+   "ko": "욕실",
+   "city": "Granada",
+   "date": "3 MAY",
+   "cover": "ch01_towel",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 2,
+   "es": "La cocina",
+   "en": "The kitchen",
+   "ko": "부엌",
+   "city": "València",
+   "date": "5 MAY",
+   "cover": "ch02_fridge",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 3,
+   "es": "El salón",
+   "en": "The living room",
+   "ko": "거실",
+   "city": "Sevilla",
+   "date": "23 MAY",
+   "cover": "ch03_sofa",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 4,
+   "es": "El dormitorio",
+   "en": "The bedroom",
+   "ko": "침실",
+   "city": "Toledo",
+   "date": "15 MAY",
+   "cover": "ch04_bed",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 5,
+   "es": "El patio y el jardín",
+   "en": "The patio and the garden",
+   "ko": "안뜰과 정원",
+   "city": "Córdoba",
+   "date": "4 MAY",
+   "cover": "ch05_patio",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 6,
+   "es": "Frutas y verduras",
+   "en": "Fruit and vegetables",
+   "ko": "과일과 채소",
+   "city": "Barcelona",
+   "date": "7 MAY",
+   "cover": "ch06_apple",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 7,
+   "es": "Tapas y pintxos",
+   "en": "Tapas and pintxos",
+   "ko": "타파스",
+   "city": "Donostia",
+   "date": "10 MAY",
+   "cover": "ch07_tapa",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 8,
+   "es": "El restaurante",
+   "en": "The restaurant",
+   "ko": "식당",
+   "city": "Madrid",
+   "date": "12 MAY",
+   "cover": null,
+   "has_media": false,
+   "n_dialogues": 2,
+   "n_readings": 2
+  },
+  {
+   "num": 11,
+   "es": "El transporte",
+   "en": "Getting around",
+   "ko": "교통",
+   "city": "Madrid",
+   "date": "12 MAY",
+   "cover": "ch11_train",
+   "has_media": true,
+   "n_dialogues": 2,
+   "n_readings": 2
+  }
+ ],
+ "credits": [
+  "CREDITS_v6.md",
+  "CREDITS_ch02_v6.md",
+  "CREDITS_ch03_v6.md",
+  "CREDITS_ch04_v6.md",
+  "CREDITS_ch05_v6.md",
+  "CREDITS_ch06_v6.md",
+  "CREDITS_ch07_v6.md"
+ ]
+}

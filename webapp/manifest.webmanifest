@@ -1,0 +1,16 @@
+{
+  "name": "Vocabulario visual — 여행 스페인어",
+  "short_name": "Vocabulario",
+  "description": "사진으로 배우는 여행 스페인어: 단어, 받아쓰기, 말하기, 대화, 읽기",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3ecdf",
+  "theme_color": "#1f1b17",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
