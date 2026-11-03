@@ -22,6 +22,7 @@ _last = [0.0]
 
 
 def get(u):
+    u = u.replace("://thumb.wikimedia.org/", "://upload.wikimedia.org/")  # thumb host is not on the network allow-list
     wait = 60
     while True:
         dt = time.time() - _last[0]

@@ -15,6 +15,7 @@ UA = {"User-Agent": "VocabularioVisual/1.0 (https://github.com/dwookmike-droid/s
 
 
 def get(u):
+    u = u.replace("://thumb.wikimedia.org/", "://upload.wikimedia.org/")  # thumb host is not on the network allow-list
     err = None
     for i in range(8):
         time.sleep(6)  # shared IPs get rate-limited: stay slow
