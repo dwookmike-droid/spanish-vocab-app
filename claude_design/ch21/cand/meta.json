@@ -1,0 +1,796 @@
+{
+ "shop": [
+  {
+   "title": "The Beauty of Window Shopping",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ra_fus",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7092/7363267972_1c40439dbf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/48783cc4-0b4e-41ad-90d8-699365b4b3ad/thumb/",
+   "page": "https://www.flickr.com/photos/79334463@N00/7363267972",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/shop_0.jpg"
+  },
+  {
+   "title": "Icons",
+   "lic": "CC BY-SA 2.0",
+   "artist": "It's No Game",
+   "w": 679,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3475/3833777718_c4c6e47437_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/efb54c88-20bb-43c6-a6e0-0daac06e0458/thumb/",
+   "page": "https://www.flickr.com/photos/29057345@N04/3833777718",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/shop_1.jpg"
+  },
+  {
+   "title": "African Women on Calle Montera",
+   "lic": "CC BY 2.0",
+   "artist": "maveric2003",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/2326/2013614148_3d940c8e3f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f17e306d-f579-4358-9670-d817d8778955/thumb/",
+   "page": "https://www.flickr.com/photos/47983324@N00/2013614148",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/shop_2.jpg"
+  }
+ ],
+ "fleamarket": [
+  {
+   "title": "El Rastro, Madrid.",
+   "lic": "CC BY 2.0",
+   "artist": "gp314",
+   "w": 1024,
+   "h": 795,
+   "url": "https://live.staticflickr.com/3164/3092784119_edc2e0da4f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b39af5b-af47-4b3d-934e-e479e9c4ed8f/thumb/",
+   "page": "https://www.flickr.com/photos/28776871@N02/3092784119",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fleamarket_0.jpg"
+  },
+  {
+   "title": "Una falda en el rastro | Madrid",
+   "lic": "CC BY-SA 2.0",
+   "artist": "orse",
+   "w": 426,
+   "h": 500,
+   "url": "https://live.staticflickr.com/66/209294974_7a7e172e80.jpg",
+   "thumb": "https://api.openverse.org/v1/images/528ae726-cc50-49b6-992b-e2a64ea66a96/thumb/",
+   "page": "https://www.flickr.com/photos/77642694@N00/209294974",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fleamarket_1.jpg"
+  },
+  {
+   "title": "Discos y muñecas en el rastro | Madrid",
+   "lic": "CC BY-SA 2.0",
+   "artist": "orse",
+   "w": 500,
+   "h": 419,
+   "url": "https://live.staticflickr.com/87/209295028_e7cecd54fc.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7539f3d2-9c20-4f22-9a14-92513aae5fee/thumb/",
+   "page": "https://www.flickr.com/photos/77642694@N00/209295028",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fleamarket_2.jpg"
+  }
+ ],
+ "stall": [
+  {
+   "title": "2011.04 - 'Market stalls and balloons for sale', photo at the street-fair in the Kinkerstraat in the light of Spring; Amsterdam city, district Oud-West - urban photography in the Netherlands, Fons Heijnsbroek",
+   "lic": "CC0",
+   "artist": "Amsterdam free photos & pictures of the Dutch city",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2821/10929482603_791d2ecb8a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7c0b4306-cc06-4091-9c83-ebd2eadbef53/thumb/",
+   "page": "https://www.flickr.com/photos/104736837@N03/10929482603",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/stall_0.jpg"
+  },
+  {
+   "title": "Market stall",
+   "lic": "CC BY 2.0",
+   "artist": "Phillie Casablanca",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2024/2052759248_2da62ab99b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9abdbb12-171d-4a9a-895d-c61bf6b2553e/thumb/",
+   "page": "https://www.flickr.com/photos/19451080@N00/2052759248",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/stall_1.jpg"
+  },
+  {
+   "title": "Fruit market stall in Cairo",
+   "lic": "CC BY-SA 2.0",
+   "artist": "dungodung",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3229/2715600222_a420fbdf57_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/acda70d5-7051-4e7b-b50b-143e93c9d41c/thumb/",
+   "page": "https://www.flickr.com/photos/16953270@N00/2715600222",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/stall_2.jpg"
+  }
+ ],
+ "price": [
+  {
+   "title": "C64 box price tag",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Digger/ATL",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7012/6556479569_7cc9797906_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/38ff16c2-2832-4a68-927d-bc63ff260ee8/thumb/",
+   "page": "https://www.flickr.com/photos/64484304@N00/6556479569",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/price_0.jpg"
+  },
+  {
+   "title": "Digital price tags",
+   "lic": "CC BY 2.0",
+   "artist": "dmje",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3050/2568162530_857a6a719a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/148cb08e-d359-4856-9761-8b87d849d1f2/thumb/",
+   "page": "https://www.flickr.com/photos/48411273@N00/2568162530",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/price_1.jpg"
+  },
+  {
+   "title": "price tag",
+   "lic": "CC BY 2.0",
+   "artist": "bradleygee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3358/3536832030_a3b6f6d4f2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/deb54a9d-bd7c-486f-a3dc-378697899cde/thumb/",
+   "page": "https://www.flickr.com/photos/13951072@N00/3536832030",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/price_2.jpg"
+  }
+ ],
+ "offer": [
+  {
+   "title": "Sale sign in the shopping mall. Discount tag. Bangkok.",
+   "lic": "CC BY 2.0",
+   "artist": "Artem Beliaikin",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48087867208_2c0e96222b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e58f8202-31d0-4a0c-92a8-b28860e17822/thumb/",
+   "page": "https://www.flickr.com/photos/157635012@N07/48087867208",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/offer_0.jpg"
+  },
+  {
+   "title": "Discount red sign board in the store.",
+   "lic": "CC0",
+   "artist": "Artem Beliaikin",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48100019533_a7957b0b93_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1827bd9-d8e1-4cbf-b587-962b40d4c043/thumb/",
+   "page": "https://www.flickr.com/photos/157635012@N07/48100019533",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/offer_1.jpg"
+  },
+  {
+   "title": "Hardware on 17th",
+   "lic": "CC BY 2.0",
+   "artist": "dalecruse",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/65535/54480914671_8df51efe1d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8ced7f3b-25f8-445e-96ab-3c6608813a29/thumb/",
+   "page": "https://www.flickr.com/photos/91873384@N04/54480914671",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/offer_2.jpg"
+  }
+ ],
+ "sales": [
+  {
+   "title": "Venta",
+   "lic": "CC0",
+   "artist": "Daquella manera",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/193/446449864_14316ff98a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d542db01-9e60-45c7-a3f5-37be01760c43/thumb/",
+   "page": "https://www.flickr.com/photos/62518311@N00/446449864",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/sales_0.jpg"
+  },
+  {
+   "title": "So perra",
+   "lic": "CC BY 2.0",
+   "artist": "virgirm",
+   "w": 500,
+   "h": 453,
+   "url": "https://live.staticflickr.com/3231/2941979915_ac65db6fe3.jpg",
+   "thumb": "https://api.openverse.org/v1/images/be12e895-8488-4eb1-b7af-ae5a95680503/thumb/",
+   "page": "https://www.flickr.com/photos/29445906@N00/2941979915",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/sales_1.jpg"
+  },
+  {
+   "title": "Rebajas",
+   "lic": "CC0",
+   "artist": "Daquella manera",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/52/145951337_6ce7bd8eee_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/44482f77-7f9f-429a-a782-e9d51119061f/thumb/",
+   "page": "https://www.flickr.com/photos/62518311@N00/145951337",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/sales_2.jpg"
+  }
+ ],
+ "euro": [
+  {
+   "title": "Euro Coins",
+   "lic": "CC BY 2.0",
+   "artist": "Images_of_Money",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6005/5929574223_f3c14cea73_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8095a8fd-b70d-4e7b-8edb-fb662d3e56a2/thumb/",
+   "page": "https://www.flickr.com/photos/59937401@N07/5929574223",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/euro_0.jpg"
+  },
+  {
+   "title": "Scottish euro coin",
+   "lic": "CC BY-SA 2.0",
+   "artist": "viralbus",
+   "w": 500,
+   "h": 499,
+   "url": "https://live.staticflickr.com/8324/8138785206_c6aa36cfef.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4a45d68e-e836-4967-aa60-6261fb9f2078/thumb/",
+   "page": "https://www.flickr.com/photos/19414697@N00/8138785206",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/euro_1.jpg"
+  },
+  {
+   "title": "1 euro coin",
+   "lic": "CC BY 2.0",
+   "artist": "Images_of_Money",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5013/5475027912_51997e3c6f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4b8ad6c6-de41-42dd-a864-02a180336477/thumb/",
+   "page": "https://www.flickr.com/photos/59937401@N07/5475027912",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/euro_2.jpg"
+  }
+ ],
+ "coin": [
+  {
+   "title": "Euro Coins",
+   "lic": "CC BY 2.0",
+   "artist": "Images_of_Money",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6005/5929574223_f3c14cea73_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8095a8fd-b70d-4e7b-8edb-fb662d3e56a2/thumb/",
+   "page": "https://www.flickr.com/photos/59937401@N07/5929574223",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/coin_0.jpg"
+  },
+  {
+   "title": "Scottish euro coin",
+   "lic": "CC BY-SA 2.0",
+   "artist": "viralbus",
+   "w": 500,
+   "h": 499,
+   "url": "https://live.staticflickr.com/8324/8138785206_c6aa36cfef.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4a45d68e-e836-4967-aa60-6261fb9f2078/thumb/",
+   "page": "https://www.flickr.com/photos/19414697@N00/8138785206",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/coin_1.jpg"
+  },
+  {
+   "title": "1 euro coin",
+   "lic": "CC BY 2.0",
+   "artist": "Images_of_Money",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5013/5475027912_51997e3c6f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4b8ad6c6-de41-42dd-a864-02a180336477/thumb/",
+   "page": "https://www.flickr.com/photos/59937401@N07/5475027912",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/coin_2.jpg"
+  }
+ ],
+ "banknote": [
+  {
+   "title": "New 50 Euro banknotes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "driver Photographer",
+   "w": 1024,
+   "h": 557,
+   "url": "https://live.staticflickr.com/4173/34400380096_09b875d6f0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1d81dfb7-c353-43f2-bb31-94165514de82/thumb/",
+   "page": "https://www.flickr.com/photos/72334647@N03/34400380096",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_1.jpg"
+  },
+  {
+   "title": "New 50 Euro banknotes",
+   "lic": "CC BY-SA 2.0",
+   "artist": "driver Photographer",
+   "w": 1024,
+   "h": 554,
+   "url": "https://live.staticflickr.com/4158/34442709025_ec1092de6c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/10eb6af3-470d-481d-b139-f7f379e1ad7c/thumb/",
+   "page": "https://www.flickr.com/photos/72334647@N03/34442709025",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/banknote_2.jpg"
+  }
+ ],
+ "card": [
+  {
+   "title": "Minimum Credit Card Payment £1.00",
+   "lic": "CC BY-SA 2.0",
+   "artist": "LoopZilla",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4135/4824334331_9e5eceeb54_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/64a5277d-f32d-4658-bb37-4b53eaafd431/thumb/",
+   "page": "https://www.flickr.com/photos/24987280@N00/4824334331",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/card_0.jpg"
+  },
+  {
+   "title": "Credit card payment, shopping",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4000,
+   "h": 2667,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2lzMTUwNzItaW1hZ2UuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c34ab1d1-eed7-4992-8632-deaaceb5db21/thumb/",
+   "page": "https://www.rawpixel.com/image/8809237/credit-card-payment-shopping",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/card_2.jpg"
+  }
+ ],
+ "receipt": [
+  {
+   "title": "Oxfam shop receipt (reverse)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "HowardLake",
+   "w": 604,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2492/3937283983_a4688977e9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/62a9082b-d1e6-4bd5-9bc7-99f84e2603a5/thumb/",
+   "page": "https://www.flickr.com/photos/53941041@N00/3937283983",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/receipt_0.jpg"
+  },
+  {
+   "title": "Grocery shopping receipt highlight Craft Macaroni and Cheese",
+   "lic": "CC BY 2.0",
+   "artist": "districtmedia1",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/65535/52084850605_b2024eb016_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c3e0a2c9-af44-4aec-b476-90aa86741b36/thumb/",
+   "page": "https://www.flickr.com/photos/195569204@N05/52084850605",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/receipt_1.jpg"
+  },
+  {
+   "title": "I saved HOW MUCH??? Thank You Kroger for 90% off Halloween items!! #Kroger #shopping #receipt #instagood_lawrenceburg_indiana #instagood #enjoyingthesmallthings",
+   "lic": "CC BY 2.0",
+   "artist": "MsMimiSmeeks",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8058/8180155457_50d2c93432.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0cd61058-5b3c-4c56-8ebd-045aaa2b0369/thumb/",
+   "page": "https://www.flickr.com/photos/28998778@N00/8180155457",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/receipt_2.jpg"
+  }
+ ],
+ "bag": [
+  {
+   "title": "Dotty shopping bag",
+   "lic": "CC BY 2.0",
+   "artist": "storebukkebruse",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1301/4692419551_e4da51ee45_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8e4caa5c-8d53-4a29-a70c-a39a23039126/thumb/",
+   "page": "https://www.flickr.com/photos/8536261@N07/4692419551",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/bag_0.jpg"
+  },
+  {
+   "title": "Shopping Bag Dispenser",
+   "lic": "CC BY 2.0",
+   "artist": "Jay Shouldol",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5125/5324249186_9de7a2a4bd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e86ee604-f976-4d92-9acb-1a02c02dbcc8/thumb/",
+   "page": "https://www.flickr.com/photos/67113020@N00/5324249186",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/bag_1.jpg"
+  },
+  {
+   "title": "Shopping bag",
+   "lic": "CC BY 2.0",
+   "artist": "storebukkebruse",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4035/4388914315_572ca75228_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b304ffb6-1ec7-4ac5-9c8d-c2e8b037b1e6/thumb/",
+   "page": "https://www.flickr.com/photos/8536261@N07/4388914315",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/bag_2.jpg"
+  }
+ ],
+ "till": [
+  {
+   "title": "Pay at the cash register.",
+   "lic": "CC BY 2.0",
+   "artist": "MIKI Yoshihito. (#mikiyoshihito)",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5262/5690233956_1ee07c4140_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/13f247ae-3488-4ba8-bc81-4dae6d9969a9/thumb/",
+   "page": "https://www.flickr.com/photos/7940758@N07/5690233956",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/till_0.jpg"
+  },
+  {
+   "title": "Creaky old cash register",
+   "lic": "CC BY-SA 2.0",
+   "artist": "insouciance",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/2788/4538886934_2472c8366d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/78c04359-4d49-4677-8733-ed5c8034b596/thumb/",
+   "page": "https://www.flickr.com/photos/66901607@N00/4538886934",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/till_1.jpg"
+  },
+  {
+   "title": "Walmart Check Out Cash Register",
+   "lic": "CC BY 2.0",
+   "artist": "JeepersMedia",
+   "w": 880,
+   "h": 950,
+   "url": "https://live.staticflickr.com/2904/14245040341_8664aea879_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1a36d722-6386-450e-bad4-c7cf90bbb2d4/thumb/",
+   "page": "https://www.flickr.com/photos/39160147@N03/14245040341",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/till_2.jpg"
+  }
+ ],
+ "fittingroom": [
+  {
+   "title": "Waiting at the fitting room / The last of the Mohicans.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "e³°°°",
+   "w": 1024,
+   "h": 839,
+   "url": "https://live.staticflickr.com/3087/2670726343_299848d736_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ba0f135e-1ab9-46bf-aa41-cbd9aa7dae98/thumb/",
+   "page": "https://www.flickr.com/photos/23566085@N00/2670726343",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fittingroom_0.jpg"
+  },
+  {
+   "title": "Fitting Room",
+   "lic": "CC0",
+   "artist": "SissyTvinhose",
+   "w": 522,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4808/44580840800_d879be42a5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/00abfd92-7a07-4947-9ca9-4cbbd7ef2d6d/thumb/",
+   "page": "https://www.flickr.com/photos/166654743@N04/44580840800",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fittingroom_1.jpg"
+  },
+  {
+   "title": "fitting room",
+   "lic": "CC BY-SA 2.0",
+   "artist": "▓▒░ TORLEY ░▒▓",
+   "w": 1024,
+   "h": 612,
+   "url": "https://live.staticflickr.com/4059/4539082274_92b2bff4ec_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8ea7f66c-ffee-4f0b-8c33-84a1f31f50e0/thumb/",
+   "page": "https://www.flickr.com/photos/70285332@N00/4539082274",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/fittingroom_2.jpg"
+  }
+ ],
+ "size": [
+  {
+   "title": "What’s your Digits? A Micro Blog",
+   "lic": "CC BY 2.0",
+   "artist": "Breezy.Luik",
+   "w": 1024,
+   "h": 804,
+   "url": "https://live.staticflickr.com/8785/16955401168_6d526e9703_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fbca444c-6d01-4141-93af-88337cd3df39/thumb/",
+   "page": "https://www.flickr.com/photos/93834118@N03/16955401168",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_0.jpg"
+  },
+  {
+   "title": "Haute nouveaute, Mme. Demorest's reliable patterns. In sizes, illustrated & described. 'What to wear,' 15 cts. 7 1/2 stg. Portfolio of fashions. 15 cts. 7 1/2 stg. Paris, Vienna, New York, London, agencies everywhere. Demorest's Monthly Magazine. 1879. [b",
+   "lic": "CC BY 2.0",
+   "artist": "Boston Public Library",
+   "w": 670,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5458/9670250381_15c44a2b1f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b453400b-297c-4530-a9aa-b4f8d2205e79/thumb/",
+   "page": "https://www.flickr.com/photos/24029425@N06/9670250381",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_1.jpg"
+  },
+  {
+   "title": "Haute nouveaute, Mme. Demorest's reliable patterns. In sizes, illustrated & described. 'What to wear,' 15 cts. 7 1/2 stg. Portfolio of fashions. 15 cts. 7 1/2 stg. Paris, Vienna, New York, London, agencies everywhere. Demorest's Monthly Magazine. 1879. [f",
+   "lic": "CC BY 2.0",
+   "artist": "Boston Public Library",
+   "w": 1024,
+   "h": 676,
+   "url": "https://live.staticflickr.com/3793/9670250341_a6fc66630a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f57712ce-aed0-48b0-a13a-1bc9a68eaf2c/thumb/",
+   "page": "https://www.flickr.com/photos/24029425@N06/9670250341",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/size_2.jpg"
+  }
+ ],
+ "discount": [
+  {
+   "title": "Everything is 80s Percent Off",
+   "lic": "CC BY 2.0",
+   "artist": "Orin Zebest",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/4009/4297220022_1bf6c2c485_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/24b658e7-ddb4-48f0-a8fd-aee7900eaaae/thumb/",
+   "page": "https://www.flickr.com/photos/33917831@N00/4297220022",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/discount_0.jpg"
+  },
+  {
+   "title": "Sale sign in the shopping mall. Discount tag. Bangkok.",
+   "lic": "CC BY 2.0",
+   "artist": "Artem Beliaikin",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48087867208_2c0e96222b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e58f8202-31d0-4a0c-92a8-b28860e17822/thumb/",
+   "page": "https://www.flickr.com/photos/157635012@N07/48087867208",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/discount_1.jpg"
+  },
+  {
+   "title": "Discount red sign board in the store.",
+   "lic": "CC0",
+   "artist": "Artem Beliaikin",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48100019533_a7957b0b93_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1827bd9-d8e1-4cbf-b587-962b40d4c043/thumb/",
+   "page": "https://www.flickr.com/photos/157635012@N07/48100019533",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/discount_2.jpg"
+  }
+ ],
+ "gift": [
+  {
+   "title": "Birthday gifts",
+   "lic": "CC BY 2.0",
+   "artist": "Droid Gingerbread",
+   "w": 682,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2708/5754481003_55916cc746_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d1cb0286-9d5d-450d-b797-0c3be48ec562/thumb/",
+   "page": "https://www.flickr.com/photos/63259711@N04/5754481003",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/gift_0.jpg"
+  },
+  {
+   "title": "Gift Box",
+   "lic": "CC BY 2.0",
+   "artist": "FutUndBeidl",
+   "w": 915,
+   "h": 620,
+   "url": "https://live.staticflickr.com/8043/8084060025_74eca9b582_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a425f8df-f41c-4f35-a4f3-831e0c43481f/thumb/",
+   "page": "https://www.flickr.com/photos/61423903@N06/8084060025",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/gift_1.jpg"
+  },
+  {
+   "title": "gift-box-vector_500x500",
+   "lic": "CC BY 2.0",
+   "artist": "Shmector",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8112/8594232915_a8527d8f79.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ece085d4-88f6-436c-814d-e3de55ad493b/thumb/",
+   "page": "https://www.flickr.com/photos/94493899@N08/8594232915",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/gift_2.jpg"
+  }
+ ],
+ "antique": [
+  {
+   "title": "Antiques Market",
+   "lic": "CC BY 2.0",
+   "artist": "flossyflotsam",
+   "w": 1024,
+   "h": 679,
+   "url": "https://live.staticflickr.com/2884/10847708004_bccfea54d1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2cf49bbb-d746-4adf-905d-5aea7edb0a4f/thumb/",
+   "page": "https://www.flickr.com/photos/8260474@N07/10847708004",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/antique_0.jpg"
+  },
+  {
+   "title": "Shanghai day 10, Dongtai Road Antiques Market",
+   "lic": "CC BY 2.0",
+   "artist": "decade_null",
+   "w": 1024,
+   "h": 729,
+   "url": "https://live.staticflickr.com/52/117561453_36ab7dbdd0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c74351dc-48ef-4d54-b2b2-96d63b91e6ad/thumb/",
+   "page": "https://www.flickr.com/photos/39952962@N00/117561453",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/antique_1.jpg"
+  },
+  {
+   "title": "Antique market - SINGER sewing machine",
+   "lic": "CC BY 2.0",
+   "artist": "MIKI Yoshihito. (#mikiyoshihito)",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2409/2500966961_72b49f647a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/785e17e8-d622-460b-b2f4-f932502b5604/thumb/",
+   "page": "https://www.flickr.com/photos/7940758@N07/2500966961",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/antique_2.jpg"
+  }
+ ],
+ "seller": [
+  {
+   "title": "Pike Place Market Vendor",
+   "lic": "CC BY 2.0",
+   "artist": "Scooter Lowrimore",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8240/8645044716_4f188e45c8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ee5daee7-f68e-4b50-bb7c-0cd6625c4b18/thumb/",
+   "page": "https://www.flickr.com/photos/60356356@N00/8645044716",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/seller_0.jpg"
+  },
+  {
+   "title": "Market Vendors",
+   "lic": "CC BY 2.0",
+   "artist": "D-Stanley",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3720/12094789883_8cf69c3a0d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3d4fa4c8-6f0b-4dcd-ad97-a0ce473fcf22/thumb/",
+   "page": "https://www.flickr.com/photos/79721788@N00/12094789883",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/seller_1.jpg"
+  },
+  {
+   "title": "Farmers' Market Vendor",
+   "lic": "CC BY 2.0",
+   "artist": "Me in ME",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/7517/15461415000_51db3e5d7c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b8dc77d3-2c18-4e8c-be52-14bb28bf18d0/thumb/",
+   "page": "https://www.flickr.com/photos/12357841@N02/15461415000",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/seller_2.jpg"
+  }
+ ],
+ "change": [
+  {
+   "title": "Fake coins of Bristol",
+   "lic": "CC BY-SA 2.0",
+   "artist": "AJ_UK",
+   "w": 921,
+   "h": 840,
+   "url": "https://live.staticflickr.com/3263/2713937458_7fc66342be_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3d98cb2d-6299-4f77-9d91-64cab74c19b6/thumb/",
+   "page": "https://www.flickr.com/photos/50805406@N00/2713937458",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/change_0.jpg"
+  },
+  {
+   "title": "ROMAN EMPIRE, CLAUDIUS 41-54 A.D. b",
+   "lic": "CC BY-SA 2.0",
+   "artist": "woody1778a",
+   "w": 1023,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2725/4274924409_bbdf989062_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1f234956-ddc9-4a0a-a8af-c8be0322f6bf/thumb/",
+   "page": "https://www.flickr.com/photos/9816248@N03/4274924409",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/change_1.jpg"
+  },
+  {
+   "title": "The Other Side of This Life.",
+   "lic": "CC BY 2.0",
+   "artist": "Paul. B",
+   "w": 1024,
+   "h": 678,
+   "url": "https://live.staticflickr.com/7060/6806201412_4ea219447c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11717b78-e29a-455b-9c27-0aec39458e4c/thumb/",
+   "page": "https://www.flickr.com/photos/65364424@N08/6806201412",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch21/cand/change_2.jpg"
+  }
+ ]
+}

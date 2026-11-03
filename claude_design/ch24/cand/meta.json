@@ -1,0 +1,677 @@
+{
+ "party": [
+  {
+   "title": "wooden horse",
+   "lic": "CC BY 2.0",
+   "artist": "keith ellwood",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/8228/8562015974_08b433fd73_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/146fa425-0ba4-4484-9213-2bc527552c73/thumb/",
+   "page": "https://www.flickr.com/photos/76377775@N05/8562015974",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/party_0.jpg"
+  },
+  {
+   "title": "Fallas - Valencia",
+   "lic": "CC BY 2.0",
+   "artist": "Pablo Matamoros",
+   "w": 1024,
+   "h": 766,
+   "url": "https://live.staticflickr.com/3541/3475870077_0534559431_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9e57dc9d-86c8-424c-a12f-edc4a0e97c8b/thumb/",
+   "page": "https://www.flickr.com/photos/27899690@N05/3475870077",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/party_1.jpg"
+  },
+  {
+   "title": "La Mascleta Valencia",
+   "lic": "CC BY 2.0",
+   "artist": "keith ellwood",
+   "w": 1024,
+   "h": 700,
+   "url": "https://live.staticflickr.com/8507/8523953579_dcfc366e4a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6c98c268-6b15-46eb-a2ee-972c515f7aed/thumb/",
+   "page": "https://www.flickr.com/photos/76377775@N05/8523953579",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/party_2.jpg"
+  }
+ ],
+ "falla": [
+  {
+   "title": "Fallas 027",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Fran Ontanaya",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7/6834002_70f3611528_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/311091ac-1626-452f-ad11-12aaa7f78f19/thumb/",
+   "page": "https://www.flickr.com/photos/60668960@N00/6834002",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/falla_0.jpg"
+  },
+  {
+   "title": "Fallera y bomberos",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hermenpaca",
+   "w": 1024,
+   "h": 707,
+   "url": "https://live.staticflickr.com/3694/13293598685_22f9201595_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/664f7bba-dc60-4e0e-98b3-bdbdec812fe0/thumb/",
+   "page": "https://www.flickr.com/photos/8735589@N07/13293598685",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/falla_1.jpg"
+  },
+  {
+   "title": "La fallera y su cremá",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hermenpaca",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/2852/13293746273_453dc50d88_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7053aeda-4956-45d2-86db-4c12f684e56b/thumb/",
+   "page": "https://www.flickr.com/photos/8735589@N07/13293746273",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/falla_2.jpg"
+  }
+ ],
+ "ninot": [
+  {
+   "title": "Nou Campanar 2013 (segundo premio)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hermenpaca",
+   "w": 630,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8369/8579964533_2a0c701966_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dbc1af72-7973-4709-812d-c8d5aa869811/thumb/",
+   "page": "https://www.flickr.com/photos/8735589@N07/8579964533",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/ninot_0.jpg"
+  },
+  {
+   "title": "Segundo premio 2012",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hermenpaca",
+   "w": 729,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7193/6928461870_f90b5f5b52_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6cbbddef-cd6e-41ca-9432-28690d6b3000/thumb/",
+   "page": "https://www.flickr.com/photos/8735589@N07/6928461870",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/ninot_1.jpg"
+  },
+  {
+   "title": "Da Vinci",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hermenpaca",
+   "w": 736,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7184/6928464520_5dbcb9c90c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9bfd845d-4015-41fd-9efd-53406cba5f3d/thumb/",
+   "page": "https://www.flickr.com/photos/8735589@N07/6928464520",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/ninot_2.jpg"
+  }
+ ],
+ "firecracker": [
+  {
+   "title": "Firecracker Mountain Bike Race - Juniors 4",
+   "lic": "CC BY 2.0",
+   "artist": "Citizen 4474",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2919/14361391439_c68b0b6885_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3878650f-c1e3-48c0-9382-004faa5bcacd/thumb/",
+   "page": "https://www.flickr.com/photos/8590349@N05/14361391439",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_0.jpg"
+  },
+  {
+   "title": "Firecracker Mountain Bike Race - Juniors 1",
+   "lic": "CC BY 2.0",
+   "artist": "Citizen 4474",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2904/14524917156_7c73b73f04_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e4ed5f4c-8f44-4fb6-8059-63c60e54fff0/thumb/",
+   "page": "https://www.flickr.com/photos/8590349@N05/14524917156",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_1.jpg"
+  },
+  {
+   "title": "India - Sights & Culture - 022 - Diwali Firecracker Mela",
+   "lic": "CC BY 2.0",
+   "artist": "mckaysavage",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2358/1980340953_afe8b79843_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3e972aa2-e63c-453d-81bc-8350e29a0a54/thumb/",
+   "page": "https://www.flickr.com/photos/56796376@N00/1980340953",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/firecracker_2.jpg"
+  }
+ ],
+ "traca": [],
+ "mascleta": [
+  {
+   "title": "Bomberos en la mascletà de Fallas",
+   "lic": "CC BY 2.0",
+   "artist": "Víctor Gutiérrez Navarro",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7381/13058366913_c4b96c25fb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0d8d0b7c-62f3-47ce-b969-6e99c129cbed/thumb/",
+   "page": "https://www.flickr.com/photos/40955708@N04/13058366913",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/mascleta_2.jpg"
+  }
+ ],
+ "bonfire": [
+  {
+   "title": "Bonfire",
+   "lic": "CC BY-SA 2.0",
+   "artist": "sandy.zieba",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3123/2838704471_bb70de251e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4095f24d-fe74-4919-9c68-dd01a15b4f98/thumb/",
+   "page": "https://www.flickr.com/photos/30294384@N07/2838704471",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/bonfire_0.jpg"
+  },
+  {
+   "title": "Bonfire",
+   "lic": "CC BY-SA 2.0",
+   "artist": "☺ Lee J Haywood",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2621/4141222378_c6785e1d0b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/77047af3-e69f-427a-8162-da3d2e664948/thumb/",
+   "page": "https://www.flickr.com/photos/45034206@N06/4141222378",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/bonfire_1.jpg"
+  },
+  {
+   "title": "Lewes Bonfire Night 2007 - Burning Torch Flame",
+   "lic": "CC BY 2.0",
+   "artist": "Dominic's pics",
+   "w": 1024,
+   "h": 646,
+   "url": "https://live.staticflickr.com/2226/1902007773_6a0e91f52f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c132c92a-aa3d-4de6-a802-51f0ba7e4a8c/thumb/",
+   "page": "https://www.flickr.com/photos/64097751@N00/1902007773",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/bonfire_2.jpg"
+  }
+ ],
+ "fire": [
+  {
+   "title": "Fire Flames on a Winter Night",
+   "lic": "CC BY-SA 2.0",
+   "artist": "John William Hammond",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4026/4210789243_8b4e5fbe75_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/140b16a9-fc83-4563-ac13-dd463eb5d9c6/thumb/",
+   "page": "https://www.flickr.com/photos/8398907@N02/4210789243",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fire_0.jpg"
+  },
+  {
+   "title": "Fire Flame",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Energetic Spirit",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1067/1419856591_54b8d3c0ff_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7e51eb51-650b-49e3-a5a1-cb6ef28bf13a/thumb/",
+   "page": "https://www.flickr.com/photos/12329264@N07/1419856591",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fire_1.jpg"
+  },
+  {
+   "title": "Fire Flames",
+   "lic": "CC BY 2.0",
+   "artist": "JJLosier",
+   "w": 1024,
+   "h": 459,
+   "url": "https://live.staticflickr.com/6010/5910942590_0aef6037d9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8789a931-677b-43df-9649-765fc8ec0eca/thumb/",
+   "page": "https://www.flickr.com/photos/64917690@N06/5910942590",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fire_2.jpg"
+  }
+ ],
+ "music": [
+  {
+   "title": "135/365",
+   "lic": "CC BY 2.0",
+   "artist": "NINAC video production",
+   "w": 1024,
+   "h": 640,
+   "url": "https://live.staticflickr.com/8623/16342600542_a63529f935_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8b9609e1-04a0-4ca0-97d2-51a2f9c93175/thumb/",
+   "page": "https://www.flickr.com/photos/103293228@N06/16342600542",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/music_0.jpg"
+  },
+  {
+   "title": "Eaglebrook School 2013 Winter Carnival Music Concert20130201_0862",
+   "lic": "CC BY 2.0",
+   "artist": "EaglebrookSchool",
+   "w": 1000,
+   "h": 665,
+   "url": "https://live.staticflickr.com/8502/8445498598_4480a0c594_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0463b966-0268-4fa8-8ce2-cbeca7c1ee83/thumb/",
+   "page": "https://www.flickr.com/photos/45532942@N08/8445498598",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/music_1.jpg"
+  },
+  {
+   "title": "Gibson Guitar 85",
+   "lic": "CC BY 2.0",
+   "artist": "Larry Ziffle",
+   "w": 960,
+   "h": 720,
+   "url": "https://live.staticflickr.com/7128/7543586264_6780eeae69_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11f9c996-0961-44f7-add3-c0e881b72042/thumb/",
+   "page": "https://www.flickr.com/photos/61051701@N00/7543586264",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/music_2.jpg"
+  }
+ ],
+ "band": [
+  {
+   "title": "66136 Daventry to Dollands Moor 6O67",
+   "lic": "CC BY-SA 2.0",
+   "artist": "train_photos",
+   "w": 1024,
+   "h": 758,
+   "url": "https://live.staticflickr.com/8643/16284829069_ffdbcbed99_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6142796c-3bd4-4e91-a4c7-6962a041c145/thumb/",
+   "page": "https://www.flickr.com/photos/99279135@N05/16284829069",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_0.jpg"
+  },
+  {
+   "title": "Fat Tuesday SF Mission 2016 99",
+   "lic": "CC BY 2.0",
+   "artist": "sfmission.com",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/1547/25495823871_4c9df2ebba.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6ddcca1c-d07b-4e5a-ae59-c3136e757182/thumb/",
+   "page": "https://www.flickr.com/photos/17281186@N00/25495823871",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_1.jpg"
+  },
+  {
+   "title": "Trombone player",
+   "lic": "CC BY 2.0",
+   "artist": "keith ellwood",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/8245/8545856805_e1af8bd7bf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e7820dea-b72e-4bd1-a33c-5b2988a69f72/thumb/",
+   "page": "https://www.flickr.com/photos/76377775@N05/8545856805",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/band_2.jpg"
+  }
+ ],
+ "costume": [
+  {
+   "title": "Verónica G.",
+   "lic": "CC BY 2.0",
+   "artist": "Peinaditos",
+   "w": 675,
+   "h": 960,
+   "url": "https://live.staticflickr.com/7037/6986435540_a1a7ed5af5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5690ba54-0901-4c38-9a66-a74dd100d185/thumb/",
+   "page": "https://www.flickr.com/photos/77745734@N05/6986435540",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/costume_1.jpg"
+  },
+  {
+   "title": "Fallera, Valencia",
+   "lic": "CC BY 2.0",
+   "artist": "ChiralJon",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4792/40038049744_d22a1fa608_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1820cd64-5249-4879-9fe6-2d88591432b9/thumb/",
+   "page": "https://www.flickr.com/photos/69057297@N04/40038049744",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/costume_2.jpg"
+  }
+ ],
+ "flower": [
+  {
+   "title": "flower bouquet",
+   "lic": "CC BY 2.0",
+   "artist": "Scott 97006",
+   "w": 1024,
+   "h": 916,
+   "url": "https://live.staticflickr.com/5561/14754355764_7a5686e314_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7fbbcd5e-6f7b-496e-80b7-8aadfa6171f0/thumb/",
+   "page": "https://www.flickr.com/photos/29487672@N07/14754355764",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/flower_0.jpg"
+  },
+  {
+   "title": "Flower Bouquet",
+   "lic": "CC BY 2.0",
+   "artist": "_-0-_",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8493/8402455749_f271b58191_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/055599db-2f71-4e6b-b671-091e414694d3/thumb/",
+   "page": "https://www.flickr.com/photos/85759247@N04/8402455749",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/flower_1.jpg"
+  },
+  {
+   "title": "Finished red and white painted glass mason jar centerpiece vase with flower bouquet of red roses, pink and white carnations and jingle bells",
+   "lic": "CC BY 2.0",
+   "artist": "ProFlowers.com",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8614/15761264350_4caaf080f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/41ac82e8-9590-4af7-bef5-0514c008f6c4/thumb/",
+   "page": "https://www.flickr.com/photos/127365614@N08/15761264350",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/flower_2.jpg"
+  }
+ ],
+ "offering": [
+  {
+   "title": "LAS FALLERAS EN VALENCIA",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Buscavientos",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/1677/25599630820_6f64f7a45f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dc0ef190-e865-46c0-9ed1-6bedfae8b07c/thumb/",
+   "page": "https://www.flickr.com/photos/61146561@N06/25599630820",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/offering_0.jpg"
+  },
+  {
+   "title": "Fallas 2007 (Valencia)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "alcebal2002",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1358/1073029875_963ed4d000_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/715a3ed8-4fb5-41d9-84da-d1206ac3f0c0/thumb/",
+   "page": "https://www.flickr.com/photos/16161296@N00/1073029875",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/offering_1.jpg"
+  },
+  {
+   "title": "Fallas Ofrenda",
+   "lic": "CC BY-SA 2.0",
+   "artist": "rossjl",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/166/431556072_6151c35f54_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3739eeaa-34ec-4932-8f51-101838d9137b/thumb/",
+   "page": "https://www.flickr.com/photos/81456013@N00/431556072",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/offering_2.jpg"
+  }
+ ],
+ "procession": [
+  {
+   "title": "Glasses",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/5203/14028093716_8a842f168a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/97e813e8-d352-4370-a57d-9aea87aac20b/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/14028093716",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/procession_0.jpg"
+  },
+  {
+   "title": "Catherine of Aragon, Queen of England, with her pet monkey",
+   "lic": "Public Domain",
+   "artist": "lisby1",
+   "w": 403,
+   "h": 500,
+   "url": "https://live.staticflickr.com/3343/3472599219_9118c32e27.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0b949d83-18de-4cb1-ba11-cd60fb775286/thumb/",
+   "page": "https://www.flickr.com/photos/60861613@N00/3472599219",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/procession_1.jpg"
+  },
+  {
+   "title": "Brotherhood",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7543/15686517371_86e2119121_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9dd1077c-0c01-4434-9d75-568124eac93b/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/15686517371",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/procession_2.jpg"
+  }
+ ],
+ "fair": [
+  {
+   "title": "Travelling Fun Fair",
+   "lic": "CC BY 2.0",
+   "artist": "Dominic's pics",
+   "w": 1024,
+   "h": 670,
+   "url": "https://live.staticflickr.com/1094/1128994314_77506a100d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7bd29d35-43a4-4750-a0aa-2d1368930889/thumb/",
+   "page": "https://www.flickr.com/photos/64097751@N00/1128994314",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fair_0.jpg"
+  },
+  {
+   "title": "Bay Carousel",
+   "lic": "CC BY-SA 2.0",
+   "artist": "fakelvis",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2229/2430798016_3437f6dfa5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/48eb9c79-b4a1-4b3d-bf56-fdf183b09c70/thumb/",
+   "page": "https://www.flickr.com/photos/40933543@N00/2430798016",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fair_1.jpg"
+  },
+  {
+   "title": "Fun-fair lights going faster",
+   "lic": "CC BY 2.0",
+   "artist": "charlieishere@btinternet.com",
+   "w": 1024,
+   "h": 689,
+   "url": "https://live.staticflickr.com/2932/14346870263_604546f004_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0aeddbcc-ad3f-402a-b5a8-b5efec45fdc5/thumb/",
+   "page": "https://www.flickr.com/photos/100915417@N07/14346870263",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/fair_2.jpg"
+  }
+ ],
+ "lantern": [],
+ "confetti": [
+  {
+   "title": "Confetti",
+   "lic": "CC BY 2.0",
+   "artist": "ADoseofShipBoy",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/79/216516964_40b66d5e15_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b9997205-91cb-4f1b-b005-810acce8871c/thumb/",
+   "page": "https://www.flickr.com/photos/71984448@N00/216516964",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/confetti_0.jpg"
+  },
+  {
+   "title": "Confetti, Times Square",
+   "lic": "CC BY 2.0",
+   "artist": "StuartMoreton",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/4024/4716778684_d259109fda_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/90e979c9-f896-463f-9cc1-330c5ca9b67c/thumb/",
+   "page": "https://www.flickr.com/photos/47001638@N08/4716778684",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/confetti_1.jpg"
+  },
+  {
+   "title": "Confetti",
+   "lic": "CC BY 2.0",
+   "artist": "Phil Roeder",
+   "w": 1024,
+   "h": 585,
+   "url": "https://live.staticflickr.com/7188/6880828231_fa57be3cb7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/905fb44f-4b6b-47cd-97c6-2807c3dcd24a/thumb/",
+   "page": "https://www.flickr.com/photos/88876166@N00/6880828231",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/confetti_2.jpg"
+  }
+ ],
+ "verbena": [
+  {
+   "title": "Beer in Red Lights Verbena Style",
+   "lic": "CC BY 2.0",
+   "artist": "uncafelitoalasonce",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/7379/9530585369_f423b67880.jpg",
+   "thumb": "https://api.openverse.org/v1/images/75df2cdc-583c-4113-992c-e6a6312369b5/thumb/",
+   "page": "https://www.flickr.com/photos/42684882@N04/9530585369",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/verbena_0.jpg"
+  }
+ ],
+ "dinner": [
+  {
+   "title": "Indian food",
+   "lic": "CC BY 2.0",
+   "artist": "eddie.welker",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/2488/4076192139_af10dfa805_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d017df0f-39df-4f0d-a923-9a0dc5c3e1b8/thumb/",
+   "page": "https://www.flickr.com/photos/72923429@N00/4076192139",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/dinner_0.jpg"
+  },
+  {
+   "title": "Food",
+   "lic": "CC BY 2.0",
+   "artist": "SteFou!",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/6216/6319121922_a5679a5eaf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/822a4819-bba0-4a6c-9aab-2b35362cb835/thumb/",
+   "page": "https://www.flickr.com/photos/41614647@N04/6319121922",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/dinner_1.jpg"
+  },
+  {
+   "title": "Christmas Eve dinner",
+   "lic": "CC BY 2.0",
+   "artist": "Erik Anestad",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8220/8306778397_36c3fc62b8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bc1a3022-365e-462e-8cd1-d96b97c56cfc/thumb/",
+   "page": "https://www.flickr.com/photos/58541536@N00/8306778397",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/dinner_2.jpg"
+  }
+ ],
+ "parade": [
+  {
+   "title": "Costa Calida Carnaval 2017 Spain 23",
+   "lic": "CC BY 2.0",
+   "artist": "sfmission.com",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/3893/33432223076_587a199b14_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dec68c9f-784e-4abb-83a7-37daa2e536e8/thumb/",
+   "page": "https://www.flickr.com/photos/17281186@N00/33432223076",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_0.jpg"
+  },
+  {
+   "title": "Pride day 125",
+   "lic": "CC BY-SA 2.0",
+   "artist": "dorieo21",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48190987461_885103b41d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9fadc141-5ca2-4863-9038-38e570662935/thumb/",
+   "page": "https://www.flickr.com/photos/50901644@N00/48190987461",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_1.jpg"
+  },
+  {
+   "title": "Pride day 116",
+   "lic": "CC BY-SA 2.0",
+   "artist": "dorieo21",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48190439011_d45fd2fc28_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1c0edf8-fa21-4172-9413-34f81fa75385/thumb/",
+   "page": "https://www.flickr.com/photos/50901644@N00/48190439011",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch24/cand/parade_2.jpg"
+  }
+ ]
+}

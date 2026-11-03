@@ -1,0 +1,600 @@
+{
+ "right": [],
+ "left": [
+  {
+   "title": "Stupid Sign in DC",
+   "lic": "CC BY 2.0",
+   "artist": "andryone",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/45/120278573_4bc94173fa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/00fd41a0-de32-4f5d-a114-399c2c9c4ad5/thumb/",
+   "page": "https://www.flickr.com/photos/73855354@N00/120278573",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_1.jpg"
+  },
+  {
+   "title": "Selly Oak Park - sign - Shared paths - Please Slow Down & Keep Left",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7104/7183461393_b691046a82_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ea114de0-d57d-4057-ab09-eb626fe77f2b/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/7183461393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/left_2.jpg"
+  }
+ ],
+ "straight": [
+  {
+   "title": "Straight ahead for Drama (Δράμα)",
+   "lic": "CC BY 2.0",
+   "artist": "dullhunk",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2518/3834939580_2b8c4578a5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c2173128-c698-403e-ba41-a0045de488f1/thumb/",
+   "page": "https://www.flickr.com/photos/14829735@N00/3834939580",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/straight_0.jpg"
+  },
+  {
+   "title": "Road sign - Warwick Street, Rugby",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Stephen McKay",
+   "w": 640,
+   "h": 428,
+   "url": "https://s0.geograph.org.uk/geophotos/01/67/63/1676330_1aa3e3c6.jpg",
+   "thumb": "https://api.openverse.org/v1/images/41794425-dffc-456a-9b76-88bf236ac365/thumb/",
+   "page": "https://www.geograph.org.uk/photo/1676330",
+   "src": "openverse",
+   "provider": "geographorguk",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/straight_1.jpg"
+  }
+ ],
+ "corner": [
+  {
+   "title": "Panoramic view of Los Angeles, looking north from a building on the corner of Hill Street from 6th Street, 1913 (CHS-5827)",
+   "lic": "CC BY 2.0",
+   "artist": "Fæ",
+   "w": 1024,
+   "h": 826,
+   "url": "https://live.staticflickr.com/8561/16630554786_55c28a2f71_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e03f66bf-52ee-4083-acbb-5ddfb1362e0f/thumb/",
+   "page": "https://www.flickr.com/photos/50398299@N08/16630554786",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_0.jpg"
+  },
+  {
+   "title": "Panoramic view of Los Angeles, looking north from a building on the corner of Hill Street from 6th Street, 1913 (CHS-5822)",
+   "lic": "CC BY 2.0",
+   "artist": "Fæ",
+   "w": 1024,
+   "h": 826,
+   "url": "https://live.staticflickr.com/8596/16468888308_96ae61bd47_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/954089da-3ff3-4c42-9d75-d066fe020feb/thumb/",
+   "page": "https://www.flickr.com/photos/50398299@N08/16468888308",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_1.jpg"
+  },
+  {
+   "title": "Panoramic view of Los Angeles, looking north from a building on the corner of Hill Street from 6th Street, 1913 (CHS-5823)",
+   "lic": "CC BY 2.0",
+   "artist": "Fæ",
+   "w": 1024,
+   "h": 829,
+   "url": "https://live.staticflickr.com/8662/16469074010_b53154475f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7b03d1f7-1cc9-4193-882b-95059d552a3c/thumb/",
+   "page": "https://www.flickr.com/photos/50398299@N08/16469074010",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/corner_2.jpg"
+  }
+ ],
+ "street": [
+  {
+   "title": "Spain-36 - Toledo",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 1024,
+   "h": 688,
+   "url": "https://live.staticflickr.com/2037/2218865210_f6aa47e1c7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c5f85db3-9b4c-4c67-a704-c98ab9b8298b/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/2218865210",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/street_0.jpg"
+  },
+  {
+   "title": "Very Narrow Cobbled Streets",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 666,
+   "h": 1000,
+   "url": "https://live.staticflickr.com/2926/14653934034_c212e88e59_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/908d1588-ff1e-42fa-8971-f094fbd45f4f/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/14653934034",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/street_1.jpg"
+  },
+  {
+   "title": "We've arrived in Toledo",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Unhindered by Talent",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/2097/2537607739_d949a32cbd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6fd21afa-a962-40a1-9691-4613daf8a6a8/thumb/",
+   "page": "https://www.flickr.com/photos/26406919@N00/2537607739",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/street_2.jpg"
+  }
+ ],
+ "crossroads": [
+  {
+   "title": "A crossroads",
+   "lic": "CC BY 2.0",
+   "artist": "16:9clue",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/7023/6751494937_7812e1949c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ab8c5c62-cf02-4399-987c-93174677e666/thumb/",
+   "page": "https://www.flickr.com/photos/53255320@N07/6751494937",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/crossroads_0.jpg"
+  }
+ ],
+ "slope": [
+  {
+   "title": "San Francisco steep street with ocean",
+   "lic": "CC0",
+   "artist": "cclogg",
+   "w": 684,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5341/16859092313_55cbfd1043_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dc829c5c-e94c-4d3b-9487-9493e0c88c55/thumb/",
+   "page": "https://www.flickr.com/photos/46244586@N02/16859092313",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/slope_0.jpg"
+  },
+  {
+   "title": "Steep street in San Francisco California",
+   "lic": "CC BY 2.0",
+   "artist": "Wouter Kiel",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3569/3442677615_069918a5bc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/be651a94-dff8-4198-9d3e-f35279f6b052/thumb/",
+   "page": "https://www.flickr.com/photos/30682807@N02/3442677615",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/slope_1.jpg"
+  }
+ ],
+ "map": [
+  {
+   "title": "Seattle Map 1914",
+   "lic": "CC BY 2.0",
+   "artist": "Rob Ketcherside",
+   "w": 791,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5232/5855306176_6c574d58a3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/81b1efc6-38d3-469f-a876-fbd1545778e9/thumb/",
+   "page": "https://www.flickr.com/photos/29056926@N02/5855306176",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/map_0.jpg"
+  },
+  {
+   "title": "Tourist Map, Katoomba - Leura, Upper Blue Mountains, NSW Australia, 1956 (verso)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Blue Mountains Library, Local Studies",
+   "w": 1024,
+   "h": 835,
+   "url": "https://live.staticflickr.com/3554/3564653819_af52d8be83_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1368a31c-022e-420e-9684-6431fe61c060/thumb/",
+   "page": "https://www.flickr.com/photos/26602074@N06/3564653819",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/map_1.jpg"
+  },
+  {
+   "title": "Tourist Map of the Blue Mountains and Burragorang Valley",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Blue Mountains Library, Local Studies",
+   "w": 715,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8377/8410626830_b73cc6552d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f9ea7311-93fc-464a-bfaf-8081dbb16c83/thumb/",
+   "page": "https://www.flickr.com/photos/26602074@N06/8410626830",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/map_2.jpg"
+  }
+ ],
+ "north": [
+  {
+   "title": "Compass North",
+   "lic": "CC0",
+   "artist": "Barby Dalbosco",
+   "w": 5005,
+   "h": 3302,
+   "url": "https://cdn.stocksnap.io/img-thumbs/960w/27PNUR3Z83.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aef69679-238b-41c5-b4aa-977aa9125e6c/thumb/",
+   "page": "https://stocksnap.io/photo/compass-north-27PNUR3Z83",
+   "src": "openverse",
+   "provider": "stocksnap",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/north_0.jpg"
+  }
+ ],
+ "south": [
+  {
+   "title": "Compass Rose Russian North",
+   "lic": "CC BY-SA 3.0",
+   "artist": "Andrew pmk; russified by SmesharikiAreTheBest",
+   "w": 500,
+   "h": 500,
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Compass_Rose_Russian_North.svg",
+   "thumb": "https://api.openverse.org/v1/images/9d0954a2-5cb9-465d-a162-1c1f6ba6294d/thumb/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=12652438",
+   "src": "openverse",
+   "provider": "wikimedia",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/south_0.jpg"
+  }
+ ],
+ "east": [
+  {
+   "title": "Compass Inlay",
+   "lic": "CC BY 2.0",
+   "artist": "Steve Snodgrass",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/4137/4828932145_6721c96a92_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/36291963-f622-480c-9b3e-d16386b17950/thumb/",
+   "page": "https://www.flickr.com/photos/10710442@N08/4828932145",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/east_0.jpg"
+  },
+  {
+   "title": "St Georges Edgbaston - church door",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5149/5870940082_0dd6a51ef3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6af031db-aee5-4394-bcc1-0137f629cace/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/5870940082",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/east_2.jpg"
+  }
+ ],
+ "west": [
+  {
+   "title": "Astronomical Clock in Prague",
+   "lic": "CC BY 2.0",
+   "artist": "AbhijeetRane",
+   "w": 1024,
+   "h": 819,
+   "url": "https://live.staticflickr.com/4063/4240605222_2f40193d26_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/86186512-65a1-4f63-8ba6-dbb96ddde318/thumb/",
+   "page": "https://www.flickr.com/photos/14919774@N04/4240605222",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/west_0.jpg"
+  },
+  {
+   "title": "Sumburgh Sundown _MG_4137",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ronnierob",
+   "w": 1024,
+   "h": 569,
+   "url": "https://live.staticflickr.com/8345/29239843836_5d214d6187_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5a1de392-7c82-4e0b-b874-ed4dada8b54b/thumb/",
+   "page": "https://www.flickr.com/photos/16633132@N04/29239843836",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/west_1.jpg"
+  },
+  {
+   "title": "West Voe IMG_9981",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ronnierob",
+   "w": 1024,
+   "h": 607,
+   "url": "https://live.staticflickr.com/65535/50408036642_45a3c3d975_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/af3b61a8-5228-4ef5-b731-6042ed12a2d2/thumb/",
+   "page": "https://www.flickr.com/photos/16633132@N04/50408036642",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/west_2.jpg"
+  }
+ ],
+ "near": [
+  {
+   "title": "Gonzen Mine - Wolfsloch Tunnel",
+   "lic": "CC BY 2.0",
+   "artist": "Kecko",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7479/27482688926_876f36db20_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6b168c26-98c3-49a0-992d-6c3c2f20c762/thumb/",
+   "page": "https://www.flickr.com/photos/70981241@N00/27482688926",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/near_0.jpg"
+  },
+  {
+   "title": "DIstance markers sign",
+   "lic": "CC BY 2.0",
+   "artist": "Flickstorage",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7219/6925263314_37afecf44b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/46fc0696-4ae3-4cee-85cc-30ea9b6b3e06/thumb/",
+   "page": "https://www.flickr.com/photos/78307739@N05/6925263314",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/near_2.jpg"
+  }
+ ],
+ "far": [
+  {
+   "title": "sound barrier",
+   "lic": "CC BY 2.0",
+   "artist": "spinster cardigan",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7305/8723337190_c7791dd6ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3d598741-c5bf-4fd1-abf4-0d79affec901/thumb/",
+   "page": "https://www.flickr.com/photos/84906483@N08/8723337190",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/far_0.jpg"
+  },
+  {
+   "title": "Hammersley Vista",
+   "lic": "CC BY 2.0",
+   "artist": "Nicholas_T",
+   "w": 1024,
+   "h": 614,
+   "url": "https://live.staticflickr.com/3752/14101145909_ecd471cd01_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2db2148e-6bfe-4b45-b577-98d32cc464de/thumb/",
+   "page": "https://www.flickr.com/photos/14922165@N00/14101145909",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/far_1.jpg"
+  },
+  {
+   "title": "Londons Burning - Below the Eye",
+   "lic": "CC BY 2.0",
+   "artist": "Lenny Montana",
+   "w": 1024,
+   "h": 742,
+   "url": "https://live.staticflickr.com/3017/2897656753_cf71d62e17_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a01ee4ba-ccbe-4972-8b85-c2b2355deafa/thumb/",
+   "page": "https://www.flickr.com/photos/27857804@N00/2897656753",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/far_2.jpg"
+  }
+ ],
+ "nextto": [
+  {
+   "title": "coldplay:white shadows",
+   "lic": "CC BY 2.0",
+   "artist": "visualpanic",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/92/222770622_5dac01518f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8f0fbed0-1cc8-4e1d-9987-46583c2293f8/thumb/",
+   "page": "https://www.flickr.com/photos/41754875@N00/222770622",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_0.jpg"
+  },
+  {
+   "title": "Tudor Grange House - off Blossomfield Road, Solihull",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2213/5721918824_089b46b8fc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e689e763-8674-428e-8053-6035720c8fa2/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/5721918824",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_1.jpg"
+  },
+  {
+   "title": "38-46 Grove Street, Leamington Spa - terrace of Georgian houses",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6057/6292083300_6bf5d86caa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a59cccb7-630f-400f-ba14-ebdef94136d6/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/6292083300",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/nextto_2.jpg"
+  }
+ ],
+ "opposite": [
+  {
+   "title": "Fountain of the Great Lakes, Art Institute of Chicago Building",
+   "lic": "CC BY 2.0",
+   "artist": "Dimitry B",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3717/9483954667_06ee91b2bf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/16cff23a-5628-4f18-ad65-6211f203e813/thumb/",
+   "page": "https://www.flickr.com/photos/61533954@N00/9483954667",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/opposite_0.jpg"
+  },
+  {
+   "title": "Sculpture Female Nudes Embracing 10 - Finance Tower Brussels",
+   "lic": "CC BY 2.0",
+   "artist": "historic.brussels",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2548/4038197342_98a160cc49_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/78d28fd9-6e07-4fef-8488-24dd417c937e/thumb/",
+   "page": "https://www.flickr.com/photos/22325431@N05/4038197342",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/opposite_1.jpg"
+  },
+  {
+   "title": "Exterior view of the Nadeau Hotel on Spring Street and First Street, Los Angeles, ca.1905 (CHS-5290)",
+   "lic": "CC BY 2.0",
+   "artist": "Fæ",
+   "w": 1024,
+   "h": 817,
+   "url": "https://live.staticflickr.com/8665/16436501959_8b08f28c3c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/bc6d25f0-3509-46e7-af8d-538378c32d5c/thumb/",
+   "page": "https://www.flickr.com/photos/50398299@N08/16436501959",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/opposite_2.jpg"
+  }
+ ],
+ "behind": [
+  {
+   "title": "St. Catherine's Church and Zagreb's Cathedral behind",
+   "lic": "CC BY 2.0",
+   "artist": "Jorge Lascar",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/2449/13023402925_a2725480ba_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5f0e72e1-0d80-44b3-a429-48498ec50939/thumb/",
+   "page": "https://www.flickr.com/photos/8721758@N06/13023402925",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/behind_0.jpg"
+  },
+  {
+   "title": "Don Quixote - Human Statue with Gothic Cathedral Behind - Seville, Spain",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Adam Jones, Ph.D. - Global Photo Archive",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3314/4609671203_74ae27a732_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7ecbede9-f07a-4daf-bf5d-b6d5c447ba74/thumb/",
+   "page": "https://www.flickr.com/photos/41000732@N04/4609671203",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/behind_1.jpg"
+  },
+  {
+   "title": "cathedral behind carcassonne",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ryanovineyards",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/2584/4131882386_0be903528b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/38fa9a4e-0814-47ff-aa38-b01a9c6a2abb/thumb/",
+   "page": "https://www.flickr.com/photos/24497803@N05/4131882386",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/behind_2.jpg"
+  }
+ ],
+ "infront": [
+  {
+   "title": "Kościół Świętych Apostołów Piotra i Pawła",
+   "lic": "CC BY 2.0",
+   "artist": "Klearchos Kapoutsis",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/2675/3923824947_10cfc6b284_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6da31b8f-b022-4a2a-8723-82bc51b7ab98/thumb/",
+   "page": "https://www.flickr.com/photos/8383084@N06/3923824947",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/infront_0.jpg"
+  },
+  {
+   "title": "Austria-00901 - Vienna's City Hall",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 702,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5678/20881360230_d8ef97357a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c7f0ccf9-4560-4bd2-98b2-49b76a056848/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/20881360230",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/infront_1.jpg"
+  },
+  {
+   "title": "Maybe it brings luck? - Beijing",
+   "lic": "CC BY 2.0",
+   "artist": "Dimitry B",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3724/11494040294_71bb4979b6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7749349b-d777-4f3d-8d5d-fee0baeb7098/thumb/",
+   "page": "https://www.flickr.com/photos/61533954@N00/11494040294",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/infront_2.jpg"
+  }
+ ],
+ "sign": [
+  {
+   "title": "View of Fifth Street looking west from Hill Street to its dead-end into the State Normal School grounds, Los Angeles, ca.1910 (CHS-5387)",
+   "lic": "Public Domain",
+   "artist": "Fæ",
+   "w": 825,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8601/16493375338_39aea8b580_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/08678a4b-8cd5-4c16-adc6-92a072b8734e/thumb/",
+   "page": "https://www.flickr.com/photos/50398299@N08/16493375338",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_0.jpg"
+  },
+  {
+   "title": "Interstate 475, Toledo, Ohio",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ken Lund",
+   "w": 1024,
+   "h": 448,
+   "url": "https://live.staticflickr.com/5705/21729930101_27a7f6543e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/27dc8300-d6c4-47a2-9ebe-338556c7f64e/thumb/",
+   "page": "https://www.flickr.com/photos/75683070@N00/21729930101",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/sign_1.jpg"
+  }
+ ],
+ "alley": [
+  {
+   "title": "Callejón",
+   "lic": "CC BY 2.0",
+   "artist": "Daquella manera",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5224/5582192190_c8eda5ed65_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ba948fea-d5ce-43d2-a159-e22f02165adf/thumb/",
+   "page": "https://www.flickr.com/photos/62518311@N00/5582192190",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch12/cand/alley_0.jpg"
+  }
+ ]
+}

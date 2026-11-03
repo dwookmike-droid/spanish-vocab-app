@@ -1,0 +1,822 @@
+{
+ "weather": [
+  {
+   "title": "Cloud Texture 01",
+   "lic": "CC BY 2.0",
+   "artist": "SixRevisions",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3425/3910051966_f12cb276fc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ad87bfc0-83e7-4ede-9f96-a658cca8b283/thumb/",
+   "page": "https://www.flickr.com/photos/31288116@N02/3910051966",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/weather_0.jpg"
+  },
+  {
+   "title": "Lonely Cloud",
+   "lic": "CC BY 2.0",
+   "artist": "fuzzcat",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/23/32487111_55e616d619_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f728fccb-644d-4faa-b549-ecca4d87057f/thumb/",
+   "page": "https://www.flickr.com/photos/11889819@N00/32487111",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/weather_1.jpg"
+  },
+  {
+   "title": "Clouds and Sun rays",
+   "lic": "CC BY 2.0",
+   "artist": "dotcompals",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/3561/3449854626_220e0b639a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3cf4defe-9c83-4017-9b28-2dc14b93ce2d/thumb/",
+   "page": "https://www.flickr.com/photos/27717684@N00/3449854626",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/weather_2.jpg"
+  }
+ ],
+ "sun": [
+  {
+   "title": "sun sky and cloud",
+   "lic": "CC BY 2.0",
+   "artist": "iglooo101",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3027/5692598156_5f6fb713e5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/abcf82c6-e8da-4fa6-9d47-674e9b474c3d/thumb/",
+   "page": "https://www.flickr.com/photos/60983000@N00/5692598156",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sun_0.jpg"
+  },
+  {
+   "title": "sUn - sKy",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Boo - M",
+   "w": 1024,
+   "h": 775,
+   "url": "https://live.staticflickr.com/8496/8338151262_721d61c40b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8c00d933-a9e9-4001-ae85-18db21b25fae/thumb/",
+   "page": "https://www.flickr.com/photos/91351781@N07/8338151262",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sun_1.jpg"
+  },
+  {
+   "title": "#sunrise #sunset #sun #sky #clouds #nature #beautiful #photooftheday #photography #nofilter #instagramers #photooftheday #instamood #instagood #picoftheday #bestoftheday #jj #igers #instadaily #pretty #photo #all_shots #cool #instago #igdaily #instagram_a",
+   "lic": "CC BY-SA 2.0",
+   "artist": "SoulRiser",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/7455/10295225143_01a45d788e.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b25db3d8-b85d-476f-8e3d-a2b2b3a81bcb/thumb/",
+   "page": "https://www.flickr.com/photos/7661492@N06/10295225143",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sun_2.jpg"
+  }
+ ],
+ "rain": [
+  {
+   "title": "rain over street lights",
+   "lic": "CC BY 2.0",
+   "artist": "silent shot",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/207/500251940_25a3235835_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5d5296f7-a60d-465a-b56a-e1f104c0c2d6/thumb/",
+   "page": "https://www.flickr.com/photos/49372312@N00/500251940",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/rain_0.jpg"
+  },
+  {
+   "title": "Rain",
+   "lic": "CC BY 2.0",
+   "artist": "kevin dooley",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7317/9981209023_57d743bbd8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/338541ed-e1de-4bb5-9e04-b726c2989fad/thumb/",
+   "page": "https://www.flickr.com/photos/12836528@N00/9981209023",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/rain_1.jpg"
+  },
+  {
+   "title": "Rain",
+   "lic": "CC BY-SA 2.0",
+   "artist": "sk8geek",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4054/4516160846_476774ef75_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dab3a7e5-2c50-4a2a-b9f3-ab0c3ee52fb2/thumb/",
+   "page": "https://www.flickr.com/photos/26170836@N05/4516160846",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/rain_2.jpg"
+  }
+ ],
+ "cloud": [
+  {
+   "title": "Airplane wing in front of cumulus clouds",
+   "lic": "CC0",
+   "artist": "D Coetzee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2404/3527948344_878499f824_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ef8bc7b4-70ce-425c-bbac-2e44ce1f7d42/thumb/",
+   "page": "https://www.flickr.com/photos/29507259@N02/3527948344",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cloud_0.jpg"
+  },
+  {
+   "title": "Aerial view of cumulus clouds 2",
+   "lic": "CC0",
+   "artist": "D Coetzee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2074/3527948562_4a64d2149e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0389b331-e750-4ea1-af0b-81818a2ae758/thumb/",
+   "page": "https://www.flickr.com/photos/29507259@N02/3527948562",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cloud_1.jpg"
+  },
+  {
+   "title": "Aerial view of cumulus clouds 5",
+   "lic": "CC0",
+   "artist": "D Coetzee",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3582/3527136781_ea5687ebb0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/25eea387-b787-4ca2-9660-0247d4cb55f6/thumb/",
+   "page": "https://www.flickr.com/photos/29507259@N02/3527136781",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cloud_2.jpg"
+  }
+ ],
+ "wind": [
+  {
+   "title": "The christmas tree is blowing in the wind",
+   "lic": "CC BY 2.0",
+   "artist": "Mikael Moiner",
+   "w": 681,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7175/6413471189_599440a076_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b3f6b7cd-fde3-4c39-a993-2e5fc85393c9/thumb/",
+   "page": "https://www.flickr.com/photos/43917849@N08/6413471189",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/wind_0.jpg"
+  },
+  {
+   "title": "Hanging branches blown up by the wind",
+   "lic": "CC BY 2.0",
+   "artist": "Horia Varlan",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5129/5276297361_cd4cc69d43_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8b6c9edc-ac32-4c6b-9538-29bb50ee3922/thumb/",
+   "page": "https://www.flickr.com/photos/10361931@N06/5276297361",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/wind_1.jpg"
+  },
+  {
+   "title": "windswept",
+   "lic": "CC BY 2.0",
+   "artist": "Smabs Sputzer (1956-2017)",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7149/6843559085_13e12c2a30_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5764f72c-8335-413b-a209-d2d28590909f/thumb/",
+   "page": "https://www.flickr.com/photos/10413717@N08/6843559085",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/wind_2.jpg"
+  }
+ ],
+ "fog": [
+  {
+   "title": "Worship of the Great Pacific Ocean through wetsuit levitation, or something like that, surfboard, sandy waves, fog, mist, Asilomar state beach, Pacific Grove, California, USA",
+   "lic": "CC BY 2.0",
+   "artist": "Wonderlane",
+   "w": 1024,
+   "h": 490,
+   "url": "https://live.staticflickr.com/7294/8743777172_61364347d3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/974ecc44-b385-4f25-83fc-723019f47d58/thumb/",
+   "page": "https://www.flickr.com/photos/71401718@N00/8743777172",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/fog_0.jpg"
+  },
+  {
+   "title": "June 16, 2019 - 8:38AM fog - mist",
+   "lic": "CC0",
+   "artist": "Katsujiro Maekawa",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/65535/48069841886_d9bfa482d9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8dddde49-65ad-4168-a269-e12f0a2f1f00/thumb/",
+   "page": "https://www.flickr.com/photos/140296773@N07/48069841886",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/fog_1.jpg"
+  },
+  {
+   "title": "strange fog/mist",
+   "lic": "CC BY 2.0",
+   "artist": "veggiefrog",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2026/2123167674_ce4d0e1457_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f16a0f9f-675b-43e7-80be-08acc046df41/thumb/",
+   "page": "https://www.flickr.com/photos/72139255@N00/2123167674",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/fog_2.jpg"
+  }
+ ],
+ "snow": [
+  {
+   "title": "snow",
+   "lic": "CC BY 2.0",
+   "artist": "Flikkersteph -5,000,000 views ,thank you!",
+   "w": 1024,
+   "h": 686,
+   "url": "https://live.staticflickr.com/2661/4193118746_d9c332b33b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3bb5dfe2-c5b8-4375-b050-cf36114e5d5d/thumb/",
+   "page": "https://www.flickr.com/photos/42741665@N08/4193118746",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/snow_0.jpg"
+  },
+  {
+   "title": "snow",
+   "lic": "CC BY 2.0",
+   "artist": "Flikkersteph -5,000,000 views ,thank you!",
+   "w": 1024,
+   "h": 686,
+   "url": "https://live.staticflickr.com/2491/4193109182_6787e874c8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d8c79a2b-fcfe-4141-af69-4947af5239b1/thumb/",
+   "page": "https://www.flickr.com/photos/42741665@N08/4193109182",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/snow_1.jpg"
+  },
+  {
+   "title": "Snow",
+   "lic": "CC BY 2.0",
+   "artist": "vagueonthehow",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/4111/5223279355_0d9e243089_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/537a85a3-11dd-4d7c-ac23-af672b7d7c9c/thumb/",
+   "page": "https://www.flickr.com/photos/22017657@N05/5223279355",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/snow_2.jpg"
+  }
+ ],
+ "storm": [
+  {
+   "title": "Storm Clouds over Port of Brisbane-1=",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Sheba Also 18 Million Views",
+   "w": 1024,
+   "h": 687,
+   "url": "https://live.staticflickr.com/8261/8653961011_646d5d6286_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ab01a891-7f07-46fa-9680-6704272758f0/thumb/",
+   "page": "https://www.flickr.com/photos/34534185@N00/8653961011",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/storm_0.jpg"
+  },
+  {
+   "title": "Storm clouds",
+   "lic": "CC BY 2.0",
+   "artist": "jcnapw",
+   "w": 1000,
+   "h": 561,
+   "url": "https://live.staticflickr.com/5247/5286490490_64655f2fc2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e88a6d4f-ea8f-4ba6-be46-5f0362fc4d2b/thumb/",
+   "page": "https://www.flickr.com/photos/57403893@N02/5286490490",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/storm_1.jpg"
+  },
+  {
+   "title": "Storm Clouds Gathering",
+   "lic": "CC BY-SA 2.0",
+   "artist": "izoo3y",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/7287/8735884805_7e14f0e5a7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5553097b-e642-4b39-9ddd-a22a0527f165/thumb/",
+   "page": "https://www.flickr.com/photos/95707935@N07/8735884805",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/storm_2.jpg"
+  }
+ ],
+ "thunder": [
+  {
+   "title": "Thunderstorm",
+   "lic": "CC BY 2.0",
+   "artist": "enneafive",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8223/28600395003_8de0387cef_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4a23caa9-e375-4ce3-9a5b-4a72d5ef7b51/thumb/",
+   "page": "https://www.flickr.com/photos/75612671@N03/28600395003",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/thunder_0.jpg"
+  },
+  {
+   "title": "Thunderstorms at night",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Astro_Alex",
+   "w": 1024,
+   "h": 658,
+   "url": "https://live.staticflickr.com/65535/40843811373_f8b7c96a1d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d4608775-caa9-4fe4-99fc-2152f4354f26/thumb/",
+   "page": "https://www.flickr.com/photos/72482589@N07/40843811373",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/thunder_1.jpg"
+  },
+  {
+   "title": "Thunderstorms at night",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Astro_Alex",
+   "w": 1024,
+   "h": 555,
+   "url": "https://live.staticflickr.com/65535/40843813503_f31ae4ec76_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e37ed00d-a315-40e2-ac9c-5b6c94494a77/thumb/",
+   "page": "https://www.flickr.com/photos/72482589@N07/40843813503",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/thunder_2.jpg"
+  }
+ ],
+ "lightning": [
+  {
+   "title": "Hipsta Lightning Bolt",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Fairy Heart ♥",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5240/5910263134_c7e207c7f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dc2a7bb8-25eb-404e-9b09-a73a716e42ec/thumb/",
+   "page": "https://www.flickr.com/photos/35888870@N07/5910263134",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/lightning_0.jpg"
+  },
+  {
+   "title": "Lightning bolt!",
+   "lic": "CC BY-SA 2.0",
+   "artist": "l∞senut",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/9/12879631_c17726344b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fd8015bd-d294-4fa8-98aa-ea2e8339a76a/thumb/",
+   "page": "https://www.flickr.com/photos/79116153@N00/12879631",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/lightning_1.jpg"
+  },
+  {
+   "title": "Bangkok Lightning Bolts - Grunge HDR",
+   "lic": "CC BY 2.0",
+   "artist": "DeeMakMak",
+   "w": 674,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4085/5001842724_10b465ec73_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/07ce4fac-f11b-4d9e-8888-3e1f1ad72bcf/thumb/",
+   "page": "https://www.flickr.com/photos/45469294@N07/5001842724",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/lightning_2.jpg"
+  }
+ ],
+ "umbrella": [
+  {
+   "title": "Red Leaf Umbrella Rain",
+   "lic": "CC BY 2.0",
+   "artist": "Robert Swier",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3214/3155844396_e708f81e7a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/70b3c780-fdf9-49a1-85ad-369626e45170/thumb/",
+   "page": "https://www.flickr.com/photos/84697131@N00/3155844396",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/umbrella_0.jpg"
+  },
+  {
+   "title": "3 girls, 1 umbrella, rain",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Marcelo Alves",
+   "w": 1024,
+   "h": 735,
+   "url": "https://live.staticflickr.com/4/4699664_92c5fbfe46_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eb2602cb-2a4d-4768-b2ee-53b25cab6a4b/thumb/",
+   "page": "https://www.flickr.com/photos/34828812@N00/4699664",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/umbrella_1.jpg"
+  },
+  {
+   "title": "People, umbrellas, rain",
+   "lic": "CC BY 2.0",
+   "artist": "WarmSleepy",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8421/7880424632_0d5716f944_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d73cc6b2-ec01-45aa-8a11-360ace45b741/thumb/",
+   "page": "https://www.flickr.com/photos/33498942@N04/7880424632",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/umbrella_2.jpg"
+  }
+ ],
+ "heat": [
+  {
+   "title": "Heat wave",
+   "lic": "CC BY 2.0",
+   "artist": "Muffet",
+   "w": 747,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6003/5974745774_fc889e4abd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/495ca839-678c-41f7-822f-cd2488c4aa08/thumb/",
+   "page": "https://www.flickr.com/photos/53133240@N00/5974745774",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/heat_0.jpg"
+  },
+  {
+   "title": "",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mechanix",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/72/198288057_806c49e63b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5d2cebd0-45fc-42c3-99f0-3c4da1746fce/thumb/",
+   "page": "https://www.flickr.com/photos/57617604@N00/198288057",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/heat_1.jpg"
+  },
+  {
+   "title": "In my bedroom, 07/06/10",
+   "lic": "CC BY 2.0",
+   "artist": "Sleeping cat beads",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4116/4769849870_62a81e1638_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5a8ed9d9-2ba9-48d0-8ccc-4730f7674f6c/thumb/",
+   "page": "https://www.flickr.com/photos/12682740@N07/4769849870",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/heat_2.jpg"
+  }
+ ],
+ "cold": [
+  {
+   "title": "Zeus",
+   "lic": "CC BY 2.0",
+   "artist": "meadelaurence",
+   "w": 1024,
+   "h": 644,
+   "url": "https://live.staticflickr.com/7323/12702655574_13a7b411c8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9f2380d4-5a7a-48de-ac0d-1129346bf42a/thumb/",
+   "page": "https://www.flickr.com/photos/53497317@N04/12702655574",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cold_0.jpg"
+  },
+  {
+   "title": "NASA Satellite 'Drove Over' the Cloud Streets of Hudson Bay",
+   "lic": "CC BY 2.0",
+   "artist": "NASA Goddard Photo and Video",
+   "w": 788,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6115/6378492371_bb83e69dc4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e43caf25-27b8-4969-986d-3486481b755f/thumb/",
+   "page": "https://www.flickr.com/photos/24662369@N07/6378492371",
+   "src": "openverse",
+   "provider": "nasa",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cold_1.jpg"
+  },
+  {
+   "title": "Operation IceBridge Turns Five",
+   "lic": "CC BY 2.0",
+   "artist": "NASA Goddard Photo and Video",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/3934/15363523929_fbbfec1349_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/370411d3-6158-401f-b0c5-9b17d6843078/thumb/",
+   "page": "https://www.flickr.com/photos/24662369@N07/15363523929",
+   "src": "openverse",
+   "provider": "nasa",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/cold_2.jpg"
+  }
+ ],
+ "temperature": [
+  {
+   "title": "Thermometer",
+   "lic": "CC BY 2.0",
+   "artist": "ColleenSullivan93",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5292/5447985183_549945fef4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0af00072-c658-4472-98f7-3d7754e599d5/thumb/",
+   "page": "https://www.flickr.com/photos/59538771@N04/5447985183",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/temperature_0.jpg"
+  },
+  {
+   "title": "Thermometer",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2450/4057428737_8f288a8593_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4aa248a6-269b-414b-bc38-d4e2c3332c26/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/4057428737",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/temperature_1.jpg"
+  },
+  {
+   "title": "Thermometer",
+   "lic": "CC BY-SA 2.0",
+   "artist": "matsuyuki",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2677/4180663819_283f66392b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d1843b29-c8d6-45a4-bc82-652d0f79cb84/thumb/",
+   "page": "https://www.flickr.com/photos/12173213@N00/4180663819",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/temperature_2.jpg"
+  }
+ ],
+ "degree": [
+  {
+   "title": "Musical Thermometer",
+   "lic": "CC BY-SA 2.0",
+   "artist": "mikecogh",
+   "w": 638,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8024/7603189118_a37102959b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5bcbe859-1ae2-4e62-b56b-7db1449d9b71/thumb/",
+   "page": "https://www.flickr.com/photos/89165847@N00/7603189118",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/degree_0.jpg"
+  },
+  {
+   "title": "Thermometer",
+   "lic": "CC BY 2.0",
+   "artist": "renaissancechambara",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/4138/4938639714_f7ee34f215_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fbdb4430-2777-4157-965d-d78a333583df/thumb/",
+   "page": "https://www.flickr.com/photos/39435232@N00/4938639714",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/degree_1.jpg"
+  },
+  {
+   "title": "Today's Weather",
+   "lic": "CC BY-SA 2.0",
+   "artist": "trekkyandy",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2078/1765530263_34921dd2f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7901c8e8-1ecf-4b21-965a-ff11d66ac573/thumb/",
+   "page": "https://www.flickr.com/photos/87054972@N00/1765530263",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/degree_2.jpg"
+  }
+ ],
+ "sky": [
+  {
+   "title": "Blue sky",
+   "lic": "CC BY 2.0",
+   "artist": "skyseeker",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7281/16646479990_b25d6e079c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dd1905c3-e681-45af-9ef8-65ce9f810788/thumb/",
+   "page": "https://www.flickr.com/photos/40422902@N00/16646479990",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sky_0.jpg"
+  },
+  {
+   "title": "Fuji on the blue sky",
+   "lic": "CC BY 2.0",
+   "artist": "skyseeker",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5630/23053211449_3bbc061d71_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5ee11384-88ea-46f9-a039-128c6a26e426/thumb/",
+   "page": "https://www.flickr.com/photos/40422902@N00/23053211449",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sky_1.jpg"
+  },
+  {
+   "title": "Blue Sky vs Rain Clouds",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Christian_A.",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/3493/3288286996_737e03e03c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4a701e14-d6ff-4b70-af1d-6f25cf6306ae/thumb/",
+   "page": "https://www.flickr.com/photos/35345974@N04/3288286996",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/sky_2.jpg"
+  }
+ ],
+ "rainbow": [
+  {
+   "title": "rainbow",
+   "lic": "CC BY 2.0",
+   "artist": "Sean MacEntee",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/3693/10442630106_0f2bdd4642_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eec19d34-412a-418c-adc2-ed78e1eba61c/thumb/",
+   "page": "https://www.flickr.com/photos/18090920@N07/10442630106",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/rainbow_0.jpg"
+  },
+  {
+   "title": "Rainbow over Shorncliffe-01+",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Sheba_Also 17.5 Mil + views",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/44/169440495_ebd601a110_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f20dda1c-9064-43f4-8acb-80c112f2c467/thumb/",
+   "page": "https://www.flickr.com/photos/34534185@N00/169440495",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/rainbow_1.jpg"
+  },
+  {
+   "title": "rainbow beach",
+   "lic": "CC BY 2.0",
+   "artist": "texaus1",
+   "w": 1024,
+   "h": 646,
+   "url": "https://live.staticflickr.com/6052/6339147317_f405be5228_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/eaae303b-fdac-4aef-a263-e51eb7f51c1b/thumb/",
+   "page": "https://www.flickr.com/photos/49385936@N04/6339147317",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/rainbow_2.jpg"
+  }
+ ],
+ "raincoat": [
+  {
+   "title": "Raincoat.",
+   "lic": "CC BY-SA 2.0",
+   "artist": "tripleigrek",
+   "w": 900,
+   "h": 1013,
+   "url": "https://live.staticflickr.com/1034/1231029571_26aa7b2692_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a855975e-1cfe-4b2f-92ca-f7e57ea29b9b/thumb/",
+   "page": "https://www.flickr.com/photos/11473185@N03/1231029571",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/raincoat_0.jpg"
+  },
+  {
+   "title": "Yellow raincoats",
+   "lic": "CC BY 2.0",
+   "artist": "chispita_666",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/3128/2699275381_6642546869_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fe17a4f3-5ef1-4cc8-98ef-40acf6ee2c85/thumb/",
+   "page": "https://www.flickr.com/photos/12477719@N00/2699275381",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/raincoat_1.jpg"
+  },
+  {
+   "title": "Raincoat",
+   "lic": "CC BY-SA 2.0",
+   "artist": "jeferonix",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1079/860332281_3748c41b1f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/20a38510-af7f-4d7f-bea4-7bb061f5b40f/thumb/",
+   "page": "https://www.flickr.com/photos/35034346917@N01/860332281",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/raincoat_2.jpg"
+  }
+ ],
+ "forecast": [
+  {
+   "title": "NASA Spots the Frigid Thunderstorm Cloud-tops That Brought Severe Southeastern U.S. Weather",
+   "lic": "CC BY 2.0",
+   "artist": "NASA Goddard Photo and Video",
+   "w": 1024,
+   "h": 788,
+   "url": "https://live.staticflickr.com/5142/5598148465_c5e47e429e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/43b7379a-c35f-434c-866c-0604e51340e3/thumb/",
+   "page": "https://www.flickr.com/photos/24662369@N07/5598148465",
+   "src": "openverse",
+   "provider": "nasa",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/forecast_0.jpg"
+  },
+  {
+   "title": "GOES Satellite Sees Strong Front Bringing Blizzard Conditions to U.S. Southwest",
+   "lic": "CC BY 2.0",
+   "artist": "NASA Goddard Photo and Video",
+   "w": 1024,
+   "h": 1013,
+   "url": "https://live.staticflickr.com/7009/6539562233_8408a067bc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5ff2a292-5ec6-428a-beb7-3c697ed3228c/thumb/",
+   "page": "https://www.flickr.com/photos/24662369@N07/6539562233",
+   "src": "openverse",
+   "provider": "nasa",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/forecast_1.jpg"
+  },
+  {
+   "title": "Satellite Looks at Thanksgiving Travel in North America",
+   "lic": "CC BY 2.0",
+   "artist": "NASA Goddard Photo and Video",
+   "w": 1024,
+   "h": 758,
+   "url": "https://live.staticflickr.com/6094/6389443141_f17c39f913_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/add3bc2e-82aa-4d96-8683-ae1b1f3e4767/thumb/",
+   "page": "https://www.flickr.com/photos/24662369@N07/6389443141",
+   "src": "openverse",
+   "provider": "nasa",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/forecast_2.jpg"
+  }
+ ],
+ "season": [
+  {
+   "title": "Autumn Leaves",
+   "lic": "CC BY-SA 2.0",
+   "artist": "slowshooting",
+   "w": 1024,
+   "h": 682,
+   "url": "https://live.staticflickr.com/4022/4478726700_476d7b52af_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a61a053a-1658-4fc9-8825-ce9e878cfbce/thumb/",
+   "page": "https://www.flickr.com/photos/47853371@N08/4478726700",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/season_0.jpg"
+  },
+  {
+   "title": "Autumn Hues.",
+   "lic": "CC0",
+   "artist": "Bernard Spragg",
+   "w": 1024,
+   "h": 687,
+   "url": "https://live.staticflickr.com/7643/17043261688_8142d79a19_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/763fc2ba-40f7-4252-b262-bb458e7107c4/thumb/",
+   "page": "https://www.flickr.com/photos/88123769@N02/17043261688",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/season_1.jpg"
+  },
+  {
+   "title": "Fallen angel.",
+   "lic": "CC0",
+   "artist": "Bernard Spragg",
+   "w": 1024,
+   "h": 689,
+   "url": "https://live.staticflickr.com/4266/34411626024_9a93c3f092_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/639fe4f8-d1a3-4da5-a8c1-68ca0145bce0/thumb/",
+   "page": "https://www.flickr.com/photos/88123769@N02/34411626024",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch16/cand/season_2.jpg"
+  }
+ ]
+}

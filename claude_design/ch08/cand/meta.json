@@ -477,5 +477,266 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/reservation_2.jpg"
   }
+ ],
+ "cook": [
+  {
+   "title": "Cooks in Italian Village Restaurant kitchen, 1959",
+   "lic": "CC BY 2.0",
+   "artist": "Seattle Municipal Archives",
+   "w": 1024,
+   "h": 860,
+   "url": "https://live.staticflickr.com/3058/2692476103_0a0eb0d3ee_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3257a5f1-c874-478e-8424-5eda77276e1a/thumb/",
+   "page": "https://www.flickr.com/photos/24256351@N04/2692476103",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/cook_0.jpg"
+  },
+  {
+   "title": "Cooks at the Northern Lights Dining Room, 1952",
+   "lic": "CC BY 2.0",
+   "artist": "Seattle Municipal Archives",
+   "w": 838,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3269/2692476097_abc2247685_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b49d8874-14b1-4c3c-a8c7-6d56d7fce94d/thumb/",
+   "page": "https://www.flickr.com/photos/24256351@N04/2692476097",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/cook_1.jpg"
+  },
+  {
+   "title": "2009 IMCOM-E / USAREUR/7A Culinary Arts Competition Winners - US Army Africa - Vicenza, Italy - 091130",
+   "lic": "CC BY 2.0",
+   "artist": "US Army Africa",
+   "w": 1024,
+   "h": 717,
+   "url": "https://live.staticflickr.com/2593/4149857219_2c61b0a412_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a2276590-a522-441b-85b4-a2414bc405a2/thumb/",
+   "page": "https://www.flickr.com/photos/36281822@N08/4149857219",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/cook_2.jpg"
+  }
+ ],
+ "soup": [
+  {
+   "title": "“That bowl of soup—it was dearer than freedom, dearer than life itself, past, present, and future.” ―Aleksandr Solzhenitsyn 🍜",
+   "lic": "CC BY-SA 2.0",
+   "artist": "anokarina",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1533/23793360274_2ab2bb989e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a21bc91b-fb1c-4303-8acc-d994622b01dd/thumb/",
+   "page": "https://www.flickr.com/photos/30760976@N04/23793360274",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/soup_0.jpg"
+  },
+  {
+   "title": "A bowl of soup",
+   "lic": "CC BY 2.0",
+   "artist": "Dai Luo",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7225/7384051864_faf87e8947_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/aa40d8ea-ea45-417b-82f2-4de76c2a1a1a/thumb/",
+   "page": "https://www.flickr.com/photos/57669526@N04/7384051864",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/soup_2.jpg"
+  }
+ ],
+ "meat": [
+  {
+   "title": "Grilled Pesto Chicken",
+   "lic": "CC BY 2.0",
+   "artist": "andrusdevelopment",
+   "w": 713,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7125/7450535362_d5059c8f9f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fe2396c1-8b97-4f44-a3c9-3dc8d050da6c/thumb/",
+   "page": "https://www.flickr.com/photos/9020344@N02/7450535362",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/meat_0.jpg"
+  },
+  {
+   "title": "bar tartine bottarga, grilled bread, butter, radish",
+   "lic": "CC BY 2.0",
+   "artist": "goodiesfirst",
+   "w": 1000,
+   "h": 666,
+   "url": "https://live.staticflickr.com/6011/6003820881_dce99bf238_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b0e5f65d-fed3-4570-8a29-87bc7dfa0c68/thumb/",
+   "page": "https://www.flickr.com/photos/49215102@N00/6003820881",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/meat_1.jpg"
+  },
+  {
+   "title": "melanzane alla parmigiana",
+   "lic": "CC BY 2.0",
+   "artist": "fugzu",
+   "w": 1024,
+   "h": 672,
+   "url": "https://live.staticflickr.com/2381/2370335899_46ff0d53c2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/88c9c752-b796-4b1d-bc4f-497251a0f060/thumb/",
+   "page": "https://www.flickr.com/photos/70253321@N00/2370335899",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/meat_2.jpg"
+  }
+ ],
+ "fish": [
+  {
+   "title": "Grilled Blue Grenadier, Salad, Corn and Sambal - Hooked",
+   "lic": "CC BY-SA 2.0",
+   "artist": "avlxyz",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2083/2370644550_67f742a4e2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0ba73a52-11eb-4ec6-a5e0-b3d346fa3a46/thumb/",
+   "page": "https://www.flickr.com/photos/10559879@N00/2370644550",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/fish_0.jpg"
+  },
+  {
+   "title": "Bacon Krispy Kreme burger",
+   "lic": "CC BY 2.0",
+   "artist": "satanslaundromat",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/185/392221718_9e66d89ca7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4f7a92fd-c6af-40a5-bbee-97a3097ce73c/thumb/",
+   "page": "https://www.flickr.com/photos/14031759@N00/392221718",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/fish_1.jpg"
+  },
+  {
+   "title": "Grilled Fish, Ristorante Atrium, Palaca Cindro, Diocletian's Palace, Split, Croatia",
+   "lic": "CC BY 2.0",
+   "artist": "brownpau",
+   "w": 1024,
+   "h": 574,
+   "url": "https://live.staticflickr.com/7240/7176159319_16a5f97f2f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1ebffe81-8409-40db-80b1-9271c5c2652a/thumb/",
+   "page": "https://www.flickr.com/photos/44124483743@N01/7176159319",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/fish_2.jpg"
+  }
+ ],
+ "rice": [
+  {
+   "title": "Paëlla, olé !",
+   "lic": "CC BY 2.0",
+   "artist": "fred_v",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/1246/5151217925_fa983b3507_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/05bb4679-161c-4967-b1ca-b4eb361def57/thumb/",
+   "page": "https://www.flickr.com/photos/8514720@N04/5151217925",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/rice_0.jpg"
+  },
+  {
+   "title": "Paella",
+   "lic": "CC BY 2.0",
+   "artist": "MShades",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/123/330862780_48dbb4cd46_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c33de38e-22a3-4336-9ff6-f95fb334479b/thumb/",
+   "page": "https://www.flickr.com/photos/23054755@N00/330862780",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/rice_1.jpg"
+  },
+  {
+   "title": "The finished paella",
+   "lic": "CC BY 2.0",
+   "artist": "Keith Williamson",
+   "w": 1024,
+   "h": 858,
+   "url": "https://live.staticflickr.com/7009/6674583223_23d1703107_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b6c991d2-158d-41e4-929e-f90d3a0eb1e5/thumb/",
+   "page": "https://www.flickr.com/photos/34673186@N03/6674583223",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/rice_2.jpg"
+  }
+ ],
+ "salad": [
+  {
+   "title": "Mixed Salad Bowl ... (Photo JC PLE)",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Bernard DUPONT",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/65535/51776103153_f83251309f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7993f8da-840e-4ec9-b10c-1d4ee23928ae/thumb/",
+   "page": "https://www.flickr.com/photos/65695019@N07/51776103153",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/salad_0.jpg"
+  },
+  {
+   "title": "Warm Spinach, Mushroom Salad",
+   "lic": "CC BY 2.0",
+   "artist": "rexipe",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1324/1040570600_f5b90e0ec4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/265dfc3d-7882-4407-a972-77e170e3d6ca/thumb/",
+   "page": "https://www.flickr.com/photos/7352088@N08/1040570600",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/salad_1.jpg"
+  },
+  {
+   "title": "Mid-morning salad snack",
+   "lic": "CC BY 2.0",
+   "artist": "deb roby",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3060/2595169871_d467e52f74_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/223cfa00-7e66-4565-adac-706ca7c28697/thumb/",
+   "page": "https://www.flickr.com/photos/45802332@N00/2595169871",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/salad_2.jpg"
+  }
+ ],
+ "oil": [
+  {
+   "title": "Olive oil bottles",
+   "lic": "CC BY 2.0",
+   "artist": "JohnSeb",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7078/7083621931_c1b4d9f8d1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/73804a3e-028b-47a4-ab91-e63716f369dd/thumb/",
+   "page": "https://www.flickr.com/photos/69875617@N00/7083621931",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/oil_0.jpg"
+  },
+  {
+   "title": "Olive Oil bottle",
+   "lic": "CC BY-SA 2.0",
+   "artist": "bobosh_t",
+   "w": 460,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7180/6985903764_655094d82b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/976eebd5-83dd-446a-b12b-390f98005324/thumb/",
+   "page": "https://www.flickr.com/photos/31801622@N07/6985903764",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch08/cand/oil_1.jpg"
+  }
  ]
 }

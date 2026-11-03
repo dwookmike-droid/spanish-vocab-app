@@ -354,5 +354,430 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunscreen_2.jpg"
   }
+ ],
+ "sunglasses": [
+  {
+   "title": "The Sunglasses",
+   "lic": "CC BY 2.0",
+   "artist": "Tobyotter",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8454/7993768362_324ae52f7e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fc502223-7fdd-4f88-a0ae-14a07f9230e1/thumb/",
+   "page": "https://www.flickr.com/photos/78428166@N00/7993768362",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunglasses_0.jpg"
+  },
+  {
+   "title": "sunglasses",
+   "lic": "CC BY 2.0",
+   "artist": "JeepersMedia",
+   "w": 1024,
+   "h": 765,
+   "url": "https://live.staticflickr.com/2869/11880489893_5b5c4d439b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/af23f4f2-0686-44e4-9c40-f64c8bd185df/thumb/",
+   "page": "https://www.flickr.com/photos/39160147@N03/11880489893",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunglasses_1.jpg"
+  },
+  {
+   "title": "Sunglasses",
+   "lic": "CC BY 2.0",
+   "artist": "JeepersMedia",
+   "w": 1024,
+   "h": 674,
+   "url": "https://live.staticflickr.com/2921/14773144544_5988ed38b5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5a80d4a0-8a82-4d8c-af50-65d7783b6fbc/thumb/",
+   "page": "https://www.flickr.com/photos/39160147@N03/14773144544",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunglasses_2.jpg"
+  }
+ ],
+ "beachbar": [
+  {
+   "title": "Relaxing time",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/5599/15428701982_4e45b48dee_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d929ef00-195b-42d0-ad4b-cca925afac3a/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/15428701982",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beachbar_0.jpg"
+  },
+  {
+   "title": "Prohibido fumar",
+   "lic": "CC BY-SA 2.0",
+   "artist": "fernand0",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2315/1989573881_098ad91487_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d835a172-e0a3-4ee8-9a82-5f80f1c66e25/thumb/",
+   "page": "https://www.flickr.com/photos/44124419077@N01/1989573881",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beachbar_1.jpg"
+  },
+  {
+   "title": "La playa de Berlín",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jumbero",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2526/3777629625_461c064479_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/372307e7-2c77-4010-9029-e14d6854c51c/thumb/",
+   "page": "https://www.flickr.com/photos/38822681@N06/3777629625",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/beachbar_2.jpg"
+  }
+ ],
+ "boat": [
+  {
+   "title": "Small boat sea",
+   "lic": "CC0",
+   "artist": "",
+   "w": 5616,
+   "h": 3744,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MzExMDIxNi13aWtpbWVkaWEtaW1hZ2Uta293bW56dHcuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0db44e79-2a09-4099-809d-364b05a9d01a/thumb/",
+   "page": "https://www.rawpixel.com/image/3295667/free-photo-image-yacht-alone-barge",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/boat_0.jpg"
+  },
+  {
+   "title": "Small boat, sea, ripples, sky",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4992,
+   "h": 3744,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MjA5MTc2NC13aWtpbWVkaWEtaW1hZ2Uta293bzJraW8uanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1c9bd3f8-cee5-4319-b857-1c79646dff24/thumb/",
+   "page": "https://www.rawpixel.com/image/3298079/free-photo-image-sweden-ripple-adventure",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/boat_1.jpg"
+  },
+  {
+   "title": "Three Boats",
+   "lic": "CC BY 2.0",
+   "artist": "oatsy40",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/8036/8031082024_7c4d5fce9a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/23723450-374e-4a54-acb9-60fcb21f30d5/thumb/",
+   "page": "https://www.flickr.com/photos/68089229@N06/8031082024",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/boat_2.jpg"
+  }
+ ],
+ "rock": [
+  {
+   "title": "Big rock sea coast Ko",
+   "lic": "CC0",
+   "artist": "",
+   "w": 5616,
+   "h": 3744,
+   "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3Vwd2s2MjIxNDIxMi13aWtpbWVkaWEtaW1hZ2Uta293bjNuOTYuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9fd2af59-5fb7-4cd5-96e7-8916daec845a/thumb/",
+   "page": "https://www.rawpixel.com/image/3296354/free-photo-image-nature-thailand-abies",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/rock_0.jpg"
+  },
+  {
+   "title": "Jurassic Doorway",
+   "lic": "CC BY 2.0",
+   "artist": "dolbinator1000",
+   "w": 1024,
+   "h": 515,
+   "url": "https://live.staticflickr.com/7504/16029897328_199b3517de_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/53509a42-317f-4733-a89e-83856afae40a/thumb/",
+   "page": "https://www.flickr.com/photos/126654539@N08/16029897328",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/rock_1.jpg"
+  },
+  {
+   "title": "Dunstanburgh Light.",
+   "lic": "CC BY 2.0",
+   "artist": "Jonathan Combe (Thank you for 400,000 views!)",
+   "w": 1024,
+   "h": 678,
+   "url": "https://live.staticflickr.com/2855/10950604224_04accdb441_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/505a13c3-049e-4602-9726-021139654fa8/thumb/",
+   "page": "https://www.flickr.com/photos/58879705@N07/10950604224",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/rock_2.jpg"
+  }
+ ],
+ "shell": [
+  {
+   "title": "Rumpunch Seashell Beach Daze",
+   "lic": "CC BY-SA 2.0",
+   "artist": "puroticorico",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7016/6543947171_3039a35cc5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1af0681a-bd44-49d2-87ee-0cb2de7786f0/thumb/",
+   "page": "https://www.flickr.com/photos/10058483@N00/6543947171",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/shell_0.jpg"
+  },
+  {
+   "title": "Seashell Beach",
+   "lic": "CC0",
+   "artist": "Adrianna Calvo",
+   "w": 5472,
+   "h": 3648,
+   "url": "https://cdn.stocksnap.io/img-thumbs/960w/T5TB6VX5PG.jpg",
+   "thumb": "https://api.openverse.org/v1/images/856866f9-cdaa-430a-a7de-386b396b61ce/thumb/",
+   "page": "https://stocksnap.io/photo/seashell-beach-T5TB6VX5PG",
+   "src": "openverse",
+   "provider": "stocksnap",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/shell_1.jpg"
+  },
+  {
+   "title": "Seashell Beach",
+   "lic": "CC0",
+   "artist": "Andrew Pons",
+   "w": 2628,
+   "h": 1972,
+   "url": "https://cdn.stocksnap.io/img-thumbs/960w/GCLNI8L92T.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f4ab47b5-68de-4b01-9b41-58069e030fe0/thumb/",
+   "page": "https://stocksnap.io/photo/seashell-beach-GCLNI8L92T",
+   "src": "openverse",
+   "provider": "stocksnap",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/shell_2.jpg"
+  }
+ ],
+ "lifeguard": [
+  {
+   "title": "Lifeguard tower beach",
+   "lic": "CC0",
+   "artist": "",
+   "w": 4913,
+   "h": 3254,
+   "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ3YXRlcl9yZXNjdWVfdXNhX2FtZXJpY2EtaW1hZ2Uta3liY2VoazUuanBn.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e64bdd7c-ac8d-42cc-8194-13cd56538f27/thumb/",
+   "page": "https://www.rawpixel.com/image/6030059/photo-image-public-domain-nature-beach",
+   "src": "openverse",
+   "provider": "rawpixel",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/lifeguard_0.jpg"
+  },
+  {
+   "title": "Tower Sunset",
+   "lic": "Public Domain",
+   "artist": "Dan90266",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/7879/40400299723_2afa07d688_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b63da900-eb47-4f47-b444-8fd4e7f98915/thumb/",
+   "page": "https://www.flickr.com/photos/93025987@N00/40400299723",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/lifeguard_1.jpg"
+  },
+  {
+   "title": "100_3934",
+   "lic": "CC BY 2.0",
+   "artist": "osseous",
+   "w": 1024,
+   "h": 769,
+   "url": "https://live.staticflickr.com/2351/2426286383_81f42678d3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ba3ee124-1828-4538-9825-163bcf28a4b0/thumb/",
+   "page": "https://www.flickr.com/photos/10787737@N02/2426286383",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/lifeguard_2.jpg"
+  }
+ ],
+ "sunlounger": [
+  {
+   "title": "Samos - Psili Amos Beach - Sept 2009 - Show a Leg",
+   "lic": "CC BY 2.0",
+   "artist": "Gareth1953 All Right Now",
+   "w": 965,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6065/6083251382_05be0ef02e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/436410e8-5b2e-4186-8bb9-d4cc64fbb25b/thumb/",
+   "page": "https://www.flickr.com/photos/40837632@N05/6083251382",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunlounger_0.jpg"
+  },
+  {
+   "title": "sun bathing",
+   "lic": "CC BY 2.0",
+   "artist": "apdk",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3231/2991371461_fc52afd2f0_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/50090f61-083f-42b3-a8aa-a2a2330c6314/thumb/",
+   "page": "https://www.flickr.com/photos/62337512@N00/2991371461",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunlounger_1.jpg"
+  },
+  {
+   "title": "Tanning Selfie",
+   "lic": "CC BY 2.0",
+   "artist": "nathaxsavage",
+   "w": 1024,
+   "h": 542,
+   "url": "https://live.staticflickr.com/65535/52220521832_b3f531381f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5d3aca25-87b4-4b55-a4fb-0fb088613f25/thumb/",
+   "page": "https://www.flickr.com/photos/192454555@N03/52220521832",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/sunlounger_2.jpg"
+  }
+ ],
+ "icecream": [
+  {
+   "title": "Strawberry Ice Cream Cone",
+   "lic": "CC BY 2.0",
+   "artist": "TheCulinaryGeek",
+   "w": 681,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4030/5076899310_67b9566ac8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/32184a61-eb3a-4f12-a776-246ff87ba2c9/thumb/",
+   "page": "https://www.flickr.com/photos/72949902@N00/5076899310",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/icecream_0.jpg"
+  },
+  {
+   "title": "Ice Cream Cone ~ 8 scoops + 3 Diamond Rings by Tiffany",
+   "lic": "CC BY 2.0",
+   "artist": "Prayitno / Thank you for (12 millions +) view",
+   "w": 598,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6162/6146358670_6997505fe3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1564f2e9-d179-4889-9a00-dd7208dc07ea/thumb/",
+   "page": "https://www.flickr.com/photos/34128007@N04/6146358670",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/icecream_1.jpg"
+  },
+  {
+   "title": "Ice Cream cones",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Aasim clicks",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8358/8308333904_393f842be6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/8156dc26-1ce7-408e-ba8a-8b8b7e9b829d/thumb/",
+   "page": "https://www.flickr.com/photos/91494601@N02/8308333904",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/icecream_2.jpg"
+  }
+ ],
+ "bucket": [
+  {
+   "title": "Bucket & spade",
+   "lic": "CC BY 2.0",
+   "artist": "Dale Gillard",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2344/2079882809_707fd1980b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a4f99d56-8b8b-4f21-b1f9-86a74b3084c4/thumb/",
+   "page": "https://www.flickr.com/photos/65032901@N00/2079882809",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/bucket_0.jpg"
+  },
+  {
+   "title": "bucket and spades",
+   "lic": "CC BY 2.0",
+   "artist": "Jon Evans",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1043/1032687817_65b4625ac6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4ca6b8fd-8b41-475f-84cf-e53cec6c472b/thumb/",
+   "page": "https://www.flickr.com/photos/37996584074@N01/1032687817",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/bucket_1.jpg"
+  },
+  {
+   "title": "3D-printable sand play set - by Creative-Tools.com v5",
+   "lic": "CC BY 2.0",
+   "artist": "Creative Tools",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3919/19195648370_0e4c549f8e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/615ee5f6-4240-4940-90bc-96cdd0293943/thumb/",
+   "page": "https://www.flickr.com/photos/33907867@N02/19195648370",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/bucket_2.jpg"
+  }
+ ],
+ "spade": [
+  {
+   "title": "Bucket & spade",
+   "lic": "CC BY 2.0",
+   "artist": "Dale Gillard",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2344/2079882809_707fd1980b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a4f99d56-8b8b-4f21-b1f9-86a74b3084c4/thumb/",
+   "page": "https://www.flickr.com/photos/65032901@N00/2079882809",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/spade_0.jpg"
+  },
+  {
+   "title": "3D-printable sand play set - by Creative-Tools.com v5",
+   "lic": "CC BY 2.0",
+   "artist": "Creative Tools",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3919/19195648370_0e4c549f8e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/615ee5f6-4240-4940-90bc-96cdd0293943/thumb/",
+   "page": "https://www.flickr.com/photos/33907867@N02/19195648370",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/spade_1.jpg"
+  },
+  {
+   "title": "bucket and spades",
+   "lic": "CC BY 2.0",
+   "artist": "Jon Evans",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1043/1032687817_65b4625ac6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4ca6b8fd-8b41-475f-84cf-e53cec6c472b/thumb/",
+   "page": "https://www.flickr.com/photos/37996584074@N01/1032687817",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/spade_2.jpg"
+  }
+ ],
+ "port": [
+  {
+   "title": "HMS Pickle in the river Conwy",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jo Turner",
+   "w": 427,
+   "h": 640,
+   "url": "http://s0.geograph.org.uk/geophotos/03/65/90/3659018_6e2e66b8.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4c6b6db5-a0f9-4eb4-a22b-10c405782474/thumb/",
+   "page": "http://www.geograph.org.uk/photo/3659018",
+   "src": "openverse",
+   "provider": "geographorguk",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch15/cand/port_0.jpg"
+  }
  ]
 }

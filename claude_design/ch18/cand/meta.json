@@ -1,0 +1,783 @@
+{
+ "mountain": [
+  {
+   "title": "Serranía de Ronda. Málaga.",
+   "lic": "CC BY 2.0",
+   "artist": "danielgarciadgb",
+   "w": 1024,
+   "h": 575,
+   "url": "https://live.staticflickr.com/1671/25549671653_2c3854a6a9_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fe86afd2-68af-4743-ac1b-3e738f43a4ea/thumb/",
+   "page": "https://www.flickr.com/photos/140729143@N08/25549671653",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/mountain_0.jpg"
+  }
+ ],
+ "river": [
+  {
+   "title": "River Seridó",
+   "lic": "CC BY-SA 2.0",
+   "artist": "grungepunk2010",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3538/5803043660_c03d825d2a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/11678034-0d95-4ed7-8952-eb5298bf11b5/thumb/",
+   "page": "https://www.flickr.com/photos/47340307@N05/5803043660",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/river_0.jpg"
+  },
+  {
+   "title": "River Seridó",
+   "lic": "CC BY-SA 2.0",
+   "artist": "grungepunk2010",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2697/5802464927_675b353da4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f3342cea-aad2-4ab7-beae-092f4f7d94d0/thumb/",
+   "page": "https://www.flickr.com/photos/47340307@N05/5802464927",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/river_1.jpg"
+  },
+  {
+   "title": "River Seridó",
+   "lic": "CC BY-SA 2.0",
+   "artist": "grungepunk2010",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2172/5803026366_49328cc099_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/dad446b3-4ad1-4d80-896d-b57c95bf6b09/thumb/",
+   "page": "https://www.flickr.com/photos/47340307@N05/5803026366",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/river_2.jpg"
+  }
+ ],
+ "bridge": [
+  {
+   "title": "Puente Nuevo, Ronda",
+   "lic": "CC BY 2.0",
+   "artist": "pani.minister",
+   "w": 480,
+   "h": 500,
+   "url": "https://live.staticflickr.com/5018/5534553020_af93216396.jpg",
+   "thumb": "https://api.openverse.org/v1/images/903d7048-64c8-4967-b2b7-d080ad8d2164/thumb/",
+   "page": "https://www.flickr.com/photos/51260317@N03/5534553020",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/bridge_1.jpg"
+  },
+  {
+   "title": "Puente Nuevo, Ronda",
+   "lic": "CC BY 2.0",
+   "artist": "Keith Roper",
+   "w": 1000,
+   "h": 750,
+   "url": "https://live.staticflickr.com/2289/2538890241_5b3c5a2317_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/39ae4320-6f37-44b5-b53b-1ccdf05d315b/thumb/",
+   "page": "https://www.flickr.com/photos/13612135@N05/2538890241",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/bridge_2.jpg"
+  }
+ ],
+ "valley": [
+  {
+   "title": "Iglesia Cortes de la Frontera",
+   "lic": "CC BY 2.0",
+   "artist": "BY-YOUR-⌘",
+   "w": 1024,
+   "h": 633,
+   "url": "https://live.staticflickr.com/4127/4968547410_81684b47b5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fa0e3085-2b00-4578-9c40-bae9eb056eb2/thumb/",
+   "page": "https://www.flickr.com/photos/35042256@N00/4968547410",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/valley_0.jpg"
+  },
+  {
+   "title": "Around Nha Trang, rice fields",
+   "lic": "CC BY 2.0",
+   "artist": "Arian Zwegers",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6091/6224431058_546c26a80a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d09f29b0-5022-49e8-91e6-3a97a568acab/thumb/",
+   "page": "https://www.flickr.com/photos/67769030@N07/6224431058",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/valley_1.jpg"
+  },
+  {
+   "title": "Andalusian Landscape",
+   "lic": "CC BY 2.0",
+   "artist": "Bogdan Migulski",
+   "w": 1024,
+   "h": 773,
+   "url": "https://live.staticflickr.com/3127/3177168663_aa2d293c74_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d1620d53-0c4f-47f5-9eb6-52f81c28e7e3/thumb/",
+   "page": "https://www.flickr.com/photos/20172348@N00/3177168663",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/valley_2.jpg"
+  }
+ ],
+ "forest": [
+  {
+   "title": "Fall-Forest",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Chris Sorge",
+   "w": 1024,
+   "h": 770,
+   "url": "https://live.staticflickr.com/8071/8425048235_1d3570274b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/937a1001-5040-4f05-8c39-76cdd1d0c791/thumb/",
+   "page": "https://www.flickr.com/photos/66070376@N06/8425048235",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/forest_0.jpg"
+  },
+  {
+   "title": "gloomy forest",
+   "lic": "CC BY 2.0",
+   "artist": "gorchakov.artem",
+   "w": 1024,
+   "h": 640,
+   "url": "https://live.staticflickr.com/8043/8394379683_a49795d0e3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/49dec960-1cc7-4738-afc6-793315cd51e9/thumb/",
+   "page": "https://www.flickr.com/photos/56003265@N05/8394379683",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/forest_1.jpg"
+  },
+  {
+   "title": "Forest",
+   "lic": "CC BY 2.0",
+   "artist": "catburston",
+   "w": 1024,
+   "h": 678,
+   "url": "https://live.staticflickr.com/5350/8978003826_a93c1ee651_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4f3ce59a-56fb-4096-95b5-ea45a9dea386/thumb/",
+   "page": "https://www.flickr.com/photos/57701739@N00/8978003826",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/forest_2.jpg"
+  }
+ ],
+ "tree": [
+  {
+   "title": "Tree",
+   "lic": "CC BY 2.0",
+   "artist": "-epsilon-",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7440/8838399307_9e9e9668f6_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/34999f29-a652-45d2-8f0b-4eaa3b9f4c0c/thumb/",
+   "page": "https://www.flickr.com/photos/96297361@N02/8838399307",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/tree_0.jpg"
+  },
+  {
+   "title": "Tree",
+   "lic": "CC BY 2.0",
+   "artist": "-epsilon-",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3778/8839115226_4d112f9ebf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/14b0368a-d5ec-4dc9-90b2-6d04de80bc7c/thumb/",
+   "page": "https://www.flickr.com/photos/96297361@N02/8839115226",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/tree_1.jpg"
+  },
+  {
+   "title": "Tree",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Infinite Dust",
+   "w": 674,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/7394/13836451764_d9eb9dc878_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/95c45943-d601-49e8-9585-6a241d498adf/thumb/",
+   "page": "https://www.flickr.com/photos/83871631@N08/13836451764",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/tree_2.jpg"
+  }
+ ],
+ "rock": [
+  {
+   "title": "Amazing Rock Formations",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 1000,
+   "h": 669,
+   "url": "https://live.staticflickr.com/7324/11043144044_fd0aa2140f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1bbf165a-4222-4f01-9a8d-6cd72f9601ce/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/11043144044",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/rock_0.jpg"
+  },
+  {
+   "title": "Kapurpurawan Rock Formation, Ilocos Norte",
+   "lic": "CC0",
+   "artist": "Bernard Spragg",
+   "w": 1024,
+   "h": 672,
+   "url": "https://live.staticflickr.com/8588/16016349609_0e363632cc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/92c45222-a719-4459-ab0f-069278df4186/thumb/",
+   "page": "https://www.flickr.com/photos/88123769@N02/16016349609",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/rock_1.jpg"
+  },
+  {
+   "title": "malabrigo rock formations",
+   "lic": "CC BY 2.0",
+   "artist": "heyz26",
+   "w": 1024,
+   "h": 687,
+   "url": "https://live.staticflickr.com/2381/5820454456_602b1559bf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/360aea61-7d57-4cd2-90fb-8a43b23b900d/thumb/",
+   "page": "https://www.flickr.com/photos/53099508@N06/5820454456",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/rock_2.jpg"
+  }
+ ],
+ "path": [
+  {
+   "title": "Countryside path.",
+   "lic": "CC BY 2.0",
+   "artist": "Marco Crocoli",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/2076/2033823456_1921b6e476_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7ac34426-dc51-4b7b-b32c-44b4fe01f00e/thumb/",
+   "page": "https://www.flickr.com/photos/20627768@N03/2033823456",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/path_0.jpg"
+  },
+  {
+   "title": "Countryside path",
+   "lic": "CC BY 2.0",
+   "artist": "DWalster",
+   "w": 1024,
+   "h": 406,
+   "url": "https://live.staticflickr.com/6174/6167599662_efe5955ca1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7a32ccf2-2933-488f-ac52-b35c992442e5/thumb/",
+   "page": "https://www.flickr.com/photos/66828941@N04/6167599662",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/path_1.jpg"
+  },
+  {
+   "title": "Countryside path",
+   "lic": "CC BY 2.0",
+   "artist": "Renatopp",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8740/28083530904_ec343ebec1_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/70a91b44-692e-4e34-b814-15482428109a/thumb/",
+   "page": "https://www.flickr.com/photos/44731867@N02/28083530904",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/path_2.jpg"
+  }
+ ],
+ "lake": [
+  {
+   "title": "Lake Michigan",
+   "lic": "CC BY 2.0",
+   "artist": "VV Nincic",
+   "w": 1024,
+   "h": 691,
+   "url": "https://live.staticflickr.com/1561/26086246101_7532873b58_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/99515926-e3dd-42ab-8052-389861f66899/thumb/",
+   "page": "https://www.flickr.com/photos/133904091@N04/26086246101",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/lake_0.jpg"
+  },
+  {
+   "title": "Lake Carezza 2",
+   "lic": "CC BY 2.0",
+   "artist": "Son of Groucho",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/5529/10384006136_0893028b1a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ab478e00-80b7-4043-ad52-15e483692318/thumb/",
+   "page": "https://www.flickr.com/photos/23401669@N00/10384006136",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/lake_1.jpg"
+  },
+  {
+   "title": "Lake Louise",
+   "lic": "CC BY 2.0",
+   "artist": "nateeag",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4141/4745229944_550d21caae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d482d42c-0b92-4db1-a6f9-ba027da2a92d/thumb/",
+   "page": "https://www.flickr.com/photos/27734890@N07/4745229944",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/lake_2.jpg"
+  }
+ ],
+ "waterfall": [
+  {
+   "title": "waterfall",
+   "lic": "CC BY 2.0",
+   "artist": "cluczkow",
+   "w": 685,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8532/8650038393_5db38677ce_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/49c27faa-1ded-4734-b063-ebe3786187a7/thumb/",
+   "page": "https://www.flickr.com/photos/19429821@N00/8650038393",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/waterfall_0.jpg"
+  },
+  {
+   "title": "Waterfall",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Björn S...",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3956/15594878462_ca76e0cd53_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/485292af-d649-4ab8-baa3-0d79c81f745e/thumb/",
+   "page": "https://www.flickr.com/photos/40948266@N04/15594878462",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/waterfall_1.jpg"
+  },
+  {
+   "title": "Waterfall",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Thomas Strosse",
+   "w": 680,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3470/5733909837_4e0a410e70_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/780c5178-26fe-4cd6-b7d6-4f9205b82443/thumb/",
+   "page": "https://www.flickr.com/photos/51225113@N08/5733909837",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/waterfall_2.jpg"
+  }
+ ],
+ "sky": [
+  {
+   "title": "Sky, Cloud and Road",
+   "lic": "CC BY 2.0",
+   "artist": "Yoshikazu TAKADA",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3941/14913755534_3df8bd3d50_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/621b6c10-e30e-4231-81ee-30e13036ad2e/thumb/",
+   "page": "https://www.flickr.com/photos/34530295@N06/14913755534",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_0.jpg"
+  },
+  {
+   "title": "Sky, Cloud and Mt. Fuji",
+   "lic": "CC BY 2.0",
+   "artist": "Yoshikazu TAKADA",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/3844/14933845455_160bbda146_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3db1c60b-39a7-47f1-910c-b71c1e5c83e3/thumb/",
+   "page": "https://www.flickr.com/photos/34530295@N06/14933845455",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_1.jpg"
+  },
+  {
+   "title": "Torc waterfall, co. Kerry, Ireland #photo #photography #iphone #iphone5s #iphoneography #ireland #landscape #travel #outdoor #nature #sky #clouds #lake",
+   "lic": "CC BY 2.0",
+   "artist": "Giuseppe Milo (www.pixael.com)",
+   "w": 1024,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2929/14133418959_a97f0ac513_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/be717343-73d9-497a-beb5-ef33478ac103/thumb/",
+   "page": "https://www.flickr.com/photos/87690240@N03/14133418959",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/sky_2.jpg"
+  }
+ ],
+ "stone": [
+  {
+   "title": "stone, wall, textura",
+   "lic": "CC0",
+   "artist": "bartoszjanusz",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6093/6344746584_70e7f0bd90_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f9f321dd-26a9-4667-846a-09659da42400/thumb/",
+   "page": "https://www.flickr.com/photos/68782296@N04/6344746584",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/stone_0.jpg"
+  },
+  {
+   "title": "stone, wall, textura",
+   "lic": "CC0",
+   "artist": "bartoszjanusz",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6057/6343998733_c19420febc_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9a7e9eee-a3c6-4364-9b80-2d2d30604a91/thumb/",
+   "page": "https://www.flickr.com/photos/68782296@N04/6343998733",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/stone_1.jpg"
+  },
+  {
+   "title": "The Blood Stone",
+   "lic": "CC BY 2.0",
+   "artist": "Mitah Val Karem",
+   "w": 1024,
+   "h": 916,
+   "url": "https://live.staticflickr.com/7295/16342762789_06856ef16b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f17a7a00-5a37-4fb5-8ed5-c637335a9200/thumb/",
+   "page": "https://www.flickr.com/photos/66475636@N02/16342762789",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/stone_2.jpg"
+  }
+ ],
+ "cave": [
+  {
+   "title": "Cave",
+   "lic": "CC BY 2.0",
+   "artist": "m01229",
+   "w": 1024,
+   "h": 678,
+   "url": "https://live.staticflickr.com/7130/7531261890_2650d2b096_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/41894be0-b720-46bd-b8b0-3b22255c6c4e/thumb/",
+   "page": "https://www.flickr.com/photos/39908901@N06/7531261890",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/cave_0.jpg"
+  },
+  {
+   "title": "Lava River Cave",
+   "lic": "Public Domain",
+   "artist": "Coconino NF Photography",
+   "w": 1024,
+   "h": 685,
+   "url": "https://live.staticflickr.com/665/20740152436_12f8b92839_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2a8ca10a-0f01-4fb2-87f5-722005cb0650/thumb/",
+   "page": "https://www.flickr.com/photos/42034606@N05/20740152436",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/cave_1.jpg"
+  },
+  {
+   "title": "Lava River Cave",
+   "lic": "Public Domain",
+   "artist": "Coconino NF Photography",
+   "w": 1024,
+   "h": 680,
+   "url": "https://live.staticflickr.com/653/20740139386_223e1df6a7_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5cd7ffc6-a2ac-4f5d-bfcb-2de3b567b7f4/thumb/",
+   "page": "https://www.flickr.com/photos/42034606@N05/20740139386",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/cave_2.jpg"
+  }
+ ],
+ "bird": [
+  {
+   "title": "Birds",
+   "lic": "CC BY 2.0",
+   "artist": "Phil Fiddyment",
+   "w": 1024,
+   "h": 801,
+   "url": "https://live.staticflickr.com/7628/27461365214_e7c42ec1bb_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c4d08a5b-c8a4-4b40-92f2-7fe03892dcbd/thumb/",
+   "page": "https://www.flickr.com/photos/124868421@N06/27461365214",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/bird_0.jpg"
+  },
+  {
+   "title": "bird",
+   "lic": "CC0",
+   "artist": "Mathias Appel",
+   "w": 1024,
+   "h": 678,
+   "url": "https://live.staticflickr.com/7759/27111885091_ee8befbe6a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/de06690e-56b8-4bcf-949e-d80f2e730743/thumb/",
+   "page": "https://www.flickr.com/photos/91501748@N07/27111885091",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/bird_1.jpg"
+  },
+  {
+   "title": "Birds",
+   "lic": "CC BY 2.0",
+   "artist": "Phil Fiddyment",
+   "w": 1024,
+   "h": 687,
+   "url": "https://live.staticflickr.com/7770/27703511674_007d2a2120_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/07d65160-de9c-4731-935f-6bc4d3c607d9/thumb/",
+   "page": "https://www.flickr.com/photos/124868421@N06/27703511674",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/bird_2.jpg"
+  }
+ ],
+ "eagle": [
+  {
+   "title": "Pallas's Fish Eagle",
+   "lic": "CC BY 2.0",
+   "artist": "Koshyk",
+   "w": 1024,
+   "h": 724,
+   "url": "https://live.staticflickr.com/8092/8576660148_1f7e4d9e4e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0ea416e7-8291-44fe-a8a4-d3ca650850c3/thumb/",
+   "page": "https://www.flickr.com/photos/97235261@N00/8576660148",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/eagle_0.jpg"
+  },
+  {
+   "title": "Eagle - Abingdon 2013",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Airwolfhound",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7411/8718183760_ddc6858a5a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/c82ce7f6-d29e-48e2-946d-320edc3bd02a/thumb/",
+   "page": "https://www.flickr.com/photos/24874528@N04/8718183760",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/eagle_1.jpg"
+  },
+  {
+   "title": "Bald Eagle",
+   "lic": "CC BY 2.0",
+   "artist": "Pen Waggener",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/127/348448681_ff0f56ab67_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e3a92e61-6e9f-4fef-85da-037f36e9b9e5/thumb/",
+   "page": "https://www.flickr.com/photos/46286575@N00/348448681",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/eagle_2.jpg"
+  }
+ ],
+ "flower": [
+  {
+   "title": "Wild flowers from a tree by iezalel williams - IMG_2938 - Canon EOS 700D",
+   "lic": "CC0",
+   "artist": "iezalel7williams",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/65535/48768850767_a5f8efe530_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/0a0cd98e-8b1d-43ba-98a3-9feb49548d69/thumb/",
+   "page": "https://www.flickr.com/photos/181765699@N08/48768850767",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/flower_0.jpg"
+  },
+  {
+   "title": "Wild flower in blue tone2 by iezalel williams IMG_0757",
+   "lic": "CC0",
+   "artist": "iezalel7williams",
+   "w": 1024,
+   "h": 684,
+   "url": "https://live.staticflickr.com/65535/48845629181_bb4b1262dd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/ceeac38e-d3b4-4022-a282-dce7743a805c/thumb/",
+   "page": "https://www.flickr.com/photos/181765699@N08/48845629181",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/flower_1.jpg"
+  },
+  {
+   "title": "Little-Wild-Flower",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Chris Sorge",
+   "w": 1024,
+   "h": 665,
+   "url": "https://live.staticflickr.com/8405/8669887989_ee0711a78c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/24361741-8ac8-4cec-ac02-aef503d82eb8/thumb/",
+   "page": "https://www.flickr.com/photos/66070376@N06/8669887989",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/flower_2.jpg"
+  }
+ ],
+ "trail": [
+  {
+   "title": "Timberlea-0195 - Bluff Wilderness Hiking Trail",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/737/23786301411_55a807fd7f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/9a046276-fecb-4459-903f-ff2755031414/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/23786301411",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/trail_0.jpg"
+  },
+  {
+   "title": "Timberlea-0193 - Bluff Wilderness Hiking Trail",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/5662/23868781635_06521aaa82_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1d8be1f2-be1d-4bbf-9f5b-2dc8dedc368c/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/23868781635",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/trail_1.jpg"
+  },
+  {
+   "title": "Timberlea-0210 - Bluff Wilderness Hiking Trail",
+   "lic": "CC BY-SA 2.0",
+   "artist": "archer10 (Dennis)",
+   "w": 683,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/593/23242200263_9433e10e91_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/5da96e63-39d2-430f-8fce-153b1f2c9d97/thumb/",
+   "page": "https://www.flickr.com/photos/22490717@N02/23242200263",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/trail_2.jpg"
+  }
+ ],
+ "viewpoint": [
+  {
+   "title": "Viewpoint",
+   "lic": "CC BY-SA 2.0",
+   "artist": "hernanpba",
+   "w": 1024,
+   "h": 576,
+   "url": "https://live.staticflickr.com/5572/14849922998_bc73d2223d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d7d5d69a-4d75-46c0-914a-0fe9c8679399/thumb/",
+   "page": "https://www.flickr.com/photos/67430875@N03/14849922998",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/viewpoint_0.jpg"
+  },
+  {
+   "title": "Ronda (Málaga) (Spain)",
+   "lic": "CC BY 2.0",
+   "artist": "sky_hlv",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/65535/51928621237_7256748638_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7bf13628-64be-4aec-b2b5-5218b1aa36ea/thumb/",
+   "page": "https://www.flickr.com/photos/91124353@N05/51928621237",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/viewpoint_1.jpg"
+  },
+  {
+   "title": "Ronda (Málaga) (Spain)",
+   "lic": "CC BY 2.0",
+   "artist": "sky_hlv",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/65535/51935655264_5491fd2170_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/28860e64-efac-4e60-ade8-0d6df591fe14/thumb/",
+   "page": "https://www.flickr.com/photos/91124353@N05/51935655264",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/viewpoint_2.jpg"
+  }
+ ],
+ "hill": [
+  {
+   "title": "Daffodil Hill",
+   "lic": "CC BY 2.0",
+   "artist": "enneafive",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/811/40981585952_bfccd6c788_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/89be319c-f59f-4b94-b26e-5c7371ef71d5/thumb/",
+   "page": "https://www.flickr.com/photos/75612671@N03/40981585952",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_0.jpg"
+  },
+  {
+   "title": "Clouds, Sea and Hills",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Jocey K",
+   "w": 1000,
+   "h": 669,
+   "url": "https://live.staticflickr.com/2855/10785409434_1ce192cf73_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/280b52b4-769e-4563-93cb-92bbc4dfa6ae/thumb/",
+   "page": "https://www.flickr.com/photos/48627921@N05/10785409434",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_1.jpg"
+  },
+  {
+   "title": "Drunk Cat lying down in Lucchio Hill Top village",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Glen Bowman",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/6077/6150711380_58a52c9488_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/185f8dca-064c-49d0-89e1-efc44b30d141/thumb/",
+   "page": "https://www.flickr.com/photos/10978503@N00/6150711380",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/hill_2.jpg"
+  }
+ ],
+ "olivetree": [
+  {
+   "title": "Close up of an Olive Tree",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Ian W Scott",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5261/5767827378_e5b865f54a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/1c7d4fce-6df1-4ed8-9dc3-d3e107c92b5a/thumb/",
+   "page": "https://www.flickr.com/photos/38000818@N06/5767827378",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/olivetree_0.jpg"
+  },
+  {
+   "title": "Corfu - Sept 2005 - Ancient Olive Trees",
+   "lic": "CC BY 2.0",
+   "artist": "Gareth1953 All Right Now",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2426/3795866926_834c167b24_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f1230075-5ab6-45c3-a027-87bf0874a714/thumb/",
+   "page": "https://www.flickr.com/photos/40837632@N05/3795866926",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/olivetree_1.jpg"
+  },
+  {
+   "title": "Olive Trees at B.R. Cohn Winery & Vineyard",
+   "lic": "CC BY 2.0",
+   "artist": "sarahstierch",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/1084/3172266522_b4c9cfb619_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/2c383aa2-dca4-473f-a61a-67b085caa3e5/thumb/",
+   "page": "https://www.flickr.com/photos/7633518@N08/3172266522",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch18/cand/olivetree_2.jpg"
+  }
+ ]
+}

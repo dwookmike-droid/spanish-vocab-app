@@ -369,5 +369,402 @@
    "provider": "flickr",
    "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/frame_2.jpg"
   }
+ ],
+ "portrait": [
+  {
+   "title": "A photograph is a portrait painted by the sun",
+   "lic": "CC BY 2.0",
+   "artist": "Dee'lite",
+   "w": 1024,
+   "h": 681,
+   "url": "https://live.staticflickr.com/3651/3355461701_364bd65e0b_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/6a5813e9-5b90-473c-a12e-40de5faa7b6e/thumb/",
+   "page": "https://www.flickr.com/photos/15750089@N06/3355461701",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_0.jpg"
+  },
+  {
+   "title": "Realistic Portrait Painting",
+   "lic": "CC BY 2.0",
+   "artist": "Tucia",
+   "w": 940,
+   "h": 695,
+   "url": "https://live.staticflickr.com/5190/5563845301_769fb881b2_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/970f1630-d8a4-42a0-b632-7b65e9290c86/thumb/",
+   "page": "https://www.flickr.com/photos/38861831@N07/5563845301",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_1.jpg"
+  },
+  {
+   "title": "girl on bed with books self portrait painting study",
+   "lic": "CC BY 2.0",
+   "artist": "{studiobeerhorst}-bbmarie",
+   "w": 1024,
+   "h": 876,
+   "url": "https://live.staticflickr.com/8392/8473544028_d5d4e7d829_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/92289ec2-07fe-4923-8690-6f37fb3e68ad/thumb/",
+   "page": "https://www.flickr.com/photos/74782490@N00/8473544028",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/portrait_2.jpg"
+  }
+ ],
+ "landscape": [
+  {
+   "title": "Macaw in the Mist Landscape Painting",
+   "lic": "CC BY 2.0",
+   "artist": "REDFISH1223",
+   "w": 797,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6017/5915759775_8f13831cbf_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/32dfabe0-59bd-46da-9f6c-192b2e53412f/thumb/",
+   "page": "https://www.flickr.com/photos/30565636@N05/5915759775",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_0.jpg"
+  },
+  {
+   "title": "Jungle King Fisher Landscape Painting",
+   "lic": "CC BY 2.0",
+   "artist": "REDFISH1223",
+   "w": 849,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/6222/6290908219_c5bd81e3fa_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/4c1d3c4e-dfb5-45ea-95e4-8f0c25a88f75/thumb/",
+   "page": "https://www.flickr.com/photos/30565636@N05/6290908219",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_1.jpg"
+  },
+  {
+   "title": "Landscape Painting II",
+   "lic": "CC BY 2.0",
+   "artist": "dailyinvention",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/42/87086174_9dc2a60d13_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/f30398e4-917d-42e8-a605-d6477a27e765/thumb/",
+   "page": "https://www.flickr.com/photos/96162367@N00/87086174",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/landscape_2.jpg"
+  }
+ ],
+ "guide": [
+  {
+   "title": "Pentagon Tour Guide Group Photo",
+   "lic": "Public Domain",
+   "artist": "18thSMMC",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7541/28146757472_2268c1ec6f_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/80e5e631-8c35-4c85-90d7-66a42f9c828b/thumb/",
+   "page": "https://www.flickr.com/photos/134325759@N02/28146757472",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_0.jpg"
+  },
+  {
+   "title": "Pentagon Tour Guide Group Photo",
+   "lic": "Public Domain",
+   "artist": "18thSMMC",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/8668/28250777595_1e3ab9263a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3498d183-6c52-4f97-9b08-54f6c20202e0/thumb/",
+   "page": "https://www.flickr.com/photos/134325759@N02/28250777595",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_1.jpg"
+  },
+  {
+   "title": "Pentagon Tour Guide Group Photo",
+   "lic": "Public Domain",
+   "artist": "18thSMMC",
+   "w": 1024,
+   "h": 683,
+   "url": "https://live.staticflickr.com/7379/28172960761_7f39e31791_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/edf23fdf-51d7-4fbb-a28f-205d9d93424a/thumb/",
+   "page": "https://www.flickr.com/photos/134325759@N02/28172960761",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guide_2.jpg"
+  }
+ ],
+ "audioguide": [
+  {
+   "title": "Misty Marie Blouse Keyboardist",
+   "lic": "CC BY 2.0",
+   "artist": "Incase.",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/7099/7177191274_d79d260d55_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/535cf609-d514-4cea-ad80-d9166d61df70/thumb/",
+   "page": "https://www.flickr.com/photos/62021300@N00/7177191274",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_0.jpg"
+  },
+  {
+   "title": "Black Country Living Museum - Underground Mine - Mine Entrance",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6202/6054250374_c52ec72de4_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/7ee3a191-b282-4f28-b477-553677496aec/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/6054250374",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_1.jpg"
+  },
+  {
+   "title": "Black Country Living Museum - Underground Mine",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/6206/6053697315_cbcfc9d0cd_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b038b827-3fd9-4133-b4c0-b072e88f8dd0/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/6053697315",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/audioguide_2.jpg"
+  }
+ ],
+ "guard": [
+  {
+   "title": "Museum Guard",
+   "lic": "CC BY-SA 2.0",
+   "artist": "Trinity",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/1/893380_99301a608e_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/a0a40f06-e813-4934-9e89-0d101cce0307/thumb/",
+   "page": "https://www.flickr.com/photos/34427465504@N01/893380",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guard_0.jpg"
+  },
+  {
+   "title": "visitors and Museum guard",
+   "lic": "CC BY-SA 2.0",
+   "artist": "glasseyes view",
+   "w": 1024,
+   "h": 586,
+   "url": "https://live.staticflickr.com/2907/14007456148_d476b9a46d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cd6d2efd-6adc-4c89-8319-9697c90069dd/thumb/",
+   "page": "https://www.flickr.com/photos/74708580@N00/14007456148",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guard_1.jpg"
+  },
+  {
+   "title": "The Museum Guard",
+   "lic": "CC BY 2.0",
+   "artist": "Miss Claeson",
+   "w": 735,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2129/2223696384_d3d3aac337_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/fb720994-3e90-41bd-b2e8-d9b1f40a7444/thumb/",
+   "page": "https://www.flickr.com/photos/9650697@N06/2223696384",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/guard_2.jpg"
+  }
+ ],
+ "shop": [
+  {
+   "title": "Day 29 - Museum Shop",
+   "lic": "CC0",
+   "artist": "akhenatenator",
+   "w": 500,
+   "h": 500,
+   "url": "https://live.staticflickr.com/8033/8036348033_c95ffcfdbd.jpg",
+   "thumb": "https://api.openverse.org/v1/images/b636d9e9-deac-415d-bbb7-6a5fce8c3ca4/thumb/",
+   "page": "https://www.flickr.com/photos/86012097@N08/8036348033",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/shop_0.jpg"
+  },
+  {
+   "title": "Natural History Museum shop",
+   "lic": "CC BY-SA 2.0",
+   "artist": "HowardLake",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2719/4183424294_d57f41fdae_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/93f082a7-ca9b-47da-870c-33a23f62fb1e/thumb/",
+   "page": "https://www.flickr.com/photos/53941041@N00/4183424294",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/shop_2.jpg"
+  }
+ ],
+ "floorplan": [
+  {
+   "title": "Grand Canyon National Park Visitor Center 4016",
+   "lic": "CC BY 2.0",
+   "artist": "Grand Canyon NPS",
+   "w": 1024,
+   "h": 717,
+   "url": "https://live.staticflickr.com/7140/6971295030_8f8a440020_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/e7825241-1edd-45a9-9376-5446d0716478/thumb/",
+   "page": "https://www.flickr.com/photos/50693818@N08/6971295030",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_0.jpg"
+  },
+  {
+   "title": "Grand Canyon National Park Visitor Center 3977",
+   "lic": "CC BY 2.0",
+   "artist": "Grand Canyon NPS",
+   "w": 1024,
+   "h": 717,
+   "url": "https://live.staticflickr.com/7197/6971294010_70b811a138_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/259f1aa3-7070-41c1-8d84-b4ed0bcaa4e7/thumb/",
+   "page": "https://www.flickr.com/photos/50693818@N08/6971294010",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_1.jpg"
+  },
+  {
+   "title": "Here island panorama",
+   "lic": "CC BY-SA 2.0",
+   "artist": "▓▒░ TORLEY ░▒▓",
+   "w": 1024,
+   "h": 512,
+   "url": "https://live.staticflickr.com/2635/3776122867_6facd72f4c_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/02be587e-a249-45c7-bbd2-c93eaa9c66c6/thumb/",
+   "page": "https://www.flickr.com/photos/70285332@N00/3776122867",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/floorplan_2.jpg"
+  }
+ ],
+ "poster": [
+  {
+   "title": "Pour l'Art, exhibition poster",
+   "lic": "CC BY 2.0",
+   "artist": "MCAD Library",
+   "w": 1024,
+   "h": 604,
+   "url": "https://live.staticflickr.com/7388/10174692374_f2b0c383c5_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/af2cce4c-9740-435f-9d78-f899ad0cf5d4/thumb/",
+   "page": "https://www.flickr.com/photos/69184488@N06/10174692374",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/poster_0.jpg"
+  },
+  {
+   "title": "Vienna Secession, First Exhibition, poster",
+   "lic": "CC BY 2.0",
+   "artist": "MCAD Library",
+   "w": 759,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/8277/10212404534_ed93fd021d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/cdeffd13-7c28-4024-a0a8-68d5f1a72d40/thumb/",
+   "page": "https://www.flickr.com/photos/69184488@N06/10212404534",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/poster_1.jpg"
+  },
+  {
+   "title": "Ein Dokument deutscher Kunst, Darmstadt, exhibition poster",
+   "lic": "CC BY 2.0",
+   "artist": "MCAD Library",
+   "w": 620,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/2892/10276453645_67cc46e919_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40eceb8f-0624-49ad-a411-f6383f2c912f/thumb/",
+   "page": "https://www.flickr.com/photos/69184488@N06/10276453645",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/poster_2.jpg"
+  }
+ ],
+ "hours": [
+  {
+   "title": "Cathedral Notre Dame, Chartres - opening hours sign",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/2510/3729769207_e53afecae3_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/20d3e0b1-8868-41bc-b1ef-30378d99ac54/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/3729769207",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/hours_0.jpg"
+  },
+  {
+   "title": "Gunmakers Arms M & B - 92 and 93 Bath Street, Birmingham - Opening Hours - sign",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/4044/4252159216_7fd2d4f66a_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/160f6717-716b-4ccb-8213-5eb8e8b8e912/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/4252159216",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/hours_1.jpg"
+  },
+  {
+   "title": "Great Western - pub on Sherbourne Road, Acocks Green - Opening Hours sign",
+   "lic": "CC BY 2.0",
+   "artist": "ell brown",
+   "w": 768,
+   "h": 1024,
+   "url": "https://live.staticflickr.com/4029/4320445352_b5a96a7f91_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/3704449b-1242-4489-81a3-4e442f7d09c8/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/4320445352",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/hours_2.jpg"
+  }
+ ],
+ "bench": [
+  {
+   "title": "Sir Richard Arkwright's Masson Mills Working Textile Museum - bench",
+   "lic": "CC BY-SA 2.0",
+   "artist": "ell brown",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/3908/15247694031_6853738aa8_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40aaa658-9bc9-4812-9628-a88fb67f27ad/thumb/",
+   "page": "https://www.flickr.com/photos/39415781@N06/15247694031",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/bench_0.jpg"
+  },
+  {
+   "title": "Museum Bench",
+   "lic": "CC BY 2.0",
+   "artist": "ottofocus13",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5180/5388710195_9e759b91ea_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/40b43542-5c0f-4761-a3df-0b1aa1f6add8/thumb/",
+   "page": "https://www.flickr.com/photos/56576694@N05/5388710195",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/bench_1.jpg"
+  },
+  {
+   "title": "Kenner Rivertown May 2010 Mardi Gras Museum Bench",
+   "lic": "CC BY 2.0",
+   "artist": "Infrogmation",
+   "w": 1024,
+   "h": 768,
+   "url": "https://live.staticflickr.com/5065/5597848827_e411f6504d_b.jpg",
+   "thumb": "https://api.openverse.org/v1/images/d676401e-42e7-4d81-9ef5-fb3e26e4e9a4/thumb/",
+   "page": "https://www.flickr.com/photos/29350288@N06/5597848827",
+   "src": "openverse",
+   "provider": "flickr",
+   "file": "/home/user/spanish-vocab-app/claude_design/ch20/cand/bench_2.jpg"
+  }
  ]
 }
